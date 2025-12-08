@@ -45,3 +45,4 @@
 - pkg:swift/github.com/objectbox/objectbox-swift@v4.4.1
 - pkg:swift/github.com/objectbox/objectbox-swift@v5.0.0
 - pkg:swift/github.com/objectbox/objectbox-swift@v5.1.0
+- pkg:swift/github.com/objectbox/objectbox-swift@v5.1.1
