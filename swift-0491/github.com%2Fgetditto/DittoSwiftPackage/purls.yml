@@ -218,6 +218,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-docc.6
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-docc.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-docc.8
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-gha-sdk-publish-test.19
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-gha-sdk-publish-test.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-gha-sdk-publish.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-gha-sdk-publish.2

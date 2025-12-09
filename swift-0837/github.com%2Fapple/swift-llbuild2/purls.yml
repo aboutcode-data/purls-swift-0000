@@ -91,7 +91,9 @@
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.16
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.17
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.18
+- pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.19
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.2
+- pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.20
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.3
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.4
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta1.5
