@@ -40,6 +40,8 @@
 - pkg:swift/github.com/tree-sitter/tree-sitter@0.17.2
 - pkg:swift/github.com/tree-sitter/tree-sitter@0.17.3
 - pkg:swift/github.com/tree-sitter/tree-sitter@0.18.0
+- pkg:swift/github.com/tree-sitter/tree-sitter@gzip
+- pkg:swift/github.com/tree-sitter/tree-sitter@target/tree-sitter-linux-arm.gz
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.18.1
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.18.2
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.18.3
@@ -103,3 +105,5 @@
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.25.9
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.0-pre
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.0-pre%5E%7B%7D
+- pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.1
+- pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.1%5E%7B%7D

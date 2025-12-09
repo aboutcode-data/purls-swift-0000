@@ -415,7 +415,11 @@
 - pkg:swift/github.com/xmtp/xmtp-ios@4.6.7%5E%7B%7D
 - pkg:swift/github.com/xmtp/xmtp-ios@4.6.7-dylib
 - pkg:swift/github.com/xmtp/xmtp-ios@4.6.7-dylib%5E%7B%7D
+- pkg:swift/github.com/xmtp/xmtp-ios@4.6.8
+- pkg:swift/github.com/xmtp/xmtp-ios@4.6.8%5E%7B%7D
 - pkg:swift/github.com/xmtp/xmtp-ios@4.6.8-dev.4ecb2d3
+- pkg:swift/github.com/xmtp/xmtp-ios@4.6.8-dylib
+- pkg:swift/github.com/xmtp/xmtp-ios@4.6.8-dylib%5E%7B%7D
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.264f4d4
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.45db3c0
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.45db3c0%5E%7B%7D
