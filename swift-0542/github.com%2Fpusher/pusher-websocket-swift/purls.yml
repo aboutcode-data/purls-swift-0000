@@ -64,8 +64,6 @@
 - pkg:swift/github.com/pusher/pusher-websocket-swift@10.1.7%5E%7B%7D
 - pkg:swift/github.com/pusher/pusher-websocket-swift@10.1.8
 - pkg:swift/github.com/pusher/pusher-websocket-swift@10.1.8%5E%7B%7D
-- pkg:swift/github.com/pusher/pusher-websocket-swift@10.1.9
-- pkg:swift/github.com/pusher/pusher-websocket-swift@10.1.9%5E%7B%7D
 - pkg:swift/github.com/pusher/pusher-websocket-swift@2.0.0
 - pkg:swift/github.com/pusher/pusher-websocket-swift@2.0.0%5E%7B%7D
 - pkg:swift/github.com/pusher/pusher-websocket-swift@2.0.1
