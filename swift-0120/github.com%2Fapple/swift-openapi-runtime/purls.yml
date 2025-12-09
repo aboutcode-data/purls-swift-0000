@@ -39,3 +39,4 @@
 - pkg:swift/github.com/apple/swift-openapi-runtime@1.8.1
 - pkg:swift/github.com/apple/swift-openapi-runtime@1.8.2
 - pkg:swift/github.com/apple/swift-openapi-runtime@1.8.3
+- pkg:swift/github.com/apple/swift-openapi-runtime@1.9.0

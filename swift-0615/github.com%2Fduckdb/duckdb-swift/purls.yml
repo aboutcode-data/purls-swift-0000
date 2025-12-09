@@ -1244,5 +1244,7 @@
 - pkg:swift/github.com/duckdb/duckdb-swift@v1.4.0-dev646%5E%7B%7D
 - pkg:swift/github.com/duckdb/duckdb-swift@v1.5.0-dev2471
 - pkg:swift/github.com/duckdb/duckdb-swift@v1.5.0-dev2471%5E%7B%7D
+- pkg:swift/github.com/duckdb/duckdb-swift@v1.5.0-dev4120
+- pkg:swift/github.com/duckdb/duckdb-swift@v1.5.0-dev4120%5E%7B%7D
 - pkg:swift/github.com/duckdb/duckdb-swift@v1.5.0-dev722
 - pkg:swift/github.com/duckdb/duckdb-swift@v1.5.0-dev722%5E%7B%7D

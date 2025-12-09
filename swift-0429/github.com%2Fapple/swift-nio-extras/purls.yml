@@ -40,6 +40,7 @@
 - pkg:swift/github.com/apple/swift-nio-extras@1.30.0
 - pkg:swift/github.com/apple/swift-nio-extras@1.31.0
 - pkg:swift/github.com/apple/swift-nio-extras@1.31.1
+- pkg:swift/github.com/apple/swift-nio-extras@1.31.2
 - pkg:swift/github.com/apple/swift-nio-extras@1.4.0
 - pkg:swift/github.com/apple/swift-nio-extras@1.4.1
 - pkg:swift/github.com/apple/swift-nio-extras@1.5.0
