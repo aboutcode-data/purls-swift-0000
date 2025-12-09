@@ -1120,6 +1120,8 @@
 - pkg:swift/github.com/swiftlang/swift-driver@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-05-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-driver@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-06-a
 - pkg:swift/github.com/swiftlang/swift-driver@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-06-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-driver@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-07-a
+- pkg:swift/github.com/swiftlang/swift-driver@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-07-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-driver@swift-DEVELOPMENT-SNAPSHOT-2020-10-24-a
 - pkg:swift/github.com/swiftlang/swift-driver@swift-DEVELOPMENT-SNAPSHOT-2020-10-27-a
 - pkg:swift/github.com/swiftlang/swift-driver@swift-DEVELOPMENT-SNAPSHOT-2020-10-27-a%5E%7B%7D
