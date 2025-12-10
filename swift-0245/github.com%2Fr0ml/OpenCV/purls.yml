@@ -1,6 +1,8 @@
 - pkg:swift/github.com/r0ml/OpenCV@4.10.0
 - pkg:swift/github.com/r0ml/OpenCV@4.10.1
 - pkg:swift/github.com/r0ml/OpenCV@4.10.2
+- pkg:swift/github.com/r0ml/OpenCV@4.10.3
+- pkg:swift/github.com/r0ml/OpenCV@4.12.0
 - pkg:swift/github.com/r0ml/OpenCV@4.8.1
 - pkg:swift/github.com/r0ml/OpenCV@4.8.2
 - pkg:swift/github.com/r0ml/OpenCV@4.9.0

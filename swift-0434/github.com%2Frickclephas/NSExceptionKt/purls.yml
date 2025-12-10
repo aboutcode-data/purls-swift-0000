@@ -112,5 +112,6 @@
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.5-kotlin-2.3.0-RC
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.5-kotlin-2.3.0-RC2
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.5-kotlin-2.3.0-RC2%5E%7B%7D
+- pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.5-kotlin-2.3.0-RC3
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.5-spm-bugsnag
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.5-spm-crashlytics
