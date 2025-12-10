@@ -38,6 +38,7 @@
 - pkg:swift/github.com/povio/PovioKit@5.2.0
 - pkg:swift/github.com/povio/PovioKit@6.0.0
 - pkg:swift/github.com/povio/PovioKit@6.0.1
+- pkg:swift/github.com/povio/PovioKit@6.1.0
 - pkg:swift/github.com/povio/PovioKit@backup/chore/asb-docs-13-56-17
 - pkg:swift/github.com/povio/PovioKit@backup/chore/asb-docs-13-56-17%5E%7B%7D
 - pkg:swift/github.com/povio/PovioKit@backup/feature/attributed-string-builder-17-27-55
