@@ -114,5 +114,6 @@
 - pkg:swift/github.com/clerk/clerk-ios@0.71.0
 - pkg:swift/github.com/clerk/clerk-ios@0.71.1
 - pkg:swift/github.com/clerk/clerk-ios@0.71.2
+- pkg:swift/github.com/clerk/clerk-ios@0.71.3
 - pkg:swift/github.com/clerk/clerk-ios@0.8.0
 - pkg:swift/github.com/clerk/clerk-ios@0.9.0
