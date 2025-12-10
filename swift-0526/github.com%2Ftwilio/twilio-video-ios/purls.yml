@@ -83,6 +83,7 @@
 - pkg:swift/github.com/twilio/twilio-video-ios@5.10.0
 - pkg:swift/github.com/twilio/twilio-video-ios@5.10.1
 - pkg:swift/github.com/twilio/twilio-video-ios@5.10.2
+- pkg:swift/github.com/twilio/twilio-video-ios@5.11.0
 - pkg:swift/github.com/twilio/twilio-video-ios@5.2.0
 - pkg:swift/github.com/twilio/twilio-video-ios@5.2.1
 - pkg:swift/github.com/twilio/twilio-video-ios@5.3.0

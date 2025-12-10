@@ -30,3 +30,4 @@
 - pkg:swift/github.com/tahirmt/nimble-snapshottesting@v4.3.2
 - pkg:swift/github.com/tahirmt/nimble-snapshottesting@v4.4.0
 - pkg:swift/github.com/tahirmt/nimble-snapshottesting@v5.0.0
+- pkg:swift/github.com/tahirmt/nimble-snapshottesting@v5.0.1
