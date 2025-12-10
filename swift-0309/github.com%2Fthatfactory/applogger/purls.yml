@@ -1,4 +1,1 @@
-- pkg:swift/github.com/thatfactory/applogger@v1.0.0
-- pkg:swift/github.com/thatfactory/applogger@v1.1.0
-- pkg:swift/github.com/thatfactory/applogger@v2.0.0
-- pkg:swift/github.com/thatfactory/applogger@v2.0.1
+- pkg:swift/github.com/thatfactory/applogger@0.1.0
