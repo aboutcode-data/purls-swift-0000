@@ -225,6 +225,7 @@
 - pkg:swift/github.com/tuist/tuist@4.111.0
 - pkg:swift/github.com/tuist/tuist@4.111.1
 - pkg:swift/github.com/tuist/tuist@4.112.0
+- pkg:swift/github.com/tuist/tuist@4.113.0
 - pkg:swift/github.com/tuist/tuist@4.12.0
 - pkg:swift/github.com/tuist/tuist@4.12.1
 - pkg:swift/github.com/tuist/tuist@4.13.0
