@@ -93,6 +93,7 @@
 - pkg:swift/github.com/thegrizzlylabs/geniusscan-sdk-spm@5.16.2
 - pkg:swift/github.com/thegrizzlylabs/geniusscan-sdk-spm@5.16.3
 - pkg:swift/github.com/thegrizzlylabs/geniusscan-sdk-spm@5.16.4
+- pkg:swift/github.com/thegrizzlylabs/geniusscan-sdk-spm@5.17.0
 - pkg:swift/github.com/thegrizzlylabs/geniusscan-sdk-spm@5.2.0
 - pkg:swift/github.com/thegrizzlylabs/geniusscan-sdk-spm@5.3.0
 - pkg:swift/github.com/thegrizzlylabs/geniusscan-sdk-spm@5.3.1
