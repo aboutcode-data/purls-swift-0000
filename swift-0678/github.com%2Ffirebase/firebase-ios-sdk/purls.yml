@@ -82,6 +82,7 @@
 - pkg:swift/github.com/firebase/firebase-ios-sdk@12.4.0
 - pkg:swift/github.com/firebase/firebase-ios-sdk@12.5.0
 - pkg:swift/github.com/firebase/firebase-ios-sdk@12.6.0
+- pkg:swift/github.com/firebase/firebase-ios-sdk@12.7.0
 - pkg:swift/github.com/firebase/firebase-ios-sdk@4.0.0
 - pkg:swift/github.com/firebase/firebase-ios-sdk@4.10.0
 - pkg:swift/github.com/firebase/firebase-ios-sdk@4.10.0%5E%7B%7D
@@ -476,6 +477,8 @@
 - pkg:swift/github.com/firebase/firebase-ios-sdk@CocoaPods-12.7.0-beta
 - pkg:swift/github.com/firebase/firebase-ios-sdk@CocoaPods-12.7.0.nightly
 - pkg:swift/github.com/firebase/firebase-ios-sdk@CocoaPods-12.7.0.nightly%5E%7B%7D
+- pkg:swift/github.com/firebase/firebase-ios-sdk@CocoaPods-12.8.0
+- pkg:swift/github.com/firebase/firebase-ios-sdk@CocoaPods-12.8.0-beta
 - pkg:swift/github.com/firebase/firebase-ios-sdk@CocoaPods-6.27.0
 - pkg:swift/github.com/firebase/firebase-ios-sdk@CocoaPods-6.27.1
 - pkg:swift/github.com/firebase/firebase-ios-sdk@CocoaPods-6.28.0
