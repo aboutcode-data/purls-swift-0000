@@ -20,4 +20,5 @@
 - pkg:swift/github.com/relatedcode/ProgressHUD@14.1.3
 - pkg:swift/github.com/relatedcode/ProgressHUD@14.1.4
 - pkg:swift/github.com/relatedcode/ProgressHUD@15.0.0
+- pkg:swift/github.com/relatedcode/ProgressHUD@15.0.1
 - pkg:swift/github.com/relatedcode/ProgressHUD@v2.70

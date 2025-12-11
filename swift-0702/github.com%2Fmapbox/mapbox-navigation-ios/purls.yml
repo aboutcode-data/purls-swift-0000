@@ -2,8 +2,6 @@
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@build-fixes
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@build-fixes%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@pre-registry-20200729
-- pkg:swift/github.com/mapbox/mapbox-navigation-ios@test_v2.8.88
-- pkg:swift/github.com/mapbox/mapbox-navigation-ios@test_v2.8.88%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v0.0.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v0.0.2
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v0.0.3

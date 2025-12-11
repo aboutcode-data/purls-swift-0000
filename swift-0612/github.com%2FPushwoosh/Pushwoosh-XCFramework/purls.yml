@@ -80,6 +80,7 @@
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@6.9.5
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.0.0
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.0.1
+- pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.0.10
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.0.2
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.0.3
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.0.4
