@@ -1,7 +1,1 @@
-- pkg:swift/github.com/backslash-f/simage@v1.0.0
-- pkg:swift/github.com/backslash-f/simage@v1.1.0
-- pkg:swift/github.com/backslash-f/simage@v1.2.0
-- pkg:swift/github.com/backslash-f/simage@v1.3.0
-- pkg:swift/github.com/backslash-f/simage@v1.4.0
-- pkg:swift/github.com/backslash-f/simage@v2.0.0
-- pkg:swift/github.com/backslash-f/simage@v2.0.1
+- pkg:swift/github.com/backslash-f/simage@7e3d64a0e7a4c3ff6651b91bfb785ec5e68d8c10
