@@ -25,6 +25,7 @@
 - pkg:swift/github.com/orchetect/MIDIKit@0.10.4
 - pkg:swift/github.com/orchetect/MIDIKit@0.10.5
 - pkg:swift/github.com/orchetect/MIDIKit@0.10.6
+- pkg:swift/github.com/orchetect/MIDIKit@0.10.7
 - pkg:swift/github.com/orchetect/MIDIKit@0.2.0
 - pkg:swift/github.com/orchetect/MIDIKit@0.2.1
 - pkg:swift/github.com/orchetect/MIDIKit@0.2.2

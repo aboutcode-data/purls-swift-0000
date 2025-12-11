@@ -22,6 +22,7 @@
 - pkg:swift/github.com/myTrackerSDK/mytracker-ios-spm@3.1.9
 - pkg:swift/github.com/myTrackerSDK/mytracker-ios-spm@3.2.0
 - pkg:swift/github.com/myTrackerSDK/mytracker-ios-spm@3.2.1
+- pkg:swift/github.com/myTrackerSDK/mytracker-ios-spm@3.2.2
 - pkg:swift/github.com/myTrackerSDK/mytracker-ios-spm@3.3.0
 - pkg:swift/github.com/myTrackerSDK/mytracker-ios-spm@3.4.0
 - pkg:swift/github.com/myTrackerSDK/mytracker-ios-spm@3.4.1
