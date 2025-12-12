@@ -123,6 +123,7 @@
 - pkg:swift/github.com/soto-project/soto-core@7.0.0-beta.1
 - pkg:swift/github.com/soto-project/soto-core@7.0.0-rc.1
 - pkg:swift/github.com/soto-project/soto-core@7.1.0
+- pkg:swift/github.com/soto-project/soto-core@7.10.0
 - pkg:swift/github.com/soto-project/soto-core@7.2.0
 - pkg:swift/github.com/soto-project/soto-core@7.3.0
 - pkg:swift/github.com/soto-project/soto-core@7.3.1

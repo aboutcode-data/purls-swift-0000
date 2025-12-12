@@ -24,6 +24,7 @@
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@1.0.3
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@1.1.0
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@10.0.0
+- pkg:swift/github.com/launchdarkly/ios-client-sdk@10.1.0
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@2.0
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@2.0.1
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@2.0.2
