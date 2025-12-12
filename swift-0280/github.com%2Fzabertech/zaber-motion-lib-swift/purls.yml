@@ -86,3 +86,7 @@
 - pkg:swift/github.com/zabertech/zaber-motion-lib-swift@8.0.0%5E%7B%7D
 - pkg:swift/github.com/zabertech/zaber-motion-lib-swift@8.0.0-rc
 - pkg:swift/github.com/zabertech/zaber-motion-lib-swift@8.0.0-rc%5E%7B%7D
+- pkg:swift/github.com/zabertech/zaber-motion-lib-swift@8.0.1
+- pkg:swift/github.com/zabertech/zaber-motion-lib-swift@8.0.1%5E%7B%7D
+- pkg:swift/github.com/zabertech/zaber-motion-lib-swift@8.0.1-rc
+- pkg:swift/github.com/zabertech/zaber-motion-lib-swift@8.0.1-rc%5E%7B%7D
