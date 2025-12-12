@@ -89,3 +89,4 @@
 - pkg:swift/github.com/awslabs/aws-crt-swift@v0.54.1
 - pkg:swift/github.com/awslabs/aws-crt-swift@v0.54.2
 - pkg:swift/github.com/awslabs/aws-crt-swift@v0.54.3
+- pkg:swift/github.com/awslabs/aws-crt-swift@v0.55.0

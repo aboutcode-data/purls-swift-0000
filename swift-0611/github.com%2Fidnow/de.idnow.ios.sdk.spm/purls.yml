@@ -48,6 +48,7 @@
 - pkg:swift/github.com/idnow/de.idnow.ios.sdk.spm@v5.14.0%5E%7B%7D
 - pkg:swift/github.com/idnow/de.idnow.ios.sdk.spm@v5.15.0
 - pkg:swift/github.com/idnow/de.idnow.ios.sdk.spm@v5.16.0
+- pkg:swift/github.com/idnow/de.idnow.ios.sdk.spm@v5.17.0
 - pkg:swift/github.com/idnow/de.idnow.ios.sdk.spm@v5.2.0
 - pkg:swift/github.com/idnow/de.idnow.ios.sdk.spm@v5.2.0%5E%7B%7D
 - pkg:swift/github.com/idnow/de.idnow.ios.sdk.spm@v5.2.1
