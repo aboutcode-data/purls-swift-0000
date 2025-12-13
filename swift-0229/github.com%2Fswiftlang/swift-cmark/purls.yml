@@ -2782,6 +2782,7 @@
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.2-RELEASE
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.2.1-RELEASE
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.2.2-RELEASE
+- pkg:swift/github.com/swiftlang/swift-cmark@swift-6.2.3-RELEASE
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-01-a
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-01-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-02-a

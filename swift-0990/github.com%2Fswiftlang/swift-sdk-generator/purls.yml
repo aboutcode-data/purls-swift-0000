@@ -5,3 +5,4 @@
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.2-RELEASE
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.2.1-RELEASE
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.2.2-RELEASE
+- pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.2.3-RELEASE
