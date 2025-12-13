@@ -18,3 +18,5 @@
 - pkg:swift/github.com/gematik/OpenSSL-Swift@4.4.1
 - pkg:swift/github.com/gematik/OpenSSL-Swift@4.4.1%5E%7B%7D
 - pkg:swift/github.com/gematik/OpenSSL-Swift@4.5.0
+- pkg:swift/github.com/gematik/OpenSSL-Swift@4.6.0
+- pkg:swift/github.com/gematik/OpenSSL-Swift@4.6.0%5E%7B%7D
