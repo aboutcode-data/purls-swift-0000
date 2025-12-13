@@ -326,3 +326,4 @@
 - pkg:swift/github.com/groue/GRDB.swift@v7.7.0
 - pkg:swift/github.com/groue/GRDB.swift@v7.7.1
 - pkg:swift/github.com/groue/GRDB.swift@v7.8.0
+- pkg:swift/github.com/groue/GRDB.swift@v7.9.0
