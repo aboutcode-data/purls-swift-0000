@@ -50,6 +50,7 @@
 - pkg:swift/github.com/reclaimprotocol/reclaim-inapp-ios-sdk@0.24.0%5E%7B%7D
 - pkg:swift/github.com/reclaimprotocol/reclaim-inapp-ios-sdk@0.25.0
 - pkg:swift/github.com/reclaimprotocol/reclaim-inapp-ios-sdk@0.25.0%5E%7B%7D
+- pkg:swift/github.com/reclaimprotocol/reclaim-inapp-ios-sdk@0.27.0
 - pkg:swift/github.com/reclaimprotocol/reclaim-inapp-ios-sdk@0.3.0
 - pkg:swift/github.com/reclaimprotocol/reclaim-inapp-ios-sdk@0.3.0%5E%7B%7D
 - pkg:swift/github.com/reclaimprotocol/reclaim-inapp-ios-sdk@0.4.0

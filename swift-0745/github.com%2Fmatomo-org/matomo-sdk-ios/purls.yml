@@ -57,3 +57,4 @@
 - pkg:swift/github.com/matomo-org/matomo-sdk-ios@v7.5.2
 - pkg:swift/github.com/matomo-org/matomo-sdk-ios@v7.6.0
 - pkg:swift/github.com/matomo-org/matomo-sdk-ios@v7.7.0
+- pkg:swift/github.com/matomo-org/matomo-sdk-ios@v7.8.0
