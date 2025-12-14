@@ -122,3 +122,5 @@
 - pkg:swift/github.com/apester-dev/ios-sdk@v3.3.7
 - pkg:swift/github.com/apester-dev/ios-sdk@v3.3.8
 - pkg:swift/github.com/apester-dev/ios-sdk@v3.3.9
+- pkg:swift/github.com/apester-dev/ios-sdk@v3.4.0-rc.1
+- pkg:swift/github.com/apester-dev/ios-sdk@v3.4.0-rc.2

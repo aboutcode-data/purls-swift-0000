@@ -96,6 +96,10 @@
 - pkg:swift/github.com/cbaker6/CareKit@3.1.4
 - pkg:swift/github.com/cbaker6/CareKit@4.0.0
 - pkg:swift/github.com/cbaker6/CareKit@4.0.1
+- pkg:swift/github.com/cbaker6/CareKit@4.0.2
+- pkg:swift/github.com/cbaker6/CareKit@4.0.3
+- pkg:swift/github.com/cbaker6/CareKit@4.0.4
+- pkg:swift/github.com/cbaker6/CareKit@4.0.5
 - pkg:swift/github.com/cbaker6/CareKit@private_drop_0_2
 - pkg:swift/github.com/cbaker6/CareKit@private_drop_0_3
 - pkg:swift/github.com/cbaker6/CareKit@private_drop_0_3%5E%7B%7D
