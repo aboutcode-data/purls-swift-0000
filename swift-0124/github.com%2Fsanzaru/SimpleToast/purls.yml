@@ -12,6 +12,8 @@
 - pkg:swift/github.com/sanzaru/SimpleToast@0.10.0
 - pkg:swift/github.com/sanzaru/SimpleToast@0.10.1
 - pkg:swift/github.com/sanzaru/SimpleToast@0.11.0
+- pkg:swift/github.com/sanzaru/SimpleToast@0.12.0
+- pkg:swift/github.com/sanzaru/SimpleToast@0.12.0%5E%7B%7D
 - pkg:swift/github.com/sanzaru/SimpleToast@0.2.0
 - pkg:swift/github.com/sanzaru/SimpleToast@0.2.1
 - pkg:swift/github.com/sanzaru/SimpleToast@0.2.2

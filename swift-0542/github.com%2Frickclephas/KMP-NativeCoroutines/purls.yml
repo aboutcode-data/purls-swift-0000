@@ -415,6 +415,7 @@
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-46-spm-no-deps
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-46-spm-rxswift
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-47
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-47-idea-2025.3
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-47-idea-2025.3-EAP-20558.43
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-47-kotlin-2.2.21-RC
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-47-kotlin-2.2.21-RC%5E%7B%7D
