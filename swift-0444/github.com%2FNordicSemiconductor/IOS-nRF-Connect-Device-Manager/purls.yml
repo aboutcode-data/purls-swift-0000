@@ -28,6 +28,8 @@
 - pkg:swift/github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager@1.11.5%5E%7B%7D
 - pkg:swift/github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager@1.12
 - pkg:swift/github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager@1.12%5E%7B%7D
+- pkg:swift/github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager@1.13
+- pkg:swift/github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager@1.13%5E%7B%7D
 - pkg:swift/github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager@1.2.0
 - pkg:swift/github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager@1.2.0%5E%7B%7D
 - pkg:swift/github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager@1.2.1
