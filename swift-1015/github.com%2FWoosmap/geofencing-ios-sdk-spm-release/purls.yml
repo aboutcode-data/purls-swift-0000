@@ -101,4 +101,5 @@
 - pkg:swift/github.com/Woosmap/geofencing-ios-sdk-spm-release@4.4.0
 - pkg:swift/github.com/Woosmap/geofencing-ios-sdk-spm-release@4.5.0
 - pkg:swift/github.com/Woosmap/geofencing-ios-sdk-spm-release@4.5.1
+- pkg:swift/github.com/Woosmap/geofencing-ios-sdk-spm-release@4.5.2
 - pkg:swift/github.com/Woosmap/geofencing-ios-sdk-spm-release@4.5.2-beta1
