@@ -11,3 +11,4 @@
 - pkg:swift/github.com/grpc/grpc-swift-protobuf@2.0.0
 - pkg:swift/github.com/grpc/grpc-swift-protobuf@2.1.0
 - pkg:swift/github.com/grpc/grpc-swift-protobuf@2.1.1
+- pkg:swift/github.com/grpc/grpc-swift-protobuf@2.1.2

@@ -163,4 +163,5 @@
 - pkg:swift/github.com/Electric-Coin-Company/zcash-swift-wallet-sdk@2.3.7
 - pkg:swift/github.com/Electric-Coin-Company/zcash-swift-wallet-sdk@2.4.0
 - pkg:swift/github.com/Electric-Coin-Company/zcash-swift-wallet-sdk@2.4.1
+- pkg:swift/github.com/Electric-Coin-Company/zcash-swift-wallet-sdk@2.4.2
 - pkg:swift/github.com/Electric-Coin-Company/zcash-swift-wallet-sdk@rustwelding-0.0.6
