@@ -14,3 +14,4 @@
 - pkg:swift/github.com/ios-3ds-sdk/SPM@2.5.22
 - pkg:swift/github.com/ios-3ds-sdk/SPM@2.5.30
 - pkg:swift/github.com/ios-3ds-sdk/SPM@2.5.32
+- pkg:swift/github.com/ios-3ds-sdk/SPM@2.6.00

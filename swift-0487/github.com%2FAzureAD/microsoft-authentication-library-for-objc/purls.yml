@@ -76,6 +76,8 @@
 - pkg:swift/github.com/AzureAD/microsoft-authentication-library-for-objc@1.2.20
 - pkg:swift/github.com/AzureAD/microsoft-authentication-library-for-objc@1.2.21
 - pkg:swift/github.com/AzureAD/microsoft-authentication-library-for-objc@1.2.22
+- pkg:swift/github.com/AzureAD/microsoft-authentication-library-for-objc@1.2.23
+- pkg:swift/github.com/AzureAD/microsoft-authentication-library-for-objc@1.2.24
 - pkg:swift/github.com/AzureAD/microsoft-authentication-library-for-objc@1.2.3
 - pkg:swift/github.com/AzureAD/microsoft-authentication-library-for-objc@1.2.4
 - pkg:swift/github.com/AzureAD/microsoft-authentication-library-for-objc@1.2.5
