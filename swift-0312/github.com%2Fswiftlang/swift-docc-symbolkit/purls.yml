@@ -899,6 +899,8 @@
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-10-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-13-a
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-13-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-14-a
+- pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-14-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-DEVELOPMENT-SNAPSHOT-2021-11-02-a
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-DEVELOPMENT-SNAPSHOT-2021-11-02-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-DEVELOPMENT-SNAPSHOT-2021-11-10-a
@@ -1931,3 +1933,5 @@
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-DEVELOPMENT-SNAPSHOT-2025-12-01-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-DEVELOPMENT-SNAPSHOT-2025-12-11-a
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-DEVELOPMENT-SNAPSHOT-2025-12-11-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-DEVELOPMENT-SNAPSHOT-2025-12-15-a
+- pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-DEVELOPMENT-SNAPSHOT-2025-12-15-a%5E%7B%7D
