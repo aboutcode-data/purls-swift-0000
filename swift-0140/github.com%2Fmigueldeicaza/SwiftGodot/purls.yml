@@ -52,6 +52,7 @@
 - pkg:swift/github.com/migueldeicaza/SwiftGodot@v0.6
 - pkg:swift/github.com/migueldeicaza/SwiftGodot@v0.7
 - pkg:swift/github.com/migueldeicaza/SwiftGodot@v0.70.0
+- pkg:swift/github.com/migueldeicaza/SwiftGodot@v0.71.0
 - pkg:swift/github.com/migueldeicaza/SwiftGodot@v0.8
 - pkg:swift/github.com/migueldeicaza/SwiftGodot@v0.9
 - pkg:swift/github.com/migueldeicaza/SwiftGodot@v001
