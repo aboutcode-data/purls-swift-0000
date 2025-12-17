@@ -1,2 +1,3 @@
 - pkg:swift/github.com/ptoffy/swift-bcrypt@0.1
+- pkg:swift/github.com/ptoffy/swift-bcrypt@0.2
 - pkg:swift/github.com/ptoffy/swift-bcrypt@v0.1
