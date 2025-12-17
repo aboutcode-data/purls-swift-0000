@@ -516,3 +516,5 @@
 - pkg:swift/github.com/splitio/ios-client@3.5.0-rc2%5E%7B%7D
 - pkg:swift/github.com/splitio/ios-client@3.5.0-rc3
 - pkg:swift/github.com/splitio/ios-client@3.5.0-rc3%5E%7B%7D
+- pkg:swift/github.com/splitio/ios-client@3.5.1-rc1
+- pkg:swift/github.com/splitio/ios-client@3.5.1-rc1%5E%7B%7D
