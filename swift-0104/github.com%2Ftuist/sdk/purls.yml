@@ -6,3 +6,5 @@
 - pkg:swift/github.com/tuist/sdk@0.1.2%5E%7B%7D
 - pkg:swift/github.com/tuist/sdk@0.1.3
 - pkg:swift/github.com/tuist/sdk@0.1.3%5E%7B%7D
+- pkg:swift/github.com/tuist/sdk@0.2.0
+- pkg:swift/github.com/tuist/sdk@0.2.0%5E%7B%7D

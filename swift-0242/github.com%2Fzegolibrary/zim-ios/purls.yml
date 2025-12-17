@@ -19,6 +19,7 @@
 - pkg:swift/github.com/zegolibrary/zim-ios@2.22.0
 - pkg:swift/github.com/zegolibrary/zim-ios@2.23.0
 - pkg:swift/github.com/zegolibrary/zim-ios@2.24.0
+- pkg:swift/github.com/zegolibrary/zim-ios@2.25.0
 - pkg:swift/github.com/zegolibrary/zim-ios@2.3.3
 - pkg:swift/github.com/zegolibrary/zim-ios@2.4.2
 - pkg:swift/github.com/zegolibrary/zim-ios@2.5.0

@@ -439,6 +439,8 @@
 - pkg:swift/github.com/Vonage/vonage-client-sdk-ios@v2.2.0-alpha.0%5E%7B%7D
 - pkg:swift/github.com/Vonage/vonage-client-sdk-ios@v2.2.0-alpha.1
 - pkg:swift/github.com/Vonage/vonage-client-sdk-ios@v2.2.0-alpha.1%5E%7B%7D
+- pkg:swift/github.com/Vonage/vonage-client-sdk-ios@v2.2.0-alpha.2
+- pkg:swift/github.com/Vonage/vonage-client-sdk-ios@v2.2.0-alpha.2%5E%7B%7D
 - pkg:swift/github.com/Vonage/vonage-client-sdk-ios@v2.2.0-snapshot.152.0
 - pkg:swift/github.com/Vonage/vonage-client-sdk-ios@v2.2.0-snapshot.152.0%5E%7B%7D
 - pkg:swift/github.com/Vonage/vonage-client-sdk-ios@v2.2.0-snapshot.153.0
