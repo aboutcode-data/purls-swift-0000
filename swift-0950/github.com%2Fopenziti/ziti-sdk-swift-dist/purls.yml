@@ -119,6 +119,10 @@
 - pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.32%5E%7B%7D
 - pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.33
 - pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.33%5E%7B%7D
+- pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.34
+- pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.34%5E%7B%7D
+- pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.35
+- pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.35%5E%7B%7D
 - pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.4
 - pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.4%5E%7B%7D
 - pkg:swift/github.com/openziti/ziti-sdk-swift-dist@0.41.5

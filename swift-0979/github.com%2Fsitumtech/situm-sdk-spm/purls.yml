@@ -16,6 +16,7 @@
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.34.0
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.34.1
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.34.10
+- pkg:swift/github.com/situmtech/situm-sdk-spm@3.34.12
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.34.2
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.34.3
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.34.4
