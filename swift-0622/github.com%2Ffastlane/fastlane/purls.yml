@@ -425,6 +425,7 @@
 - pkg:swift/github.com/fastlane/fastlane@2.229.0
 - pkg:swift/github.com/fastlane/fastlane@2.229.1
 - pkg:swift/github.com/fastlane/fastlane@2.23.0
+- pkg:swift/github.com/fastlane/fastlane@2.230.0
 - pkg:swift/github.com/fastlane/fastlane@2.24.0
 - pkg:swift/github.com/fastlane/fastlane@2.25.0
 - pkg:swift/github.com/fastlane/fastlane@2.26.0
@@ -1199,6 +1200,8 @@
 - pkg:swift/github.com/fastlane/fastlane@fastlane/2.229.1%5E%7B%7D
 - pkg:swift/github.com/fastlane/fastlane@fastlane/2.23.0
 - pkg:swift/github.com/fastlane/fastlane@fastlane/2.23.0%5E%7B%7D
+- pkg:swift/github.com/fastlane/fastlane@fastlane/2.230.0
+- pkg:swift/github.com/fastlane/fastlane@fastlane/2.230.0%5E%7B%7D
 - pkg:swift/github.com/fastlane/fastlane@fastlane/2.24.0
 - pkg:swift/github.com/fastlane/fastlane@fastlane/2.24.0%5E%7B%7D
 - pkg:swift/github.com/fastlane/fastlane@fastlane/2.25.0

@@ -190,6 +190,8 @@
 - pkg:swift/github.com/dankinsoid/SwiftOpenAPI@2.24.1%5E%7B%7D
 - pkg:swift/github.com/dankinsoid/SwiftOpenAPI@2.25.0
 - pkg:swift/github.com/dankinsoid/SwiftOpenAPI@2.25.0%5E%7B%7D
+- pkg:swift/github.com/dankinsoid/SwiftOpenAPI@2.26.0
+- pkg:swift/github.com/dankinsoid/SwiftOpenAPI@2.26.0%5E%7B%7D
 - pkg:swift/github.com/dankinsoid/SwiftOpenAPI@2.3.0
 - pkg:swift/github.com/dankinsoid/SwiftOpenAPI@2.3.0%5E%7B%7D
 - pkg:swift/github.com/dankinsoid/SwiftOpenAPI@2.4.0
