@@ -751,6 +751,7 @@
 - pkg:swift/github.com/tuist/tuist@server%401.56.0
 - pkg:swift/github.com/tuist/tuist@server%401.56.1
 - pkg:swift/github.com/tuist/tuist@server%401.56.2
+- pkg:swift/github.com/tuist/tuist@server%401.56.3
 - pkg:swift/github.com/tuist/tuist@server%401.6.0
 - pkg:swift/github.com/tuist/tuist@server%401.6.1
 - pkg:swift/github.com/tuist/tuist@server%401.7.0
