@@ -35,6 +35,7 @@
 - pkg:swift/github.com/sendbird/sendbird-uikit-ios-spm@3.32.2%5E%7B%7D
 - pkg:swift/github.com/sendbird/sendbird-uikit-ios-spm@3.32.3
 - pkg:swift/github.com/sendbird/sendbird-uikit-ios-spm@3.32.4
+- pkg:swift/github.com/sendbird/sendbird-uikit-ios-spm@3.33.0
 - pkg:swift/github.com/sendbird/sendbird-uikit-ios-spm@3.7.0-beta.0
 - pkg:swift/github.com/sendbird/sendbird-uikit-ios-spm@3.7.0-beta.0%5E%7B%7D
 - pkg:swift/github.com/sendbird/sendbird-uikit-ios-spm@v.2.2.13
