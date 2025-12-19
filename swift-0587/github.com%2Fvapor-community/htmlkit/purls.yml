@@ -52,6 +52,7 @@
 - pkg:swift/github.com/vapor-community/htmlkit@3.0.0-alpha.12
 - pkg:swift/github.com/vapor-community/htmlkit@3.0.0-alpha.13
 - pkg:swift/github.com/vapor-community/htmlkit@3.0.0-alpha.14
+- pkg:swift/github.com/vapor-community/htmlkit@3.0.0-alpha.15
 - pkg:swift/github.com/vapor-community/htmlkit@3.0.0-alpha.2
 - pkg:swift/github.com/vapor-community/htmlkit@3.0.0-alpha.3
 - pkg:swift/github.com/vapor-community/htmlkit@3.0.0-alpha.4

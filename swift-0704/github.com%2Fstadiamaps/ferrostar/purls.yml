@@ -139,6 +139,8 @@
 - pkg:swift/github.com/stadiamaps/ferrostar@0.44.0%5E%7B%7D
 - pkg:swift/github.com/stadiamaps/ferrostar@0.45.0
 - pkg:swift/github.com/stadiamaps/ferrostar@0.45.0%5E%7B%7D
+- pkg:swift/github.com/stadiamaps/ferrostar@0.46.0
+- pkg:swift/github.com/stadiamaps/ferrostar@0.46.0%5E%7B%7D
 - pkg:swift/github.com/stadiamaps/ferrostar@0.5.0
 - pkg:swift/github.com/stadiamaps/ferrostar@0.5.0%5E%7B%7D
 - pkg:swift/github.com/stadiamaps/ferrostar@0.6.0
