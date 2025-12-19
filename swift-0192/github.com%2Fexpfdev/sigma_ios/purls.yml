@@ -50,3 +50,5 @@
 - pkg:swift/github.com/expfdev/sigma_ios@1.7.1%5E%7B%7D
 - pkg:swift/github.com/expfdev/sigma_ios@1.8.0
 - pkg:swift/github.com/expfdev/sigma_ios@1.8.0%5E%7B%7D
+- pkg:swift/github.com/expfdev/sigma_ios@1.8.1
+- pkg:swift/github.com/expfdev/sigma_ios@1.8.1%5E%7B%7D

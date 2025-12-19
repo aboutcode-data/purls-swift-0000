@@ -4,6 +4,7 @@
 - pkg:swift/github.com/googlemaps/ios-maps-sdk@10.3.0
 - pkg:swift/github.com/googlemaps/ios-maps-sdk@10.4.0
 - pkg:swift/github.com/googlemaps/ios-maps-sdk@10.6.0
+- pkg:swift/github.com/googlemaps/ios-maps-sdk@10.7.0
 - pkg:swift/github.com/googlemaps/ios-maps-sdk@8.3.1
 - pkg:swift/github.com/googlemaps/ios-maps-sdk@8.4.0
 - pkg:swift/github.com/googlemaps/ios-maps-sdk@9.0.0

@@ -478,6 +478,8 @@
 - pkg:swift/github.com/braintree/braintree_ios@6.4.0%5E%7B%7D
 - pkg:swift/github.com/braintree/braintree_ios@6.40.0
 - pkg:swift/github.com/braintree/braintree_ios@6.40.0%5E%7B%7D
+- pkg:swift/github.com/braintree/braintree_ios@6.41.0
+- pkg:swift/github.com/braintree/braintree_ios@6.41.0%5E%7B%7D
 - pkg:swift/github.com/braintree/braintree_ios@6.5.0
 - pkg:swift/github.com/braintree/braintree_ios@6.5.0%5E%7B%7D
 - pkg:swift/github.com/braintree/braintree_ios@6.6.0

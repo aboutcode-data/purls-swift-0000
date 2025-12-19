@@ -354,5 +354,7 @@
 - pkg:swift/github.com/GetStream/stream-chat-swift@4.92.0
 - pkg:swift/github.com/GetStream/stream-chat-swift@4.93.0
 - pkg:swift/github.com/GetStream/stream-chat-swift@4.94.0
+- pkg:swift/github.com/GetStream/stream-chat-swift@4.95.0
+- pkg:swift/github.com/GetStream/stream-chat-swift@4.95.1
 - pkg:swift/github.com/GetStream/stream-chat-swift@workflows_deprecated
 - pkg:swift/github.com/GetStream/stream-chat-swift@workflows_deprecated%5E%7B%7D
