@@ -7,3 +7,4 @@
 - pkg:swift/github.com/typesense/typesense-swift@v1.0.1
 - pkg:swift/github.com/typesense/typesense-swift@v1.0.1-rc.1
 - pkg:swift/github.com/typesense/typesense-swift@v1.1.0-rc.1
+- pkg:swift/github.com/typesense/typesense-swift@v2.0.0-rc.1
