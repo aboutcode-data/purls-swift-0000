@@ -8,7 +8,9 @@
 - pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.16
 - pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.17
 - pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.18
+- pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.19
 - pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.2
+- pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.20
 - pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.3
 - pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.4
 - pkg:swift/github.com/swift-dns/swift-idna@v1.0.0-beta.5

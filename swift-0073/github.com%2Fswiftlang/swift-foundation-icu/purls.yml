@@ -316,6 +316,8 @@
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-14-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-17-a
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-17-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-18-a
+- pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-18-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-DEVELOPMENT-SNAPSHOT-2024-08-16-a
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-DEVELOPMENT-SNAPSHOT-2024-08-16-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-DEVELOPMENT-SNAPSHOT-2024-08-18-a
@@ -590,3 +592,5 @@
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-DEVELOPMENT-SNAPSHOT-2025-12-15-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-DEVELOPMENT-SNAPSHOT-2025-12-17-a
 - pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-DEVELOPMENT-SNAPSHOT-2025-12-17-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-DEVELOPMENT-SNAPSHOT-2025-12-19-a
+- pkg:swift/github.com/swiftlang/swift-foundation-icu@swift-DEVELOPMENT-SNAPSHOT-2025-12-19-a%5E%7B%7D
