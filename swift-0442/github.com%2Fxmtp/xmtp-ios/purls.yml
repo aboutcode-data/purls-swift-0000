@@ -424,6 +424,8 @@
 - pkg:swift/github.com/xmtp/xmtp-ios@4.6.9%5E%7B%7D
 - pkg:swift/github.com/xmtp/xmtp-ios@4.6.9-dylib
 - pkg:swift/github.com/xmtp/xmtp-ios@4.6.9-dylib%5E%7B%7D
+- pkg:swift/github.com/xmtp/xmtp-ios@4.7.0
+- pkg:swift/github.com/xmtp/xmtp-ios@4.7.0%5E%7B%7D
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.264f4d4
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.45db3c0
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.45db3c0%5E%7B%7D
@@ -440,6 +442,8 @@
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.ef372cf5
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.ff66c0f
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dev.ff66c0f%5E%7B%7D
+- pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dylib
+- pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-dylib%5E%7B%7D
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-rc2
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-rc2%5E%7B%7D
 - pkg:swift/github.com/xmtp/xmtp-ios@4.7.0-rc2-dylib

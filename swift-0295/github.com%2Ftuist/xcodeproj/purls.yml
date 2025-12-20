@@ -214,3 +214,5 @@
 - pkg:swift/github.com/tuist/xcodeproj@9.5.0%5E%7B%7D
 - pkg:swift/github.com/tuist/xcodeproj@9.6.0
 - pkg:swift/github.com/tuist/xcodeproj@9.6.0%5E%7B%7D
+- pkg:swift/github.com/tuist/xcodeproj@9.7.0
+- pkg:swift/github.com/tuist/xcodeproj@9.7.0%5E%7B%7D

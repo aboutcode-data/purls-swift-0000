@@ -23,6 +23,8 @@
 - pkg:swift/github.com/swift-standards/swift-standards@0.17.4%5E%7B%7D
 - pkg:swift/github.com/swift-standards/swift-standards@0.18.0
 - pkg:swift/github.com/swift-standards/swift-standards@0.19.0
+- pkg:swift/github.com/swift-standards/swift-standards@0.19.1
+- pkg:swift/github.com/swift-standards/swift-standards@0.19.2
 - pkg:swift/github.com/swift-standards/swift-standards@0.2.0
 - pkg:swift/github.com/swift-standards/swift-standards@0.2.0%5E%7B%7D
 - pkg:swift/github.com/swift-standards/swift-standards@0.2.1
