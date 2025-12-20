@@ -29,3 +29,4 @@
 - pkg:swift/github.com/orchetect/OSCKit@1.4.1
 - pkg:swift/github.com/orchetect/OSCKit@2.0.0
 - pkg:swift/github.com/orchetect/OSCKit@2.0.1
+- pkg:swift/github.com/orchetect/OSCKit@2.1.0
