@@ -27,3 +27,4 @@
 - pkg:swift/github.com/optimizely/swift-sdk@v5.0.0
 - pkg:swift/github.com/optimizely/swift-sdk@v5.1.0
 - pkg:swift/github.com/optimizely/swift-sdk@v5.1.1
+- pkg:swift/github.com/optimizely/swift-sdk@v5.2.0
