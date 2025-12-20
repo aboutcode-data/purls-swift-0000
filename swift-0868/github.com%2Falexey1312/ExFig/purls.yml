@@ -35,7 +35,11 @@
 - pkg:swift/github.com/alexey1312/ExFig@v1.2.4%5E%7B%7D
 - pkg:swift/github.com/alexey1312/ExFig@v1.2.5
 - pkg:swift/github.com/alexey1312/ExFig@v1.2.5%5E%7B%7D
+- pkg:swift/github.com/alexey1312/ExFig@v1.2.6
+- pkg:swift/github.com/alexey1312/ExFig@v1.2.6%5E%7B%7D
 - pkg:swift/github.com/alexey1312/ExFig@v1.2.6-beta.1
 - pkg:swift/github.com/alexey1312/ExFig@v1.2.6-beta.1%5E%7B%7D
 - pkg:swift/github.com/alexey1312/ExFig@v1.2.6-beta.2
 - pkg:swift/github.com/alexey1312/ExFig@v1.2.6-beta.2%5E%7B%7D
+- pkg:swift/github.com/alexey1312/ExFig@v1.2.7
+- pkg:swift/github.com/alexey1312/ExFig@v1.2.7%5E%7B%7D
