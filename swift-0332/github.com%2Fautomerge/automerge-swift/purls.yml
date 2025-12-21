@@ -32,3 +32,4 @@
 - pkg:swift/github.com/automerge/automerge-swift@0.5.9
 - pkg:swift/github.com/automerge/automerge-swift@0.6.0
 - pkg:swift/github.com/automerge/automerge-swift@0.6.1
+- pkg:swift/github.com/automerge/automerge-swift@0.7.2
