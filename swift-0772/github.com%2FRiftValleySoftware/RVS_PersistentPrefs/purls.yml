@@ -70,3 +70,5 @@
 - pkg:swift/github.com/RiftValleySoftware/RVS_PersistentPrefs@1.4.4%5E%7B%7D
 - pkg:swift/github.com/RiftValleySoftware/RVS_PersistentPrefs@1.5.0
 - pkg:swift/github.com/RiftValleySoftware/RVS_PersistentPrefs@1.5.0%5E%7B%7D
+- pkg:swift/github.com/RiftValleySoftware/RVS_PersistentPrefs@1.5.1
+- pkg:swift/github.com/RiftValleySoftware/RVS_PersistentPrefs@1.5.1%5E%7B%7D
