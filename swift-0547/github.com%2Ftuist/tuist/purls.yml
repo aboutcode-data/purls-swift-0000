@@ -510,6 +510,7 @@
 - pkg:swift/github.com/tuist/tuist@app%400.8.1%5E%7B%7D
 - pkg:swift/github.com/tuist/tuist@app%400.9.0
 - pkg:swift/github.com/tuist/tuist@app%400.9.0%5E%7B%7D
+- pkg:swift/github.com/tuist/tuist@cache%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.1
 - pkg:swift/github.com/tuist/tuist@server%400.1.2
