@@ -46,6 +46,7 @@
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDKtvOS@202502.1.4
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDKtvOS@202503.1.0
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDKtvOS@202503.2.0
+- pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDKtvOS@202503.2.1
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDKtvOS@202504.1.0
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDKtvOS@202505.1.0
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDKtvOS@202505.1.3
