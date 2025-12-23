@@ -69,6 +69,7 @@
 - pkg:swift/github.com/amplitude/Amplitude-Swift@v1.15.5
 - pkg:swift/github.com/amplitude/Amplitude-Swift@v1.16.0
 - pkg:swift/github.com/amplitude/Amplitude-Swift@v1.16.1
+- pkg:swift/github.com/amplitude/Amplitude-Swift@v1.16.2
 - pkg:swift/github.com/amplitude/Amplitude-Swift@v1.2.0
 - pkg:swift/github.com/amplitude/Amplitude-Swift@v1.3.0
 - pkg:swift/github.com/amplitude/Amplitude-Swift@v1.3.1
