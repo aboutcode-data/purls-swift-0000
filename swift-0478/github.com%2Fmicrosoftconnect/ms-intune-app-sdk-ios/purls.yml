@@ -103,6 +103,7 @@
 - pkg:swift/github.com/microsoftconnect/ms-intune-app-sdk-ios@20.7.0
 - pkg:swift/github.com/microsoftconnect/ms-intune-app-sdk-ios@20.8.0
 - pkg:swift/github.com/microsoftconnect/ms-intune-app-sdk-ios@20.9.0
+- pkg:swift/github.com/microsoftconnect/ms-intune-app-sdk-ios@20.9.2
 - pkg:swift/github.com/microsoftconnect/ms-intune-app-sdk-ios@21.1.0
 - pkg:swift/github.com/microsoftconnect/ms-intune-app-sdk-ios@21.2.0
 - pkg:swift/github.com/microsoftconnect/ms-intune-app-sdk-ios@6.0.10

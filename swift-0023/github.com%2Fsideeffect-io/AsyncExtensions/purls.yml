@@ -9,3 +9,5 @@
 - pkg:swift/github.com/sideeffect-io/AsyncExtensions@0.5.2%5E%7B%7D
 - pkg:swift/github.com/sideeffect-io/AsyncExtensions@0.5.3
 - pkg:swift/github.com/sideeffect-io/AsyncExtensions@0.5.4
+- pkg:swift/github.com/sideeffect-io/AsyncExtensions@0.5.5
+- pkg:swift/github.com/sideeffect-io/AsyncExtensions@0.5.5%5E%7B%7D
