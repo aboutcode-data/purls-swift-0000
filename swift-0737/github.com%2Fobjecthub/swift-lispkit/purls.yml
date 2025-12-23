@@ -31,3 +31,4 @@
 - pkg:swift/github.com/objecthub/swift-lispkit@2.3.2
 - pkg:swift/github.com/objecthub/swift-lispkit@2.4.0
 - pkg:swift/github.com/objecthub/swift-lispkit@2.5.0
+- pkg:swift/github.com/objecthub/swift-lispkit@2.6.0

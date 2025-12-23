@@ -29,6 +29,8 @@
 - pkg:swift/github.com/nnabeyang/SVGUIView@0.20.0%5E%7B%7D
 - pkg:swift/github.com/nnabeyang/SVGUIView@0.21.0
 - pkg:swift/github.com/nnabeyang/SVGUIView@0.21.0%5E%7B%7D
+- pkg:swift/github.com/nnabeyang/SVGUIView@0.21.1
+- pkg:swift/github.com/nnabeyang/SVGUIView@0.21.1%5E%7B%7D
 - pkg:swift/github.com/nnabeyang/SVGUIView@0.3.0
 - pkg:swift/github.com/nnabeyang/SVGUIView@0.4.0
 - pkg:swift/github.com/nnabeyang/SVGUIView@0.5.0

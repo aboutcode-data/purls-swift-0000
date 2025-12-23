@@ -147,6 +147,7 @@
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v0.9.0-spm-combine
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v0.9.0-spm-rxswift
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v0.9.0-swift-async-await
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-1
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-1-spm-async
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-1-spm-combine
@@ -459,3 +460,8 @@
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-9-spm-combine
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-9-spm-no-deps
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-ALPHA-9-spm-rxswift
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-idea-2025.3
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-spm-async
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-spm-combine
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-spm-no-deps
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.0-spm-rxswift
