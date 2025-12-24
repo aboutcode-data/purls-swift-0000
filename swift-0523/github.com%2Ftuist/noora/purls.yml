@@ -368,6 +368,8 @@
 - pkg:swift/github.com/tuist/noora@0.51.2%5E%7B%7D
 - pkg:swift/github.com/tuist/noora@0.51.3
 - pkg:swift/github.com/tuist/noora@0.51.3%5E%7B%7D
+- pkg:swift/github.com/tuist/noora@0.52.0
+- pkg:swift/github.com/tuist/noora@0.52.0%5E%7B%7D
 - pkg:swift/github.com/tuist/noora@0.6.0
 - pkg:swift/github.com/tuist/noora@0.7.0
 - pkg:swift/github.com/tuist/noora@0.8.0
