@@ -42,6 +42,7 @@
 - pkg:swift/github.com/mochidev/CodableDatastore@0.2.5
 - pkg:swift/github.com/mochidev/CodableDatastore@0.3.0
 - pkg:swift/github.com/mochidev/CodableDatastore@0.3.1
+- pkg:swift/github.com/mochidev/CodableDatastore@0.3.10
 - pkg:swift/github.com/mochidev/CodableDatastore@0.3.2
 - pkg:swift/github.com/mochidev/CodableDatastore@0.3.3
 - pkg:swift/github.com/mochidev/CodableDatastore@0.3.4
