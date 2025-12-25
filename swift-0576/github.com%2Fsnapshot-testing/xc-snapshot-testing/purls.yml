@@ -1,1 +1,2 @@
 - pkg:swift/github.com/snapshot-testing/xc-snapshot-testing@0.1.0
+- pkg:swift/github.com/snapshot-testing/xc-snapshot-testing@1.0.0
