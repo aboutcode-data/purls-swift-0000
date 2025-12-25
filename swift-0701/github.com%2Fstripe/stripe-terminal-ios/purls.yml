@@ -58,6 +58,8 @@
 - pkg:swift/github.com/stripe/stripe-terminal-ios@5.0.0%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-terminal-ios@5.1.0
 - pkg:swift/github.com/stripe/stripe-terminal-ios@5.1.0%5E%7B%7D
+- pkg:swift/github.com/stripe/stripe-terminal-ios@5.1.1
+- pkg:swift/github.com/stripe/stripe-terminal-ios@5.1.1%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-terminal-ios@v0.9
 - pkg:swift/github.com/stripe/stripe-terminal-ios@v0.9%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-terminal-ios@v1
