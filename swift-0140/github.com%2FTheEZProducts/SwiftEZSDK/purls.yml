@@ -90,3 +90,5 @@
 - pkg:swift/github.com/TheEZProducts/SwiftEZSDK@4.0.5%5E%7B%7D
 - pkg:swift/github.com/TheEZProducts/SwiftEZSDK@4.0.6
 - pkg:swift/github.com/TheEZProducts/SwiftEZSDK@4.0.6%5E%7B%7D
+- pkg:swift/github.com/TheEZProducts/SwiftEZSDK@5.0.0
+- pkg:swift/github.com/TheEZProducts/SwiftEZSDK@5.0.0%5E%7B%7D

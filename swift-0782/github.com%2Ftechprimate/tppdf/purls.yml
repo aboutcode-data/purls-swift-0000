@@ -63,3 +63,4 @@
 - pkg:swift/github.com/techprimate/tppdf@2.5.0
 - pkg:swift/github.com/techprimate/tppdf@2.6.0
 - pkg:swift/github.com/techprimate/tppdf@2.6.1
+- pkg:swift/github.com/techprimate/tppdf@3.0.0-alpha.1
