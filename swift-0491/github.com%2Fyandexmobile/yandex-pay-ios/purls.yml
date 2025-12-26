@@ -32,6 +32,7 @@
 - pkg:swift/github.com/yandexmobile/yandex-pay-ios@v1.23.3
 - pkg:swift/github.com/yandexmobile/yandex-pay-ios@v1.23.3%5E%7B%7D
 - pkg:swift/github.com/yandexmobile/yandex-pay-ios@v1.23.4
+- pkg:swift/github.com/yandexmobile/yandex-pay-ios@v1.24.1
 - pkg:swift/github.com/yandexmobile/yandex-pay-ios@v1.7.0
 - pkg:swift/github.com/yandexmobile/yandex-pay-ios@v1.7.0%5E%7B%7D
 - pkg:swift/github.com/yandexmobile/yandex-pay-ios@v1.8.0
