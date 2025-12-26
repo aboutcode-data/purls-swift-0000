@@ -3,3 +3,4 @@
 - pkg:swift/github.com/markbattistella/SimpleLogger@1.1.0
 - pkg:swift/github.com/markbattistella/SimpleLogger@1.2.0
 - pkg:swift/github.com/markbattistella/SimpleLogger@2.0.0
+- pkg:swift/github.com/markbattistella/SimpleLogger@25.12.26
