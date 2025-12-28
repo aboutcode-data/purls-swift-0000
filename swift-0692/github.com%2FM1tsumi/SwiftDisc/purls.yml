@@ -14,3 +14,9 @@
 - pkg:swift/github.com/M1tsumi/SwiftDisc@v0.7.0
 - pkg:swift/github.com/M1tsumi/SwiftDisc@v0.8.0
 - pkg:swift/github.com/M1tsumi/SwiftDisc@v0.9.0
+- pkg:swift/github.com/M1tsumi/SwiftDisc@v1.0.0
+- pkg:swift/github.com/M1tsumi/SwiftDisc@v1.0.0%5E%7B%7D
+- pkg:swift/github.com/M1tsumi/SwiftDisc@v1.0.0-rc1
+- pkg:swift/github.com/M1tsumi/SwiftDisc@v1.0.0-rc1%5E%7B%7D
+- pkg:swift/github.com/M1tsumi/SwiftDisc@v1.0.0-rc2
+- pkg:swift/github.com/M1tsumi/SwiftDisc@v1.0.0-rc2%5E%7B%7D
