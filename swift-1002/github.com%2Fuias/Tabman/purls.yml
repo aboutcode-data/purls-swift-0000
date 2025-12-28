@@ -132,3 +132,4 @@
 - pkg:swift/github.com/uias/Tabman@3.0.2
 - pkg:swift/github.com/uias/Tabman@3.1.0
 - pkg:swift/github.com/uias/Tabman@3.2.0
+- pkg:swift/github.com/uias/Tabman@4.0.0
