@@ -1,5 +1,6 @@
 - pkg:swift/github.com/reers/ReerCodable@0.0.1
 - pkg:swift/github.com/reers/ReerCodable@0.0.2
+- pkg:swift/github.com/reers/ReerCodable@0.0.3
 - pkg:swift/github.com/reers/ReerCodable@1.0.0
 - pkg:swift/github.com/reers/ReerCodable@1.0.1
 - pkg:swift/github.com/reers/ReerCodable@1.1.0
