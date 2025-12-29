@@ -67,4 +67,6 @@
 - pkg:swift/github.com/marcprux/universal@5.2.6%5E%7B%7D
 - pkg:swift/github.com/marcprux/universal@5.2.7
 - pkg:swift/github.com/marcprux/universal@5.2.7%5E%7B%7D
+- pkg:swift/github.com/marcprux/universal@5.3.0
+- pkg:swift/github.com/marcprux/universal@5.3.0%5E%7B%7D
 - pkg:swift/github.com/marcprux/universal@latest

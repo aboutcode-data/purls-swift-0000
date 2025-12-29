@@ -12,3 +12,5 @@
 - pkg:swift/github.com/p-x9/swift-objc-dump@0.6.0%5E%7B%7D
 - pkg:swift/github.com/p-x9/swift-objc-dump@0.7.0
 - pkg:swift/github.com/p-x9/swift-objc-dump@0.7.0%5E%7B%7D
+- pkg:swift/github.com/p-x9/swift-objc-dump@0.8.0
+- pkg:swift/github.com/p-x9/swift-objc-dump@0.8.0%5E%7B%7D
