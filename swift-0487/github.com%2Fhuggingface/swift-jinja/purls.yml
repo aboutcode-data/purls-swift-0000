@@ -19,3 +19,4 @@
 - pkg:swift/github.com/huggingface/swift-jinja@2.1.1
 - pkg:swift/github.com/huggingface/swift-jinja@2.1.2
 - pkg:swift/github.com/huggingface/swift-jinja@2.2.0
+- pkg:swift/github.com/huggingface/swift-jinja@2.2.1

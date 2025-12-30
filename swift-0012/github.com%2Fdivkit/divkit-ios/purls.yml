@@ -158,6 +158,7 @@
 - pkg:swift/github.com/divkit/divkit-ios@32.3.1
 - pkg:swift/github.com/divkit/divkit-ios@32.30.0
 - pkg:swift/github.com/divkit/divkit-ios@32.31.0
+- pkg:swift/github.com/divkit/divkit-ios@32.32.0
 - pkg:swift/github.com/divkit/divkit-ios@32.4.0
 - pkg:swift/github.com/divkit/divkit-ios@32.4.1
 - pkg:swift/github.com/divkit/divkit-ios@32.5.0
