@@ -1,4 +1,5 @@
 - pkg:swift/github.com/sbooth/SFBAudioEngine@0.1.0
+- pkg:swift/github.com/sbooth/SFBAudioEngine@0.10.0
 - pkg:swift/github.com/sbooth/SFBAudioEngine@0.2.0
 - pkg:swift/github.com/sbooth/SFBAudioEngine@0.3.0
 - pkg:swift/github.com/sbooth/SFBAudioEngine@0.4.0

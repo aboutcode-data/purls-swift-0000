@@ -27,6 +27,7 @@
 - pkg:swift/github.com/pointfreeco/swift-structured-queries@0.25.0
 - pkg:swift/github.com/pointfreeco/swift-structured-queries@0.25.1
 - pkg:swift/github.com/pointfreeco/swift-structured-queries@0.25.2
+- pkg:swift/github.com/pointfreeco/swift-structured-queries@0.26.0
 - pkg:swift/github.com/pointfreeco/swift-structured-queries@0.3.0
 - pkg:swift/github.com/pointfreeco/swift-structured-queries@0.4.0
 - pkg:swift/github.com/pointfreeco/swift-structured-queries@0.5.0
