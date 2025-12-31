@@ -40,6 +40,7 @@
 - pkg:swift/github.com/maplibre/swiftui-dsl@v0.19.0
 - pkg:swift/github.com/maplibre/swiftui-dsl@v0.2.0
 - pkg:swift/github.com/maplibre/swiftui-dsl@v0.20.0
+- pkg:swift/github.com/maplibre/swiftui-dsl@v0.21.0
 - pkg:swift/github.com/maplibre/swiftui-dsl@v0.3.0
 - pkg:swift/github.com/maplibre/swiftui-dsl@v0.3.1
 - pkg:swift/github.com/maplibre/swiftui-dsl@v0.3.2
