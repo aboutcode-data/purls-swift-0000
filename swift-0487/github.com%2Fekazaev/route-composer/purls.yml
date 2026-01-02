@@ -176,6 +176,8 @@
 - pkg:swift/github.com/ekazaev/route-composer@2.20.0%5E%7B%7D
 - pkg:swift/github.com/ekazaev/route-composer@2.21.0
 - pkg:swift/github.com/ekazaev/route-composer@2.21.0%5E%7B%7D
+- pkg:swift/github.com/ekazaev/route-composer@2.22.0
+- pkg:swift/github.com/ekazaev/route-composer@2.22.0%5E%7B%7D
 - pkg:swift/github.com/ekazaev/route-composer@2.3.0
 - pkg:swift/github.com/ekazaev/route-composer@2.3.0%5E%7B%7D
 - pkg:swift/github.com/ekazaev/route-composer@2.3.1
