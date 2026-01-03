@@ -5,6 +5,7 @@
 - pkg:swift/github.com/mattpolzin/OpenAPIDiff@0.0.5
 - pkg:swift/github.com/mattpolzin/OpenAPIDiff@0.1.0
 - pkg:swift/github.com/mattpolzin/OpenAPIDiff@0.10.0
+- pkg:swift/github.com/mattpolzin/OpenAPIDiff@0.11.0
 - pkg:swift/github.com/mattpolzin/OpenAPIDiff@0.2.0
 - pkg:swift/github.com/mattpolzin/OpenAPIDiff@0.3.0
 - pkg:swift/github.com/mattpolzin/OpenAPIDiff@0.4.0

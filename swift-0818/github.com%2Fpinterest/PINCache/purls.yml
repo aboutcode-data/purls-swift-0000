@@ -158,3 +158,4 @@
 - pkg:swift/github.com/pinterest/PINCache@releases/p13.8
 - pkg:swift/github.com/pinterest/PINCache@releases/p13.9
 - pkg:swift/github.com/pinterest/PINCache@releases/p14.1
+- pkg:swift/github.com/pinterest/PINCache@releases/p14.2
