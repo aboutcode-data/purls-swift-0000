@@ -126,4 +126,5 @@
 - pkg:swift/github.com/The-Wand/Wand@2.0.9
 - pkg:swift/github.com/The-Wand/Wand@2.0rc
 - pkg:swift/github.com/The-Wand/Wand@2.0rc2
+- pkg:swift/github.com/The-Wand/Wand@3.0.1
 - pkg:swift/github.com/The-Wand/Wand@Core2.x-freeze
