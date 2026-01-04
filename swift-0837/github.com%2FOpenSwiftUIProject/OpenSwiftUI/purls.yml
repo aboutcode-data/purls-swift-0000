@@ -8,6 +8,7 @@
 - pkg:swift/github.com/OpenSwiftUIProject/OpenSwiftUI@0.10.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenSwiftUI@0.11.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenSwiftUI@0.12.0
+- pkg:swift/github.com/OpenSwiftUIProject/OpenSwiftUI@0.13.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenSwiftUI@0.2.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenSwiftUI@0.3.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenSwiftUI@0.4.0
