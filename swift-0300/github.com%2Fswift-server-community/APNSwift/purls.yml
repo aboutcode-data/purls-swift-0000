@@ -46,3 +46,4 @@
 - pkg:swift/github.com/swift-server-community/APNSwift@6.0.1
 - pkg:swift/github.com/swift-server-community/APNSwift@6.1.0
 - pkg:swift/github.com/swift-server-community/APNSwift@6.2.0
+- pkg:swift/github.com/swift-server-community/APNSwift@6.3.0
