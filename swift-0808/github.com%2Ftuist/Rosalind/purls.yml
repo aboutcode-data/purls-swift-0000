@@ -385,6 +385,8 @@
 - pkg:swift/github.com/tuist/Rosalind@0.6.110%5E%7B%7D
 - pkg:swift/github.com/tuist/Rosalind@0.6.111
 - pkg:swift/github.com/tuist/Rosalind@0.6.111%5E%7B%7D
+- pkg:swift/github.com/tuist/Rosalind@0.6.112
+- pkg:swift/github.com/tuist/Rosalind@0.6.112%5E%7B%7D
 - pkg:swift/github.com/tuist/Rosalind@0.6.12
 - pkg:swift/github.com/tuist/Rosalind@0.6.12%5E%7B%7D
 - pkg:swift/github.com/tuist/Rosalind@0.6.13
