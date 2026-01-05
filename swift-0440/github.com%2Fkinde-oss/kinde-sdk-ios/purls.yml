@@ -8,5 +8,7 @@
 - pkg:swift/github.com/kinde-oss/kinde-sdk-ios@1.4.2
 - pkg:swift/github.com/kinde-oss/kinde-sdk-ios@1.4.3
 - pkg:swift/github.com/kinde-oss/kinde-sdk-ios@1.4.5
+- pkg:swift/github.com/kinde-oss/kinde-sdk-ios@1.4.6
+- pkg:swift/github.com/kinde-oss/kinde-sdk-ios@1.5.0
 - pkg:swift/github.com/kinde-oss/kinde-sdk-ios@v1.4.4
 - pkg:swift/github.com/kinde-oss/kinde-sdk-ios@v1.4.5
