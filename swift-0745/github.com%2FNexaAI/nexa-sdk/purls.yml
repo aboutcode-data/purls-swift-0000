@@ -52,3 +52,6 @@
 - pkg:swift/github.com/NexaAI/nexa-sdk@v0.2.65
 - pkg:swift/github.com/NexaAI/nexa-sdk@v0.2.65-rc1
 - pkg:swift/github.com/NexaAI/nexa-sdk@v0.2.65-rc2
+- pkg:swift/github.com/NexaAI/nexa-sdk@v0.2.66
+- pkg:swift/github.com/NexaAI/nexa-sdk@v0.2.67
+- pkg:swift/github.com/NexaAI/nexa-sdk@v0.2.67-rc1
