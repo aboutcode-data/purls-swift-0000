@@ -46,6 +46,8 @@
 - pkg:swift/github.com/skiptools/skip-bridge@0.16.2%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip-bridge@0.16.3
 - pkg:swift/github.com/skiptools/skip-bridge@0.16.3%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip-bridge@0.16.4
+- pkg:swift/github.com/skiptools/skip-bridge@0.16.4%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip-bridge@0.2.0
 - pkg:swift/github.com/skiptools/skip-bridge@0.2.0%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip-bridge@0.2.1
