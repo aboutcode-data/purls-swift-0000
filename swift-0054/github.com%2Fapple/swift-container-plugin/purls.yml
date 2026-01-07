@@ -13,3 +13,4 @@
 - pkg:swift/github.com/apple/swift-container-plugin@1.1.0
 - pkg:swift/github.com/apple/swift-container-plugin@1.1.1
 - pkg:swift/github.com/apple/swift-container-plugin@1.1.2
+- pkg:swift/github.com/apple/swift-container-plugin@1.2.0
