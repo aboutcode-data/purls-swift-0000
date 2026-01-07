@@ -526,6 +526,10 @@
 - pkg:swift/github.com/tuist/noora@web-0.50.0%5E%7B%7D
 - pkg:swift/github.com/tuist/noora@web-0.50.1
 - pkg:swift/github.com/tuist/noora@web-0.50.1%5E%7B%7D
+- pkg:swift/github.com/tuist/noora@web-0.51.0
+- pkg:swift/github.com/tuist/noora@web-0.51.0%5E%7B%7D
+- pkg:swift/github.com/tuist/noora@web-0.52.0
+- pkg:swift/github.com/tuist/noora@web-0.52.0%5E%7B%7D
 - pkg:swift/github.com/tuist/noora@web-0.6.0
 - pkg:swift/github.com/tuist/noora@web-0.6.0%5E%7B%7D
 - pkg:swift/github.com/tuist/noora@web-0.6.1
