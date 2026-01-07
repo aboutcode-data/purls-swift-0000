@@ -45,3 +45,4 @@
 - pkg:swift/github.com/pointfreeco/swift-issue-reporting@1.6.1
 - pkg:swift/github.com/pointfreeco/swift-issue-reporting@1.7.0
 - pkg:swift/github.com/pointfreeco/swift-issue-reporting@1.8.0
+- pkg:swift/github.com/pointfreeco/swift-issue-reporting@1.8.1
