@@ -79,3 +79,4 @@
 - pkg:swift/github.com/wrkstrm/WrkstrmFoundation@2.7.0
 - pkg:swift/github.com/wrkstrm/WrkstrmFoundation@2.8.0
 - pkg:swift/github.com/wrkstrm/WrkstrmFoundation@2.8.1
+- pkg:swift/github.com/wrkstrm/WrkstrmFoundation@3.0.0

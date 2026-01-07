@@ -520,6 +520,7 @@
 - pkg:swift/github.com/tuist/tuist@cache%400.2.0
 - pkg:swift/github.com/tuist/tuist@cache%400.2.1
 - pkg:swift/github.com/tuist/tuist@cache%400.3.0
+- pkg:swift/github.com/tuist/tuist@cache%400.4.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.1
 - pkg:swift/github.com/tuist/tuist@server%400.1.2
@@ -789,6 +790,7 @@
 - pkg:swift/github.com/tuist/tuist@server%401.63.3
 - pkg:swift/github.com/tuist/tuist@server%401.63.4
 - pkg:swift/github.com/tuist/tuist@server%401.63.5
+- pkg:swift/github.com/tuist/tuist@server%401.64.0
 - pkg:swift/github.com/tuist/tuist@server%401.7.0
 - pkg:swift/github.com/tuist/tuist@server%401.8.0
 - pkg:swift/github.com/tuist/tuist@server%401.9.0

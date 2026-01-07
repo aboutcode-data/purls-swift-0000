@@ -50,6 +50,7 @@
 - pkg:swift/github.com/swift-standards/swift-standards@0.27.3%5E%7B%7D
 - pkg:swift/github.com/swift-standards/swift-standards@0.28.0
 - pkg:swift/github.com/swift-standards/swift-standards@0.28.0%5E%7B%7D
+- pkg:swift/github.com/swift-standards/swift-standards@0.29.0
 - pkg:swift/github.com/swift-standards/swift-standards@0.3.0
 - pkg:swift/github.com/swift-standards/swift-standards@0.3.0%5E%7B%7D
 - pkg:swift/github.com/swift-standards/swift-standards@0.3.1
