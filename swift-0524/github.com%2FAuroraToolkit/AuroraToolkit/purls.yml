@@ -45,6 +45,8 @@
 - pkg:swift/github.com/AuroraToolkit/AuroraToolkit@1.0.0%5E%7B%7D
 - pkg:swift/github.com/AuroraToolkit/AuroraToolkit@1.0.1
 - pkg:swift/github.com/AuroraToolkit/AuroraToolkit@1.0.1%5E%7B%7D
+- pkg:swift/github.com/AuroraToolkit/AuroraToolkit@1.1.0
+- pkg:swift/github.com/AuroraToolkit/AuroraToolkit@1.1.0%5E%7B%7D
 - pkg:swift/github.com/AuroraToolkit/AuroraToolkit@v0.1.0
 - pkg:swift/github.com/AuroraToolkit/AuroraToolkit@v0.1.0-alpha
 - pkg:swift/github.com/AuroraToolkit/AuroraToolkit@v0.1.0-alpha%5E%7B%7D
