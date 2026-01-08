@@ -6,3 +6,4 @@
 - pkg:swift/github.com/Iron-Ham/swift-commit-gen@0.4.1
 - pkg:swift/github.com/Iron-Ham/swift-commit-gen@0.5.0
 - pkg:swift/github.com/Iron-Ham/swift-commit-gen@0.6.0
+- pkg:swift/github.com/Iron-Ham/swift-commit-gen@0.7.0

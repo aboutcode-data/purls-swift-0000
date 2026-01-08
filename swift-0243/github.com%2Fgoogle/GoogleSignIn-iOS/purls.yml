@@ -16,3 +16,4 @@
 - pkg:swift/github.com/google/GoogleSignIn-iOS@8.1.0-vwg-eap-1.0.0
 - pkg:swift/github.com/google/GoogleSignIn-iOS@8.1.0-vwg-eap-1.1.0
 - pkg:swift/github.com/google/GoogleSignIn-iOS@9.0.0
+- pkg:swift/github.com/google/GoogleSignIn-iOS@9.1.0
