@@ -77,3 +77,5 @@
 - pkg:swift/github.com/xcode-actions/swift-sh@3.2.3%5E%7B%7D
 - pkg:swift/github.com/xcode-actions/swift-sh@3.2.4
 - pkg:swift/github.com/xcode-actions/swift-sh@3.2.4%5E%7B%7D
+- pkg:swift/github.com/xcode-actions/swift-sh@3.3.0
+- pkg:swift/github.com/xcode-actions/swift-sh@3.3.0%5E%7B%7D
