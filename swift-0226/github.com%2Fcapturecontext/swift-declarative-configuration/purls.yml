@@ -20,5 +20,7 @@
 - pkg:swift/github.com/capturecontext/swift-declarative-configuration@0.3.2%5E%7B%7D
 - pkg:swift/github.com/capturecontext/swift-declarative-configuration@0.3.3
 - pkg:swift/github.com/capturecontext/swift-declarative-configuration@0.3.3%5E%7B%7D
+- pkg:swift/github.com/capturecontext/swift-declarative-configuration@0.4.0
+- pkg:swift/github.com/capturecontext/swift-declarative-configuration@0.4.0%5E%7B%7D
 - pkg:swift/github.com/capturecontext/swift-declarative-configuration@1.0.0-beta.1
 - pkg:swift/github.com/capturecontext/swift-declarative-configuration@1.0.0-beta.1%5E%7B%7D
