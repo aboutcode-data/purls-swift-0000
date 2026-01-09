@@ -1391,6 +1391,8 @@
 - pkg:swift/github.com/skiptools/skip@1.6.34%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip@1.6.35
 - pkg:swift/github.com/skiptools/skip@1.6.35%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip@1.6.36
+- pkg:swift/github.com/skiptools/skip@1.6.36%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip@1.6.4
 - pkg:swift/github.com/skiptools/skip@1.6.4%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip@1.6.5
