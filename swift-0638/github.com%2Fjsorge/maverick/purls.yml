@@ -29,5 +29,9 @@
 - pkg:swift/github.com/jsorge/maverick@3.0.2
 - pkg:swift/github.com/jsorge/maverick@3.1.0
 - pkg:swift/github.com/jsorge/maverick@3.1.0%5E%7B%7D
+- pkg:swift/github.com/jsorge/maverick@3.2.0
+- pkg:swift/github.com/jsorge/maverick@3.2.0%5E%7B%7D
 - pkg:swift/github.com/jsorge/maverick@call-ping-method
 - pkg:swift/github.com/jsorge/maverick@call-ping-method%5E%7B%7D
+- pkg:swift/github.com/jsorge/maverick@v3.5.0
+- pkg:swift/github.com/jsorge/maverick@v3.5.0%5E%7B%7D
