@@ -351,6 +351,10 @@
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.11
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.11%5E%7B%7D
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.12
+- pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.13
+- pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.13%5E%7B%7D
+- pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.14
+- pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.14%5E%7B%7D
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.2
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.2%5E%7B%7D
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.3
@@ -366,3 +370,5 @@
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.8%5E%7B%7D
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.9
 - pkg:swift/github.com/stefanspringer1/SwiftUtilities@2.2.9%5E%7B%7D
+- pkg:swift/github.com/stefanspringer1/SwiftUtilities@3.0.0
+- pkg:swift/github.com/stefanspringer1/SwiftUtilities@3.0.0%5E%7B%7D
