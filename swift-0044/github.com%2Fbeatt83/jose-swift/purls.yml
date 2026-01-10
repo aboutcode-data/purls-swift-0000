@@ -29,3 +29,4 @@
 - pkg:swift/github.com/beatt83/jose-swift@5.1.1
 - pkg:swift/github.com/beatt83/jose-swift@6.0.0
 - pkg:swift/github.com/beatt83/jose-swift@6.0.1
+- pkg:swift/github.com/beatt83/jose-swift@6.0.2
