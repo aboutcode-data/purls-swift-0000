@@ -2,3 +2,4 @@
 - pkg:swift/github.com/recombee/swift-api-client@v5.0.1
 - pkg:swift/github.com/recombee/swift-api-client@v5.0.2
 - pkg:swift/github.com/recombee/swift-api-client@v6.0.0
+- pkg:swift/github.com/recombee/swift-api-client@v6.1.0
