@@ -49,6 +49,8 @@
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.29.1%5E%7B%7D
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.29.2
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.29.2%5E%7B%7D
+- pkg:swift/github.com/nnabeyang/swift-atproto@0.29.3
+- pkg:swift/github.com/nnabeyang/swift-atproto@0.29.3%5E%7B%7D
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.3.0
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.4.0
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.4.1
