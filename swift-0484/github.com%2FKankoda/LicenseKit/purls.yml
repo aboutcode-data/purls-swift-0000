@@ -50,3 +50,4 @@
 - pkg:swift/github.com/Kankoda/LicenseKit@2.1.1-multiplatform
 - pkg:swift/github.com/Kankoda/LicenseKit@2.1.2
 - pkg:swift/github.com/Kankoda/LicenseKit@2.1.2-multiplatform
+- pkg:swift/github.com/Kankoda/LicenseKit@2.1.3
