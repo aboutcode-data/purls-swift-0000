@@ -42,3 +42,4 @@
 - pkg:swift/github.com/netreconlab/parse-server-swift@0.9.1
 - pkg:swift/github.com/netreconlab/parse-server-swift@0.9.2
 - pkg:swift/github.com/netreconlab/parse-server-swift@1.0.0-beta.1
+- pkg:swift/github.com/netreconlab/parse-server-swift@1.0.0-beta.2
