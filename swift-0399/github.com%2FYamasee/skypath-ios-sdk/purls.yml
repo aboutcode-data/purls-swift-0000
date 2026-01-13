@@ -129,6 +129,8 @@
 - pkg:swift/github.com/Yamasee/skypath-ios-sdk@v3.0.12%5E%7B%7D
 - pkg:swift/github.com/Yamasee/skypath-ios-sdk@v3.0.13
 - pkg:swift/github.com/Yamasee/skypath-ios-sdk@v3.0.13%5E%7B%7D
+- pkg:swift/github.com/Yamasee/skypath-ios-sdk@v3.0.14
+- pkg:swift/github.com/Yamasee/skypath-ios-sdk@v3.0.14%5E%7B%7D
 - pkg:swift/github.com/Yamasee/skypath-ios-sdk@v3.0.2
 - pkg:swift/github.com/Yamasee/skypath-ios-sdk@v3.0.2%5E%7B%7D
 - pkg:swift/github.com/Yamasee/skypath-ios-sdk@v3.0.3
