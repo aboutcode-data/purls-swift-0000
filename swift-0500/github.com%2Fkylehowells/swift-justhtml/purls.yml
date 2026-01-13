@@ -1,3 +1,4 @@
+- pkg:swift/github.com/kylehowells/swift-justhtml@0.4.0
 - pkg:swift/github.com/kylehowells/swift-justhtml@v0.1
 - pkg:swift/github.com/kylehowells/swift-justhtml@v0.1%5E%7B%7D
 - pkg:swift/github.com/kylehowells/swift-justhtml@v0.2

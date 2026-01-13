@@ -36,6 +36,7 @@
 - pkg:swift/github.com/SAP/cloud-sdk-ios@24.8.7
 - pkg:swift/github.com/SAP/cloud-sdk-ios@24.8.8
 - pkg:swift/github.com/SAP/cloud-sdk-ios@25.11.0
+- pkg:swift/github.com/SAP/cloud-sdk-ios@25.11.2
 - pkg:swift/github.com/SAP/cloud-sdk-ios@25.4.0
 - pkg:swift/github.com/SAP/cloud-sdk-ios@25.4.1
 - pkg:swift/github.com/SAP/cloud-sdk-ios@25.4.3
