@@ -108,3 +108,4 @@
 - pkg:swift/github.com/CleverTap/clevertap-ios-sdk@7.3.4
 - pkg:swift/github.com/CleverTap/clevertap-ios-sdk@7.4.0
 - pkg:swift/github.com/CleverTap/clevertap-ios-sdk@7.4.1
+- pkg:swift/github.com/CleverTap/clevertap-ios-sdk@7.4.2
