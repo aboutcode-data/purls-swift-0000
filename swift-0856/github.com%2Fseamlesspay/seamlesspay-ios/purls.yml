@@ -36,5 +36,7 @@
 - pkg:swift/github.com/seamlesspay/seamlesspay-ios@2.6.0
 - pkg:swift/github.com/seamlesspay/seamlesspay-ios@2.6.0-rc1
 - pkg:swift/github.com/seamlesspay/seamlesspay-ios@2.6.0-rc2
+- pkg:swift/github.com/seamlesspay/seamlesspay-ios@2.7.0
+- pkg:swift/github.com/seamlesspay/seamlesspay-ios@2.7.0%5E%7B%7D
 - pkg:swift/github.com/seamlesspay/seamlesspay-ios@2.7.0-rc1
 - pkg:swift/github.com/seamlesspay/seamlesspay-ios@2.7.0-rc2

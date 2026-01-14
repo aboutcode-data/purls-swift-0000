@@ -191,3 +191,5 @@
 - pkg:swift/github.com/nerzh/swift-telegram-bot@4.2.1%5E%7B%7D
 - pkg:swift/github.com/nerzh/swift-telegram-bot@4.2.2
 - pkg:swift/github.com/nerzh/swift-telegram-bot@4.2.2%5E%7B%7D
+- pkg:swift/github.com/nerzh/swift-telegram-bot@4.3.0
+- pkg:swift/github.com/nerzh/swift-telegram-bot@4.3.0%5E%7B%7D
