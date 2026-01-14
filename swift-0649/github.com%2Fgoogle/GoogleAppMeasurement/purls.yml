@@ -38,6 +38,7 @@
 - pkg:swift/github.com/google/GoogleAppMeasurement@12.3.0
 - pkg:swift/github.com/google/GoogleAppMeasurement@12.4.0
 - pkg:swift/github.com/google/GoogleAppMeasurement@12.5.0
+- pkg:swift/github.com/google/GoogleAppMeasurement@12.8.0
 - pkg:swift/github.com/google/GoogleAppMeasurement@7.10.0
 - pkg:swift/github.com/google/GoogleAppMeasurement@7.11.0
 - pkg:swift/github.com/google/GoogleAppMeasurement@7.11.1
