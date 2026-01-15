@@ -47,3 +47,4 @@
 - pkg:swift/github.com/googlemaps/google-maps-ios-utils@v6.1.1
 - pkg:swift/github.com/googlemaps/google-maps-ios-utils@v6.1.2
 - pkg:swift/github.com/googlemaps/google-maps-ios-utils@v6.1.3
+- pkg:swift/github.com/googlemaps/google-maps-ios-utils@v7.0.0
