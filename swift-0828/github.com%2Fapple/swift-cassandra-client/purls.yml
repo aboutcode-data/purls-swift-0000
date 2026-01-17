@@ -9,3 +9,4 @@
 - pkg:swift/github.com/apple/swift-cassandra-client@0.7.0
 - pkg:swift/github.com/apple/swift-cassandra-client@0.8.0
 - pkg:swift/github.com/apple/swift-cassandra-client@0.8.1
+- pkg:swift/github.com/apple/swift-cassandra-client@0.9.0

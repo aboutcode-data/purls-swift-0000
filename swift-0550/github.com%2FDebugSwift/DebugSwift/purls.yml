@@ -87,6 +87,7 @@
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.1.0-alpha.4
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.10.0
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.10.1
+- pkg:swift/github.com/DebugSwift/DebugSwift@1.10.2
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.2.0
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.2.0-alpha.1
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.2.0-alpha.2
