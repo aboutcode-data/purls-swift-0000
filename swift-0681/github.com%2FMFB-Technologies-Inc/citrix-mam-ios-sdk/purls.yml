@@ -16,6 +16,9 @@
 - pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@25.5.0%5E%7B%7D
 - pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@25.9.0
 - pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@25.9.0%5E%7B%7D
+- pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@26.1.0
+- pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@26.1.0%5E%7B%7D
 - pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@pre-25.5.0
 - pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@pre-25.5.0%5E%7B%7D
 - pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@pre-25.9.0
+- pkg:swift/github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk@pre-26.1.0

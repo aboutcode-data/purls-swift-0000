@@ -31,3 +31,4 @@
 - pkg:swift/github.com/lukepistrol/SwiftLintPlugin@0.62.1
 - pkg:swift/github.com/lukepistrol/SwiftLintPlugin@0.62.2
 - pkg:swift/github.com/lukepistrol/SwiftLintPlugin@0.63.0
+- pkg:swift/github.com/lukepistrol/SwiftLintPlugin@0.63.1
