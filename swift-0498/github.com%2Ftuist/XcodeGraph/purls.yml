@@ -631,6 +631,8 @@
 - pkg:swift/github.com/tuist/XcodeGraph@1.30.15%5E%7B%7D
 - pkg:swift/github.com/tuist/XcodeGraph@1.30.16
 - pkg:swift/github.com/tuist/XcodeGraph@1.30.16%5E%7B%7D
+- pkg:swift/github.com/tuist/XcodeGraph@1.30.17
+- pkg:swift/github.com/tuist/XcodeGraph@1.30.17%5E%7B%7D
 - pkg:swift/github.com/tuist/XcodeGraph@1.30.2
 - pkg:swift/github.com/tuist/XcodeGraph@1.30.2%5E%7B%7D
 - pkg:swift/github.com/tuist/XcodeGraph@1.30.3
