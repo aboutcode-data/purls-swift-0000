@@ -52,6 +52,7 @@
 - pkg:swift/github.com/lzell/AIProxySwift@0.140.2
 - pkg:swift/github.com/lzell/AIProxySwift@0.141.0
 - pkg:swift/github.com/lzell/AIProxySwift@0.142.0
+- pkg:swift/github.com/lzell/AIProxySwift@0.143.0
 - pkg:swift/github.com/lzell/AIProxySwift@0.58.0
 - pkg:swift/github.com/lzell/AIProxySwift@0.59.0
 - pkg:swift/github.com/lzell/AIProxySwift@0.60.0
