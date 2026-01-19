@@ -82,6 +82,5 @@
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_macOS@4.6.0.TEST5
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_macOS@4.6.0.TEST5%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_macOS@4.6.2
-- pkg:swift/github.com/AgoraIO/AgoraRtcEngine_macOS@4.6.2%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_macOS@test_4.2.0
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_macOS@test_4.2.0%5E%7B%7D
