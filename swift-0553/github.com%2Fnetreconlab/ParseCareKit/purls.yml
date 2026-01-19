@@ -113,3 +113,4 @@
 - pkg:swift/github.com/netreconlab/ParseCareKit@2.0.0-alpha.1
 - pkg:swift/github.com/netreconlab/ParseCareKit@2.0.0-beta.1
 - pkg:swift/github.com/netreconlab/ParseCareKit@2.0.0-beta.2
+- pkg:swift/github.com/netreconlab/ParseCareKit@2.0.1
