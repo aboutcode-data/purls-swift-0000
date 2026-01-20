@@ -25,3 +25,5 @@
 - pkg:swift/github.com/nnabeyang/swift-msgpack@0.7.0%5E%7B%7D
 - pkg:swift/github.com/nnabeyang/swift-msgpack@1.0.0
 - pkg:swift/github.com/nnabeyang/swift-msgpack@1.0.0%5E%7B%7D
+- pkg:swift/github.com/nnabeyang/swift-msgpack@1.1.0
+- pkg:swift/github.com/nnabeyang/swift-msgpack@1.1.0%5E%7B%7D

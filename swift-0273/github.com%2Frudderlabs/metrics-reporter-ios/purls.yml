@@ -1,3 +1,4 @@
+- pkg:swift/github.com/rudderlabs/metrics-reporter-ios@2.0.1
 - pkg:swift/github.com/rudderlabs/metrics-reporter-ios@v1.0.0
 - pkg:swift/github.com/rudderlabs/metrics-reporter-ios@v1.0.0%5E%7B%7D
 - pkg:swift/github.com/rudderlabs/metrics-reporter-ios@v1.1.0
@@ -10,3 +11,5 @@
 - pkg:swift/github.com/rudderlabs/metrics-reporter-ios@v1.2.1%5E%7B%7D
 - pkg:swift/github.com/rudderlabs/metrics-reporter-ios@v2.0.0
 - pkg:swift/github.com/rudderlabs/metrics-reporter-ios@v2.0.0%5E%7B%7D
+- pkg:swift/github.com/rudderlabs/metrics-reporter-ios@v2.0.1
+- pkg:swift/github.com/rudderlabs/metrics-reporter-ios@v2.0.1%5E%7B%7D
