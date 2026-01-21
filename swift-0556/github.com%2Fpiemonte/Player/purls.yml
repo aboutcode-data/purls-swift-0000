@@ -39,6 +39,8 @@
 - pkg:swift/github.com/piemonte/Player@0.13.3%5E%7B%7D
 - pkg:swift/github.com/piemonte/Player@0.14.0
 - pkg:swift/github.com/piemonte/Player@0.14.0%5E%7B%7D
+- pkg:swift/github.com/piemonte/Player@0.15.0
+- pkg:swift/github.com/piemonte/Player@0.15.0%5E%7B%7D
 - pkg:swift/github.com/piemonte/Player@0.2.0
 - pkg:swift/github.com/piemonte/Player@0.2.0%5E%7B%7D
 - pkg:swift/github.com/piemonte/Player@0.2.1
