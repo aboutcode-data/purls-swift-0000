@@ -552,6 +552,8 @@
 - pkg:swift/github.com/tuist/tuist@cache%400.6.5
 - pkg:swift/github.com/tuist/tuist@cache%400.7.0
 - pkg:swift/github.com/tuist/tuist@cache%400.7.1
+- pkg:swift/github.com/tuist/tuist@cache%400.8.0
+- pkg:swift/github.com/tuist/tuist@cache%400.8.1
 - pkg:swift/github.com/tuist/tuist@server%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.1
 - pkg:swift/github.com/tuist/tuist@server%400.1.2
