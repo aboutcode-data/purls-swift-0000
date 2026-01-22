@@ -31,6 +31,10 @@
 - pkg:swift/github.com/tuist/ProjectDescription@3.8.0
 - pkg:swift/github.com/tuist/ProjectDescription@3.9.0
 - pkg:swift/github.com/tuist/ProjectDescription@4.0.0-beta-1
+- pkg:swift/github.com/tuist/ProjectDescription@4.122.0
+- pkg:swift/github.com/tuist/ProjectDescription@4.122.0%5E%7B%7D
+- pkg:swift/github.com/tuist/ProjectDescription@4.130.0
+- pkg:swift/github.com/tuist/ProjectDescription@4.130.0%5E%7B%7D
 - pkg:swift/github.com/tuist/ProjectDescription@4.2.0
 - pkg:swift/github.com/tuist/ProjectDescription@4.33.0
 - pkg:swift/github.com/tuist/ProjectDescription@4.37.0
