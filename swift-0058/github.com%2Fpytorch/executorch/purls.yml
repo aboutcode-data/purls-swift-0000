@@ -71,14 +71,12 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16552
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16561
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16573
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16620
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16688
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16691
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16701
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16737
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16738
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16740
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16756
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16768
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1986
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
