@@ -8,3 +8,4 @@
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift@200.6.0
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift@200.7.0
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift@200.8.0
+- pkg:swift/github.com/Esri/arcgis-maps-sdk-swift@200.8.1
