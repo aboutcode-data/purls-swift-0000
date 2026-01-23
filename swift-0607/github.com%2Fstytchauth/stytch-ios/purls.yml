@@ -3,6 +3,7 @@
 - pkg:swift/github.com/stytchauth/stytch-ios@0.1.7
 - pkg:swift/github.com/stytchauth/stytch-ios@0.1.8
 - pkg:swift/github.com/stytchauth/stytch-ios@0.10.0
+- pkg:swift/github.com/stytchauth/stytch-ios@0.100.0
 - pkg:swift/github.com/stytchauth/stytch-ios@0.11.0
 - pkg:swift/github.com/stytchauth/stytch-ios@0.12.0
 - pkg:swift/github.com/stytchauth/stytch-ios@0.13.0
@@ -104,3 +105,4 @@
 - pkg:swift/github.com/stytchauth/stytch-ios@0.96.0
 - pkg:swift/github.com/stytchauth/stytch-ios@0.97.0
 - pkg:swift/github.com/stytchauth/stytch-ios@0.98.0
+- pkg:swift/github.com/stytchauth/stytch-ios@0.99.0
