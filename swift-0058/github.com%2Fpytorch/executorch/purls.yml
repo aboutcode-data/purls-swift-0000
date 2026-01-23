@@ -69,14 +69,15 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16539
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16543
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16552
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16561
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16573
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16688
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16691
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16738
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16740
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16756
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16768
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16776
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16777
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16781
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1986
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
@@ -177,3 +178,4 @@
 - pkg:swift/github.com/pytorch/executorch@v1.0.1-rc1
 - pkg:swift/github.com/pytorch/executorch@v1.0.1-rc2
 - pkg:swift/github.com/pytorch/executorch@v1.0.1-rc3
+- pkg:swift/github.com/pytorch/executorch@v1.1.0-rc1
