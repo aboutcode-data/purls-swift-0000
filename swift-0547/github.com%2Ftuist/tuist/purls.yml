@@ -270,6 +270,7 @@
 - pkg:swift/github.com/tuist/tuist@4.130.2
 - pkg:swift/github.com/tuist/tuist@4.130.3
 - pkg:swift/github.com/tuist/tuist@4.131.0
+- pkg:swift/github.com/tuist/tuist@4.131.1
 - pkg:swift/github.com/tuist/tuist@4.14.0
 - pkg:swift/github.com/tuist/tuist@4.15.0
 - pkg:swift/github.com/tuist/tuist@4.16.0
