@@ -1,4 +1,5 @@
 - pkg:swift/github.com/swiftlang/swift-subprocess@0.1
 - pkg:swift/github.com/swiftlang/swift-subprocess@0.2
 - pkg:swift/github.com/swiftlang/swift-subprocess@0.2.1
+- pkg:swift/github.com/swiftlang/swift-subprocess@0.3
 - pkg:swift/github.com/swiftlang/swift-subprocess@development-snapshot-2025-07-21

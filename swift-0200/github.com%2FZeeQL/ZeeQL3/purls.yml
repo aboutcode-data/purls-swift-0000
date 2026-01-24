@@ -66,6 +66,7 @@
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.9.48
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.9.5
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.9.50
+- pkg:swift/github.com/ZeeQL/ZeeQL3@0.9.52
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.9.6
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.9.7
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.9.8

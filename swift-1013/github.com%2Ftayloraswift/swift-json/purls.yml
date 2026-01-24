@@ -7,6 +7,7 @@
 - pkg:swift/github.com/tayloraswift/swift-json@1.2.0
 - pkg:swift/github.com/tayloraswift/swift-json@2.0.0
 - pkg:swift/github.com/tayloraswift/swift-json@2.1.0
+- pkg:swift/github.com/tayloraswift/swift-json@2.2.0
 - pkg:swift/github.com/tayloraswift/swift-json@v0.1.0
 - pkg:swift/github.com/tayloraswift/swift-json@v0.1.0%5E%7B%7D
 - pkg:swift/github.com/tayloraswift/swift-json@v0.1.1
