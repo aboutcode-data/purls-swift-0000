@@ -297,6 +297,7 @@
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.58.5
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.58.6
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.58.7
+- pkg:swift/github.com/nicklockwood/SwiftFormat@0.59.0
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.6
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.7
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.7.1

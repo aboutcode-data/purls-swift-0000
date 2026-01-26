@@ -21,5 +21,7 @@
 - pkg:swift/github.com/manolofdez/AsyncBluetooth@5.0.1
 - pkg:swift/github.com/manolofdez/AsyncBluetooth@6.0.0
 - pkg:swift/github.com/manolofdez/AsyncBluetooth@6.1.0
+- pkg:swift/github.com/manolofdez/AsyncBluetooth@6.2.0
+- pkg:swift/github.com/manolofdez/AsyncBluetooth@6.2.1
 - pkg:swift/github.com/manolofdez/AsyncBluetooth@v1.0.0
 - pkg:swift/github.com/manolofdez/AsyncBluetooth@v1.1.0
