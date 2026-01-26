@@ -45,6 +45,7 @@
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@6.33.1
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@6.34.0
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@6.34.1
+- pkg:swift/github.com/bugsnag/bugsnag-cocoa@6.35.0
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@SplitWorkspaces
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@SplitWorkspaces%5E%7B%7D
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@list
@@ -234,6 +235,7 @@
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@v6.33.1
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@v6.34.0
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@v6.34.1
+- pkg:swift/github.com/bugsnag/bugsnag-cocoa@v6.35.0
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@v6.4.0
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@v6.4.1
 - pkg:swift/github.com/bugsnag/bugsnag-cocoa@v6.5.0
