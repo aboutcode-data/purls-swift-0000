@@ -3,6 +3,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/android/release/5588
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/10741
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/16234
+- pkg:swift/github.com/pytorch/executorch@ciflow/binaries/16668
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/16892
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/3049
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/all/16234
@@ -67,15 +68,10 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16463
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16532
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16543
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16688
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16691
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16776
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16827
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16828
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16868
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16870
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16872
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16875
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16903
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1986
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
