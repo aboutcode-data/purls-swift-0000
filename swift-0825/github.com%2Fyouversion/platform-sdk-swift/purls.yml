@@ -7,3 +7,4 @@
 - pkg:swift/github.com/youversion/platform-sdk-swift@0.5.1
 - pkg:swift/github.com/youversion/platform-sdk-swift@1.0.0
 - pkg:swift/github.com/youversion/platform-sdk-swift@1.0.1
+- pkg:swift/github.com/youversion/platform-sdk-swift@2.0.0
