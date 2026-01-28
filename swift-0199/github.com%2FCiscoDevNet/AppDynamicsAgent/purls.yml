@@ -18,3 +18,5 @@
 - pkg:swift/github.com/CiscoDevNet/AppDynamicsAgent@2025.2.0%5E%7B%7D
 - pkg:swift/github.com/CiscoDevNet/AppDynamicsAgent@2025.9.0
 - pkg:swift/github.com/CiscoDevNet/AppDynamicsAgent@2025.9.0%5E%7B%7D
+- pkg:swift/github.com/CiscoDevNet/AppDynamicsAgent@2026.1.0
+- pkg:swift/github.com/CiscoDevNet/AppDynamicsAgent@2026.1.0%5E%7B%7D
