@@ -257,6 +257,8 @@
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@200.8.1.4757%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@200.8.1.4758
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@200.8.1.4758%5E%7B%7D
+- pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@200.8.2.4759
+- pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@200.8.2.4759%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.0.4662
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.0.4662%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.0.4663
@@ -641,6 +643,8 @@
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.0.4855%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.0.4856
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.0.4856%5E%7B%7D
+- pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.0.4857
+- pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.0.4857%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.1.4780
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.1.4780%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.0.1.4781
