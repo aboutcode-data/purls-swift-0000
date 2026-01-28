@@ -271,3 +271,4 @@
 - pkg:swift/github.com/kstenerud/KSCrash@2.3.0-rc.1
 - pkg:swift/github.com/kstenerud/KSCrash@2.4.0
 - pkg:swift/github.com/kstenerud/KSCrash@2.5.0
+- pkg:swift/github.com/kstenerud/KSCrash@2.5.1
