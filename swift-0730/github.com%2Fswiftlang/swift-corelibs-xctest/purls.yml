@@ -2798,6 +2798,8 @@
 - pkg:swift/github.com/swiftlang/swift-corelibs-xctest@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-01-09-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-corelibs-xctest@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-01-16-a
 - pkg:swift/github.com/swiftlang/swift-corelibs-xctest@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-01-16-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-corelibs-xctest@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-01-29-a
+- pkg:swift/github.com/swiftlang/swift-corelibs-xctest@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-01-29-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-corelibs-xctest@swift-DEVELOPMENT-SNAPSHOT-2016-01-25-a
 - pkg:swift/github.com/swiftlang/swift-corelibs-xctest@swift-DEVELOPMENT-SNAPSHOT-2016-01-25-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-corelibs-xctest@swift-DEVELOPMENT-SNAPSHOT-2016-02-03-a
