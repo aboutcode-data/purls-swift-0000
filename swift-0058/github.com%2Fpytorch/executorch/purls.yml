@@ -73,6 +73,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17004
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17065
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17067
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17068
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1986
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
