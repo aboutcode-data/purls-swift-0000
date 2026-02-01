@@ -10,6 +10,7 @@
 - pkg:swift/github.com/Neo4j-Swift/Neo4j-Swift@5.2.0
 - pkg:swift/github.com/Neo4j-Swift/Neo4j-Swift@5.2.0%5E%7B%7D
 - pkg:swift/github.com/Neo4j-Swift/Neo4j-Swift@6.0.0
+- pkg:swift/github.com/Neo4j-Swift/Neo4j-Swift@6.0.1
 - pkg:swift/github.com/Neo4j-Swift/Neo4j-Swift@v1.0
 - pkg:swift/github.com/Neo4j-Swift/Neo4j-Swift@v1.0.1
 - pkg:swift/github.com/Neo4j-Swift/Neo4j-Swift@v2.0
