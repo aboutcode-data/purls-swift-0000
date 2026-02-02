@@ -111,3 +111,7 @@
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.2%5E%7B%7D
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.3
 - pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.3%5E%7B%7D
+- pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.4
+- pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.4%5E%7B%7D
+- pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.5
+- pkg:swift/github.com/tree-sitter/tree-sitter@v0.26.5%5E%7B%7D
