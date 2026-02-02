@@ -43,6 +43,7 @@
 - pkg:swift/github.com/webrtc-sdk/Specs@137.7151.04
 - pkg:swift/github.com/webrtc-sdk/Specs@137.7151.09
 - pkg:swift/github.com/webrtc-sdk/Specs@137.7151.11
+- pkg:swift/github.com/webrtc-sdk/Specs@137.7151.12
 - pkg:swift/github.com/webrtc-sdk/Specs@92.4515.01
 - pkg:swift/github.com/webrtc-sdk/Specs@92.4515.03
 - pkg:swift/github.com/webrtc-sdk/Specs@92.4515.03%5E%7B%7D
