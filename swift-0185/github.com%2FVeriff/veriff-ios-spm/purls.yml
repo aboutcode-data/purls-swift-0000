@@ -116,3 +116,4 @@
 - pkg:swift/github.com/Veriff/veriff-ios-spm@8.7.0
 - pkg:swift/github.com/Veriff/veriff-ios-spm@8.8.0
 - pkg:swift/github.com/Veriff/veriff-ios-spm@8.9.0
+- pkg:swift/github.com/Veriff/veriff-ios-spm@9.0.0
