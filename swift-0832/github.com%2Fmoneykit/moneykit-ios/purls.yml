@@ -21,6 +21,7 @@
 - pkg:swift/github.com/moneykit/moneykit-ios@1.1.9
 - pkg:swift/github.com/moneykit/moneykit-ios@1.10.3
 - pkg:swift/github.com/moneykit/moneykit-ios@1.10.4
+- pkg:swift/github.com/moneykit/moneykit-ios@1.10.7
 - pkg:swift/github.com/moneykit/moneykit-ios@1.2.0
 - pkg:swift/github.com/moneykit/moneykit-ios@1.2.1
 - pkg:swift/github.com/moneykit/moneykit-ios@1.2.2
