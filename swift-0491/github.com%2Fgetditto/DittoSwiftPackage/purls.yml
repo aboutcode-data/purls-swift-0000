@@ -245,6 +245,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-kmp-publishing.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-publish-script-update.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-sdk-test-suite.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-sprint-demo.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental.kb-inline-objc-into-swift-sdk.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental.kb-inline-objc-into-swift-sdk.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental.kb-inline-objc-into-swift-sdk.3
