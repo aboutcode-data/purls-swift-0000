@@ -19,6 +19,8 @@
 - pkg:swift/github.com/teunlao/swift-ai-sdk@v0.12.0%5E%7B%7D
 - pkg:swift/github.com/teunlao/swift-ai-sdk@v0.12.1
 - pkg:swift/github.com/teunlao/swift-ai-sdk@v0.12.1%5E%7B%7D
+- pkg:swift/github.com/teunlao/swift-ai-sdk@v0.13.0
+- pkg:swift/github.com/teunlao/swift-ai-sdk@v0.13.0%5E%7B%7D
 - pkg:swift/github.com/teunlao/swift-ai-sdk@v0.2.0
 - pkg:swift/github.com/teunlao/swift-ai-sdk@v0.2.1
 - pkg:swift/github.com/teunlao/swift-ai-sdk@v0.2.1%5E%7B%7D
