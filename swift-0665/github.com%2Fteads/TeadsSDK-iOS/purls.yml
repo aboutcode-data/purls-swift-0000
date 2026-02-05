@@ -74,6 +74,8 @@
 - pkg:swift/github.com/teads/TeadsSDK-iOS@6.0.5-beta%5E%7B%7D
 - pkg:swift/github.com/teads/TeadsSDK-iOS@6.0.6
 - pkg:swift/github.com/teads/TeadsSDK-iOS@6.0.6%5E%7B%7D
+- pkg:swift/github.com/teads/TeadsSDK-iOS@6.0.7
+- pkg:swift/github.com/teads/TeadsSDK-iOS@6.0.7%5E%7B%7D
 - pkg:swift/github.com/teads/TeadsSDK-iOS@v
 - pkg:swift/github.com/teads/TeadsSDK-iOS@v1.0
 - pkg:swift/github.com/teads/TeadsSDK-iOS@v1.0.1

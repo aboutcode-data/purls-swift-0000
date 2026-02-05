@@ -935,4 +935,5 @@
 - pkg:swift/github.com/tuist/tuist@server%401.89.0
 - pkg:swift/github.com/tuist/tuist@server%401.9.0
 - pkg:swift/github.com/tuist/tuist@server%401.9.1
+- pkg:swift/github.com/tuist/tuist@server%401.90.0
 - pkg:swift/github.com/tuist/tuist@support-run-on-xcode-cloud-release

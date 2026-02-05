@@ -464,3 +464,5 @@
 - pkg:swift/github.com/xmtp/xmtp-ios@4.9.0-dev.fce3ad0-dylib
 - pkg:swift/github.com/xmtp/xmtp-ios@4.9.0-dev.fce3ad0-dylib%5E%7B%7D
 - pkg:swift/github.com/xmtp/xmtp-ios@4.9.0-dev.test.1
+- pkg:swift/github.com/xmtp/xmtp-ios@4.9.0-dylib
+- pkg:swift/github.com/xmtp/xmtp-ios@4.9.0-dylib%5E%7B%7D
