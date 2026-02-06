@@ -106,5 +106,6 @@
 - pkg:swift/github.com/grpc/grpc-ios@v1.75.0-pre1
 - pkg:swift/github.com/grpc/grpc-ios@v1.76.0
 - pkg:swift/github.com/grpc/grpc-ios@v1.76.0-pre1
+- pkg:swift/github.com/grpc/grpc-ios@v1.78.0
 - pkg:swift/github.com/grpc/grpc-ios@v1.78.0-pre1
 - pkg:swift/github.com/grpc/grpc-ios@v1.78.0-pre2
