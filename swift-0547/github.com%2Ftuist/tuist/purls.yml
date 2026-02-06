@@ -294,6 +294,7 @@
 - pkg:swift/github.com/tuist/tuist@4.139.1
 - pkg:swift/github.com/tuist/tuist@4.14.0
 - pkg:swift/github.com/tuist/tuist@4.140.0
+- pkg:swift/github.com/tuist/tuist@4.140.1
 - pkg:swift/github.com/tuist/tuist@4.15.0
 - pkg:swift/github.com/tuist/tuist@4.16.0
 - pkg:swift/github.com/tuist/tuist@4.16.1
@@ -945,4 +946,5 @@
 - pkg:swift/github.com/tuist/tuist@server%401.90.2
 - pkg:swift/github.com/tuist/tuist@server%401.90.3
 - pkg:swift/github.com/tuist/tuist@server%401.90.4
+- pkg:swift/github.com/tuist/tuist@server%401.91.0
 - pkg:swift/github.com/tuist/tuist@support-run-on-xcode-cloud-release
