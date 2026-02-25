@@ -11,4 +11,10 @@
 - pkg:swift/github.com/worldcoin/idkit-swift@3.0.0
 - pkg:swift/github.com/worldcoin/idkit-swift@3.0.1
 - pkg:swift/github.com/worldcoin/idkit-swift@4.0.0
+- pkg:swift/github.com/worldcoin/idkit-swift@4.0.0-dev.1362ee5
+- pkg:swift/github.com/worldcoin/idkit-swift@4.0.0-dev.a6de581
+- pkg:swift/github.com/worldcoin/idkit-swift@4.0.0-dev.ada3be3
+- pkg:swift/github.com/worldcoin/idkit-swift@4.0.0-dev.d9b5b29
+- pkg:swift/github.com/worldcoin/idkit-swift@4.0.0-dev.fe98789
 - pkg:swift/github.com/worldcoin/idkit-swift@4.0.1
+- pkg:swift/github.com/worldcoin/idkit-swift@4.0.2

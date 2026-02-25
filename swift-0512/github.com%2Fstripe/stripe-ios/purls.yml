@@ -414,6 +414,14 @@
 - pkg:swift/github.com/stripe/stripe-ios@25.6.0%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-ios@25.6.1
 - pkg:swift/github.com/stripe/stripe-ios@25.6.1%5E%7B%7D
+- pkg:swift/github.com/stripe/stripe-ios@25.6.2
+- pkg:swift/github.com/stripe/stripe-ios@25.6.2%5E%7B%7D
+- pkg:swift/github.com/stripe/stripe-ios@25.6.3
+- pkg:swift/github.com/stripe/stripe-ios@25.6.3%5E%7B%7D
+- pkg:swift/github.com/stripe/stripe-ios@25.6.4
+- pkg:swift/github.com/stripe/stripe-ios@25.6.4%5E%7B%7D
+- pkg:swift/github.com/stripe/stripe-ios@25.7.0
+- pkg:swift/github.com/stripe/stripe-ios@25.7.0%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-ios@X.Y.Z
 - pkg:swift/github.com/stripe/stripe-ios@X.Y.Z%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-ios@fastlane-tag/iosstore/v1.0/build-2-identity_example

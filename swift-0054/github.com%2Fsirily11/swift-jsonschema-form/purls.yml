@@ -1,1 +1,5 @@
-- pkg:swift/github.com/sirily11/swift-jsonschema-form@aa6162ff8fb5df9de44c618553346d999606ff8a
+- pkg:swift/github.com/sirily11/swift-jsonschema-form@v1.0.0
+- pkg:swift/github.com/sirily11/swift-jsonschema-form@v1.0.1
+- pkg:swift/github.com/sirily11/swift-jsonschema-form@v1.0.2
+- pkg:swift/github.com/sirily11/swift-jsonschema-form@v1.0.3
+- pkg:swift/github.com/sirily11/swift-jsonschema-form@v1.0.4

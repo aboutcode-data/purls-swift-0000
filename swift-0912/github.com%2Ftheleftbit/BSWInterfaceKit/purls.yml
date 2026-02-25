@@ -106,8 +106,14 @@
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.5.2
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.0
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.1
+- pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.10
+- pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.10%5E%7B%7D
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.2
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.3
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.4
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.4%5E%7B%7D
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.5
+- pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.6
+- pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.7
+- pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.8
+- pkg:swift/github.com/theleftbit/BSWInterfaceKit@9.6.9

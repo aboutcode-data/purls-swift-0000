@@ -47,6 +47,7 @@
 - pkg:swift/github.com/swift-server/RediStack@1.6.0
 - pkg:swift/github.com/swift-server/RediStack@1.6.1
 - pkg:swift/github.com/swift-server/RediStack@1.6.2
+- pkg:swift/github.com/swift-server/RediStack@1.6.3
 - pkg:swift/github.com/swift-server/RediStack@2.0.0-alpha.1
 - pkg:swift/github.com/swift-server/RediStack@2.0.0-alpha.2
 - pkg:swift/github.com/swift-server/RediStack@2.0.0-alpha.3

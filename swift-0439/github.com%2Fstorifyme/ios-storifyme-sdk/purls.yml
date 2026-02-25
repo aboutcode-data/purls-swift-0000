@@ -102,3 +102,5 @@
 - pkg:swift/github.com/storifyme/ios-storifyme-sdk@v2.5.6%5E%7B%7D
 - pkg:swift/github.com/storifyme/ios-storifyme-sdk@v2.5.7
 - pkg:swift/github.com/storifyme/ios-storifyme-sdk@v2.5.7%5E%7B%7D
+- pkg:swift/github.com/storifyme/ios-storifyme-sdk@v2.6.0
+- pkg:swift/github.com/storifyme/ios-storifyme-sdk@v2.6.0%5E%7B%7D

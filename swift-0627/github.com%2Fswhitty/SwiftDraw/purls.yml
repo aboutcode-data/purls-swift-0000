@@ -63,6 +63,8 @@
 - pkg:swift/github.com/swhitty/SwiftDraw@0.25.3%5E%7B%7D
 - pkg:swift/github.com/swhitty/SwiftDraw@0.26.0
 - pkg:swift/github.com/swhitty/SwiftDraw@0.26.0%5E%7B%7D
+- pkg:swift/github.com/swhitty/SwiftDraw@0.27.0
+- pkg:swift/github.com/swhitty/SwiftDraw@0.27.0%5E%7B%7D
 - pkg:swift/github.com/swhitty/SwiftDraw@0.3
 - pkg:swift/github.com/swhitty/SwiftDraw@0.3%5E%7B%7D
 - pkg:swift/github.com/swhitty/SwiftDraw@0.3.1
