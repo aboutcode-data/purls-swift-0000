@@ -21,6 +21,7 @@
 - pkg:swift/github.com/checkout/checkout-3ds-sdk-ios@3.2.10%5E%7B%7D
 - pkg:swift/github.com/checkout/checkout-3ds-sdk-ios@3.2.11
 - pkg:swift/github.com/checkout/checkout-3ds-sdk-ios@3.2.12
+- pkg:swift/github.com/checkout/checkout-3ds-sdk-ios@3.2.14
 - pkg:swift/github.com/checkout/checkout-3ds-sdk-ios@3.2.2
 - pkg:swift/github.com/checkout/checkout-3ds-sdk-ios@3.2.2%5E%7B%7D
 - pkg:swift/github.com/checkout/checkout-3ds-sdk-ios@3.2.3

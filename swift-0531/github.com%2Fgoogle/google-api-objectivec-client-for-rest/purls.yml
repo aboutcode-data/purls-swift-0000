@@ -45,3 +45,4 @@
 - pkg:swift/github.com/google/google-api-objectivec-client-for-rest@v4.2.0
 - pkg:swift/github.com/google/google-api-objectivec-client-for-rest@v5.0.0
 - pkg:swift/github.com/google/google-api-objectivec-client-for-rest@v5.1.0
+- pkg:swift/github.com/google/google-api-objectivec-client-for-rest@v5.2.0

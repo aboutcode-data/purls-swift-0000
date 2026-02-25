@@ -12,4 +12,6 @@
 - pkg:swift/github.com/ainame/swift-slack-client@0.1.2%5E%7B%7D
 - pkg:swift/github.com/ainame/swift-slack-client@0.2.0
 - pkg:swift/github.com/ainame/swift-slack-client@0.2.0%5E%7B%7D
+- pkg:swift/github.com/ainame/swift-slack-client@0.3.0
+- pkg:swift/github.com/ainame/swift-slack-client@0.4.0
 - pkg:swift/github.com/ainame/swift-slack-client@v0.1.0

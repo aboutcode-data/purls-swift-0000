@@ -60,3 +60,6 @@
 - pkg:swift/github.com/dagronf/CIFilterFactory@17.4.0
 - pkg:swift/github.com/dagronf/CIFilterFactory@18.0.0
 - pkg:swift/github.com/dagronf/CIFilterFactory@18.1.0
+- pkg:swift/github.com/dagronf/CIFilterFactory@19.0
+- pkg:swift/github.com/dagronf/CIFilterFactory@19.0.0
+- pkg:swift/github.com/dagronf/CIFilterFactory@190.0

@@ -8,6 +8,7 @@
 - pkg:swift/github.com/GraphQLSwift/GraphQLTransportWS@0.1.0
 - pkg:swift/github.com/GraphQLSwift/GraphQLTransportWS@0.2.0
 - pkg:swift/github.com/GraphQLSwift/GraphQLTransportWS@0.2.1
+- pkg:swift/github.com/GraphQLSwift/GraphQLTransportWS@1.0.0
 - pkg:swift/github.com/GraphQLSwift/GraphQLTransportWS@v0.0.1
 - pkg:swift/github.com/GraphQLSwift/GraphQLTransportWS@v0.0.1%5E%7B%7D
 - pkg:swift/github.com/GraphQLSwift/GraphQLTransportWS@v0.0.2

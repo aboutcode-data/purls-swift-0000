@@ -26,6 +26,7 @@
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.1.0
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.0
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.1
+- pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.10
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.2
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.3
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.4
@@ -33,3 +34,5 @@
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.6
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.7
 - pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.8
+- pkg:swift/github.com/devrev/devrev-sdk-ios@v2.2.9
+- pkg:swift/github.com/devrev/devrev-sdk-ios@v2.3.0

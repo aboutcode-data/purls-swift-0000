@@ -18,4 +18,6 @@
 - pkg:swift/github.com/combateafraude/FaceLiveness@7.2.1
 - pkg:swift/github.com/combateafraude/FaceLiveness@7.3.0
 - pkg:swift/github.com/combateafraude/FaceLiveness@7.3.1
+- pkg:swift/github.com/combateafraude/FaceLiveness@7.4.0
+- pkg:swift/github.com/combateafraude/FaceLiveness@7.4.0-rc
 - pkg:swift/github.com/combateafraude/FaceLiveness@test-pipeline-1.0.0

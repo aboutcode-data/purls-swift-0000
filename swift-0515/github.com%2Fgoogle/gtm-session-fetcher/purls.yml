@@ -47,3 +47,4 @@
 - pkg:swift/github.com/google/gtm-session-fetcher@v4.4.0
 - pkg:swift/github.com/google/gtm-session-fetcher@v4.5.0
 - pkg:swift/github.com/google/gtm-session-fetcher@v5.0.0
+- pkg:swift/github.com/google/gtm-session-fetcher@v5.1.0

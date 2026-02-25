@@ -36,3 +36,4 @@
 - pkg:swift/github.com/apple/swift-metrics@2.6.1
 - pkg:swift/github.com/apple/swift-metrics@2.7.0
 - pkg:swift/github.com/apple/swift-metrics@2.7.1
+- pkg:swift/github.com/apple/swift-metrics@2.8.0

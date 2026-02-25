@@ -26,3 +26,6 @@
 - pkg:swift/github.com/brivo-mobile-team/brivo-mobile-sdk-ios@2.6.1
 - pkg:swift/github.com/brivo-mobile-team/brivo-mobile-sdk-ios@2.6.2
 - pkg:swift/github.com/brivo-mobile-team/brivo-mobile-sdk-ios@2.6.3
+- pkg:swift/github.com/brivo-mobile-team/brivo-mobile-sdk-ios@2.7.0
+- pkg:swift/github.com/brivo-mobile-team/brivo-mobile-sdk-ios@2.7.0%5E%7B%7D
+- pkg:swift/github.com/brivo-mobile-team/brivo-mobile-sdk-ios@2.7.1

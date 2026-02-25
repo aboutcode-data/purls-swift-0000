@@ -102,6 +102,7 @@
 - pkg:swift/github.com/hummingbird-project/hummingbird@2.19.0
 - pkg:swift/github.com/hummingbird-project/hummingbird@2.2.0
 - pkg:swift/github.com/hummingbird-project/hummingbird@2.20.0
+- pkg:swift/github.com/hummingbird-project/hummingbird@2.20.1
 - pkg:swift/github.com/hummingbird-project/hummingbird@2.3.0
 - pkg:swift/github.com/hummingbird-project/hummingbird@2.4.0
 - pkg:swift/github.com/hummingbird-project/hummingbird@2.5.0
