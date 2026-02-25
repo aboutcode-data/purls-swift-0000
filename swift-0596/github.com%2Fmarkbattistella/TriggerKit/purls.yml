@@ -1,3 +1,4 @@
 - pkg:swift/github.com/markbattistella/TriggerKit@1.0.0
 - pkg:swift/github.com/markbattistella/TriggerKit@1.0.1
-- pkg:swift/github.com/markbattistella/TriggerKit@26.01.09
+- pkg:swift/github.com/markbattistella/TriggerKit@26.1.9
+- pkg:swift/github.com/markbattistella/TriggerKit@26.2.21

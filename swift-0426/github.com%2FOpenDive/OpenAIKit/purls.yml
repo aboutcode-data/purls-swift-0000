@@ -7,3 +7,5 @@
 - pkg:swift/github.com/OpenDive/OpenAIKit@1.2
 - pkg:swift/github.com/OpenDive/OpenAIKit@2.0
 - pkg:swift/github.com/OpenDive/OpenAIKit@2.0.1
+- pkg:swift/github.com/OpenDive/OpenAIKit@v3.0.0
+- pkg:swift/github.com/OpenDive/OpenAIKit@v3.0.0%5E%7B%7D

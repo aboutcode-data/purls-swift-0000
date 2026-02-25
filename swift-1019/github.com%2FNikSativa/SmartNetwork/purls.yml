@@ -129,3 +129,5 @@
 - pkg:swift/github.com/NikSativa/SmartNetwork@5.6.8
 - pkg:swift/github.com/NikSativa/SmartNetwork@5.6.9
 - pkg:swift/github.com/NikSativa/SmartNetwork@5.7.0
+- pkg:swift/github.com/NikSativa/SmartNetwork@5.7.1
+- pkg:swift/github.com/NikSativa/SmartNetwork@5.7.2

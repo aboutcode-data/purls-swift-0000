@@ -32,3 +32,4 @@
 - pkg:swift/github.com/orlandos-nl/DNSClient@2.5.0
 - pkg:swift/github.com/orlandos-nl/DNSClient@2.6.0
 - pkg:swift/github.com/orlandos-nl/DNSClient@2.6.1
+- pkg:swift/github.com/orlandos-nl/DNSClient@2.7.0

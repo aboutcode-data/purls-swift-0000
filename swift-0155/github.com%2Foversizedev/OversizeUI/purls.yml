@@ -50,6 +50,7 @@
 - pkg:swift/github.com/oversizedev/OversizeUI@3.13.0
 - pkg:swift/github.com/oversizedev/OversizeUI@3.14.0
 - pkg:swift/github.com/oversizedev/OversizeUI@3.15.0
+- pkg:swift/github.com/oversizedev/OversizeUI@3.16.0
 - pkg:swift/github.com/oversizedev/OversizeUI@3.2.0
 - pkg:swift/github.com/oversizedev/OversizeUI@3.3.0
 - pkg:swift/github.com/oversizedev/OversizeUI@3.4.0

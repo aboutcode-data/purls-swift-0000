@@ -154,3 +154,4 @@
 - pkg:swift/github.com/onfido/onfido-ios-sdk@32.6.2
 - pkg:swift/github.com/onfido/onfido-ios-sdk@32.6.3
 - pkg:swift/github.com/onfido/onfido-ios-sdk@32.7.0
+- pkg:swift/github.com/onfido/onfido-ios-sdk@32.8.0

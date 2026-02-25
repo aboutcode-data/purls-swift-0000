@@ -750,6 +750,10 @@
 - pkg:swift/github.com/realm/realm-core@v20.1.0
 - pkg:swift/github.com/realm/realm-core@v20.1.1
 - pkg:swift/github.com/realm/realm-core@v20.1.2
+- pkg:swift/github.com/realm/realm-core@v20.1.3
+- pkg:swift/github.com/realm/realm-core@v20.1.3%5E%7B%7D
+- pkg:swift/github.com/realm/realm-core@v20.1.4
+- pkg:swift/github.com/realm/realm-core@v20.1.4%5E%7B%7D
 - pkg:swift/github.com/realm/realm-core@v3.0.0
 - pkg:swift/github.com/realm/realm-core@v3.0.0%5E%7B%7D
 - pkg:swift/github.com/realm/realm-core@v3.0.0-rc1

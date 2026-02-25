@@ -146,6 +146,7 @@
 - pkg:swift/github.com/nathantannar4/Transmission@2.5.7
 - pkg:swift/github.com/nathantannar4/Transmission@2.5.8
 - pkg:swift/github.com/nathantannar4/Transmission@2.5.9
+- pkg:swift/github.com/nathantannar4/Transmission@2.6.0
 - pkg:swift/github.com/nathantannar4/Transmission@2.6.0-pre-release-1
 - pkg:swift/github.com/nathantannar4/Transmission@2.6.0-pre-release-2
 - pkg:swift/github.com/nathantannar4/Transmission@2.6.0-pre-release-3

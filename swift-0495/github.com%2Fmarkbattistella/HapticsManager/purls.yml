@@ -12,4 +12,5 @@
 - pkg:swift/github.com/markbattistella/HapticsManager@25.11.22
 - pkg:swift/github.com/markbattistella/HapticsManager@25.11.25
 - pkg:swift/github.com/markbattistella/HapticsManager@25.11.26
-- pkg:swift/github.com/markbattistella/HapticsManager@26.01.09
+- pkg:swift/github.com/markbattistella/HapticsManager@26.1.9
+- pkg:swift/github.com/markbattistella/HapticsManager@26.2.21

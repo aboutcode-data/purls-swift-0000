@@ -85,3 +85,6 @@
 - pkg:swift/github.com/intercom/intercom-ios-sp@19.3.5
 - pkg:swift/github.com/intercom/intercom-ios-sp@19.4.0
 - pkg:swift/github.com/intercom/intercom-ios-sp@19.4.1
+- pkg:swift/github.com/intercom/intercom-ios-sp@19.5.0
+- pkg:swift/github.com/intercom/intercom-ios-sp@19.5.1
+- pkg:swift/github.com/intercom/intercom-ios-sp@19.5.2

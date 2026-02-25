@@ -152,3 +152,9 @@
 - pkg:swift/github.com/peripheryapp/periphery@3.3.0%5E%7B%7D
 - pkg:swift/github.com/peripheryapp/periphery@3.4.0
 - pkg:swift/github.com/peripheryapp/periphery@3.4.0%5E%7B%7D
+- pkg:swift/github.com/peripheryapp/periphery@3.5.0
+- pkg:swift/github.com/peripheryapp/periphery@3.5.0%5E%7B%7D
+- pkg:swift/github.com/peripheryapp/periphery@3.5.1
+- pkg:swift/github.com/peripheryapp/periphery@3.5.1%5E%7B%7D
+- pkg:swift/github.com/peripheryapp/periphery@3.6.0
+- pkg:swift/github.com/peripheryapp/periphery@3.6.0%5E%7B%7D
