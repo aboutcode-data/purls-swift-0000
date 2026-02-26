@@ -11,6 +11,8 @@
 - pkg:swift/github.com/home-assistant/HAKit@0.4.10%5E%7B%7D
 - pkg:swift/github.com/home-assistant/HAKit@0.4.11
 - pkg:swift/github.com/home-assistant/HAKit@0.4.11%5E%7B%7D
+- pkg:swift/github.com/home-assistant/HAKit@0.4.12
+- pkg:swift/github.com/home-assistant/HAKit@0.4.12%5E%7B%7D
 - pkg:swift/github.com/home-assistant/HAKit@0.4.2
 - pkg:swift/github.com/home-assistant/HAKit@0.4.2%5E%7B%7D
 - pkg:swift/github.com/home-assistant/HAKit@0.4.3
