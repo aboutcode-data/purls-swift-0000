@@ -1,2 +1,4 @@
+- pkg:swift/github.com/LukaAlhonen/SwiftMQTTAsync@1.0.0-beta
+- pkg:swift/github.com/LukaAlhonen/SwiftMQTTAsync@1.0.0b
 - pkg:swift/github.com/LukaAlhonen/SwiftMQTTAsync@v0.1.0
 - pkg:swift/github.com/LukaAlhonen/SwiftMQTTAsync@v0.2.0
