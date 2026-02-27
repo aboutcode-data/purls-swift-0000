@@ -1,0 +1,4 @@
+- pkg:swift/github.com/wiedem/app-entitlements@1.0.0
+- pkg:swift/github.com/wiedem/app-entitlements@1.1.0
+- pkg:swift/github.com/wiedem/app-entitlements@1.1.0%5E%7B%7D
+- pkg:swift/github.com/wiedem/app-entitlements@2.0.0
