@@ -1734,6 +1734,8 @@
 - pkg:swift/github.com/swiftlang/indexstore-db@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-02-21-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/indexstore-db@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-02-26-a
 - pkg:swift/github.com/swiftlang/indexstore-db@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-02-26-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/indexstore-db@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-02-27-a
+- pkg:swift/github.com/swiftlang/indexstore-db@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-02-27-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/indexstore-db@swift-DEVELOPMENT-SNAPSHOT-2019-02-14-a
 - pkg:swift/github.com/swiftlang/indexstore-db@swift-DEVELOPMENT-SNAPSHOT-2019-02-14-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/indexstore-db@swift-DEVELOPMENT-SNAPSHOT-2019-02-19-a
