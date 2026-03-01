@@ -265,6 +265,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-swift-remove-support-for-cocoapods.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260215.211
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260222.225
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260301.226
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.3
