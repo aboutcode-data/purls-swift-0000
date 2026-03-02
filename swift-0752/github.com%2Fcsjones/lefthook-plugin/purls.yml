@@ -110,3 +110,4 @@
 - pkg:swift/github.com/csjones/lefthook-plugin@2.0.9
 - pkg:swift/github.com/csjones/lefthook-plugin@2.1.0
 - pkg:swift/github.com/csjones/lefthook-plugin@2.1.1
+- pkg:swift/github.com/csjones/lefthook-plugin@2.1.2
