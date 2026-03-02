@@ -1,0 +1,4 @@
+- pkg:swift/github.com/brunogama/MacroTemplateKit@v.0.0.3
+- pkg:swift/github.com/brunogama/MacroTemplateKit@v0.0.1
+- pkg:swift/github.com/brunogama/MacroTemplateKit@v0.0.1%5E%7B%7D
+- pkg:swift/github.com/brunogama/MacroTemplateKit@v0.0.4
