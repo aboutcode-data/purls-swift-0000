@@ -80,6 +80,7 @@
 - pkg:swift/github.com/ReactiveX/RxSwift@6.1.0
 - pkg:swift/github.com/ReactiveX/RxSwift@6.10.0
 - pkg:swift/github.com/ReactiveX/RxSwift@6.10.1
+- pkg:swift/github.com/ReactiveX/RxSwift@6.10.2
 - pkg:swift/github.com/ReactiveX/RxSwift@6.2.0
 - pkg:swift/github.com/ReactiveX/RxSwift@6.5.0
 - pkg:swift/github.com/ReactiveX/RxSwift@6.6.0
