@@ -87,3 +87,5 @@
 - pkg:swift/github.com/devicekit/DeviceKit@5.6.0%5E%7B%7D
 - pkg:swift/github.com/devicekit/DeviceKit@5.7.0
 - pkg:swift/github.com/devicekit/DeviceKit@5.7.0%5E%7B%7D
+- pkg:swift/github.com/devicekit/DeviceKit@5.8.0
+- pkg:swift/github.com/devicekit/DeviceKit@5.8.0%5E%7B%7D
