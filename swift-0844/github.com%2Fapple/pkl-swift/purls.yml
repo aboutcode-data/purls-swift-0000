@@ -26,6 +26,10 @@
 - pkg:swift/github.com/apple/pkl-swift@0.7.2%5E%7B%7D
 - pkg:swift/github.com/apple/pkl-swift@0.8.0
 - pkg:swift/github.com/apple/pkl-swift@0.8.0%5E%7B%7D
+- pkg:swift/github.com/apple/pkl-swift@0.8.1
+- pkg:swift/github.com/apple/pkl-swift@0.8.1%5E%7B%7D
+- pkg:swift/github.com/apple/pkl-swift@0.8.2
+- pkg:swift/github.com/apple/pkl-swift@0.8.2%5E%7B%7D
 - pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.2.0
 - pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.2.1
 - pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.2.2
@@ -43,3 +47,7 @@
 - pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.7.2%5E%7B%7D
 - pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.8.0
 - pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.8.0%5E%7B%7D
+- pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.8.1
+- pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.8.1%5E%7B%7D
+- pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.8.2
+- pkg:swift/github.com/apple/pkl-swift@pkl.swift%400.8.2%5E%7B%7D
