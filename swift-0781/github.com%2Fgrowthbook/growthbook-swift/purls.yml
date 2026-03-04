@@ -3,6 +3,8 @@
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.0%5E%7B%7D
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.1
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.10
+- pkg:swift/github.com/growthbook/growthbook-swift@1.0.100
+- pkg:swift/github.com/growthbook/growthbook-swift@1.0.101
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.11
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.12
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.13
@@ -96,3 +98,5 @@
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.95
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.96
 - pkg:swift/github.com/growthbook/growthbook-swift@1.0.97
+- pkg:swift/github.com/growthbook/growthbook-swift@1.0.98
+- pkg:swift/github.com/growthbook/growthbook-swift@1.0.99
