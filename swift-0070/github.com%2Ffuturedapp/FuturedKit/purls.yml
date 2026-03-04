@@ -13,3 +13,5 @@
 - pkg:swift/github.com/futuredapp/FuturedKit@1.3.2
 - pkg:swift/github.com/futuredapp/FuturedKit@1.3.2%5E%7B%7D
 - pkg:swift/github.com/futuredapp/FuturedKit@1.4.0
+- pkg:swift/github.com/futuredapp/FuturedKit@1.4.1
+- pkg:swift/github.com/futuredapp/FuturedKit@2.0.0

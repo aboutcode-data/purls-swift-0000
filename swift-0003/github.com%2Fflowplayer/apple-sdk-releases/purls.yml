@@ -26,4 +26,5 @@
 - pkg:swift/github.com/flowplayer/apple-sdk-releases@4.8.0
 - pkg:swift/github.com/flowplayer/apple-sdk-releases@4.8.1
 - pkg:swift/github.com/flowplayer/apple-sdk-releases@4.8.1-rc.0
+- pkg:swift/github.com/flowplayer/apple-sdk-releases@4.8.2
 - pkg:swift/github.com/flowplayer/apple-sdk-releases@4.8.2-rc.0
