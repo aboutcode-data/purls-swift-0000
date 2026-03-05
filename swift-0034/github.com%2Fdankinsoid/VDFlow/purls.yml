@@ -346,6 +346,12 @@
 - pkg:swift/github.com/dankinsoid/VDFlow@4.39.0%5E%7B%7D
 - pkg:swift/github.com/dankinsoid/VDFlow@4.4.0
 - pkg:swift/github.com/dankinsoid/VDFlow@4.4.0%5E%7B%7D
+- pkg:swift/github.com/dankinsoid/VDFlow@4.40.0
+- pkg:swift/github.com/dankinsoid/VDFlow@4.40.0%5E%7B%7D
+- pkg:swift/github.com/dankinsoid/VDFlow@4.40.1
+- pkg:swift/github.com/dankinsoid/VDFlow@4.40.1%5E%7B%7D
+- pkg:swift/github.com/dankinsoid/VDFlow@4.40.2
+- pkg:swift/github.com/dankinsoid/VDFlow@4.40.2%5E%7B%7D
 - pkg:swift/github.com/dankinsoid/VDFlow@4.5.0
 - pkg:swift/github.com/dankinsoid/VDFlow@4.5.0%5E%7B%7D
 - pkg:swift/github.com/dankinsoid/VDFlow@4.6.0
