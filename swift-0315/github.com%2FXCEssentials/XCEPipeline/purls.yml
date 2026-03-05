@@ -58,6 +58,7 @@
 - pkg:swift/github.com/XCEssentials/XCEPipeline@3.1.5%5E%7B%7D
 - pkg:swift/github.com/XCEssentials/XCEPipeline@3.1.6
 - pkg:swift/github.com/XCEssentials/XCEPipeline@3.1.6%5E%7B%7D
+- pkg:swift/github.com/XCEssentials/XCEPipeline@3.10.0
 - pkg:swift/github.com/XCEssentials/XCEPipeline@3.2.0
 - pkg:swift/github.com/XCEssentials/XCEPipeline@3.2.0%5E%7B%7D
 - pkg:swift/github.com/XCEssentials/XCEPipeline@3.3.0
