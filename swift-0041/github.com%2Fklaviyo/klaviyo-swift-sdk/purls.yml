@@ -65,3 +65,4 @@
 - pkg:swift/github.com/klaviyo/klaviyo-swift-sdk@5.1.1
 - pkg:swift/github.com/klaviyo/klaviyo-swift-sdk@5.2.0
 - pkg:swift/github.com/klaviyo/klaviyo-swift-sdk@5.2.0-alpha.1
+- pkg:swift/github.com/klaviyo/klaviyo-swift-sdk@5.2.1
