@@ -5,3 +5,4 @@
 - pkg:swift/github.com/elegantchaos/JSONSession@v1.1.0
 - pkg:swift/github.com/elegantchaos/JSONSession@v1.1.1
 - pkg:swift/github.com/elegantchaos/JSONSession@v2.0.0
+- pkg:swift/github.com/elegantchaos/JSONSession@v3.0.0

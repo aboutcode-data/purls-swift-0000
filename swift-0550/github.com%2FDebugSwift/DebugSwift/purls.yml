@@ -94,6 +94,7 @@
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.11.1
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.11.2
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.12.0
+- pkg:swift/github.com/DebugSwift/DebugSwift@1.13.0
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.2.0
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.2.0-alpha.1
 - pkg:swift/github.com/DebugSwift/DebugSwift@1.2.0-alpha.2
@@ -184,6 +185,7 @@
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.21
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.22
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.23
+- pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.24
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.3
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.4
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.5
@@ -191,5 +193,6 @@
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.7
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.8
 - pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.13.9
+- pkg:swift/github.com/DebugSwift/DebugSwift@rc-1.14.0
 - pkg:swift/github.com/DebugSwift/DebugSwift@v1.0.0
 - pkg:swift/github.com/DebugSwift/DebugSwift@v1.1.0
