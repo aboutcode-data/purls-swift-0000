@@ -57,6 +57,7 @@
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.2.29
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.2.3
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.2.30
+- pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.2.31
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.2.4
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.2.5
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.2.6

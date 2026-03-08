@@ -301,6 +301,7 @@
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.59.1
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.6
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.60.0
+- pkg:swift/github.com/nicklockwood/SwiftFormat@0.60.1
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.7
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.7.1
 - pkg:swift/github.com/nicklockwood/SwiftFormat@0.8

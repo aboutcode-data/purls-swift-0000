@@ -46,3 +46,4 @@
 - pkg:swift/github.com/sbooth/CSQLite@3.51.0
 - pkg:swift/github.com/sbooth/CSQLite@3.51.1
 - pkg:swift/github.com/sbooth/CSQLite@3.51.2
+- pkg:swift/github.com/sbooth/CSQLite@3.52.0
