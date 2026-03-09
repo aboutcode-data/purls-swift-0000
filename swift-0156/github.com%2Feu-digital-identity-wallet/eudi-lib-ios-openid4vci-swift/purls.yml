@@ -98,6 +98,8 @@
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift@v0.3.2%5E%7B%7D
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift@v0.3.3
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift@v0.3.3%5E%7B%7D
+- pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift@v0.30.0
+- pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift@v0.30.0%5E%7B%7D
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift@v0.4.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift@v0.4.0%5E%7B%7D
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift@v0.4.1
