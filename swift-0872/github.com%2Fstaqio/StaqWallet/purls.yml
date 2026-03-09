@@ -57,6 +57,7 @@
 - pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.1
 - pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.10
 - pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.11
+- pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.12
 - pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.2
 - pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.3
 - pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.4

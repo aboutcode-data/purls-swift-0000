@@ -1,1 +1,2 @@
-- pkg:swift/github.com/swiftlang/swift-java-jni-core@6d4b196c3de679a601feb69cae3653df28616817
+- pkg:swift/github.com/swiftlang/swift-java-jni-core@0.1.0
+- pkg:swift/github.com/swiftlang/swift-java-jni-core@0.1.0%5E%7B%7D
