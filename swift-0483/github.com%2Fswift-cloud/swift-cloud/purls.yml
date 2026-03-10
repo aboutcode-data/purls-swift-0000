@@ -33,6 +33,7 @@
 - pkg:swift/github.com/swift-cloud/swift-cloud@0.42.0
 - pkg:swift/github.com/swift-cloud/swift-cloud@0.43.0
 - pkg:swift/github.com/swift-cloud/swift-cloud@0.44.0
+- pkg:swift/github.com/swift-cloud/swift-cloud@0.45.0
 - pkg:swift/github.com/swift-cloud/swift-cloud@0.5.0
 - pkg:swift/github.com/swift-cloud/swift-cloud@0.6.0
 - pkg:swift/github.com/swift-cloud/swift-cloud@0.7.0
