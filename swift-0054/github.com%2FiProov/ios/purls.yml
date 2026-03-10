@@ -55,6 +55,8 @@
 - pkg:swift/github.com/iProov/ios@13.0.0%5E%7B%7D
 - pkg:swift/github.com/iProov/ios@13.1.0
 - pkg:swift/github.com/iProov/ios@13.1.0%5E%7B%7D
+- pkg:swift/github.com/iProov/ios@13.1.1
+- pkg:swift/github.com/iProov/ios@13.1.1%5E%7B%7D
 - pkg:swift/github.com/iProov/ios@6.0.12
 - pkg:swift/github.com/iProov/ios@6.1.0
 - pkg:swift/github.com/iProov/ios@6.2.0
