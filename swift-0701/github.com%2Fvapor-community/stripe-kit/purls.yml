@@ -57,6 +57,7 @@
 - pkg:swift/github.com/vapor-community/stripe-kit@25.1.0
 - pkg:swift/github.com/vapor-community/stripe-kit@25.1.1
 - pkg:swift/github.com/vapor-community/stripe-kit@26.0.0
+- pkg:swift/github.com/vapor-community/stripe-kit@26.1.0
 - pkg:swift/github.com/vapor-community/stripe-kit@3.0.0
 - pkg:swift/github.com/vapor-community/stripe-kit@3.0.1
 - pkg:swift/github.com/vapor-community/stripe-kit@3.0.2
