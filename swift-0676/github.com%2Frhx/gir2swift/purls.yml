@@ -92,6 +92,7 @@
 - pkg:swift/github.com/rhx/gir2swift@16.0.0
 - pkg:swift/github.com/rhx/gir2swift@16.1.0
 - pkg:swift/github.com/rhx/gir2swift@17.0.0
+- pkg:swift/github.com/rhx/gir2swift@18.0.0
 - pkg:swift/github.com/rhx/gir2swift@2.0.0
 - pkg:swift/github.com/rhx/gir2swift@2.0.1
 - pkg:swift/github.com/rhx/gir2swift@2.0.2

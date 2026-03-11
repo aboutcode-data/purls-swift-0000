@@ -228,6 +228,7 @@
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v2.20.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v2.20.2
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v2.20.3
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@v2.21.0-rc.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v2.3.0
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v2.3.0-beta.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v2.3.0-beta.2
