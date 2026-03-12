@@ -969,6 +969,7 @@
 - pkg:swift/github.com/tuist/tuist@gradle%400.3.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.4.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.5.0
+- pkg:swift/github.com/tuist/tuist@gradle%400.5.1
 - pkg:swift/github.com/tuist/tuist@noora%400.76.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.1
