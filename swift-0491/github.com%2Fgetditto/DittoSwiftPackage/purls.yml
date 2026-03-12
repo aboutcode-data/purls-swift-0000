@@ -260,6 +260,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental.swift-6.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-preview.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-preview.5
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-separate-c-and-objc-code-again.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-separate-c-and-objc-code-again.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-swift-remove-support-for-cocoapods.1
