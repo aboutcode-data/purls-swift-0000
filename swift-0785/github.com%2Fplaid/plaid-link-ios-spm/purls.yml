@@ -21,3 +21,4 @@
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v6.4.3
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v6.4.4
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v7.0.0-beta1
+- pkg:swift/github.com/plaid/plaid-link-ios-spm@v7.0.0-beta2
