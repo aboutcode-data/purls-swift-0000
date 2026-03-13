@@ -69,5 +69,7 @@
 - pkg:swift/github.com/livekit/webrtc-xcframework@137.7151.12
 - pkg:swift/github.com/livekit/webrtc-xcframework@137.7151.13
 - pkg:swift/github.com/livekit/webrtc-xcframework@137.7151.13%5E%7B%7D
+- pkg:swift/github.com/livekit/webrtc-xcframework@144.7559.01
+- pkg:swift/github.com/livekit/webrtc-xcframework@144.7559.01%5E%7B%7D
 - pkg:swift/github.com/livekit/webrtc-xcframework@144.7559.01-alpha.1
 - pkg:swift/github.com/livekit/webrtc-xcframework@144.7559.01-alpha.1%5E%7B%7D
