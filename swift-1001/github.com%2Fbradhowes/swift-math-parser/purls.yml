@@ -57,3 +57,9 @@
 - pkg:swift/github.com/bradhowes/swift-math-parser@3.7.2%5E%7B%7D
 - pkg:swift/github.com/bradhowes/swift-math-parser@3.7.3
 - pkg:swift/github.com/bradhowes/swift-math-parser@3.7.3%5E%7B%7D
+- pkg:swift/github.com/bradhowes/swift-math-parser@4.0.0
+- pkg:swift/github.com/bradhowes/swift-math-parser@4.0.0%5E%7B%7D
+- pkg:swift/github.com/bradhowes/swift-math-parser@4.0.1
+- pkg:swift/github.com/bradhowes/swift-math-parser@4.0.1%5E%7B%7D
+- pkg:swift/github.com/bradhowes/swift-math-parser@4.0.2
+- pkg:swift/github.com/bradhowes/swift-math-parser@4.0.2%5E%7B%7D

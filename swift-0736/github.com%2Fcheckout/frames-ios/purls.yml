@@ -71,3 +71,4 @@
 - pkg:swift/github.com/checkout/frames-ios@4.3.7%5E%7B%7D
 - pkg:swift/github.com/checkout/frames-ios@4.3.8
 - pkg:swift/github.com/checkout/frames-ios@4.3.8%5E%7B%7D
+- pkg:swift/github.com/checkout/frames-ios@4.4.0
