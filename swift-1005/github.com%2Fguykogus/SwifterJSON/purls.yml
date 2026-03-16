@@ -14,3 +14,5 @@
 - pkg:swift/github.com/guykogus/SwifterJSON@4.0.0
 - pkg:swift/github.com/guykogus/SwifterJSON@4.1.0
 - pkg:swift/github.com/guykogus/SwifterJSON@4.2.0
+- pkg:swift/github.com/guykogus/SwifterJSON@5.0.0
+- pkg:swift/github.com/guykogus/SwifterJSON@5.0.1
