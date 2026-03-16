@@ -1,3 +1,9 @@
 - pkg:swift/github.com/michalkonturek/active-record@1.0.0
 - pkg:swift/github.com/michalkonturek/active-record@1.1.0
 - pkg:swift/github.com/michalkonturek/active-record@1.1.0%5E%7B%7D
+- pkg:swift/github.com/michalkonturek/active-record@1.2.0
+- pkg:swift/github.com/michalkonturek/active-record@1.2.0%5E%7B%7D
+- pkg:swift/github.com/michalkonturek/active-record@2.0.0
+- pkg:swift/github.com/michalkonturek/active-record@2.0.0%5E%7B%7D
+- pkg:swift/github.com/michalkonturek/active-record@2.1.0
+- pkg:swift/github.com/michalkonturek/active-record@2.1.0%5E%7B%7D
