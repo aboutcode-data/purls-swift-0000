@@ -123,6 +123,7 @@
 - pkg:swift/github.com/ably/ably-cocoa@1.2.56
 - pkg:swift/github.com/ably/ably-cocoa@1.2.57
 - pkg:swift/github.com/ably/ably-cocoa@1.2.58
+- pkg:swift/github.com/ably/ably-cocoa@1.2.59
 - pkg:swift/github.com/ably/ably-cocoa@1.2.6
 - pkg:swift/github.com/ably/ably-cocoa@1.2.7
 - pkg:swift/github.com/ably/ably-cocoa@1.2.8

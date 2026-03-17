@@ -144,3 +144,5 @@
 - pkg:swift/github.com/cryptomator/cloud-access-swift@1.9.2%5E%7B%7D
 - pkg:swift/github.com/cryptomator/cloud-access-swift@2.0.0
 - pkg:swift/github.com/cryptomator/cloud-access-swift@2.0.0%5E%7B%7D
+- pkg:swift/github.com/cryptomator/cloud-access-swift@3.0.0
+- pkg:swift/github.com/cryptomator/cloud-access-swift@3.0.0%5E%7B%7D
