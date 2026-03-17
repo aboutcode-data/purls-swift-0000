@@ -10,7 +10,9 @@
 - pkg:swift/github.com/laosb/SwiftTailwind@1.1.0.test.0%2Btw.4.1.14
 - pkg:swift/github.com/laosb/SwiftTailwind@1.1.0.test.1%2Btw.4.1.14
 - pkg:swift/github.com/laosb/SwiftTailwind@1.1.1%2Btw.4.1.18
+- pkg:swift/github.com/laosb/SwiftTailwind@1.1.2%2Btw.4.2.1
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.1.18
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.1.18-1e1d57de8a8984c528a106f038fb432b3965b1873c8603ee6bd661f935a77f4a
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.1.18-7c9ee27c52842db7c45e376d9e9d94c463cb89f9ca91bb1b3e69f5e61d81d8b7
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.1.18-e41dde7884391c83e50815a25dc0db70061b2dfdc9ed9026e31689594a2305af
+- pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.2.1-e8c826ef1e50a546d990602bf922a21515b536e20affd34a35761055a7415216
