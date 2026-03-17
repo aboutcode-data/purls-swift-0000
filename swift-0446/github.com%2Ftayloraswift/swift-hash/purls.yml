@@ -4,6 +4,7 @@
 - pkg:swift/github.com/tayloraswift/swift-hash@0.6.3
 - pkg:swift/github.com/tayloraswift/swift-hash@0.7.0
 - pkg:swift/github.com/tayloraswift/swift-hash@0.7.1
+- pkg:swift/github.com/tayloraswift/swift-hash@1.0.0
 - pkg:swift/github.com/tayloraswift/swift-hash@v0.1.0
 - pkg:swift/github.com/tayloraswift/swift-hash@v0.2.0
 - pkg:swift/github.com/tayloraswift/swift-hash@v0.2.1

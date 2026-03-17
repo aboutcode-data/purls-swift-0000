@@ -73,6 +73,7 @@
 - pkg:swift/github.com/vapor/sql-kit@3.33.1
 - pkg:swift/github.com/vapor/sql-kit@3.33.2
 - pkg:swift/github.com/vapor/sql-kit@3.34.0
+- pkg:swift/github.com/vapor/sql-kit@3.35.0
 - pkg:swift/github.com/vapor/sql-kit@3.4.0
 - pkg:swift/github.com/vapor/sql-kit@3.5.0
 - pkg:swift/github.com/vapor/sql-kit@3.6.0

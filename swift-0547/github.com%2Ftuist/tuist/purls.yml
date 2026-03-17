@@ -1171,6 +1171,9 @@
 - pkg:swift/github.com/tuist/tuist@server%401.12.1
 - pkg:swift/github.com/tuist/tuist@server%401.12.2
 - pkg:swift/github.com/tuist/tuist@server%401.120.0
+- pkg:swift/github.com/tuist/tuist@server%401.121.0
+- pkg:swift/github.com/tuist/tuist@server%401.121.1
+- pkg:swift/github.com/tuist/tuist@server%401.121.2
 - pkg:swift/github.com/tuist/tuist@server%401.13.0
 - pkg:swift/github.com/tuist/tuist@server%401.13.1
 - pkg:swift/github.com/tuist/tuist@server%401.13.2
