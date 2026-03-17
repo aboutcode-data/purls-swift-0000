@@ -130,6 +130,7 @@
 - pkg:swift/github.com/pointfreeco/swift-composable-architecture@1.24.1
 - pkg:swift/github.com/pointfreeco/swift-composable-architecture@1.25.0
 - pkg:swift/github.com/pointfreeco/swift-composable-architecture@1.25.1
+- pkg:swift/github.com/pointfreeco/swift-composable-architecture@1.25.2
 - pkg:swift/github.com/pointfreeco/swift-composable-architecture@1.3.0
 - pkg:swift/github.com/pointfreeco/swift-composable-architecture@1.4.0
 - pkg:swift/github.com/pointfreeco/swift-composable-architecture@1.4.1
