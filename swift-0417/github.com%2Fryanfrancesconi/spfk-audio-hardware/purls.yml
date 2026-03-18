@@ -1,3 +1,5 @@
+- pkg:swift/github.com/ryanfrancesconi/spfk-audio-hardware@0.0.9
+- pkg:swift/github.com/ryanfrancesconi/spfk-audio-hardware@0.0.9%5E%7B%7D
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-hardware@5.0.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-hardware@5.0.0%5E%7B%7D
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-hardware@5.0.1
