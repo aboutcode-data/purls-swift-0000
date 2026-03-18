@@ -10,3 +10,4 @@
 - pkg:swift/github.com/sendbird/sendbird-auth-ios@0.0.7
 - pkg:swift/github.com/sendbird/sendbird-auth-ios@0.0.8
 - pkg:swift/github.com/sendbird/sendbird-auth-ios@0.0.9
+- pkg:swift/github.com/sendbird/sendbird-auth-ios@1.0.0
