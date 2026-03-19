@@ -9,3 +9,4 @@
 - pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.5.2
 - pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.5.3
 - pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.6.0
+- pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.6.1

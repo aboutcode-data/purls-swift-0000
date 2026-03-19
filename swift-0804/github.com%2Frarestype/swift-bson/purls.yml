@@ -15,3 +15,4 @@
 - pkg:swift/github.com/rarestype/swift-bson@1.0.0
 - pkg:swift/github.com/rarestype/swift-bson@2.0.0
 - pkg:swift/github.com/rarestype/swift-bson@2.0.1
+- pkg:swift/github.com/rarestype/swift-bson@2.0.2
