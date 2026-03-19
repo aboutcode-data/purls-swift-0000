@@ -1,4 +1,5 @@
 - pkg:swift/github.com/tree-sitter/swift-tree-sitter@0.1.0
+- pkg:swift/github.com/tree-sitter/swift-tree-sitter@0.10.0
 - pkg:swift/github.com/tree-sitter/swift-tree-sitter@0.2.0
 - pkg:swift/github.com/tree-sitter/swift-tree-sitter@0.25.0
 - pkg:swift/github.com/tree-sitter/swift-tree-sitter@0.3.0

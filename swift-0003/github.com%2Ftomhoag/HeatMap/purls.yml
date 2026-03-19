@@ -1,3 +1,6 @@
+- pkg:swift/github.com/tomhoag/HeatMap@0.10.0
+- pkg:swift/github.com/tomhoag/HeatMap@0.11.0
+- pkg:swift/github.com/tomhoag/HeatMap@0.12.0
 - pkg:swift/github.com/tomhoag/HeatMap@v0.1.0
 - pkg:swift/github.com/tomhoag/HeatMap@v0.2.0
 - pkg:swift/github.com/tomhoag/HeatMap@v0.3.0
