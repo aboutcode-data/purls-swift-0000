@@ -168,4 +168,5 @@
 - pkg:swift/github.com/zcash/zcash-swift-wallet-sdk@2.4.4
 - pkg:swift/github.com/zcash/zcash-swift-wallet-sdk@2.4.5
 - pkg:swift/github.com/zcash/zcash-swift-wallet-sdk@2.4.6
+- pkg:swift/github.com/zcash/zcash-swift-wallet-sdk@2.4.7
 - pkg:swift/github.com/zcash/zcash-swift-wallet-sdk@rustwelding-0.0.6
