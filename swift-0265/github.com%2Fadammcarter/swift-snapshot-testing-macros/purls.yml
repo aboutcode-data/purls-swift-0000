@@ -14,3 +14,4 @@
 - pkg:swift/github.com/adammcarter/swift-snapshot-testing-macros@1.1.0
 - pkg:swift/github.com/adammcarter/swift-snapshot-testing-macros@2.0.0
 - pkg:swift/github.com/adammcarter/swift-snapshot-testing-macros@2.0.1
+- pkg:swift/github.com/adammcarter/swift-snapshot-testing-macros@2.0.2
