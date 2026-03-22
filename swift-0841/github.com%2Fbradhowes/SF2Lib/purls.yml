@@ -100,6 +100,8 @@
 - pkg:swift/github.com/bradhowes/SF2Lib@8.12.1%5E%7B%7D
 - pkg:swift/github.com/bradhowes/SF2Lib@8.12.2
 - pkg:swift/github.com/bradhowes/SF2Lib@8.12.2%5E%7B%7D
+- pkg:swift/github.com/bradhowes/SF2Lib@8.12.3
+- pkg:swift/github.com/bradhowes/SF2Lib@8.12.3%5E%7B%7D
 - pkg:swift/github.com/bradhowes/SF2Lib@8.2.0
 - pkg:swift/github.com/bradhowes/SF2Lib@8.2.0%5E%7B%7D
 - pkg:swift/github.com/bradhowes/SF2Lib@8.2.1
