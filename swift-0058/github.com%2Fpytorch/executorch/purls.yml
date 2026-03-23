@@ -80,6 +80,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18199
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18230
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18309
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18311
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18359
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18363
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18365

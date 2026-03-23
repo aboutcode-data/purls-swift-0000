@@ -160,6 +160,8 @@
 - pkg:swift/github.com/loopwerk/Saga@2.25.1%5E%7B%7D
 - pkg:swift/github.com/loopwerk/Saga@2.25.2
 - pkg:swift/github.com/loopwerk/Saga@2.25.2%5E%7B%7D
+- pkg:swift/github.com/loopwerk/Saga@2.25.3
+- pkg:swift/github.com/loopwerk/Saga@2.25.3%5E%7B%7D
 - pkg:swift/github.com/loopwerk/Saga@2.3.0
 - pkg:swift/github.com/loopwerk/Saga@2.3.0%5E%7B%7D
 - pkg:swift/github.com/loopwerk/Saga@2.3.1
