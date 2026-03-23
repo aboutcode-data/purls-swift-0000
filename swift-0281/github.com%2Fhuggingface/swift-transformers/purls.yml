@@ -37,3 +37,4 @@
 - pkg:swift/github.com/huggingface/swift-transformers@1.1.8
 - pkg:swift/github.com/huggingface/swift-transformers@1.1.9
 - pkg:swift/github.com/huggingface/swift-transformers@1.2.0
+- pkg:swift/github.com/huggingface/swift-transformers@1.2.1
