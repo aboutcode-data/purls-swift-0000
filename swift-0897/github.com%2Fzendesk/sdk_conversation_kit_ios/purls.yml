@@ -32,6 +32,7 @@
 - pkg:swift/github.com/zendesk/sdk_conversation_kit_ios@13.1.0
 - pkg:swift/github.com/zendesk/sdk_conversation_kit_ios@13.1.1
 - pkg:swift/github.com/zendesk/sdk_conversation_kit_ios@13.2.0
+- pkg:swift/github.com/zendesk/sdk_conversation_kit_ios@14.0.0
 - pkg:swift/github.com/zendesk/sdk_conversation_kit_ios@2.0.0
 - pkg:swift/github.com/zendesk/sdk_conversation_kit_ios@3.0.0
 - pkg:swift/github.com/zendesk/sdk_conversation_kit_ios@3.1.0

@@ -18,6 +18,7 @@
 - pkg:swift/github.com/zendesk/sdk_ui_components_ios@14.0.0
 - pkg:swift/github.com/zendesk/sdk_ui_components_ios@14.1.0
 - pkg:swift/github.com/zendesk/sdk_ui_components_ios@14.2.0
+- pkg:swift/github.com/zendesk/sdk_ui_components_ios@14.3.0
 - pkg:swift/github.com/zendesk/sdk_ui_components_ios@2.0.0
 - pkg:swift/github.com/zendesk/sdk_ui_components_ios@2.1.0
 - pkg:swift/github.com/zendesk/sdk_ui_components_ios@2.2.0
