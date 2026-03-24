@@ -77,3 +77,9 @@
 - pkg:swift/github.com/ricky-stone/SwiftRest@v4.6.0%5E%7B%7D
 - pkg:swift/github.com/ricky-stone/SwiftRest@v4.7.0
 - pkg:swift/github.com/ricky-stone/SwiftRest@v4.8.0
+- pkg:swift/github.com/ricky-stone/SwiftRest@v5.0.0
+- pkg:swift/github.com/ricky-stone/SwiftRest@v5.0.0%5E%7B%7D
+- pkg:swift/github.com/ricky-stone/SwiftRest@v5.0.1
+- pkg:swift/github.com/ricky-stone/SwiftRest@v5.0.1%5E%7B%7D
+- pkg:swift/github.com/ricky-stone/SwiftRest@v5.1.0
+- pkg:swift/github.com/ricky-stone/SwiftRest@v5.1.0%5E%7B%7D
