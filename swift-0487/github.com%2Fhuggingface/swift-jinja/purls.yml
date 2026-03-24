@@ -24,3 +24,4 @@
 - pkg:swift/github.com/huggingface/swift-jinja@2.3.0
 - pkg:swift/github.com/huggingface/swift-jinja@2.3.1
 - pkg:swift/github.com/huggingface/swift-jinja@2.3.2
+- pkg:swift/github.com/huggingface/swift-jinja@2.3.3

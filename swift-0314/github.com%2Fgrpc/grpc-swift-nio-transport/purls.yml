@@ -25,3 +25,4 @@
 - pkg:swift/github.com/grpc/grpc-swift-nio-transport@2.4.4
 - pkg:swift/github.com/grpc/grpc-swift-nio-transport@2.4.5
 - pkg:swift/github.com/grpc/grpc-swift-nio-transport@2.5.0
+- pkg:swift/github.com/grpc/grpc-swift-nio-transport@2.6.0
