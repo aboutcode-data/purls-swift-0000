@@ -158,6 +158,7 @@
 - pkg:swift/github.com/cirruslabs/tart@2.30.5
 - pkg:swift/github.com/cirruslabs/tart@2.30.6
 - pkg:swift/github.com/cirruslabs/tart@2.31.0
+- pkg:swift/github.com/cirruslabs/tart@2.32.0
 - pkg:swift/github.com/cirruslabs/tart@2.4.0
 - pkg:swift/github.com/cirruslabs/tart@2.4.1
 - pkg:swift/github.com/cirruslabs/tart@2.4.2

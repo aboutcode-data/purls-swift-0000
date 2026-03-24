@@ -1,1 +1,4 @@
-- pkg:swift/github.com/gradyzhuo/swift-nebula@9520318f46647b0efeadf192e15f90551af85735
+- pkg:swift/github.com/gradyzhuo/swift-nebula@0.0.1
+- pkg:swift/github.com/gradyzhuo/swift-nebula@0.0.1%5E%7B%7D
+- pkg:swift/github.com/gradyzhuo/swift-nebula@0.0.2
+- pkg:swift/github.com/gradyzhuo/swift-nebula@0.0.2%5E%7B%7D
