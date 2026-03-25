@@ -3,6 +3,8 @@
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.11.0
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.12.0
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.13.0
+- pkg:swift/github.com/m34dev/swiftdolibarr@0.14.0
+- pkg:swift/github.com/m34dev/swiftdolibarr@0.15.0
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.2.0
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.2.1
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.2.10

@@ -102,3 +102,5 @@
 - pkg:swift/github.com/instana/iOSAgent@1.9.5%5E%7B%7D
 - pkg:swift/github.com/instana/iOSAgent@1.9.6
 - pkg:swift/github.com/instana/iOSAgent@1.9.6%5E%7B%7D
+- pkg:swift/github.com/instana/iOSAgent@1.9.7
+- pkg:swift/github.com/instana/iOSAgent@1.9.7%5E%7B%7D
