@@ -116,6 +116,8 @@
 - pkg:swift/github.com/statsig-io/statsig-kit@1.61.0%5E%7B%7D
 - pkg:swift/github.com/statsig-io/statsig-kit@1.62.0
 - pkg:swift/github.com/statsig-io/statsig-kit@1.62.0%5E%7B%7D
+- pkg:swift/github.com/statsig-io/statsig-kit@1.62.1
+- pkg:swift/github.com/statsig-io/statsig-kit@1.62.1%5E%7B%7D
 - pkg:swift/github.com/statsig-io/statsig-kit@v1.0.0
 - pkg:swift/github.com/statsig-io/statsig-kit@v1.0.0%5E%7B%7D
 - pkg:swift/github.com/statsig-io/statsig-kit@v1.0.1

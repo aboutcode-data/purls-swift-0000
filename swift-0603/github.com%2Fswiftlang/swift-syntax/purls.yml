@@ -95,6 +95,7 @@
 - pkg:swift/github.com/swiftlang/swift-syntax@602.0.0-prerelease-2025-05-29
 - pkg:swift/github.com/swiftlang/swift-syntax@602.0.0-prerelease-2025-06-26
 - pkg:swift/github.com/swiftlang/swift-syntax@602.0.0-prerelease-2025-08-11
+- pkg:swift/github.com/swiftlang/swift-syntax@603.0.0
 - pkg:swift/github.com/swiftlang/swift-syntax@603.0.0-prerelease-2025-06-26
 - pkg:swift/github.com/swiftlang/swift-syntax@603.0.0-prerelease-2025-08-11
 - pkg:swift/github.com/swiftlang/swift-syntax@603.0.0-prerelease-2025-09-15
@@ -1564,6 +1565,7 @@
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-02-27-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-03-05-a
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-03-05-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-syntax@swift-6.3-RELEASE
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2018-08-25-a
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2018-08-25-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2019-01-12-a
