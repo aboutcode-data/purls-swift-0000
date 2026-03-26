@@ -121,6 +121,7 @@
 - pkg:swift/github.com/Adyen/adyen-ios@5.22.1
 - pkg:swift/github.com/Adyen/adyen-ios@5.22.2
 - pkg:swift/github.com/Adyen/adyen-ios@5.23.0
+- pkg:swift/github.com/Adyen/adyen-ios@5.23.1
 - pkg:swift/github.com/Adyen/adyen-ios@5.3.0
 - pkg:swift/github.com/Adyen/adyen-ios@5.4.0
 - pkg:swift/github.com/Adyen/adyen-ios@5.4.1
