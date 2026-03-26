@@ -3,6 +3,7 @@
 - pkg:swift/github.com/sersoft-gmbh/path-wrangler@1.0.2
 - pkg:swift/github.com/sersoft-gmbh/path-wrangler@2.0.0
 - pkg:swift/github.com/sersoft-gmbh/path-wrangler@2.1.0
+- pkg:swift/github.com/sersoft-gmbh/path-wrangler@2.10.0
 - pkg:swift/github.com/sersoft-gmbh/path-wrangler@2.2.0
 - pkg:swift/github.com/sersoft-gmbh/path-wrangler@2.3.0
 - pkg:swift/github.com/sersoft-gmbh/path-wrangler@2.4.0
