@@ -18,6 +18,7 @@
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.1
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.10
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.11
+- pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.12
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.2
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.3
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.4
