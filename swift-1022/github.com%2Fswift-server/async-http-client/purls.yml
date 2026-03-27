@@ -61,6 +61,7 @@
 - pkg:swift/github.com/swift-server/async-http-client@1.32.0
 - pkg:swift/github.com/swift-server/async-http-client@1.32.1
 - pkg:swift/github.com/swift-server/async-http-client@1.33.0
+- pkg:swift/github.com/swift-server/async-http-client@1.33.1
 - pkg:swift/github.com/swift-server/async-http-client@1.4.0
 - pkg:swift/github.com/swift-server/async-http-client@1.4.1
 - pkg:swift/github.com/swift-server/async-http-client@1.5.0
