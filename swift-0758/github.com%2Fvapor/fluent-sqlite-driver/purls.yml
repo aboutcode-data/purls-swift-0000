@@ -38,3 +38,4 @@
 - pkg:swift/github.com/vapor/fluent-sqlite-driver@4.7.4
 - pkg:swift/github.com/vapor/fluent-sqlite-driver@4.8.0
 - pkg:swift/github.com/vapor/fluent-sqlite-driver@4.8.1
+- pkg:swift/github.com/vapor/fluent-sqlite-driver@4.9.0
