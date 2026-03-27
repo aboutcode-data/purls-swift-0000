@@ -188,4 +188,5 @@
 - pkg:swift/github.com/Scandit/datacapture-spm@8.2.0
 - pkg:swift/github.com/Scandit/datacapture-spm@8.2.0-beta.1
 - pkg:swift/github.com/Scandit/datacapture-spm@8.2.1
+- pkg:swift/github.com/Scandit/datacapture-spm@8.3.0
 - pkg:swift/github.com/Scandit/datacapture-spm@8.3.0-beta.1

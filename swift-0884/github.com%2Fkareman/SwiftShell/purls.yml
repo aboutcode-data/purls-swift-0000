@@ -46,6 +46,7 @@
 - pkg:swift/github.com/kareman/SwiftShell@5.1.0
 - pkg:swift/github.com/kareman/SwiftShell@5.1.0%5E%7B%7D
 - pkg:swift/github.com/kareman/SwiftShell@5.1.0-beta.1
+- pkg:swift/github.com/kareman/SwiftShell@5.1.1
 - pkg:swift/github.com/kareman/SwiftShell@v0.1
 - pkg:swift/github.com/kareman/SwiftShell@v0.1%5E%7B%7D
 - pkg:swift/github.com/kareman/SwiftShell@v0.2
