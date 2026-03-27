@@ -48,4 +48,6 @@
 - pkg:swift/github.com/jollyjinx/modbus-2-mqtt-bridge@2.7.0-beta3%5E%7B%7D
 - pkg:swift/github.com/jollyjinx/modbus-2-mqtt-bridge@2.7.1
 - pkg:swift/github.com/jollyjinx/modbus-2-mqtt-bridge@2.7.1%5E%7B%7D
+- pkg:swift/github.com/jollyjinx/modbus-2-mqtt-bridge@2.7.2
+- pkg:swift/github.com/jollyjinx/modbus-2-mqtt-bridge@2.7.2%5E%7B%7D
 - pkg:swift/github.com/jollyjinx/modbus-2-mqtt-bridge@development
