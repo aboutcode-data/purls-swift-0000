@@ -154,6 +154,7 @@
 - pkg:swift/github.com/pinterest/PINOperation@releases/p14.11
 - pkg:swift/github.com/pinterest/PINOperation@releases/p14.12
 - pkg:swift/github.com/pinterest/PINOperation@releases/p14.13
+- pkg:swift/github.com/pinterest/PINOperation@releases/p14.14
 - pkg:swift/github.com/pinterest/PINOperation@releases/p14.2
 - pkg:swift/github.com/pinterest/PINOperation@releases/p14.3
 - pkg:swift/github.com/pinterest/PINOperation@releases/p14.4
