@@ -16,3 +16,7 @@
 - pkg:swift/github.com/skiptools/swift-jni@0.3.0%5E%7B%7D
 - pkg:swift/github.com/skiptools/swift-jni@0.3.1
 - pkg:swift/github.com/skiptools/swift-jni@0.3.1%5E%7B%7D
+- pkg:swift/github.com/skiptools/swift-jni@0.4.0
+- pkg:swift/github.com/skiptools/swift-jni@0.4.0%5E%7B%7D
+- pkg:swift/github.com/skiptools/swift-jni@0.5.0
+- pkg:swift/github.com/skiptools/swift-jni@0.5.0%5E%7B%7D
