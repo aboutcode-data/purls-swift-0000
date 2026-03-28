@@ -5,3 +5,4 @@
 - pkg:swift/github.com/mkrd/Swift-BigInt@v2.2.0
 - pkg:swift/github.com/mkrd/Swift-BigInt@v2.2.1
 - pkg:swift/github.com/mkrd/Swift-BigInt@v2.3.0
+- pkg:swift/github.com/mkrd/Swift-BigInt@v2.4.0

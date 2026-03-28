@@ -1,0 +1,6 @@
+- pkg:swift/github.com/moengage/kmm-apple-sdk@0.0.1
+- pkg:swift/github.com/moengage/kmm-apple-sdk@1.0.0
+- pkg:swift/github.com/moengage/kmm-apple-sdk@1.0.1
+- pkg:swift/github.com/moengage/kmm-apple-sdk@ckmm-0.0.1
+- pkg:swift/github.com/moengage/kmm-apple-sdk@ckmm-1.0.0
+- pkg:swift/github.com/moengage/kmm-apple-sdk@kmmce-1.0.1
