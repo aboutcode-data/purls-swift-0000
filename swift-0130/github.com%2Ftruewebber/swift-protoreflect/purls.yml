@@ -7,3 +7,5 @@
 - pkg:swift/github.com/truewebber/swift-protoreflect@4.1.0
 - pkg:swift/github.com/truewebber/swift-protoreflect@4.2.0
 - pkg:swift/github.com/truewebber/swift-protoreflect@5.0.0
+- pkg:swift/github.com/truewebber/swift-protoreflect@5.1.0
+- pkg:swift/github.com/truewebber/swift-protoreflect@5.2.0
