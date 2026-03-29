@@ -35,3 +35,4 @@
 - pkg:swift/github.com/makoni/couchdb-swift@2.3.4
 - pkg:swift/github.com/makoni/couchdb-swift@2.3.5
 - pkg:swift/github.com/makoni/couchdb-swift@2.3.6
+- pkg:swift/github.com/makoni/couchdb-swift@2.4.0
