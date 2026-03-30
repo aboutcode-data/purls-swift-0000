@@ -24,6 +24,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/sdym
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18187
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18551
+- pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18565
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/18187
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/18526
 - pkg:swift/github.com/pytorch/executorch@ciflow/nightly/13963
@@ -201,3 +202,7 @@
 - pkg:swift/github.com/pytorch/executorch@v1.1.0
 - pkg:swift/github.com/pytorch/executorch@v1.1.0-rc1
 - pkg:swift/github.com/pytorch/executorch@v1.1.0-rc2
+- pkg:swift/github.com/pytorch/executorch@v1.2.0-rc1
+- pkg:swift/github.com/pytorch/executorch@v1.2.0-rc1-test
+- pkg:swift/github.com/pytorch/executorch@v1.2.0-rc1-test-android
+- pkg:swift/github.com/pytorch/executorch@v1.2.0-rc1-test-android-flavors
