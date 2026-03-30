@@ -1,4 +1,5 @@
 - pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.1.0
+- pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.10.0
 - pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.2.0
 - pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.3.0
 - pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.4.0
@@ -8,3 +9,4 @@
 - pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.7.0
 - pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.8.0
 - pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.8.1
+- pkg:swift/github.com/DevKitOrganization/DevConfiguration@0.9.0

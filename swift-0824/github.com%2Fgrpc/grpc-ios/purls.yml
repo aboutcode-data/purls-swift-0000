@@ -109,4 +109,5 @@
 - pkg:swift/github.com/grpc/grpc-ios@v1.78.0
 - pkg:swift/github.com/grpc/grpc-ios@v1.78.0-pre1
 - pkg:swift/github.com/grpc/grpc-ios@v1.78.0-pre2
+- pkg:swift/github.com/grpc/grpc-ios@v1.80.0
 - pkg:swift/github.com/grpc/grpc-ios@v1.80.0-pre1
