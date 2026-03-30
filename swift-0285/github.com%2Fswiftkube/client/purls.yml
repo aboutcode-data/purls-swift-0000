@@ -34,6 +34,8 @@
 - pkg:swift/github.com/swiftkube/client@0.24.0%5E%7B%7D
 - pkg:swift/github.com/swiftkube/client@0.25.0
 - pkg:swift/github.com/swiftkube/client@0.25.0%5E%7B%7D
+- pkg:swift/github.com/swiftkube/client@0.26.0
+- pkg:swift/github.com/swiftkube/client@0.26.0%5E%7B%7D
 - pkg:swift/github.com/swiftkube/client@0.3.0
 - pkg:swift/github.com/swiftkube/client@0.3.0%5E%7B%7D
 - pkg:swift/github.com/swiftkube/client@0.3.1
