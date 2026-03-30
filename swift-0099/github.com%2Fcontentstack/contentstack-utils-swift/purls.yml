@@ -10,3 +10,4 @@
 - pkg:swift/github.com/contentstack/contentstack-utils-swift@v1.3.2
 - pkg:swift/github.com/contentstack/contentstack-utils-swift@v1.3.3
 - pkg:swift/github.com/contentstack/contentstack-utils-swift@v1.3.4
+- pkg:swift/github.com/contentstack/contentstack-utils-swift@v1.4.0
