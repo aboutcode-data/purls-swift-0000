@@ -424,6 +424,8 @@
 - pkg:swift/github.com/urbanairship/ios-library@19.11.5%5E%7B%7D
 - pkg:swift/github.com/urbanairship/ios-library@19.11.6
 - pkg:swift/github.com/urbanairship/ios-library@19.11.6%5E%7B%7D
+- pkg:swift/github.com/urbanairship/ios-library@19.11.7
+- pkg:swift/github.com/urbanairship/ios-library@19.11.7%5E%7B%7D
 - pkg:swift/github.com/urbanairship/ios-library@19.2.0
 - pkg:swift/github.com/urbanairship/ios-library@19.2.0%5E%7B%7D
 - pkg:swift/github.com/urbanairship/ios-library@19.2.1
