@@ -14,3 +14,5 @@
 - pkg:swift/github.com/gohanlon/swift-memberwise-init-macro@0.5.1%5E%7B%7D
 - pkg:swift/github.com/gohanlon/swift-memberwise-init-macro@0.5.2
 - pkg:swift/github.com/gohanlon/swift-memberwise-init-macro@0.5.2%5E%7B%7D
+- pkg:swift/github.com/gohanlon/swift-memberwise-init-macro@0.6.0
+- pkg:swift/github.com/gohanlon/swift-memberwise-init-macro@0.6.0%5E%7B%7D
