@@ -4,7 +4,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/10741
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/16234
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/16668
-- pkg:swift/github.com/pytorch/executorch@ciflow/binaries/18309
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/18372
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/18373
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/18374
@@ -23,8 +22,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/all/sdym
 - pkg:swift/github.com/pytorch/executorch@ciflow/binaries/sdym
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18187
-- pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18551
-- pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18594
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18604
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/18187
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/18526
@@ -76,7 +73,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16929
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17022
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17113
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17140
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17419
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17803
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17814
@@ -85,7 +81,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18191
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18199
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18230
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18309
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18359
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18403
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18404
@@ -209,3 +204,4 @@
 - pkg:swift/github.com/pytorch/executorch@v1.2.0-rc1-test
 - pkg:swift/github.com/pytorch/executorch@v1.2.0-rc1-test-android
 - pkg:swift/github.com/pytorch/executorch@v1.2.0-rc1-test-android-flavors
+- pkg:swift/github.com/pytorch/executorch@v1.2.0-rc2

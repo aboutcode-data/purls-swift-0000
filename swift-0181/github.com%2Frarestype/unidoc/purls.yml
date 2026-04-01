@@ -40,6 +40,8 @@
 - pkg:swift/github.com/rarestype/unidoc@0.21.0
 - pkg:swift/github.com/rarestype/unidoc@0.22.0
 - pkg:swift/github.com/rarestype/unidoc@0.22.1
+- pkg:swift/github.com/rarestype/unidoc@0.22.10
+- pkg:swift/github.com/rarestype/unidoc@0.22.11
 - pkg:swift/github.com/rarestype/unidoc@0.22.2
 - pkg:swift/github.com/rarestype/unidoc@0.22.3
 - pkg:swift/github.com/rarestype/unidoc@0.22.4
