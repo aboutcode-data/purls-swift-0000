@@ -13,6 +13,7 @@
 - pkg:swift/github.com/argmaxinc/whisperkit@v0.15.0
 - pkg:swift/github.com/argmaxinc/whisperkit@v0.16.0
 - pkg:swift/github.com/argmaxinc/whisperkit@v0.17.0
+- pkg:swift/github.com/argmaxinc/whisperkit@v0.18.0
 - pkg:swift/github.com/argmaxinc/whisperkit@v0.2.0
 - pkg:swift/github.com/argmaxinc/whisperkit@v0.2.1
 - pkg:swift/github.com/argmaxinc/whisperkit@v0.3.0
