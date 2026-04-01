@@ -25,6 +25,7 @@
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v1.25.0
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v1.26.0
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v1.27.0
+- pkg:swift/github.com/Tom-Ryder/AgentRunKit@v1.27.1
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v1.3.0
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v1.3.0%5E%7B%7D
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v1.3.1
