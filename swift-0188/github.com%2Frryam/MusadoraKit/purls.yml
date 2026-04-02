@@ -1,4 +1,6 @@
 - pkg:swift/github.com/rryam/MusadoraKit@10.0.0
+- pkg:swift/github.com/rryam/MusadoraKit@10.1.0
+- pkg:swift/github.com/rryam/MusadoraKit@10.1.0%5E%7B%7D
 - pkg:swift/github.com/rryam/MusadoraKit@8.1.0
 - pkg:swift/github.com/rryam/MusadoraKit@8.1.9
 - pkg:swift/github.com/rryam/MusadoraKit@8.2.0
