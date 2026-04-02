@@ -1,3 +1,4 @@
 - pkg:swift/github.com/ErsanQ/HapticKit@1.0.0
 - pkg:swift/github.com/ErsanQ/HapticKit@1.0.1
 - pkg:swift/github.com/ErsanQ/HapticKit@1.0.3
+- pkg:swift/github.com/ErsanQ/HapticKit@v1.0.5

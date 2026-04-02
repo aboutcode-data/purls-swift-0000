@@ -30,6 +30,7 @@
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@18.8.1
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@18.8.2
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@18.9.0-beta01
+- pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@18.9.0-beta02
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@CocoaPods-18.2.0
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@CocoaPods-18.2.1
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@CocoaPods-18.7.0
@@ -40,3 +41,4 @@
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@CocoaPods-18.8.1
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@CocoaPods-18.8.2
 - pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@CocoaPods-18.9.0-beta01
+- pkg:swift/github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk@CocoaPods-18.9.0-beta02
