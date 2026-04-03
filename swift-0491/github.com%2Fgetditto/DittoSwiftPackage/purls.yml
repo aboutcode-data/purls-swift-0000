@@ -254,6 +254,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-kmp-publishing.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-kmp-publishing.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-publish-script-update.0
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-sdk-publish.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-sdk-test-suite.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-sprint-demo.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental.kb-inline-objc-into-swift-sdk.1
@@ -264,6 +265,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-preview.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-preview.5
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-rc.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-rc.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-separate-c-and-objc-code-again.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-separate-c-and-objc-code-again.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-swift-remove-support-for-cocoapods.1
