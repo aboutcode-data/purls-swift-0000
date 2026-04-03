@@ -5,6 +5,8 @@
 - pkg:swift/github.com/MappedIn/ios@6.0.0-alpha.0%5E%7B%7D
 - pkg:swift/github.com/MappedIn/ios@6.1.0-alpha.1
 - pkg:swift/github.com/MappedIn/ios@6.1.0-alpha.1%5E%7B%7D
+- pkg:swift/github.com/MappedIn/ios@6.2.0
+- pkg:swift/github.com/MappedIn/ios@6.2.0%5E%7B%7D
 - pkg:swift/github.com/MappedIn/ios@6.2.0-alpha.1
 - pkg:swift/github.com/MappedIn/ios@6.2.0-alpha.1%5E%7B%7D
 - pkg:swift/github.com/MappedIn/ios@6.2.0-alpha.2
