@@ -1303,6 +1303,7 @@
 - pkg:swift/github.com/tuist/tuist@server%401.145.2
 - pkg:swift/github.com/tuist/tuist@server%401.146.0
 - pkg:swift/github.com/tuist/tuist@server%401.147.0
+- pkg:swift/github.com/tuist/tuist@server%401.148.0
 - pkg:swift/github.com/tuist/tuist@server%401.15.0
 - pkg:swift/github.com/tuist/tuist@server%401.15.1
 - pkg:swift/github.com/tuist/tuist@server%401.16.0
