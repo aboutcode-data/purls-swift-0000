@@ -109,3 +109,5 @@
 - pkg:swift/github.com/cpisciotta/xcbeautify@3.1.3
 - pkg:swift/github.com/cpisciotta/xcbeautify@3.1.4
 - pkg:swift/github.com/cpisciotta/xcbeautify@3.1.5
+- pkg:swift/github.com/cpisciotta/xcbeautify@3.2.0
+- pkg:swift/github.com/cpisciotta/xcbeautify@3.2.1

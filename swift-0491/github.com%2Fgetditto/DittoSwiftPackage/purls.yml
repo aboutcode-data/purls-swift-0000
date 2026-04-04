@@ -145,6 +145,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3-rc.2
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3-vori-i614
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-b6835ba.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-kotlin17.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-rkyv-20251215-1
@@ -280,6 +281,8 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.11
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.12
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.13
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.6
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.8
