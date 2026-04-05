@@ -283,6 +283,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.11
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.12
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.13
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.14
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.6
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.8
