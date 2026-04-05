@@ -9,3 +9,4 @@
 - pkg:swift/github.com/vapor-community/sql-kit-extras@0.0.8
 - pkg:swift/github.com/vapor-community/sql-kit-extras@0.0.9
 - pkg:swift/github.com/vapor-community/sql-kit-extras@0.1.0
+- pkg:swift/github.com/vapor-community/sql-kit-extras@0.1.1
