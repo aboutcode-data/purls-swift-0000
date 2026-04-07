@@ -60,3 +60,5 @@
 - pkg:swift/github.com/sparrowcode/DiffableKit@6.0.0
 - pkg:swift/github.com/sparrowcode/DiffableKit@6.0.1
 - pkg:swift/github.com/sparrowcode/DiffableKit@6.0.2
+- pkg:swift/github.com/sparrowcode/DiffableKit@6.0.3
+- pkg:swift/github.com/sparrowcode/DiffableKit@6.0.4
