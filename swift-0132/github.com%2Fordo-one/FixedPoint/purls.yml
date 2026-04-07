@@ -2,3 +2,4 @@
 - pkg:swift/github.com/ordo-one/FixedPoint@1.0.1
 - pkg:swift/github.com/ordo-one/FixedPoint@2.0.0
 - pkg:swift/github.com/ordo-one/FixedPoint@2.0.1
+- pkg:swift/github.com/ordo-one/FixedPoint@2.1.0
