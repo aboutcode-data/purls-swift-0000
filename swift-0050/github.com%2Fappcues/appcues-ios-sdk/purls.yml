@@ -50,3 +50,4 @@
 - pkg:swift/github.com/appcues/appcues-ios-sdk@5.0.0
 - pkg:swift/github.com/appcues/appcues-ios-sdk@5.0.0-beta.1
 - pkg:swift/github.com/appcues/appcues-ios-sdk@5.0.1
+- pkg:swift/github.com/appcues/appcues-ios-sdk@5.0.2
