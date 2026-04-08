@@ -6,5 +6,6 @@
 - pkg:swift/github.com/apache/spark-connect-swift@0.4.0-rc.1
 - pkg:swift/github.com/apache/spark-connect-swift@0.5.0
 - pkg:swift/github.com/apache/spark-connect-swift@0.5.0-rc.1
+- pkg:swift/github.com/apache/spark-connect-swift@0.6.0-rc.1
 - pkg:swift/github.com/apache/spark-connect-swift@v0.1.0
 - pkg:swift/github.com/apache/spark-connect-swift@v0.1.0-rc1
