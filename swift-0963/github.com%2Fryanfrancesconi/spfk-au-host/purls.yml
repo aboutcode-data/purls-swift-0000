@@ -3,6 +3,7 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@0.0.11
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@0.0.11%5E%7B%7D
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@0.0.12
+- pkg:swift/github.com/ryanfrancesconi/spfk-au-host@0.0.13
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@0.0.4
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@0.0.4%5E%7B%7D
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@0.0.5
