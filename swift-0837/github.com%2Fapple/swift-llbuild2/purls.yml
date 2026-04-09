@@ -113,3 +113,6 @@
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta3.1
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta3.2
 - pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta3.3
+- pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta3.4
+- pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta3.5
+- pkg:swift/github.com/apple/swift-llbuild2@1.0.0-beta3.6
