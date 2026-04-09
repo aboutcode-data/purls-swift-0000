@@ -200,3 +200,4 @@
 - pkg:swift/github.com/orlandos-nl/BSON@8.1.5
 - pkg:swift/github.com/orlandos-nl/BSON@8.2.0
 - pkg:swift/github.com/orlandos-nl/BSON@8.2.1
+- pkg:swift/github.com/orlandos-nl/BSON@8.2.2
