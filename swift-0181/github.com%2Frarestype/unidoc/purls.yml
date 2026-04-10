@@ -57,6 +57,7 @@
 - pkg:swift/github.com/rarestype/unidoc@0.23.1
 - pkg:swift/github.com/rarestype/unidoc@0.23.2
 - pkg:swift/github.com/rarestype/unidoc@0.24.0
+- pkg:swift/github.com/rarestype/unidoc@0.24.1
 - pkg:swift/github.com/rarestype/unidoc@0.3.0
 - pkg:swift/github.com/rarestype/unidoc@0.3.1
 - pkg:swift/github.com/rarestype/unidoc@0.3.10
