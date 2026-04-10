@@ -96,6 +96,9 @@
 - pkg:swift/github.com/dfed/SafeDI@1.5.4
 - pkg:swift/github.com/dfed/SafeDI@2.0.0-alpha-1
 - pkg:swift/github.com/dfed/SafeDI@2.0.0-alpha-10
+- pkg:swift/github.com/dfed/SafeDI@2.0.0-alpha-11
+- pkg:swift/github.com/dfed/SafeDI@2.0.0-alpha-12
+- pkg:swift/github.com/dfed/SafeDI@2.0.0-alpha-13
 - pkg:swift/github.com/dfed/SafeDI@2.0.0-alpha-2
 - pkg:swift/github.com/dfed/SafeDI@2.0.0-alpha-3
 - pkg:swift/github.com/dfed/SafeDI@2.0.0-alpha-4
