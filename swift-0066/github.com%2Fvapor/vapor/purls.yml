@@ -390,6 +390,7 @@
 - pkg:swift/github.com/vapor/vapor@4.121.1
 - pkg:swift/github.com/vapor/vapor@4.121.2
 - pkg:swift/github.com/vapor/vapor@4.121.3
+- pkg:swift/github.com/vapor/vapor@4.121.4
 - pkg:swift/github.com/vapor/vapor@4.13.0
 - pkg:swift/github.com/vapor/vapor@4.13.1
 - pkg:swift/github.com/vapor/vapor@4.14.0
