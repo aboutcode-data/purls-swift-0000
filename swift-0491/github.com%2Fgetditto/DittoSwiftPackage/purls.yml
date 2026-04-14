@@ -135,6 +135,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-experimental-vori-2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-experimental-vori-log-connecting
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-rc.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0-rc.1
@@ -280,6 +281,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260322.242
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260329.258
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260405.263
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260412.275
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.3
@@ -306,4 +308,5 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-transports-android-module.5
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-transports-android-module.6
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-transports-android-module.7
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-windows-runner-fix.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@ckage-publish-4.1
