@@ -82,6 +82,8 @@
 - pkg:swift/github.com/MapsPeople/mapsindoors-core-ios@4.16.2-rc.3%5E%7B%7D
 - pkg:swift/github.com/MapsPeople/mapsindoors-core-ios@4.16.2-rc.4
 - pkg:swift/github.com/MapsPeople/mapsindoors-core-ios@4.16.2-rc.4%5E%7B%7D
+- pkg:swift/github.com/MapsPeople/mapsindoors-core-ios@4.16.2-rc.5
+- pkg:swift/github.com/MapsPeople/mapsindoors-core-ios@4.16.2-rc.5%5E%7B%7D
 - pkg:swift/github.com/MapsPeople/mapsindoors-core-ios@4.16.3-beta.1
 - pkg:swift/github.com/MapsPeople/mapsindoors-core-ios@4.16.3-beta.1%5E%7B%7D
 - pkg:swift/github.com/MapsPeople/mapsindoors-core-ios@4.6.0

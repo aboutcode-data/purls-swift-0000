@@ -1,2 +1,4 @@
 - pkg:swift/github.com/nesevis/exhaust@v0.1.0
 - pkg:swift/github.com/nesevis/exhaust@v0.2.0
+- pkg:swift/github.com/nesevis/exhaust@v0.3.0
+- pkg:swift/github.com/nesevis/exhaust@v0.3.1
