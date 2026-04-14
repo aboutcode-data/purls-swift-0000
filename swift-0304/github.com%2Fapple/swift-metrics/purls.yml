@@ -9,6 +9,7 @@
 - pkg:swift/github.com/apple/swift-metrics@2.1.0%5E%7B%7D
 - pkg:swift/github.com/apple/swift-metrics@2.1.1
 - pkg:swift/github.com/apple/swift-metrics@2.1.1%5E%7B%7D
+- pkg:swift/github.com/apple/swift-metrics@2.10.0
 - pkg:swift/github.com/apple/swift-metrics@2.2.0
 - pkg:swift/github.com/apple/swift-metrics@2.2.0%5E%7B%7D
 - pkg:swift/github.com/apple/swift-metrics@2.3.0
