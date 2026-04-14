@@ -3,3 +3,4 @@
 - pkg:swift/github.com/tattn/voicevox-client@1.1.1
 - pkg:swift/github.com/tattn/voicevox-client@1.1.2
 - pkg:swift/github.com/tattn/voicevox-client@1.2.0
+- pkg:swift/github.com/tattn/voicevox-client@1.2.1
