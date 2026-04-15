@@ -20,3 +20,5 @@
 - pkg:swift/github.com/swift-android-sdk/swift-android-native@1.5.0%5E%7B%7D
 - pkg:swift/github.com/swift-android-sdk/swift-android-native@1.5.1
 - pkg:swift/github.com/swift-android-sdk/swift-android-native@1.5.1%5E%7B%7D
+- pkg:swift/github.com/swift-android-sdk/swift-android-native@2.0.0
+- pkg:swift/github.com/swift-android-sdk/swift-android-native@2.0.0%5E%7B%7D

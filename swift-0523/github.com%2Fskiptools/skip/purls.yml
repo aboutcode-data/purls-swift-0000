@@ -1443,3 +1443,5 @@
 - pkg:swift/github.com/skiptools/skip@1.8.5%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip@1.8.6
 - pkg:swift/github.com/skiptools/skip@1.8.6%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip@1.8.7
+- pkg:swift/github.com/skiptools/skip@1.8.7%5E%7B%7D
