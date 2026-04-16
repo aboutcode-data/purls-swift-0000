@@ -44,6 +44,7 @@
 - pkg:swift/github.com/apple/swift-nio-transport-services@1.25.1
 - pkg:swift/github.com/apple/swift-nio-transport-services@1.25.2
 - pkg:swift/github.com/apple/swift-nio-transport-services@1.26.0
+- pkg:swift/github.com/apple/swift-nio-transport-services@1.27.0
 - pkg:swift/github.com/apple/swift-nio-transport-services@1.3.0
 - pkg:swift/github.com/apple/swift-nio-transport-services@1.4.0
 - pkg:swift/github.com/apple/swift-nio-transport-services@1.5.0
