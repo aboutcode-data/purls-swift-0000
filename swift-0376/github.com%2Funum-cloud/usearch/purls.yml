@@ -243,6 +243,8 @@
 - pkg:swift/github.com/unum-cloud/usearch@v2.23.0%5E%7B%7D
 - pkg:swift/github.com/unum-cloud/usearch@v2.24.0
 - pkg:swift/github.com/unum-cloud/usearch@v2.24.0%5E%7B%7D
+- pkg:swift/github.com/unum-cloud/usearch@v2.25.0
+- pkg:swift/github.com/unum-cloud/usearch@v2.25.0%5E%7B%7D
 - pkg:swift/github.com/unum-cloud/usearch@v2.3.0
 - pkg:swift/github.com/unum-cloud/usearch@v2.3.1
 - pkg:swift/github.com/unum-cloud/usearch@v2.3.2
