@@ -1,0 +1,3 @@
+- pkg:swift/github.com/mattt/swift-configuration-toml@1.0.0
+- pkg:swift/github.com/mattt/swift-configuration-toml@1.1.0
+- pkg:swift/github.com/mattt/swift-configuration-toml@2.0.0
