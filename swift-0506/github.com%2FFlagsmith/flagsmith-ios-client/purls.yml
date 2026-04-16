@@ -28,6 +28,7 @@
 - pkg:swift/github.com/Flagsmith/flagsmith-ios-client@3.7.0
 - pkg:swift/github.com/Flagsmith/flagsmith-ios-client@3.8.0
 - pkg:swift/github.com/Flagsmith/flagsmith-ios-client@3.8.1
+- pkg:swift/github.com/Flagsmith/flagsmith-ios-client@v3.10.0
 - pkg:swift/github.com/Flagsmith/flagsmith-ios-client@v3.8.2
 - pkg:swift/github.com/Flagsmith/flagsmith-ios-client@v3.8.3
 - pkg:swift/github.com/Flagsmith/flagsmith-ios-client@v3.8.4
