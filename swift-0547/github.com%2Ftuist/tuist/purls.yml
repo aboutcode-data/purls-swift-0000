@@ -683,6 +683,7 @@
 - pkg:swift/github.com/tuist/tuist@4.179.3
 - pkg:swift/github.com/tuist/tuist@4.18.0
 - pkg:swift/github.com/tuist/tuist@4.180.0
+- pkg:swift/github.com/tuist/tuist@4.181.0
 - pkg:swift/github.com/tuist/tuist@4.19.0
 - pkg:swift/github.com/tuist/tuist@4.2.0
 - pkg:swift/github.com/tuist/tuist@4.2.1
@@ -1016,6 +1017,7 @@
 - pkg:swift/github.com/tuist/tuist@cache%400.29.0
 - pkg:swift/github.com/tuist/tuist@cache%400.29.1
 - pkg:swift/github.com/tuist/tuist@cache%400.29.2
+- pkg:swift/github.com/tuist/tuist@cache%400.29.3
 - pkg:swift/github.com/tuist/tuist@cache%400.3.0
 - pkg:swift/github.com/tuist/tuist@cache%400.4.0
 - pkg:swift/github.com/tuist/tuist@cache%400.4.1
@@ -1055,6 +1057,7 @@
 - pkg:swift/github.com/tuist/tuist@gradle%400.6.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.7.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.8.0
+- pkg:swift/github.com/tuist/tuist@gradle%400.9.0
 - pkg:swift/github.com/tuist/tuist@helm%400.1.0
 - pkg:swift/github.com/tuist/tuist@noora%400.76.0
 - pkg:swift/github.com/tuist/tuist@noora%400.77.0
@@ -1066,6 +1069,8 @@
 - pkg:swift/github.com/tuist/tuist@noora%400.78.1
 - pkg:swift/github.com/tuist/tuist@noora%400.79.0
 - pkg:swift/github.com/tuist/tuist@noora%400.79.1
+- pkg:swift/github.com/tuist/tuist@noora%400.80.0
+- pkg:swift/github.com/tuist/tuist@noora%400.80.1
 - pkg:swift/github.com/tuist/tuist@server%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.1
 - pkg:swift/github.com/tuist/tuist@server%400.1.2
@@ -1353,6 +1358,7 @@
 - pkg:swift/github.com/tuist/tuist@server%401.155.1
 - pkg:swift/github.com/tuist/tuist@server%401.155.2
 - pkg:swift/github.com/tuist/tuist@server%401.155.3
+- pkg:swift/github.com/tuist/tuist@server%401.156.0
 - pkg:swift/github.com/tuist/tuist@server%401.16.0
 - pkg:swift/github.com/tuist/tuist@server%401.16.1
 - pkg:swift/github.com/tuist/tuist@server%401.17.0

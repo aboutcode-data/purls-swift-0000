@@ -32,3 +32,5 @@
 - pkg:swift/github.com/vbmobile/MobileIdSDKiOS@8.1.6%5E%7B%7D
 - pkg:swift/github.com/vbmobile/MobileIdSDKiOS@8.1.7
 - pkg:swift/github.com/vbmobile/MobileIdSDKiOS@8.1.7%5E%7B%7D
+- pkg:swift/github.com/vbmobile/MobileIdSDKiOS@9.0.0-rc1
+- pkg:swift/github.com/vbmobile/MobileIdSDKiOS@9.0.0-rc1%5E%7B%7D
