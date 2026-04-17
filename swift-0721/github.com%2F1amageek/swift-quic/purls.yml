@@ -4,3 +4,4 @@
 - pkg:swift/github.com/1amageek/swift-quic@1.0.1%5E%7B%7D
 - pkg:swift/github.com/1amageek/swift-quic@1.0.2
 - pkg:swift/github.com/1amageek/swift-quic@1.0.2%5E%7B%7D
+- pkg:swift/github.com/1amageek/swift-quic@1.1.0
