@@ -7,3 +7,4 @@
 - pkg:swift/github.com/differentiable-swift/swift-differentiation@1.4.1
 - pkg:swift/github.com/differentiable-swift/swift-differentiation@1.5.0
 - pkg:swift/github.com/differentiable-swift/swift-differentiation@2.0.0
+- pkg:swift/github.com/differentiable-swift/swift-differentiation@2.0.1

@@ -3,3 +3,4 @@
 - pkg:swift/github.com/fpseverino/swift-wallet@0.3.0
 - pkg:swift/github.com/fpseverino/swift-wallet@0.4.0
 - pkg:swift/github.com/fpseverino/swift-wallet@0.4.1
+- pkg:swift/github.com/fpseverino/swift-wallet@1.0.0
