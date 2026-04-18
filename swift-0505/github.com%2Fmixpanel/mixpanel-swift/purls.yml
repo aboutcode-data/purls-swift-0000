@@ -68,6 +68,8 @@
 - pkg:swift/github.com/mixpanel/mixpanel-swift@6.1.0%5E%7B%7D
 - pkg:swift/github.com/mixpanel/mixpanel-swift@6.2.0
 - pkg:swift/github.com/mixpanel/mixpanel-swift@6.2.0%5E%7B%7D
+- pkg:swift/github.com/mixpanel/mixpanel-swift@6.3.0
+- pkg:swift/github.com/mixpanel/mixpanel-swift@6.3.0%5E%7B%7D
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v1.0.0
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v1.0.1
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v2.0.0
@@ -310,3 +312,5 @@
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v6.1.0%5E%7B%7D
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v6.2.0
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v6.2.0%5E%7B%7D
+- pkg:swift/github.com/mixpanel/mixpanel-swift@v6.3.0
+- pkg:swift/github.com/mixpanel/mixpanel-swift@v6.3.0%5E%7B%7D

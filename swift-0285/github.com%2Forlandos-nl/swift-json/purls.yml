@@ -55,5 +55,6 @@
 - pkg:swift/github.com/orlandos-nl/swift-json@2.4.0
 - pkg:swift/github.com/orlandos-nl/swift-json@2.4.1
 - pkg:swift/github.com/orlandos-nl/swift-json@2.4.2
+- pkg:swift/github.com/orlandos-nl/swift-json@2.4.3
 - pkg:swift/github.com/orlandos-nl/swift-json@3.0.0-alpha.1
 - pkg:swift/github.com/orlandos-nl/swift-json@3.0.0-beta.1
