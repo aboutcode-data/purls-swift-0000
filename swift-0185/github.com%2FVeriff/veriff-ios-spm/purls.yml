@@ -1,4 +1,5 @@
 - pkg:swift/github.com/Veriff/veriff-ios-spm@10.0.0
+- pkg:swift/github.com/Veriff/veriff-ios-spm@10.1.0
 - pkg:swift/github.com/Veriff/veriff-ios-spm@4.0.0
 - pkg:swift/github.com/Veriff/veriff-ios-spm@4.1.0
 - pkg:swift/github.com/Veriff/veriff-ios-spm@4.10.0
