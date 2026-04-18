@@ -68,3 +68,4 @@
 - pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.8
 - pkg:swift/github.com/staqio/StaqWallet@4.0.0-beta.9
 - pkg:swift/github.com/staqio/StaqWallet@4.0.1
+- pkg:swift/github.com/staqio/StaqWallet@4.0.2
