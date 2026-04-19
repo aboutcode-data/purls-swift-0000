@@ -12,6 +12,11 @@
 - pkg:swift/github.com/rarestype/swift-json@2.3.1
 - pkg:swift/github.com/rarestype/swift-json@2.3.2
 - pkg:swift/github.com/rarestype/swift-json@3.0.0
+- pkg:swift/github.com/rarestype/swift-json@3.0.1
+- pkg:swift/github.com/rarestype/swift-json@3.0.2
+- pkg:swift/github.com/rarestype/swift-json@3.1.0
+- pkg:swift/github.com/rarestype/swift-json@3.2.0
+- pkg:swift/github.com/rarestype/swift-json@3.2.1
 - pkg:swift/github.com/rarestype/swift-json@v0.1.0
 - pkg:swift/github.com/rarestype/swift-json@v0.1.0%5E%7B%7D
 - pkg:swift/github.com/rarestype/swift-json@v0.1.1
