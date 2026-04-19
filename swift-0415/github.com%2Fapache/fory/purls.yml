@@ -69,6 +69,7 @@
 - pkg:swift/github.com/apache/fory@v0.16.0-rc1
 - pkg:swift/github.com/apache/fory@v0.16.0-rc2
 - pkg:swift/github.com/apache/fory@v0.16.0-rc3
+- pkg:swift/github.com/apache/fory@v0.17.0
 - pkg:swift/github.com/apache/fory@v0.17.0-rc1
 - pkg:swift/github.com/apache/fory@v0.17.0-rc2
 - pkg:swift/github.com/apache/fory@v0.2.0
