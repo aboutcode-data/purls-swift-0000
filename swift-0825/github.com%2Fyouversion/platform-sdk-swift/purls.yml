@@ -26,3 +26,6 @@
 - pkg:swift/github.com/youversion/platform-sdk-swift@4.3.0
 - pkg:swift/github.com/youversion/platform-sdk-swift@4.4.0
 - pkg:swift/github.com/youversion/platform-sdk-swift@4.5.0
+- pkg:swift/github.com/youversion/platform-sdk-swift@4.6.0
+- pkg:swift/github.com/youversion/platform-sdk-swift@4.7.0
+- pkg:swift/github.com/youversion/platform-sdk-swift@4.8.0
