@@ -172,6 +172,8 @@
 - pkg:swift/github.com/frontegg/frontegg-ios-swift@1.3.0%5E%7B%7D
 - pkg:swift/github.com/frontegg/frontegg-ios-swift@1.3.1
 - pkg:swift/github.com/frontegg/frontegg-ios-swift@1.3.1%5E%7B%7D
+- pkg:swift/github.com/frontegg/frontegg-ios-swift@1.3.2
+- pkg:swift/github.com/frontegg/frontegg-ios-swift@1.3.2%5E%7B%7D
 - pkg:swift/github.com/frontegg/frontegg-ios-swift@V0.1.0
 - pkg:swift/github.com/frontegg/frontegg-ios-swift@v0.2.0
 - pkg:swift/github.com/frontegg/frontegg-ios-swift@v0.3.0
