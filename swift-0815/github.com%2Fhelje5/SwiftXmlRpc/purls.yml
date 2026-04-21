@@ -6,3 +6,5 @@
 - pkg:swift/github.com/helje5/SwiftXmlRpc@0.8.5
 - pkg:swift/github.com/helje5/SwiftXmlRpc@0.8.6
 - pkg:swift/github.com/helje5/SwiftXmlRpc@0.8.7
+- pkg:swift/github.com/helje5/SwiftXmlRpc@0.9.0
+- pkg:swift/github.com/helje5/SwiftXmlRpc@1.0.0
