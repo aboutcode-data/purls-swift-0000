@@ -6,3 +6,4 @@
 - pkg:swift/github.com/IBM-Verify/verify-sdk-ios@v3.0.7
 - pkg:swift/github.com/IBM-Verify/verify-sdk-ios@v3.0.8
 - pkg:swift/github.com/IBM-Verify/verify-sdk-ios@v3.0.9
+- pkg:swift/github.com/IBM-Verify/verify-sdk-ios@v3.1.0
