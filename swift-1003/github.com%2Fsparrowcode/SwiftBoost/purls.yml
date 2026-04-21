@@ -57,9 +57,15 @@
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.18
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.19
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.2
+- pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.20
+- pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.21
+- pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.22
+- pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.23
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.3
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.4
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.5
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.7
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.8
 - pkg:swift/github.com/sparrowcode/SwiftBoost@4.0.9
+- pkg:swift/github.com/sparrowcode/SwiftBoost@5.0.0
+- pkg:swift/github.com/sparrowcode/SwiftBoost@5.0.1
