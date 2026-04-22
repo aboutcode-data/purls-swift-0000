@@ -170,6 +170,7 @@
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.1
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.10
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.11
+- pkg:swift/github.com/Scandit/datacapture-spm@7.6.12
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.2
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.3
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.4

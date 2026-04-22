@@ -371,6 +371,8 @@
 - pkg:swift/github.com/tuist/FileSystem@0.16.4%5E%7B%7D
 - pkg:swift/github.com/tuist/FileSystem@0.16.5
 - pkg:swift/github.com/tuist/FileSystem@0.16.5%5E%7B%7D
+- pkg:swift/github.com/tuist/FileSystem@0.16.6
+- pkg:swift/github.com/tuist/FileSystem@0.16.6%5E%7B%7D
 - pkg:swift/github.com/tuist/FileSystem@0.2.0
 - pkg:swift/github.com/tuist/FileSystem@0.3.0
 - pkg:swift/github.com/tuist/FileSystem@0.3.1

@@ -30,6 +30,7 @@
 - pkg:swift/github.com/swiftlang/swift-testing@6.2.3
 - pkg:swift/github.com/swiftlang/swift-testing@6.2.4
 - pkg:swift/github.com/swiftlang/swift-testing@6.3
+- pkg:swift/github.com/swiftlang/swift-testing@6.3.1
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-11-a
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-11-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-17-a
@@ -667,3 +668,5 @@
 - pkg:swift/github.com/swiftlang/swift-testing@swift-DEVELOPMENT-SNAPSHOT-2026-03-16-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-testing@swift-DEVELOPMENT-SNAPSHOT-2026-04-01-a
 - pkg:swift/github.com/swiftlang/swift-testing@swift-DEVELOPMENT-SNAPSHOT-2026-04-01-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-testing@swift-DEVELOPMENT-SNAPSHOT-2026-04-17-a
+- pkg:swift/github.com/swiftlang/swift-testing@swift-DEVELOPMENT-SNAPSHOT-2026-04-17-a%5E%7B%7D
