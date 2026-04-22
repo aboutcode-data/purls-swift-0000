@@ -5,6 +5,8 @@
 - pkg:swift/github.com/AAChartModel/AAChartKit-Swift@1.0.2%5E%7B%7D
 - pkg:swift/github.com/AAChartModel/AAChartKit-Swift@1.0.3
 - pkg:swift/github.com/AAChartModel/AAChartKit-Swift@1.0.3%5E%7B%7D
+- pkg:swift/github.com/AAChartModel/AAChartKit-Swift@10.0.0
+- pkg:swift/github.com/AAChartModel/AAChartKit-Swift@10.0.0%5E%7B%7D
 - pkg:swift/github.com/AAChartModel/AAChartKit-Swift@2.0.0
 - pkg:swift/github.com/AAChartModel/AAChartKit-Swift@2.0.0%5E%7B%7D
 - pkg:swift/github.com/AAChartModel/AAChartKit-Swift@2.0.1
