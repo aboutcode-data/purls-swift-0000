@@ -46,3 +46,4 @@
 - pkg:swift/github.com/newrelic/newrelic-ios-agent-spm@7.6.2
 - pkg:swift/github.com/newrelic/newrelic-ios-agent-spm@7.6.3
 - pkg:swift/github.com/newrelic/newrelic-ios-agent-spm@7.7.0
+- pkg:swift/github.com/newrelic/newrelic-ios-agent-spm@7.7.1
