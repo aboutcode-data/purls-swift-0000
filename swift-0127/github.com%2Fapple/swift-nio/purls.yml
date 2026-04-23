@@ -179,3 +179,4 @@
 - pkg:swift/github.com/apple/swift-nio@2.97.0
 - pkg:swift/github.com/apple/swift-nio@2.97.1
 - pkg:swift/github.com/apple/swift-nio@2.98.0
+- pkg:swift/github.com/apple/swift-nio@2.99.0

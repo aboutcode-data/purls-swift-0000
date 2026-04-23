@@ -175,6 +175,7 @@
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit@v0.23.6
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit@v0.23.7
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit@v0.24.0
+- pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit@v0.24.1
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit@v0.3.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit@v0.3.0%5E%7B%7D
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit@v0.3.1

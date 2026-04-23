@@ -77,6 +77,8 @@
 - pkg:swift/github.com/GeoEdgeSDK/AppHarbrSDK@1.30.1%5E%7B%7D
 - pkg:swift/github.com/GeoEdgeSDK/AppHarbrSDK@1.31.0
 - pkg:swift/github.com/GeoEdgeSDK/AppHarbrSDK@1.31.0%5E%7B%7D
+- pkg:swift/github.com/GeoEdgeSDK/AppHarbrSDK@1.32.0
+- pkg:swift/github.com/GeoEdgeSDK/AppHarbrSDK@1.32.0%5E%7B%7D
 - pkg:swift/github.com/GeoEdgeSDK/AppHarbrSDK@1.4.4
 - pkg:swift/github.com/GeoEdgeSDK/AppHarbrSDK@1.4.4%5E%7B%7D
 - pkg:swift/github.com/GeoEdgeSDK/AppHarbrSDK@1.4.5
