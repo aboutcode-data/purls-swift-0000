@@ -4,6 +4,7 @@
 - pkg:swift/github.com/Adyen/adyen-swift-public-api-diff@0.10.0
 - pkg:swift/github.com/Adyen/adyen-swift-public-api-diff@0.10.1
 - pkg:swift/github.com/Adyen/adyen-swift-public-api-diff@0.11.0
+- pkg:swift/github.com/Adyen/adyen-swift-public-api-diff@0.11.1
 - pkg:swift/github.com/Adyen/adyen-swift-public-api-diff@0.2.0
 - pkg:swift/github.com/Adyen/adyen-swift-public-api-diff@0.2.1
 - pkg:swift/github.com/Adyen/adyen-swift-public-api-diff@0.3.0
