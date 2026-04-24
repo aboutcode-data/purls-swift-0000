@@ -694,6 +694,9 @@
 - pkg:swift/github.com/tuist/tuist@4.184.2
 - pkg:swift/github.com/tuist/tuist@4.185.0
 - pkg:swift/github.com/tuist/tuist@4.185.1
+- pkg:swift/github.com/tuist/tuist@4.186.0
+- pkg:swift/github.com/tuist/tuist@4.186.1
+- pkg:swift/github.com/tuist/tuist@4.186.2
 - pkg:swift/github.com/tuist/tuist@4.19.0
 - pkg:swift/github.com/tuist/tuist@4.2.0
 - pkg:swift/github.com/tuist/tuist@4.2.1
@@ -1035,6 +1038,7 @@
 - pkg:swift/github.com/tuist/tuist@cache%400.30.0
 - pkg:swift/github.com/tuist/tuist@cache%400.31.0
 - pkg:swift/github.com/tuist/tuist@cache%400.32.0
+- pkg:swift/github.com/tuist/tuist@cache%400.32.1
 - pkg:swift/github.com/tuist/tuist@cache%400.4.0
 - pkg:swift/github.com/tuist/tuist@cache%400.4.1
 - pkg:swift/github.com/tuist/tuist@cache%400.4.2
@@ -1081,6 +1085,8 @@
 - pkg:swift/github.com/tuist/tuist@grafana-plugin-v0.1.0
 - pkg:swift/github.com/tuist/tuist@helm%400.1.0
 - pkg:swift/github.com/tuist/tuist@helm%400.2.0
+- pkg:swift/github.com/tuist/tuist@kura%400.1.0
+- pkg:swift/github.com/tuist/tuist@kura%400.2.0
 - pkg:swift/github.com/tuist/tuist@noora%400.76.0
 - pkg:swift/github.com/tuist/tuist@noora%400.77.0
 - pkg:swift/github.com/tuist/tuist@noora%400.77.1
@@ -1405,7 +1411,10 @@
 - pkg:swift/github.com/tuist/tuist@server%401.167.0
 - pkg:swift/github.com/tuist/tuist@server%401.168.0
 - pkg:swift/github.com/tuist/tuist@server%401.168.1
+- pkg:swift/github.com/tuist/tuist@server%401.169.0
 - pkg:swift/github.com/tuist/tuist@server%401.17.0
+- pkg:swift/github.com/tuist/tuist@server%401.170.0
+- pkg:swift/github.com/tuist/tuist@server%401.170.1
 - pkg:swift/github.com/tuist/tuist@server%401.18.0
 - pkg:swift/github.com/tuist/tuist@server%401.18.1
 - pkg:swift/github.com/tuist/tuist@server%401.18.2
