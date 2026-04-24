@@ -136,6 +136,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-experimental-vori-log-connecting
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-preview.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-preview.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0-rc.1
@@ -148,6 +149,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3-rc.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3-vori-i614
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-preview.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-b6835ba.0
