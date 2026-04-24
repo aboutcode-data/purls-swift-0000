@@ -26,6 +26,8 @@
 - pkg:swift/github.com/p-x9/AssociatedObject@0.13.0%5E%7B%7D
 - pkg:swift/github.com/p-x9/AssociatedObject@0.14.0
 - pkg:swift/github.com/p-x9/AssociatedObject@0.14.0%5E%7B%7D
+- pkg:swift/github.com/p-x9/AssociatedObject@0.15.0
+- pkg:swift/github.com/p-x9/AssociatedObject@0.15.0%5E%7B%7D
 - pkg:swift/github.com/p-x9/AssociatedObject@0.2.0
 - pkg:swift/github.com/p-x9/AssociatedObject@0.2.0%5E%7B%7D
 - pkg:swift/github.com/p-x9/AssociatedObject@0.2.1
