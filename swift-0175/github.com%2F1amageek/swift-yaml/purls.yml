@@ -1,0 +1,5 @@
+- pkg:swift/github.com/1amageek/swift-yaml@0.1.0
+- pkg:swift/github.com/1amageek/swift-yaml@0.2.0
+- pkg:swift/github.com/1amageek/swift-yaml@0.3.0
+- pkg:swift/github.com/1amageek/swift-yaml@1.0.0
+- pkg:swift/github.com/1amageek/swift-yaml@1.0.1
