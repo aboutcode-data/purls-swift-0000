@@ -1,0 +1,12 @@
+- pkg:swift/github.com/SteliyanH/kadr@v0.0.1-skeleton
+- pkg:swift/github.com/SteliyanH/kadr@v0.0.1-skeleton%5E%7B%7D
+- pkg:swift/github.com/SteliyanH/kadr@v0.0.2-engine-image
+- pkg:swift/github.com/SteliyanH/kadr@v0.0.2-engine-image%5E%7B%7D
+- pkg:swift/github.com/SteliyanH/kadr@v0.0.3-engine-full
+- pkg:swift/github.com/SteliyanH/kadr@v0.0.3-engine-full%5E%7B%7D
+- pkg:swift/github.com/SteliyanH/kadr@v0.0.4-sample-app
+- pkg:swift/github.com/SteliyanH/kadr@v0.0.4-sample-app%5E%7B%7D
+- pkg:swift/github.com/SteliyanH/kadr@v0.1.0
+- pkg:swift/github.com/SteliyanH/kadr@v0.1.0%5E%7B%7D
+- pkg:swift/github.com/SteliyanH/kadr@v0.1.0-alpha
+- pkg:swift/github.com/SteliyanH/kadr@v0.1.0-alpha%5E%7B%7D
