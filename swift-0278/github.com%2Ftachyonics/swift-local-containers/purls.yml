@@ -6,3 +6,5 @@
 - pkg:swift/github.com/tachyonics/swift-local-containers@0.5.0
 - pkg:swift/github.com/tachyonics/swift-local-containers@0.5.1
 - pkg:swift/github.com/tachyonics/swift-local-containers@0.6.0
+- pkg:swift/github.com/tachyonics/swift-local-containers@0.7.0
+- pkg:swift/github.com/tachyonics/swift-local-containers@0.7.1

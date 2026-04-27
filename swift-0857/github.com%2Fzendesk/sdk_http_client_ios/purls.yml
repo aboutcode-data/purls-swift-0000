@@ -13,6 +13,7 @@
 - pkg:swift/github.com/zendesk/sdk_http_client_ios@0.18.0
 - pkg:swift/github.com/zendesk/sdk_http_client_ios@0.19.0
 - pkg:swift/github.com/zendesk/sdk_http_client_ios@0.20.0
+- pkg:swift/github.com/zendesk/sdk_http_client_ios@0.20.1
 - pkg:swift/github.com/zendesk/sdk_http_client_ios@0.4.0
 - pkg:swift/github.com/zendesk/sdk_http_client_ios@0.4.1
 - pkg:swift/github.com/zendesk/sdk_http_client_ios@0.4.2
