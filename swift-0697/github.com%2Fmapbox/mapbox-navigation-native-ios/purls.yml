@@ -1805,6 +1805,7 @@
 - pkg:swift/github.com/mapbox/mapbox-navigation-native-ios@v324.22.0-alpha.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-native-ios@v324.22.0-alpha.2
 - pkg:swift/github.com/mapbox/mapbox-navigation-native-ios@v324.22.0-rc.1
+- pkg:swift/github.com/mapbox/mapbox-navigation-native-ios@v324.22.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-native-ios@v324.23.0-SNAPSHOT-04-07--10-38.git-0fc6806
 - pkg:swift/github.com/mapbox/mapbox-navigation-native-ios@v324.23.0-SNAPSHOT-04-08--02-04.git-ccd3bc5
 - pkg:swift/github.com/mapbox/mapbox-navigation-native-ios@v324.23.0-SNAPSHOT-04-08--13-49.git-3ff8e36
