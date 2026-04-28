@@ -10,3 +10,4 @@
 - pkg:swift/github.com/swiftlang/swift-docc-plugin@1.4.4
 - pkg:swift/github.com/swiftlang/swift-docc-plugin@1.4.5
 - pkg:swift/github.com/swiftlang/swift-docc-plugin@1.4.6
+- pkg:swift/github.com/swiftlang/swift-docc-plugin@1.5.0

@@ -47,3 +47,5 @@
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v2.3.0
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v2.3.1
 - pkg:swift/github.com/Tom-Ryder/AgentRunKit@v2.3.2
+- pkg:swift/github.com/Tom-Ryder/AgentRunKit@v3.0.0
+- pkg:swift/github.com/Tom-Ryder/AgentRunKit@v4.0.0
