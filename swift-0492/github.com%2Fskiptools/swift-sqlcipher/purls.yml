@@ -22,3 +22,5 @@
 - pkg:swift/github.com/skiptools/swift-sqlcipher@1.7.1
 - pkg:swift/github.com/skiptools/swift-sqlcipher@1.7.1%5E%7B%7D
 - pkg:swift/github.com/skiptools/swift-sqlcipher@1.8.0
+- pkg:swift/github.com/skiptools/swift-sqlcipher@1.9.0
+- pkg:swift/github.com/skiptools/swift-sqlcipher@1.9.0%5E%7B%7D
