@@ -76,6 +76,8 @@
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.25.0%5E%7B%7D
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.25.1
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.25.1%5E%7B%7D
+- pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.26.0
+- pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.26.0%5E%7B%7D
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.3.0
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.3.0%5E%7B%7D
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.3.1

@@ -147,3 +147,4 @@
 - pkg:swift/github.com/mattpolzin/OpenAPIKit@5.2.0
 - pkg:swift/github.com/mattpolzin/OpenAPIKit@5.2.1
 - pkg:swift/github.com/mattpolzin/OpenAPIKit@5.3.0
+- pkg:swift/github.com/mattpolzin/OpenAPIKit@6.0.0
