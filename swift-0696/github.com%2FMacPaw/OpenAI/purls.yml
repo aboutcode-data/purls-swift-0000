@@ -56,5 +56,6 @@
 - pkg:swift/github.com/MacPaw/OpenAI@0.4.6
 - pkg:swift/github.com/MacPaw/OpenAI@0.4.7
 - pkg:swift/github.com/MacPaw/OpenAI@0.4.8
+- pkg:swift/github.com/MacPaw/OpenAI@0.4.9
 - pkg:swift/github.com/MacPaw/OpenAI@feat/additional-headers
 - pkg:swift/github.com/MacPaw/OpenAI@feat/additional-headers%5E%7B%7D
