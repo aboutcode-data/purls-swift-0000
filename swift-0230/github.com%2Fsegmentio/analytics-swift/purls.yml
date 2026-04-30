@@ -52,3 +52,4 @@
 - pkg:swift/github.com/segmentio/analytics-swift@1.9.1
 - pkg:swift/github.com/segmentio/analytics-swift@1.9.2
 - pkg:swift/github.com/segmentio/analytics-swift@1.9.3
+- pkg:swift/github.com/segmentio/analytics-swift@1.9.4
