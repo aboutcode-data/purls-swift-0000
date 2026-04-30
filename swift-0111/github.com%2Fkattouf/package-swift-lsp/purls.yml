@@ -5,3 +5,4 @@
 - pkg:swift/github.com/kattouf/package-swift-lsp@1.4.0
 - pkg:swift/github.com/kattouf/package-swift-lsp@1.5.0
 - pkg:swift/github.com/kattouf/package-swift-lsp@1.6.0
+- pkg:swift/github.com/kattouf/package-swift-lsp@1.6.1
