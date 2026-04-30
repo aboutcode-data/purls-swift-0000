@@ -77,6 +77,8 @@
 - pkg:swift/github.com/capnslipp/Vuckt@3.9.0%5E%7B%7D
 - pkg:swift/github.com/capnslipp/Vuckt@3.9.1
 - pkg:swift/github.com/capnslipp/Vuckt@3.9.1%5E%7B%7D
+- pkg:swift/github.com/capnslipp/Vuckt@3.9.2
+- pkg:swift/github.com/capnslipp/Vuckt@3.9.2%5E%7B%7D
 - pkg:swift/github.com/capnslipp/Vuckt@podspec/3.0.0
 - pkg:swift/github.com/capnslipp/Vuckt@podspec/3.1.0
 - pkg:swift/github.com/capnslipp/Vuckt@podspec/3.2.0
