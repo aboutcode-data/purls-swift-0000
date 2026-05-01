@@ -47,6 +47,7 @@
 - pkg:swift/github.com/ProxymanApp/atlantis@1.33.0
 - pkg:swift/github.com/ProxymanApp/atlantis@1.33.0%5E%7B%7D
 - pkg:swift/github.com/ProxymanApp/atlantis@1.34.0
+- pkg:swift/github.com/ProxymanApp/atlantis@1.35.0
 - pkg:swift/github.com/ProxymanApp/atlantis@1.4.0
 - pkg:swift/github.com/ProxymanApp/atlantis@1.4.1
 - pkg:swift/github.com/ProxymanApp/atlantis@1.4.2
