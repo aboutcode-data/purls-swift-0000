@@ -159,6 +159,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-preview.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-rc.3
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-rc.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-b6835ba.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-kotlin17.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-rkyv-20251215-1
@@ -316,6 +317,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-release-gate.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-release-gate.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-release-gate.3
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-sdk-publish-test.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-slack-notification-removal.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-transports-android-module.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-transports-android-module.2
