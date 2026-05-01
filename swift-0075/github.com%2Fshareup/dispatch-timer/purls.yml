@@ -10,3 +10,4 @@
 - pkg:swift/github.com/shareup/dispatch-timer@v2.1.2
 - pkg:swift/github.com/shareup/dispatch-timer@v3.0.0
 - pkg:swift/github.com/shareup/dispatch-timer@v3.0.1
+- pkg:swift/github.com/shareup/dispatch-timer@v3.0.2
