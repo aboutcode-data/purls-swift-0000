@@ -9,3 +9,4 @@
 - pkg:swift/github.com/rarestype/swift-io@2.1.0
 - pkg:swift/github.com/rarestype/swift-io@2.2.0
 - pkg:swift/github.com/rarestype/swift-io@2.3.0
+- pkg:swift/github.com/rarestype/swift-io@3.0.0
