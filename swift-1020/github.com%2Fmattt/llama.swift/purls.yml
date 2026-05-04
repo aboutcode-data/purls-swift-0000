@@ -1151,3 +1151,5 @@
 - pkg:swift/github.com/mattt/llama.swift@2.9009.0
 - pkg:swift/github.com/mattt/llama.swift@2.9010.0
 - pkg:swift/github.com/mattt/llama.swift@2.9012.0
+- pkg:swift/github.com/mattt/llama.swift@2.9014.0
+- pkg:swift/github.com/mattt/llama.swift@2.9016.0
