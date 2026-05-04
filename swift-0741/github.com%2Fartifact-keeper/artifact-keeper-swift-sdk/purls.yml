@@ -10,3 +10,4 @@
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.1.2
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.1.4
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.1.6
+- pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.1.9-rc.1
