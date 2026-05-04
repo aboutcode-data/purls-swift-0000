@@ -5,3 +5,4 @@
 - pkg:swift/github.com/laosb/SwiftForgejo@1.1.2%2Bforgejo-11.0.10-gitea-1.22.0
 - pkg:swift/github.com/laosb/SwiftForgejo@2.0.0%2Bforgejo-11.0.10-gitea-1.22.0
 - pkg:swift/github.com/laosb/SwiftForgejo@2.0.1%2Bforgejo-11.0.10-gitea-1.22.0
+- pkg:swift/github.com/laosb/SwiftForgejo@3.0.0%2Bforgejo-15.0.1-gitea-1.22.0

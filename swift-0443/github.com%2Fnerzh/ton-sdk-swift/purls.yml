@@ -57,3 +57,7 @@
 - pkg:swift/github.com/nerzh/ton-sdk-swift@1.3.4%5E%7B%7D
 - pkg:swift/github.com/nerzh/ton-sdk-swift@1.3.5
 - pkg:swift/github.com/nerzh/ton-sdk-swift@1.3.5%5E%7B%7D
+- pkg:swift/github.com/nerzh/ton-sdk-swift@1.3.6
+- pkg:swift/github.com/nerzh/ton-sdk-swift@1.3.6%5E%7B%7D
+- pkg:swift/github.com/nerzh/ton-sdk-swift@1.3.7
+- pkg:swift/github.com/nerzh/ton-sdk-swift@1.3.7%5E%7B%7D
