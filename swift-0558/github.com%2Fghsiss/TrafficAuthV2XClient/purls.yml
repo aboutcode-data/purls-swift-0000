@@ -5,6 +5,7 @@
 - pkg:swift/github.com/ghsiss/TrafficAuthV2XClient@0.0.13
 - pkg:swift/github.com/ghsiss/TrafficAuthV2XClient@0.0.14
 - pkg:swift/github.com/ghsiss/TrafficAuthV2XClient@0.0.15
+- pkg:swift/github.com/ghsiss/TrafficAuthV2XClient@0.0.16
 - pkg:swift/github.com/ghsiss/TrafficAuthV2XClient@0.0.2
 - pkg:swift/github.com/ghsiss/TrafficAuthV2XClient@0.0.3
 - pkg:swift/github.com/ghsiss/TrafficAuthV2XClient@0.0.4
