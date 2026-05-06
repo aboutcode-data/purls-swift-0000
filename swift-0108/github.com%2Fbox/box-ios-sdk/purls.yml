@@ -43,6 +43,8 @@
 - pkg:swift/github.com/box/box-ios-sdk@6.7.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@6.8.0
 - pkg:swift/github.com/box/box-ios-sdk@6.8.0%5E%7B%7D
+- pkg:swift/github.com/box/box-ios-sdk@6.9.0
+- pkg:swift/github.com/box/box-ios-sdk@6.9.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@v1.0.0
 - pkg:swift/github.com/box/box-ios-sdk@v1.0.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@v1.0.1
