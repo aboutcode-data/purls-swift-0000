@@ -103,3 +103,5 @@
 - pkg:swift/github.com/li6185377/LKDBHelper-SQLite-ORM@2.7.2%5E%7B%7D
 - pkg:swift/github.com/li6185377/LKDBHelper-SQLite-ORM@2.7.3
 - pkg:swift/github.com/li6185377/LKDBHelper-SQLite-ORM@2.7.3%5E%7B%7D
+- pkg:swift/github.com/li6185377/LKDBHelper-SQLite-ORM@2.8.0
+- pkg:swift/github.com/li6185377/LKDBHelper-SQLite-ORM@2.8.0%5E%7B%7D
