@@ -119,3 +119,4 @@
 - pkg:swift/github.com/dodobrands/BlackBox@4.1.0%5E%7B%7D
 - pkg:swift/github.com/dodobrands/BlackBox@5.0.0
 - pkg:swift/github.com/dodobrands/BlackBox@6.0.0
+- pkg:swift/github.com/dodobrands/BlackBox@6.0.1

@@ -275,6 +275,7 @@
 - pkg:swift/github.com/algolia/algoliasearch-client-swift@9.41.2
 - pkg:swift/github.com/algolia/algoliasearch-client-swift@9.42.0
 - pkg:swift/github.com/algolia/algoliasearch-client-swift@9.43.0
+- pkg:swift/github.com/algolia/algoliasearch-client-swift@9.43.1
 - pkg:swift/github.com/algolia/algoliasearch-client-swift@9.5.0
 - pkg:swift/github.com/algolia/algoliasearch-client-swift@9.5.1
 - pkg:swift/github.com/algolia/algoliasearch-client-swift@9.6.0
