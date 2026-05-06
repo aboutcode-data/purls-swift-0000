@@ -78,6 +78,8 @@
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.25.1%5E%7B%7D
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.26.0
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.26.0%5E%7B%7D
+- pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.26.0-pre6aa804f7e2f2c91d57e838cca9ddaf14d8101462
+- pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.26.0-pre6aa804f7e2f2c91d57e838cca9ddaf14d8101462%5E%7B%7D
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.3.0
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.3.0%5E%7B%7D
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@6.3.1
