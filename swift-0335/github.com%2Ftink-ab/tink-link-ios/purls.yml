@@ -61,3 +61,4 @@
 - pkg:swift/github.com/tink-ab/tink-link-ios@4.0.0
 - pkg:swift/github.com/tink-ab/tink-link-ios@5.0.0
 - pkg:swift/github.com/tink-ab/tink-link-ios@5.0.2-rc1
+- pkg:swift/github.com/tink-ab/tink-link-ios@5.1.0
