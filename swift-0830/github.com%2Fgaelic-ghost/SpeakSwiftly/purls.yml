@@ -133,3 +133,9 @@
 - pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v5.0.0-rc.1%5E%7B%7D
 - pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v5.0.1
 - pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v5.0.1%5E%7B%7D
+- pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v6.0.0
+- pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v6.0.0%5E%7B%7D
+- pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v7.0.0
+- pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v7.0.0%5E%7B%7D
+- pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v7.1.0
+- pkg:swift/github.com/gaelic-ghost/SpeakSwiftly@v7.1.0%5E%7B%7D

@@ -126,6 +126,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-conn-limit
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-conn-limit-meshlab
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-conn-limit-meshlab-ipv4-cifix
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-preview-1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-preview.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.0-experimental-internal-jj-ws-support.1
