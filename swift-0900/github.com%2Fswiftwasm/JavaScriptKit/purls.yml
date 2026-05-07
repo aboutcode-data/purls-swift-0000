@@ -76,6 +76,7 @@
 - pkg:swift/github.com/swiftwasm/JavaScriptKit@0.50.1
 - pkg:swift/github.com/swiftwasm/JavaScriptKit@0.50.2
 - pkg:swift/github.com/swiftwasm/JavaScriptKit@0.51.0
+- pkg:swift/github.com/swiftwasm/JavaScriptKit@0.52.0
 - pkg:swift/github.com/swiftwasm/JavaScriptKit@0.6.0
 - pkg:swift/github.com/swiftwasm/JavaScriptKit@0.7.0
 - pkg:swift/github.com/swiftwasm/JavaScriptKit@0.7.1
