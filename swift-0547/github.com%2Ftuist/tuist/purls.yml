@@ -717,6 +717,7 @@
 - pkg:swift/github.com/tuist/tuist@4.191.6
 - pkg:swift/github.com/tuist/tuist@4.191.7
 - pkg:swift/github.com/tuist/tuist@4.191.8
+- pkg:swift/github.com/tuist/tuist@4.192.0
 - pkg:swift/github.com/tuist/tuist@4.2.0
 - pkg:swift/github.com/tuist/tuist@4.2.1
 - pkg:swift/github.com/tuist/tuist@4.2.2
@@ -958,6 +959,7 @@
 - pkg:swift/github.com/tuist/tuist@app%400.25.1
 - pkg:swift/github.com/tuist/tuist@app%400.25.2
 - pkg:swift/github.com/tuist/tuist@app%400.25.3
+- pkg:swift/github.com/tuist/tuist@app%400.25.4
 - pkg:swift/github.com/tuist/tuist@app%400.3.0
 - pkg:swift/github.com/tuist/tuist@app%400.3.0%5E%7B%7D
 - pkg:swift/github.com/tuist/tuist@app%400.3.1
@@ -1082,6 +1084,7 @@
 - pkg:swift/github.com/tuist/tuist@cache%400.8.5
 - pkg:swift/github.com/tuist/tuist@cache%400.8.6
 - pkg:swift/github.com/tuist/tuist@cache%400.9.0
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.1.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.1
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.2
@@ -1125,6 +1128,7 @@
 - pkg:swift/github.com/tuist/tuist@noora%400.81.0
 - pkg:swift/github.com/tuist/tuist@noora%400.81.1
 - pkg:swift/github.com/tuist/tuist@noora%400.81.2
+- pkg:swift/github.com/tuist/tuist@noora%400.81.3
 - pkg:swift/github.com/tuist/tuist@server%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.1
 - pkg:swift/github.com/tuist/tuist@server%400.1.2
@@ -1482,6 +1486,7 @@
 - pkg:swift/github.com/tuist/tuist@server%401.184.1
 - pkg:swift/github.com/tuist/tuist@server%401.184.2
 - pkg:swift/github.com/tuist/tuist@server%401.185.0
+- pkg:swift/github.com/tuist/tuist@server%401.186.0
 - pkg:swift/github.com/tuist/tuist@server%401.19.0
 - pkg:swift/github.com/tuist/tuist@server%401.19.1
 - pkg:swift/github.com/tuist/tuist@server%401.19.2
@@ -1700,3 +1705,4 @@
 - pkg:swift/github.com/tuist/tuist@skills%400.2.0
 - pkg:swift/github.com/tuist/tuist@skills%400.3.0
 - pkg:swift/github.com/tuist/tuist@support-run-on-xcode-cloud-release
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.1.0
