@@ -100,3 +100,4 @@
 - pkg:swift/github.com/ordo-one/package-benchmark@1.9.0
 - pkg:swift/github.com/ordo-one/package-benchmark@1.9.1
 - pkg:swift/github.com/ordo-one/package-benchmark@1.9.2
+- pkg:swift/github.com/ordo-one/package-benchmark@2.0.0
