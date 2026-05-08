@@ -120,12 +120,14 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.4-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.5
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.5-experimental-gha-workflow.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.5-experimental-internal-jj-ws-support.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.5-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-QE-756.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-conn-limit
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-conn-limit-meshlab
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-conn-limit-meshlab-ipv4-cifix
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-gha-workflow-kotlin-only.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-preview-1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-preview.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.0
@@ -141,9 +143,11 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-experimental-vori-2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-experimental-vori-log-connecting
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-rc.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-experimental-gha-workflow-kotlin-only.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-experimental-gha-workflow.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-preview.2
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-rc.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.0-rc.1

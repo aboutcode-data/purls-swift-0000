@@ -32,6 +32,10 @@
 - pkg:swift/github.com/bastie/JavApi4Swift@0.25.0
 - pkg:swift/github.com/bastie/JavApi4Swift@0.26.0
 - pkg:swift/github.com/bastie/JavApi4Swift@0.26.1
+- pkg:swift/github.com/bastie/JavApi4Swift@0.27.0
+- pkg:swift/github.com/bastie/JavApi4Swift@0.28.0
+- pkg:swift/github.com/bastie/JavApi4Swift@0.28.1
+- pkg:swift/github.com/bastie/JavApi4Swift@0.29.0
 - pkg:swift/github.com/bastie/JavApi4Swift@0.3.0
 - pkg:swift/github.com/bastie/JavApi4Swift@0.3.1
 - pkg:swift/github.com/bastie/JavApi4Swift@0.3.2
