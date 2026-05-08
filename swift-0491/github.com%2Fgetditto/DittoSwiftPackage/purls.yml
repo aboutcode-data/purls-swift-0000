@@ -159,6 +159,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3-rc.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.3-vori-i614
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.3
