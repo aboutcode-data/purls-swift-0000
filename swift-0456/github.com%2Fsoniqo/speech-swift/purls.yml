@@ -3,6 +3,7 @@
 - pkg:swift/github.com/soniqo/speech-swift@v0.0.11
 - pkg:swift/github.com/soniqo/speech-swift@v0.0.12
 - pkg:swift/github.com/soniqo/speech-swift@v0.0.12%5E%7B%7D
+- pkg:swift/github.com/soniqo/speech-swift@v0.0.13
 - pkg:swift/github.com/soniqo/speech-swift@v0.0.2
 - pkg:swift/github.com/soniqo/speech-swift@v0.0.3
 - pkg:swift/github.com/soniqo/speech-swift@v0.0.4
