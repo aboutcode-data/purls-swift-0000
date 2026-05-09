@@ -117,6 +117,7 @@
 - pkg:swift/github.com/Scandit/datacapture-spm@6.28.0-beta.1
 - pkg:swift/github.com/Scandit/datacapture-spm@6.28.0-beta.2
 - pkg:swift/github.com/Scandit/datacapture-spm@6.28.1
+- pkg:swift/github.com/Scandit/datacapture-spm@6.28.10
 - pkg:swift/github.com/Scandit/datacapture-spm@6.28.2
 - pkg:swift/github.com/Scandit/datacapture-spm@6.28.3
 - pkg:swift/github.com/Scandit/datacapture-spm@6.28.4
@@ -172,6 +173,7 @@
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.11
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.12
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.13
+- pkg:swift/github.com/Scandit/datacapture-spm@7.6.14
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.2
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.3
 - pkg:swift/github.com/Scandit/datacapture-spm@7.6.4
