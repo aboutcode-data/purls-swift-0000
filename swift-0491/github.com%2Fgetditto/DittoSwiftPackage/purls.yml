@@ -128,6 +128,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-conn-limit-meshlab
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-conn-limit-meshlab-ipv4-cifix
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-gha-workflow-kotlin-only.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-experimental-gha-workflow.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-preview-1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.6-preview.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.0
@@ -143,6 +144,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-experimental-vori-2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-experimental-vori-log-connecting
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.3-rc.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-experimental-gha-workflow-kotlin-only.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-experimental-gha-workflow.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.13.4-preview.1
@@ -163,6 +165,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.3
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-experimental-gha-workflow.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-preview.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.4-preview.3
@@ -271,6 +274,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-docc.6
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-docc.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-docc.8
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-conn-limit.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-gha-sdk-publish-test.19
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-gha-sdk-publish-test.4
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-experimental-gha-sdk-publish.1
