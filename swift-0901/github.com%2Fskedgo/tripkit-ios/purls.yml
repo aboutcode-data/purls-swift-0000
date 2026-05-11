@@ -30,6 +30,7 @@
 - pkg:swift/github.com/skedgo/tripkit-ios@5.0.7
 - pkg:swift/github.com/skedgo/tripkit-ios@5.1.0
 - pkg:swift/github.com/skedgo/tripkit-ios@5.1.1
+- pkg:swift/github.com/skedgo/tripkit-ios@5.1.2
 - pkg:swift/github.com/skedgo/tripkit-ios@v2.0
 - pkg:swift/github.com/skedgo/tripkit-ios@v2.0-beta1
 - pkg:swift/github.com/skedgo/tripkit-ios@v2.0-beta2
