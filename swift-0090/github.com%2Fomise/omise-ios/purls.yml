@@ -70,7 +70,11 @@
 - pkg:swift/github.com/omise/omise-ios@v5.6.1%5E%7B%7D
 - pkg:swift/github.com/omise/omise-ios@v5.6.2
 - pkg:swift/github.com/omise/omise-ios@v5.6.2%5E%7B%7D
+- pkg:swift/github.com/omise/omise-ios@v5.6.3
+- pkg:swift/github.com/omise/omise-ios@v5.6.3%5E%7B%7D
 - pkg:swift/github.com/omise/omise-ios@v6.0.0-alpha.1
 - pkg:swift/github.com/omise/omise-ios@v6.0.0-alpha.1%5E%7B%7D
 - pkg:swift/github.com/omise/omise-ios@v6.0.0-alpha.2
 - pkg:swift/github.com/omise/omise-ios@v6.0.0-alpha.2%5E%7B%7D
+- pkg:swift/github.com/omise/omise-ios@v6.0.0-alpha.3
+- pkg:swift/github.com/omise/omise-ios@v6.0.0-alpha.3%5E%7B%7D
