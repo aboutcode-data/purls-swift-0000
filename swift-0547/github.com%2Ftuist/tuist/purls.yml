@@ -724,6 +724,8 @@
 - pkg:swift/github.com/tuist/tuist@4.192.4
 - pkg:swift/github.com/tuist/tuist@4.193.0
 - pkg:swift/github.com/tuist/tuist@4.193.1
+- pkg:swift/github.com/tuist/tuist@4.193.2
+- pkg:swift/github.com/tuist/tuist@4.193.3
 - pkg:swift/github.com/tuist/tuist@4.2.0
 - pkg:swift/github.com/tuist/tuist@4.2.1
 - pkg:swift/github.com/tuist/tuist@4.2.2
@@ -1522,6 +1524,8 @@
 - pkg:swift/github.com/tuist/tuist@server%401.190.4
 - pkg:swift/github.com/tuist/tuist@server%401.191.0
 - pkg:swift/github.com/tuist/tuist@server%401.191.1
+- pkg:swift/github.com/tuist/tuist@server%401.191.2
+- pkg:swift/github.com/tuist/tuist@server%401.191.3
 - pkg:swift/github.com/tuist/tuist@server%401.2.0
 - pkg:swift/github.com/tuist/tuist@server%401.2.1
 - pkg:swift/github.com/tuist/tuist@server%401.20.0
@@ -1735,3 +1739,4 @@
 - pkg:swift/github.com/tuist/tuist@skills%400.3.0
 - pkg:swift/github.com/tuist/tuist@support-run-on-xcode-cloud-release
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.1.0
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.2.0
