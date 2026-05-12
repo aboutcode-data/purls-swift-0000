@@ -1,2 +1,4 @@
 - pkg:swift/github.com/goodnotes/CLAPACK@0.1.0-goodnotes
 - pkg:swift/github.com/goodnotes/CLAPACK@0.1.0-goodnotes%5E%7B%7D
+- pkg:swift/github.com/goodnotes/CLAPACK@0.1.1-goodnotes
+- pkg:swift/github.com/goodnotes/CLAPACK@0.1.1-goodnotes%5E%7B%7D
