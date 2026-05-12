@@ -18,6 +18,7 @@
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model@v0.12.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model@v0.13.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model@v0.14.0
+- pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model@v0.15.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model@v0.2.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model@v0.2.0%5E%7B%7D
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model@v0.2.1
