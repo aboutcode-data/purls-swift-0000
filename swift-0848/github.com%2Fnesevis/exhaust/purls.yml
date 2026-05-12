@@ -29,6 +29,8 @@
 - pkg:swift/github.com/nesevis/exhaust@release-0.6.1
 - pkg:swift/github.com/nesevis/exhaust@release-0.6.2
 - pkg:swift/github.com/nesevis/exhaust@release-0.6.2%5E%7B%7D
+- pkg:swift/github.com/nesevis/exhaust@release-0.6.3
+- pkg:swift/github.com/nesevis/exhaust@release-0.6.3%5E%7B%7D
 - pkg:swift/github.com/nesevis/exhaust@v.0.3.8
 - pkg:swift/github.com/nesevis/exhaust@v0.1.0
 - pkg:swift/github.com/nesevis/exhaust@v0.2.0
@@ -72,3 +74,4 @@
 - pkg:swift/github.com/nesevis/exhaust@v0.6.0
 - pkg:swift/github.com/nesevis/exhaust@v0.6.1
 - pkg:swift/github.com/nesevis/exhaust@v0.6.2
+- pkg:swift/github.com/nesevis/exhaust@v0.6.3

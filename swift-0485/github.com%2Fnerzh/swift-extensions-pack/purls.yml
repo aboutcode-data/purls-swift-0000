@@ -233,3 +233,5 @@
 - pkg:swift/github.com/nerzh/swift-extensions-pack@2.6.0%5E%7B%7D
 - pkg:swift/github.com/nerzh/swift-extensions-pack@2.7.0
 - pkg:swift/github.com/nerzh/swift-extensions-pack@2.7.0%5E%7B%7D
+- pkg:swift/github.com/nerzh/swift-extensions-pack@2.7.1
+- pkg:swift/github.com/nerzh/swift-extensions-pack@2.7.1%5E%7B%7D
