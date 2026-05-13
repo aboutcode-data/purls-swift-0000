@@ -15,3 +15,5 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-conversion@0.0.9
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-conversion@0.0.9%5E%7B%7D
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-conversion@1.0.0
+- pkg:swift/github.com/ryanfrancesconi/spfk-audio-conversion@1.0.1
+- pkg:swift/github.com/ryanfrancesconi/spfk-audio-conversion@1.0.2
