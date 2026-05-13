@@ -2847,6 +2847,7 @@
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-05-05-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.3-RELEASE
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-6.3.1-RELEASE
+- pkg:swift/github.com/swiftlang/swift-cmark@swift-6.3.2-RELEASE
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-DEVELOPMENT-SNAPSHOT-2016-01-25-a
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-DEVELOPMENT-SNAPSHOT-2016-01-25-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-DEVELOPMENT-SNAPSHOT-2016-02-03-a
@@ -5843,3 +5844,5 @@
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-DEVELOPMENT-SNAPSHOT-2026-05-04-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-DEVELOPMENT-SNAPSHOT-2026-05-07-a
 - pkg:swift/github.com/swiftlang/swift-cmark@swift-DEVELOPMENT-SNAPSHOT-2026-05-07-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-cmark@swift-DEVELOPMENT-SNAPSHOT-2026-05-12-a
+- pkg:swift/github.com/swiftlang/swift-cmark@swift-DEVELOPMENT-SNAPSHOT-2026-05-12-a%5E%7B%7D

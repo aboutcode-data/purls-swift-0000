@@ -9,3 +9,4 @@
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.2.4-RELEASE
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.3-RELEASE
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.3.1-RELEASE
+- pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.3.2-RELEASE
