@@ -28,6 +28,7 @@
 - pkg:swift/github.com/EmergeTools/SnapshotPreviews@v0.12.0
 - pkg:swift/github.com/EmergeTools/SnapshotPreviews@v0.13.0
 - pkg:swift/github.com/EmergeTools/SnapshotPreviews@v0.14.0
+- pkg:swift/github.com/EmergeTools/SnapshotPreviews@v0.14.1
 - pkg:swift/github.com/EmergeTools/SnapshotPreviews@v0.2
 - pkg:swift/github.com/EmergeTools/SnapshotPreviews@v0.2.1
 - pkg:swift/github.com/EmergeTools/SnapshotPreviews@v0.2.2
