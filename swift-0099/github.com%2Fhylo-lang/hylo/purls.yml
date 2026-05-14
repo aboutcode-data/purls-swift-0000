@@ -33,4 +33,5 @@
 - pkg:swift/github.com/hylo-lang/hylo@swift-bug-65844
 - pkg:swift/github.com/hylo-lang/hylo@swift-bug-error-reported-nowhere
 - pkg:swift/github.com/hylo-lang/hylo@swift-conformance-crasher
+- pkg:swift/github.com/hylo-lang/hylo@v-old-0.0.42
 - pkg:swift/github.com/hylo-lang/hylo@whitespace-in-grammar
