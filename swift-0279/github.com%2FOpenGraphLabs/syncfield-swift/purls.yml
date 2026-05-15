@@ -9,6 +9,8 @@
 - pkg:swift/github.com/OpenGraphLabs/syncfield-swift@0.9.3%5E%7B%7D
 - pkg:swift/github.com/OpenGraphLabs/syncfield-swift@0.9.4
 - pkg:swift/github.com/OpenGraphLabs/syncfield-swift@0.9.5
+- pkg:swift/github.com/OpenGraphLabs/syncfield-swift@0.9.6
+- pkg:swift/github.com/OpenGraphLabs/syncfield-swift@0.9.6%5E%7B%7D
 - pkg:swift/github.com/OpenGraphLabs/syncfield-swift@v0.2.0-plan-a
 - pkg:swift/github.com/OpenGraphLabs/syncfield-swift@v0.2.1-plan-a1
 - pkg:swift/github.com/OpenGraphLabs/syncfield-swift@v0.2.10

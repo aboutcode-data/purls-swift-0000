@@ -1,1 +1,15 @@
 - pkg:swift/github.com/nerdzlab/NerdzAppUpdates@0.0.0
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@1.0.0
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@1.0.0%5E%7B%7D
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@2.0.0
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@2.0.0%5E%7B%7D
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/develop
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/develop%5E%7B%7D
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/feature-loading-indication
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/feature-loading-indication%5E%7B%7D
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/provider-appstore
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/provider-appstore%5E%7B%7D
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/provider-backend
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/provider-backend%5E%7B%7D
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/provider-firebase
+- pkg:swift/github.com/nerdzlab/NerdzAppUpdates@archive/provider-firebase%5E%7B%7D
