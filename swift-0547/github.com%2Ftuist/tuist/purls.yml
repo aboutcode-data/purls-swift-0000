@@ -1147,6 +1147,7 @@
 - pkg:swift/github.com/tuist/tuist@noora%400.81.3
 - pkg:swift/github.com/tuist/tuist@noora%400.81.4
 - pkg:swift/github.com/tuist/tuist@runner-image%400.1.0
+- pkg:swift/github.com/tuist/tuist@runner-image%400.1.1
 - pkg:swift/github.com/tuist/tuist@runners-controller%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.0
 - pkg:swift/github.com/tuist/tuist@server%400.1.1
