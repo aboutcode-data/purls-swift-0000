@@ -83,6 +83,7 @@
 - pkg:swift/github.com/nathantannar4/Transmission@2.10.6
 - pkg:swift/github.com/nathantannar4/Transmission@2.10.7
 - pkg:swift/github.com/nathantannar4/Transmission@2.11.0
+- pkg:swift/github.com/nathantannar4/Transmission@2.11.1
 - pkg:swift/github.com/nathantannar4/Transmission@2.2.0
 - pkg:swift/github.com/nathantannar4/Transmission@2.2.1
 - pkg:swift/github.com/nathantannar4/Transmission@2.2.2

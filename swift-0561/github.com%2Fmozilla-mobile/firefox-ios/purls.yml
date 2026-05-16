@@ -206,6 +206,7 @@
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@firefox-v150.1
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@firefox-v150.2
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@firefox-v150.3
+- pkg:swift/github.com/mozilla-mobile/firefox-ios@firefox-v151.0
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v124.0
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v124.1
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v125.0

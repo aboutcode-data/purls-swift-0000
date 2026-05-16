@@ -78,6 +78,7 @@
 - pkg:swift/github.com/plaid/plaid-link-ios@7.0.0-beta1
 - pkg:swift/github.com/plaid/plaid-link-ios@7.0.0-beta2
 - pkg:swift/github.com/plaid/plaid-link-ios@7.0.0-beta3
+- pkg:swift/github.com/plaid/plaid-link-ios@7.0.0-beta4
 - pkg:swift/github.com/plaid/plaid-link-ios@ios/1.0.0
 - pkg:swift/github.com/plaid/plaid-link-ios@ios/1.0.1
 - pkg:swift/github.com/plaid/plaid-link-ios@ios/1.0.10

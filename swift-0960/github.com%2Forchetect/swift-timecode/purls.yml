@@ -68,3 +68,4 @@
 - pkg:swift/github.com/orchetect/swift-timecode@3.0.0
 - pkg:swift/github.com/orchetect/swift-timecode@3.1.0
 - pkg:swift/github.com/orchetect/swift-timecode@3.1.1
+- pkg:swift/github.com/orchetect/swift-timecode@3.1.2
