@@ -60,3 +60,4 @@
 - pkg:swift/github.com/DevCycleHQ/ios-client-sdk@v1.24.4
 - pkg:swift/github.com/DevCycleHQ/ios-client-sdk@v1.24.5
 - pkg:swift/github.com/DevCycleHQ/ios-client-sdk@v1.25.0
+- pkg:swift/github.com/DevCycleHQ/ios-client-sdk@v1.26.0
