@@ -318,6 +318,7 @@
 - pkg:swift/github.com/orlandos-nl/MongoKitten@7.15.0
 - pkg:swift/github.com/orlandos-nl/MongoKitten@7.16.0
 - pkg:swift/github.com/orlandos-nl/MongoKitten@7.16.1
+- pkg:swift/github.com/orlandos-nl/MongoKitten@7.16.2
 - pkg:swift/github.com/orlandos-nl/MongoKitten@7.2.0
 - pkg:swift/github.com/orlandos-nl/MongoKitten@7.2.1
 - pkg:swift/github.com/orlandos-nl/MongoKitten@7.2.10

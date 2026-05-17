@@ -30,7 +30,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/5743
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/11161
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/13416
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/13456
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/15390
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1574
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/16238
