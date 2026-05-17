@@ -62,4 +62,8 @@
 - pkg:swift/github.com/Frizlab/XibLoc@2.0.0-beta.2%5E%7B%7D
 - pkg:swift/github.com/Frizlab/XibLoc@2.0.0-beta.3
 - pkg:swift/github.com/Frizlab/XibLoc@2.0.0-beta.3%5E%7B%7D
+- pkg:swift/github.com/Frizlab/XibLoc@2.0.0-beta.4
+- pkg:swift/github.com/Frizlab/XibLoc@2.0.0-beta.4%5E%7B%7D
+- pkg:swift/github.com/Frizlab/XibLoc@2.0.0-beta.5
+- pkg:swift/github.com/Frizlab/XibLoc@2.0.0-beta.5%5E%7B%7D
 - pkg:swift/github.com/Frizlab/XibLoc@__SWIFT_5.2.3_LINUX_CRASHER__
