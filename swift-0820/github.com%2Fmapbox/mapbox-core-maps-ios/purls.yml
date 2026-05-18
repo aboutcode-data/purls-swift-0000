@@ -867,6 +867,7 @@
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-SNAPSHOT-05-14--02-05.git-b60de32
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-SNAPSHOT-05-15--02-05.git-6888039
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-SNAPSHOT-05-16--02-05.git-76f3250
+- pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-SNAPSHOT-05-18--02-05.git-538b440
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-alpha.2
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-alpha.5
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-alpha.6
