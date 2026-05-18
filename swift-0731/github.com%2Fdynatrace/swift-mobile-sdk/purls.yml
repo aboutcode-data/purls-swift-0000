@@ -140,3 +140,5 @@
 - pkg:swift/github.com/dynatrace/swift-mobile-sdk@8.335.1%5E%7B%7D
 - pkg:swift/github.com/dynatrace/swift-mobile-sdk@8.337.1
 - pkg:swift/github.com/dynatrace/swift-mobile-sdk@8.337.1%5E%7B%7D
+- pkg:swift/github.com/dynatrace/swift-mobile-sdk@8.339.1
+- pkg:swift/github.com/dynatrace/swift-mobile-sdk@8.339.1%5E%7B%7D

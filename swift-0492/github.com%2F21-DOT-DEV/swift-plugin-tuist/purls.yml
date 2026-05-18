@@ -175,6 +175,7 @@
 - pkg:swift/github.com/21-DOT-DEV/swift-plugin-tuist@4.194.1
 - pkg:swift/github.com/21-DOT-DEV/swift-plugin-tuist@4.194.3
 - pkg:swift/github.com/21-DOT-DEV/swift-plugin-tuist@4.194.4
+- pkg:swift/github.com/21-DOT-DEV/swift-plugin-tuist@4.195.0
 - pkg:swift/github.com/21-DOT-DEV/swift-plugin-tuist@4.20.0
 - pkg:swift/github.com/21-DOT-DEV/swift-plugin-tuist@4.21.0
 - pkg:swift/github.com/21-DOT-DEV/swift-plugin-tuist@4.21.1
