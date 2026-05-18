@@ -6,3 +6,4 @@
 - pkg:swift/github.com/GraphQLSwift/graphql-hummingbird@0.3.0
 - pkg:swift/github.com/GraphQLSwift/graphql-hummingbird@0.4.0
 - pkg:swift/github.com/GraphQLSwift/graphql-hummingbird@1.0.0
+- pkg:swift/github.com/GraphQLSwift/graphql-hummingbird@1.1.0

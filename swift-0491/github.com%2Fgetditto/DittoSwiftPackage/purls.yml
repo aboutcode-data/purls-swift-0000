@@ -95,6 +95,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.11.6-rc.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.11.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.11.7-rc.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.11.8-preview.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.0-experimental-js-persistence-directory.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.12.0-experimental-publishing.1
