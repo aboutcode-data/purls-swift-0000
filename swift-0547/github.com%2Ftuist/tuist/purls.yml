@@ -1106,6 +1106,7 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.1.2
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.2.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.3.0
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.1
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.2
@@ -1565,6 +1566,8 @@
 - pkg:swift/github.com/tuist/tuist@server%401.195.5
 - pkg:swift/github.com/tuist/tuist@server%401.196.0
 - pkg:swift/github.com/tuist/tuist@server%401.197.0
+- pkg:swift/github.com/tuist/tuist@server%401.197.1
+- pkg:swift/github.com/tuist/tuist@server%401.197.2
 - pkg:swift/github.com/tuist/tuist@server%401.2.0
 - pkg:swift/github.com/tuist/tuist@server%401.2.1
 - pkg:swift/github.com/tuist/tuist@server%401.20.0
