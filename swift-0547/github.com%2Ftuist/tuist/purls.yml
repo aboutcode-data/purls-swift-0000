@@ -1080,6 +1080,7 @@
 - pkg:swift/github.com/tuist/tuist@cache%400.32.2
 - pkg:swift/github.com/tuist/tuist@cache%400.32.3
 - pkg:swift/github.com/tuist/tuist@cache%400.32.4
+- pkg:swift/github.com/tuist/tuist@cache%400.32.5
 - pkg:swift/github.com/tuist/tuist@cache%400.4.0
 - pkg:swift/github.com/tuist/tuist@cache%400.4.1
 - pkg:swift/github.com/tuist/tuist@cache%400.4.2
