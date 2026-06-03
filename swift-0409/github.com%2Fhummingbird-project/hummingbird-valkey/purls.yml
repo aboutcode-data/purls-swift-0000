@@ -3,3 +3,4 @@
 - pkg:swift/github.com/hummingbird-project/hummingbird-valkey@0.2.0
 - pkg:swift/github.com/hummingbird-project/hummingbird-valkey@0.3.0
 - pkg:swift/github.com/hummingbird-project/hummingbird-valkey@1.0.0
+- pkg:swift/github.com/hummingbird-project/hummingbird-valkey@1.1.0
