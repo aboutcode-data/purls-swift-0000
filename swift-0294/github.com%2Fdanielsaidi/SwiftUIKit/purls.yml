@@ -190,3 +190,4 @@
 - pkg:swift/github.com/danielsaidi/SwiftUIKit@5.9.4
 - pkg:swift/github.com/danielsaidi/SwiftUIKit@6.0.0
 - pkg:swift/github.com/danielsaidi/SwiftUIKit@6.1.0
+- pkg:swift/github.com/danielsaidi/SwiftUIKit@6.1.1
