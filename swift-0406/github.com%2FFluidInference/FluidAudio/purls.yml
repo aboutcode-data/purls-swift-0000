@@ -42,6 +42,7 @@
 - pkg:swift/github.com/FluidInference/FluidAudio@v0.14.5
 - pkg:swift/github.com/FluidInference/FluidAudio@v0.14.6
 - pkg:swift/github.com/FluidInference/FluidAudio@v0.14.7
+- pkg:swift/github.com/FluidInference/FluidAudio@v0.14.8
 - pkg:swift/github.com/FluidInference/FluidAudio@v0.2.0
 - pkg:swift/github.com/FluidInference/FluidAudio@v0.3.0
 - pkg:swift/github.com/FluidInference/FluidAudio@v0.4.0
