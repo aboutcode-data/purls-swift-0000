@@ -24,3 +24,6 @@
 - pkg:swift/github.com/vbmobile/AMADocModeliOS@1.0.0-rc23
 - pkg:swift/github.com/vbmobile/AMADocModeliOS@1.0.0-rc24
 - pkg:swift/github.com/vbmobile/AMADocModeliOS@1.0.0-rc24%5E%7B%7D
+- pkg:swift/github.com/vbmobile/AMADocModeliOS@2.0.0
+- pkg:swift/github.com/vbmobile/AMADocModeliOS@2.0.1
+- pkg:swift/github.com/vbmobile/AMADocModeliOS@2.0.2
