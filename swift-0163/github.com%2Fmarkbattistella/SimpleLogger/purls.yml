@@ -8,3 +8,4 @@
 - pkg:swift/github.com/markbattistella/SimpleLogger@25.12.29
 - pkg:swift/github.com/markbattistella/SimpleLogger@26.2.21
 - pkg:swift/github.com/markbattistella/SimpleLogger@26.3.22
+- pkg:swift/github.com/markbattistella/SimpleLogger@26.5.26

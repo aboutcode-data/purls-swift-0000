@@ -8,6 +8,7 @@
 - pkg:swift/github.com/markbattistella/BezelKit@26.2.10
 - pkg:swift/github.com/markbattistella/BezelKit@26.2.20
 - pkg:swift/github.com/markbattistella/BezelKit@26.3.6
+- pkg:swift/github.com/markbattistella/BezelKit@26.5.26
 - pkg:swift/github.com/markbattistella/BezelKit@3.0.0
 - pkg:swift/github.com/markbattistella/BezelKit@3.1.0
 - pkg:swift/github.com/markbattistella/BezelKit@3.2.0

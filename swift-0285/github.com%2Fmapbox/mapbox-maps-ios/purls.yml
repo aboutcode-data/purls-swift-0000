@@ -1,5 +1,6 @@
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@main-broken-subtree
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@main-broken-subtree%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@untagged-89612c5a0817754edc8c
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v0.0.1-beta.1
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v0.0.1-beta.2
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v0.0.1-beta.3
@@ -315,6 +316,10 @@
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.4%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.5
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.5%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.6
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.6%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.7
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.7%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.22.0
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.22.0%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.22.0-alpha.2
@@ -345,10 +350,16 @@
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.24.0-rc.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.24.1
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.24.1%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.24.2
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.24.2%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.24.3
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.24.3%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.0-alpha.2
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.0-alpha.2%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.0-alpha.6
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.0-alpha.6%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.0-rc.1
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.0-rc.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.3.0
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.3.0-beta.1
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.3.0-rc.1

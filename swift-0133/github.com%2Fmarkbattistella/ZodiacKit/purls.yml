@@ -5,6 +5,7 @@
 - pkg:swift/github.com/markbattistella/ZodiacKit@2.1.1
 - pkg:swift/github.com/markbattistella/ZodiacKit@2.2.0
 - pkg:swift/github.com/markbattistella/ZodiacKit@26.2.21
+- pkg:swift/github.com/markbattistella/ZodiacKit@26.5.26
 - pkg:swift/github.com/markbattistella/ZodiacKit@3.0.0
 - pkg:swift/github.com/markbattistella/ZodiacKit@3.0.2
 - pkg:swift/github.com/markbattistella/ZodiacKit@3.1.0
