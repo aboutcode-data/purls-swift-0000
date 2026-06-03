@@ -68,6 +68,7 @@
 - pkg:swift/github.com/apple/swift-nio-http2@1.41.0
 - pkg:swift/github.com/apple/swift-nio-http2@1.42.0
 - pkg:swift/github.com/apple/swift-nio-http2@1.43.0
+- pkg:swift/github.com/apple/swift-nio-http2@1.44.0
 - pkg:swift/github.com/apple/swift-nio-http2@1.5.0
 - pkg:swift/github.com/apple/swift-nio-http2@1.6.0
 - pkg:swift/github.com/apple/swift-nio-http2@1.6.1
