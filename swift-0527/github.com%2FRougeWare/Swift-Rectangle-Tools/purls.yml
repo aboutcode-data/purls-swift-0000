@@ -22,6 +22,7 @@
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.16.0
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.17.0
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.17.1
+- pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.18.0
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.2.0
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.3.0
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.3.1
@@ -35,7 +36,5 @@
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.9.1%5E%7B%7D
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.9.2
 - pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@2.9.2%5E%7B%7D
-- pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@3.0.0-1.0.0.For-56
-- pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@3.0.0-1.0.0.For-56%5E%7B%7D
-- pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@3.0.0-Deprecated
-- pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@3.0.0-Deprecated%5E%7B%7D
+- pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@Abandoned-3.0.0
+- pkg:swift/github.com/RougeWare/Swift-Rectangle-Tools@Abandoned-3.0.0%5E%7B%7D
