@@ -208,3 +208,5 @@
 - pkg:swift/github.com/LogRocket/logrocket-ios-swift-package@2.4.0
 - pkg:swift/github.com/LogRocket/logrocket-ios-swift-package@2.5.0
 - pkg:swift/github.com/LogRocket/logrocket-ios-swift-package@3.0.0
+- pkg:swift/github.com/LogRocket/logrocket-ios-swift-package@3.0.1
+- pkg:swift/github.com/LogRocket/logrocket-ios-swift-package@3.1.0
