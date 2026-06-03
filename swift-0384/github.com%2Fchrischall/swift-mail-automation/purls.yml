@@ -3,3 +3,5 @@
 - pkg:swift/github.com/chrischall/swift-mail-automation@v0.1.2
 - pkg:swift/github.com/chrischall/swift-mail-automation@v1.0.0
 - pkg:swift/github.com/chrischall/swift-mail-automation@v1.0.0%5E%7B%7D
+- pkg:swift/github.com/chrischall/swift-mail-automation@v1.0.1
+- pkg:swift/github.com/chrischall/swift-mail-automation@v1.0.2
