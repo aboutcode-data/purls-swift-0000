@@ -66,3 +66,4 @@
 - pkg:swift/github.com/XcodesOrg/xcodes@1.6.1%5E%7B%7D
 - pkg:swift/github.com/XcodesOrg/xcodes@1.6.2
 - pkg:swift/github.com/XcodesOrg/xcodes@1.6.2%5E%7B%7D
+- pkg:swift/github.com/XcodesOrg/xcodes@v2.0.0b1
