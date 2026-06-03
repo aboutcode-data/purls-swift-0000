@@ -12,3 +12,5 @@
 - pkg:swift/github.com/Infomaniak/swift-concurrency@0.0.6%5E%7B%7D
 - pkg:swift/github.com/Infomaniak/swift-concurrency@1.0.0
 - pkg:swift/github.com/Infomaniak/swift-concurrency@1.0.0%5E%7B%7D
+- pkg:swift/github.com/Infomaniak/swift-concurrency@1.0.1
+- pkg:swift/github.com/Infomaniak/swift-concurrency@1.0.1%5E%7B%7D
