@@ -162,3 +162,6 @@
 - pkg:swift/github.com/iAmMccc/SmartCodable@6.0.6
 - pkg:swift/github.com/iAmMccc/SmartCodable@6.0.7
 - pkg:swift/github.com/iAmMccc/SmartCodable@6.0.8
+- pkg:swift/github.com/iAmMccc/SmartCodable@7.0
+- pkg:swift/github.com/iAmMccc/SmartCodable@7.0.0
+- pkg:swift/github.com/iAmMccc/SmartCodable@7.0.0-beta.1
