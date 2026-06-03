@@ -313,6 +313,11 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-separate-c-and-objc-code-again.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-separate-c-and-objc-code-again.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.0-swift-remove-support-for-cocoapods.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.1-experimental-conn-limit.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.1-rc.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.1-rc.2
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.1-rc.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260215.211
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260222.225
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260301.226
@@ -323,10 +328,13 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260412.275
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260503.333
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260510.356
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260531.323
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.4
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-aws-profile.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-cocoa-to-swift.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.11
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.12
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-gha-workflow.13
@@ -341,6 +349,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-release-gate.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-release-gate.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-release-gate.3
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-release-gate.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-sdk-publish-test.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-slack-notification-removal.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-transports-android-module.1
