@@ -97,3 +97,5 @@
 - pkg:swift/github.com/krzyzanowskim/OpenSSL@3.6.0000
 - pkg:swift/github.com/krzyzanowskim/OpenSSL@3.6.0000%5E%7B%7D
 - pkg:swift/github.com/krzyzanowskim/OpenSSL@3.6.0001
+- pkg:swift/github.com/krzyzanowskim/OpenSSL@3.6.2000
+- pkg:swift/github.com/krzyzanowskim/OpenSSL@3.6.2000%5E%7B%7D
