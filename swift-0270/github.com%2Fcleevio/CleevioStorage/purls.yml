@@ -34,6 +34,7 @@
 - pkg:swift/github.com/cleevio/CleevioStorage@0.5.0-dev7
 - pkg:swift/github.com/cleevio/CleevioStorage@0.5.0-dev8
 - pkg:swift/github.com/cleevio/CleevioStorage@0.5.0-dev9
+- pkg:swift/github.com/cleevio/CleevioStorage@0.5.1
 - pkg:swift/github.com/cleevio/CleevioStorage@0.5.1-dev1
 - pkg:swift/github.com/cleevio/CleevioStorage@0.5.1-dev2
 - pkg:swift/github.com/cleevio/CleevioStorage@0.5.1-dev3
