@@ -12,3 +12,5 @@
 - pkg:swift/github.com/MathieuDubart/swiftsonic@v0.7.0%5E%7B%7D
 - pkg:swift/github.com/MathieuDubart/swiftsonic@v0.8.0
 - pkg:swift/github.com/MathieuDubart/swiftsonic@v0.8.1
+- pkg:swift/github.com/MathieuDubart/swiftsonic@v0.8.2
+- pkg:swift/github.com/MathieuDubart/swiftsonic@v0.8.3

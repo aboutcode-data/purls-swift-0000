@@ -120,6 +120,8 @@
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.11%5E%7B%7D
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.12
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.12%5E%7B%7D
+- pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.13
+- pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.13%5E%7B%7D
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.2
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.2%5E%7B%7D
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.3
@@ -135,3 +137,5 @@
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.8%5E%7B%7D
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.9
 - pkg:swift/github.com/marmelroy/PhoneNumberKit@4.2.9%5E%7B%7D
+- pkg:swift/github.com/marmelroy/PhoneNumberKit@4.3.0
+- pkg:swift/github.com/marmelroy/PhoneNumberKit@4.3.0%5E%7B%7D
