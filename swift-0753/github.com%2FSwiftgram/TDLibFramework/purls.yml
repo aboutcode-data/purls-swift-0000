@@ -287,6 +287,7 @@
 - pkg:swift/github.com/Swiftgram/TDLibFramework@1.8.63-a82128ab
 - pkg:swift/github.com/Swiftgram/TDLibFramework@1.8.64-49b3bcbb
 - pkg:swift/github.com/Swiftgram/TDLibFramework@1.8.64-7a7081bf
+- pkg:swift/github.com/Swiftgram/TDLibFramework@1.8.64-e0943d06
 - pkg:swift/github.com/Swiftgram/TDLibFramework@1.8.8-2e6ac1f2
 - pkg:swift/github.com/Swiftgram/TDLibFramework@1.8.8-3ec53c8d
 - pkg:swift/github.com/Swiftgram/TDLibFramework@1.8.8-6679837e
