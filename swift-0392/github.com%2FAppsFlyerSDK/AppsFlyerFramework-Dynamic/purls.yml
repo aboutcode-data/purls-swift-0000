@@ -30,3 +30,5 @@
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Dynamic@6.17.8
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Dynamic@6.17.9
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Dynamic@6.18.0
+- pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Dynamic@6.18.1
+- pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Dynamic@7.0.0

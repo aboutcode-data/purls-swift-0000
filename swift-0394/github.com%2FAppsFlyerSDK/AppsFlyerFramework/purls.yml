@@ -142,6 +142,7 @@
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.17.8
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.17.9
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.18.0
+- pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.18.1
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.2.0
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.2.1
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.2.2
@@ -176,5 +177,6 @@
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.9.0
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.9.1
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@6.9.2
+- pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@7.0.0
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@dy_4.6.1
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework@dy_4.6.1%5E%7B%7D
