@@ -508,3 +508,5 @@
 - pkg:swift/github.com/braintree/braintree_ios@7.5.0%5E%7B%7D
 - pkg:swift/github.com/braintree/braintree_ios@7.6.0
 - pkg:swift/github.com/braintree/braintree_ios@7.6.0%5E%7B%7D
+- pkg:swift/github.com/braintree/braintree_ios@7.7.0
+- pkg:swift/github.com/braintree/braintree_ios@7.7.0%5E%7B%7D
