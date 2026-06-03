@@ -1,2 +1,3 @@
 - pkg:swift/github.com/odrobnik/swift-nio-imap@0.3.0-pre
 - pkg:swift/github.com/odrobnik/swift-nio-imap@0.3.0-pre%5E%7B%7D
+- pkg:swift/github.com/odrobnik/swift-nio-imap@0.3.2-pre

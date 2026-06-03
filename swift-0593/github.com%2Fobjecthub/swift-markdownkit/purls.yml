@@ -20,3 +20,4 @@
 - pkg:swift/github.com/objecthub/swift-markdownkit@1.1.9
 - pkg:swift/github.com/objecthub/swift-markdownkit@1.2.0
 - pkg:swift/github.com/objecthub/swift-markdownkit@1.3.0
+- pkg:swift/github.com/objecthub/swift-markdownkit@1.4.0
