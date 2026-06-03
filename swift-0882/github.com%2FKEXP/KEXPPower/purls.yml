@@ -38,5 +38,7 @@
 - pkg:swift/github.com/KEXP/KEXPPower@4.0.0%5E%7B%7D
 - pkg:swift/github.com/KEXP/KEXPPower@4.0.1
 - pkg:swift/github.com/KEXP/KEXPPower@4.0.1%5E%7B%7D
+- pkg:swift/github.com/KEXP/KEXPPower@4.1.0
+- pkg:swift/github.com/KEXP/KEXPPower@4.1.0%5E%7B%7D
 - pkg:swift/github.com/KEXP/KEXPPower@v3.0.0
 - pkg:swift/github.com/KEXP/KEXPPower@v3.0.0%5E%7B%7D
