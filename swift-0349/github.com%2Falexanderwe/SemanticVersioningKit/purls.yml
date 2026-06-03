@@ -1,5 +1,7 @@
 - pkg:swift/github.com/alexanderwe/SemanticVersioningKit@2.1.1
 - pkg:swift/github.com/alexanderwe/SemanticVersioningKit@2.3.0
+- pkg:swift/github.com/alexanderwe/SemanticVersioningKit@2.4.0
+- pkg:swift/github.com/alexanderwe/SemanticVersioningKit@2.4.1
 - pkg:swift/github.com/alexanderwe/SemanticVersioningKit@v1.0.0
 - pkg:swift/github.com/alexanderwe/SemanticVersioningKit@v2.0.0
 - pkg:swift/github.com/alexanderwe/SemanticVersioningKit@v2.1.0
