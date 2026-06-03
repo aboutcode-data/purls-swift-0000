@@ -14,3 +14,5 @@
 - pkg:swift/github.com/povio/Lingua@1.0.5
 - pkg:swift/github.com/povio/Lingua@1.0.6
 - pkg:swift/github.com/povio/Lingua@1.1.0
+- pkg:swift/github.com/povio/Lingua@app/v1.1.1
+- pkg:swift/github.com/povio/Lingua@v1.1.1
