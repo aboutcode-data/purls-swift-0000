@@ -1447,6 +1447,12 @@
 - pkg:swift/github.com/skiptools/skip@1.8.15%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip@1.8.16
 - pkg:swift/github.com/skiptools/skip@1.8.16%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip@1.8.17
+- pkg:swift/github.com/skiptools/skip@1.8.17%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip@1.8.18
+- pkg:swift/github.com/skiptools/skip@1.8.18%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip@1.8.19
+- pkg:swift/github.com/skiptools/skip@1.8.19%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip@1.8.2
 - pkg:swift/github.com/skiptools/skip@1.8.2%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip@1.8.3
@@ -1463,3 +1469,9 @@
 - pkg:swift/github.com/skiptools/skip@1.8.8%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip@1.8.9
 - pkg:swift/github.com/skiptools/skip@1.8.9%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip@1.9.0
+- pkg:swift/github.com/skiptools/skip@1.9.0%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip@1.9.1
+- pkg:swift/github.com/skiptools/skip@1.9.1%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip@1.9.2
+- pkg:swift/github.com/skiptools/skip@1.9.2%5E%7B%7D
