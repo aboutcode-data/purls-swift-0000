@@ -1,5 +1,8 @@
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.1.0
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.1.1
+- pkg:swift/github.com/lynnswap/ObservationBridge@v0.10.0
+- pkg:swift/github.com/lynnswap/ObservationBridge@v0.10.1
+- pkg:swift/github.com/lynnswap/ObservationBridge@v0.11.0
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.2.0
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.2.1
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.2.2
@@ -16,3 +19,4 @@
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.7.1
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.8.0
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.9.0
+- pkg:swift/github.com/lynnswap/ObservationBridge@v0.9.1

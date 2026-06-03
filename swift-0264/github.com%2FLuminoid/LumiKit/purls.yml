@@ -6,4 +6,5 @@
 - pkg:swift/github.com/Luminoid/LumiKit@0.6.0
 - pkg:swift/github.com/Luminoid/LumiKit@0.7.0
 - pkg:swift/github.com/Luminoid/LumiKit@0.7.1
-- pkg:swift/github.com/Luminoid/LumiKit@v0.8.0
+- pkg:swift/github.com/Luminoid/LumiKit@0.8.0
+- pkg:swift/github.com/Luminoid/LumiKit@0.9.0
