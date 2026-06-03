@@ -82,6 +82,10 @@
 - pkg:swift/github.com/tsolomko/SWCompression@4.8.5%5E%7B%7D
 - pkg:swift/github.com/tsolomko/SWCompression@4.8.6
 - pkg:swift/github.com/tsolomko/SWCompression@4.8.6%5E%7B%7D
+- pkg:swift/github.com/tsolomko/SWCompression@4.8.7
+- pkg:swift/github.com/tsolomko/SWCompression@4.8.7%5E%7B%7D
+- pkg:swift/github.com/tsolomko/SWCompression@4.9.0
+- pkg:swift/github.com/tsolomko/SWCompression@4.9.0%5E%7B%7D
 - pkg:swift/github.com/tsolomko/SWCompression@v1.0.0
 - pkg:swift/github.com/tsolomko/SWCompression@v1.0.0%5E%7B%7D
 - pkg:swift/github.com/tsolomko/SWCompression@v1.0.1
