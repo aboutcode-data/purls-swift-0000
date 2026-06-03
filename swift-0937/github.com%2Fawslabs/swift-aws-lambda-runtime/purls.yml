@@ -15,6 +15,7 @@
 - pkg:swift/github.com/awslabs/swift-aws-lambda-runtime@2.0.0-rc.1
 - pkg:swift/github.com/awslabs/swift-aws-lambda-runtime@2.1.0
 - pkg:swift/github.com/awslabs/swift-aws-lambda-runtime@2.1.1
+- pkg:swift/github.com/awslabs/swift-aws-lambda-runtime@2.10.0
 - pkg:swift/github.com/awslabs/swift-aws-lambda-runtime@2.2.0
 - pkg:swift/github.com/awslabs/swift-aws-lambda-runtime@2.3.0
 - pkg:swift/github.com/awslabs/swift-aws-lambda-runtime@2.3.1
