@@ -43,3 +43,4 @@
 - pkg:swift/github.com/SnapKit/SnapKit@5.6.0
 - pkg:swift/github.com/SnapKit/SnapKit@5.7.0
 - pkg:swift/github.com/SnapKit/SnapKit@5.7.1
+- pkg:swift/github.com/SnapKit/SnapKit@6.0.0
