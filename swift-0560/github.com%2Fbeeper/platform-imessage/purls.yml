@@ -29,3 +29,4 @@
 - pkg:swift/github.com/beeper/platform-imessage@v0.23.9
 - pkg:swift/github.com/beeper/platform-imessage@v0.24.0
 - pkg:swift/github.com/beeper/platform-imessage@v0.24.1
+- pkg:swift/github.com/beeper/platform-imessage@v0.24.2
