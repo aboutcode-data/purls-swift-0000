@@ -28,4 +28,5 @@
 - pkg:swift/github.com/Cocoanetics/SwiftMail@1.6.4
 - pkg:swift/github.com/Cocoanetics/SwiftMail@1.6.4%5E%7B%7D
 - pkg:swift/github.com/Cocoanetics/SwiftMail@1.7.0
+- pkg:swift/github.com/Cocoanetics/SwiftMail@1.7.1
 - pkg:swift/github.com/Cocoanetics/SwiftMail@v1.3.2
