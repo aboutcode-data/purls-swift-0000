@@ -15,3 +15,5 @@
 - pkg:swift/github.com/DePasqualeOrg/swift-llama@llama-cpp-b9451
 - pkg:swift/github.com/DePasqualeOrg/swift-llama@llama-cpp-b9474
 - pkg:swift/github.com/DePasqualeOrg/swift-llama@llama-cpp-b9490
+- pkg:swift/github.com/DePasqualeOrg/swift-llama@llama-cpp-b9504
+- pkg:swift/github.com/DePasqualeOrg/swift-llama@llama-cpp-b9505
