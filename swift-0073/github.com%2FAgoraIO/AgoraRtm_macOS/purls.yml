@@ -1,3 +1,4 @@
 - pkg:swift/github.com/AgoraIO/AgoraRtm_macOS@1.4.10
 - pkg:swift/github.com/AgoraIO/AgoraRtm_macOS@1.5.1
 - pkg:swift/github.com/AgoraIO/AgoraRtm_macOS@1.5.1-rc.1
+- pkg:swift/github.com/AgoraIO/AgoraRtm_macOS@2.2.8
