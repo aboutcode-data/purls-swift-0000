@@ -553,3 +553,4 @@
 - pkg:swift/github.com/open-meteo/open-meteo@1.4.9
 - pkg:swift/github.com/open-meteo/open-meteo@1.5.0
 - pkg:swift/github.com/open-meteo/open-meteo@1.5.1
+- pkg:swift/github.com/open-meteo/open-meteo@1.5.2
