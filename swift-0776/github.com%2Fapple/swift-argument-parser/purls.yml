@@ -42,3 +42,4 @@
 - pkg:swift/github.com/apple/swift-argument-parser@1.7.1
 - pkg:swift/github.com/apple/swift-argument-parser@1.8.0
 - pkg:swift/github.com/apple/swift-argument-parser@1.8.1
+- pkg:swift/github.com/apple/swift-argument-parser@1.8.2
