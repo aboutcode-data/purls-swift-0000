@@ -14,6 +14,7 @@
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.1
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.10
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.12
+- pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.13
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.2
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.3
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.4
@@ -22,4 +23,3 @@
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.7
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.8
 - pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@v2.0.9
-- pkg:swift/github.com/amazon-connect/amazon-connect-chat-ios@vv2.0.10
