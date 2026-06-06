@@ -20,6 +20,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/19100
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/19683
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/20060
+- pkg:swift/github.com/pytorch/executorch@ciflow/cuda/20061
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/18187
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/18526
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/19695
