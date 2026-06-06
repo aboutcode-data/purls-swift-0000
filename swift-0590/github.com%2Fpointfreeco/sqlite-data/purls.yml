@@ -27,3 +27,4 @@
 - pkg:swift/github.com/pointfreeco/sqlite-data@1.6.1
 - pkg:swift/github.com/pointfreeco/sqlite-data@1.6.2
 - pkg:swift/github.com/pointfreeco/sqlite-data@1.6.3
+- pkg:swift/github.com/pointfreeco/sqlite-data@1.6.4
