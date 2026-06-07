@@ -12,3 +12,4 @@
 - pkg:swift/github.com/adam-fowler/swift-zip-archive@0.6.3
 - pkg:swift/github.com/adam-fowler/swift-zip-archive@0.6.4
 - pkg:swift/github.com/adam-fowler/swift-zip-archive@0.7.0
+- pkg:swift/github.com/adam-fowler/swift-zip-archive@0.8.0
