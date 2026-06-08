@@ -956,6 +956,8 @@
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-05-22-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-05-23-a
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-05-23-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-06-07-a
+- pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-DEVELOPMENT-SNAPSHOT-2026-06-07-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3-RELEASE
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3.1-RELEASE
 - pkg:swift/github.com/swiftlang/swift-docc-symbolkit@swift-6.3.2-RELEASE
