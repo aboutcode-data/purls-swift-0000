@@ -53,6 +53,7 @@
 - pkg:swift/github.com/apple/swift-nio@2.10.0
 - pkg:swift/github.com/apple/swift-nio@2.10.1
 - pkg:swift/github.com/apple/swift-nio@2.100.0
+- pkg:swift/github.com/apple/swift-nio@2.101.0
 - pkg:swift/github.com/apple/swift-nio@2.11.0
 - pkg:swift/github.com/apple/swift-nio@2.11.1
 - pkg:swift/github.com/apple/swift-nio@2.12.0
