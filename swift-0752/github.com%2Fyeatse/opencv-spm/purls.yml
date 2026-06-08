@@ -13,3 +13,4 @@
 - pkg:swift/github.com/yeatse/opencv-spm@4.9.0
 - pkg:swift/github.com/yeatse/opencv-spm@4.9.0%2B11
 - pkg:swift/github.com/yeatse/opencv-spm@4.9.0%2B14
+- pkg:swift/github.com/yeatse/opencv-spm@5.0.0
