@@ -77,6 +77,8 @@
 - pkg:swift/github.com/tuist/Command@0.14.7%5E%7B%7D
 - pkg:swift/github.com/tuist/Command@0.14.8
 - pkg:swift/github.com/tuist/Command@0.14.8%5E%7B%7D
+- pkg:swift/github.com/tuist/Command@0.14.9
+- pkg:swift/github.com/tuist/Command@0.14.9%5E%7B%7D
 - pkg:swift/github.com/tuist/Command@0.2.0
 - pkg:swift/github.com/tuist/Command@0.2.1
 - pkg:swift/github.com/tuist/Command@0.3.0
