@@ -40,3 +40,4 @@
 - pkg:swift/github.com/figma/code-connect@v1.4.3
 - pkg:swift/github.com/figma/code-connect@v1.4.5
 - pkg:swift/github.com/figma/code-connect@v1.4.7
+- pkg:swift/github.com/figma/code-connect@v1.4.8
