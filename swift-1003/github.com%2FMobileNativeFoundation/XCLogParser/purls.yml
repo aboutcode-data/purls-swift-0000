@@ -51,6 +51,7 @@
 - pkg:swift/github.com/MobileNativeFoundation/XCLogParser@v0.2.45
 - pkg:swift/github.com/MobileNativeFoundation/XCLogParser@v0.2.46
 - pkg:swift/github.com/MobileNativeFoundation/XCLogParser@v0.2.47
+- pkg:swift/github.com/MobileNativeFoundation/XCLogParser@v0.2.48
 - pkg:swift/github.com/MobileNativeFoundation/XCLogParser@v0.2.5
 - pkg:swift/github.com/MobileNativeFoundation/XCLogParser@v0.2.6
 - pkg:swift/github.com/MobileNativeFoundation/XCLogParser@v0.2.7
