@@ -25,3 +25,4 @@
 - pkg:swift/github.com/apple/swift-collections@1.4.1
 - pkg:swift/github.com/apple/swift-collections@1.5.0
 - pkg:swift/github.com/apple/swift-collections@1.5.1
+- pkg:swift/github.com/apple/swift-collections@1.6.0
