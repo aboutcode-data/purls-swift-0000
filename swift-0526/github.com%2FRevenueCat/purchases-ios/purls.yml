@@ -770,6 +770,8 @@
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.76.0%5E%7B%7D
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.77.0
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.77.0%5E%7B%7D
+- pkg:swift/github.com/RevenueCat/purchases-ios@5.78.0
+- pkg:swift/github.com/RevenueCat/purchases-ios@5.78.0%5E%7B%7D
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.8.0
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.8.0%5E%7B%7D
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.9.0
