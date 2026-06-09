@@ -1038,6 +1038,8 @@
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.1.0.4987%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.1.0.4988
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.1.0.4988%5E%7B%7D
+- pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.1.0.4989
+- pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@300.1.0.4989%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@MultipleSources
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@MultipleSources%5E%7B%7D
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift-toolkit@v200.0.0-beta
