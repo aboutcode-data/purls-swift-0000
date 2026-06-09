@@ -4,3 +4,4 @@
 - pkg:swift/github.com/differentiable-swift/swift-differentiation-stdlib@603.0.0
 - pkg:swift/github.com/differentiable-swift/swift-differentiation-stdlib@603.0.0-prerelease-1
 - pkg:swift/github.com/differentiable-swift/swift-differentiation-stdlib@603.1.0
+- pkg:swift/github.com/differentiable-swift/swift-differentiation-stdlib@604.0.0-prerelease-2
