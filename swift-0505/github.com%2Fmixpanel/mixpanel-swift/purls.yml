@@ -72,6 +72,8 @@
 - pkg:swift/github.com/mixpanel/mixpanel-swift@6.3.0%5E%7B%7D
 - pkg:swift/github.com/mixpanel/mixpanel-swift@6.4.0
 - pkg:swift/github.com/mixpanel/mixpanel-swift@6.4.0%5E%7B%7D
+- pkg:swift/github.com/mixpanel/mixpanel-swift@6.4.1
+- pkg:swift/github.com/mixpanel/mixpanel-swift@6.4.1%5E%7B%7D
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v1.0.0
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v1.0.1
 - pkg:swift/github.com/mixpanel/mixpanel-swift@v2.0.0
