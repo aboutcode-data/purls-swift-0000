@@ -21,6 +21,7 @@
 - pkg:swift/github.com/firebase/nanopb@2.30908.0
 - pkg:swift/github.com/firebase/nanopb@2.30909.0
 - pkg:swift/github.com/firebase/nanopb@2.30910.0
+- pkg:swift/github.com/firebase/nanopb@2.30910.1
 - pkg:swift/github.com/firebase/nanopb@nanopb-0.1.0
 - pkg:swift/github.com/firebase/nanopb@nanopb-0.1.1
 - pkg:swift/github.com/firebase/nanopb@nanopb-0.1.2
