@@ -63,6 +63,7 @@
 - pkg:swift/github.com/yorkie-team/yorkie-ios-sdk@0.6.40
 - pkg:swift/github.com/yorkie-team/yorkie-ios-sdk@0.6.41
 - pkg:swift/github.com/yorkie-team/yorkie-ios-sdk@0.6.42
+- pkg:swift/github.com/yorkie-team/yorkie-ios-sdk@0.6.43
 - pkg:swift/github.com/yorkie-team/yorkie-ios-sdk@0.6.8
 - pkg:swift/github.com/yorkie-team/yorkie-ios-sdk@0.6.8%5E%7B%7D
 - pkg:swift/github.com/yorkie-team/yorkie-ios-sdk@0.6.9
