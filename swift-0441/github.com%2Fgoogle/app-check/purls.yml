@@ -39,3 +39,4 @@
 - pkg:swift/github.com/google/app-check@CocoaPods-11.0.0
 - pkg:swift/github.com/google/app-check@CocoaPods-11.1.0
 - pkg:swift/github.com/google/app-check@CocoaPods-11.2.0
+- pkg:swift/github.com/google/app-check@CocoaPods-11.3.0

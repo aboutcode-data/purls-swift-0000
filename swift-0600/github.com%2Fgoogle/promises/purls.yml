@@ -57,3 +57,4 @@
 - pkg:swift/github.com/google/promises@2.3.1%5E%7B%7D
 - pkg:swift/github.com/google/promises@2.4.0
 - pkg:swift/github.com/google/promises@2.4.0%5E%7B%7D
+- pkg:swift/github.com/google/promises@2.4.1
