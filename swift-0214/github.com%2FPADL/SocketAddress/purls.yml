@@ -18,3 +18,4 @@
 - pkg:swift/github.com/PADL/SocketAddress@0.4.2
 - pkg:swift/github.com/PADL/SocketAddress@0.4.5
 - pkg:swift/github.com/PADL/SocketAddress@0.5.0
+- pkg:swift/github.com/PADL/SocketAddress@0.5.1
