@@ -15,3 +15,4 @@
 - pkg:swift/github.com/build-on-aws/swift-bedrock-library@1.8.0
 - pkg:swift/github.com/build-on-aws/swift-bedrock-library@1.9.0
 - pkg:swift/github.com/build-on-aws/swift-bedrock-library@v1.14.0
+- pkg:swift/github.com/build-on-aws/swift-bedrock-library@v1.15.0
