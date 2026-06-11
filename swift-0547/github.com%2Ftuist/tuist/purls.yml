@@ -1190,6 +1190,8 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.8.2
 - pkg:swift/github.com/tuist/tuist@kura%400.8.3
 - pkg:swift/github.com/tuist/tuist@kura%400.8.4
+- pkg:swift/github.com/tuist/tuist@kura%400.9.0
+- pkg:swift/github.com/tuist/tuist@kura%400.9.1
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.1.0
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.1.1
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.2.0
