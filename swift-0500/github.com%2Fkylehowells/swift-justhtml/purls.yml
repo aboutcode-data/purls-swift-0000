@@ -4,6 +4,12 @@
 - pkg:swift/github.com/kylehowells/swift-justhtml@0.4.2%5E%7B%7D
 - pkg:swift/github.com/kylehowells/swift-justhtml@0.4.3
 - pkg:swift/github.com/kylehowells/swift-justhtml@0.4.3%5E%7B%7D
+- pkg:swift/github.com/kylehowells/swift-justhtml@0.4.4
+- pkg:swift/github.com/kylehowells/swift-justhtml@0.4.4%5E%7B%7D
+- pkg:swift/github.com/kylehowells/swift-justhtml@0.4.5
+- pkg:swift/github.com/kylehowells/swift-justhtml@0.4.5%5E%7B%7D
+- pkg:swift/github.com/kylehowells/swift-justhtml@0.4.6
+- pkg:swift/github.com/kylehowells/swift-justhtml@0.4.6%5E%7B%7D
 - pkg:swift/github.com/kylehowells/swift-justhtml@v0.1
 - pkg:swift/github.com/kylehowells/swift-justhtml@v0.1%5E%7B%7D
 - pkg:swift/github.com/kylehowells/swift-justhtml@v0.2
