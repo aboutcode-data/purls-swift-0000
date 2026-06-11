@@ -1,3 +1,5 @@
+- pkg:swift/github.com/netease-im/nimsdk-spm@10.10.0
+- pkg:swift/github.com/netease-im/nimsdk-spm@10.10.0%5E%7B%7D
 - pkg:swift/github.com/netease-im/nimsdk-spm@10.9.70
 - pkg:swift/github.com/netease-im/nimsdk-spm@10.9.70%5E%7B%7D
 - pkg:swift/github.com/netease-im/nimsdk-spm@10.9.76
@@ -6,4 +8,8 @@
 - pkg:swift/github.com/netease-im/nimsdk-spm@10.9.80%5E%7B%7D
 - pkg:swift/github.com/netease-im/nimsdk-spm@10.9.81
 - pkg:swift/github.com/netease-im/nimsdk-spm@10.9.81%5E%7B%7D
+- pkg:swift/github.com/netease-im/nimsdk-spm@10.9.90
+- pkg:swift/github.com/netease-im/nimsdk-spm@10.9.90%5E%7B%7D
+- pkg:swift/github.com/netease-im/nimsdk-spm@10.9.91
+- pkg:swift/github.com/netease-im/nimsdk-spm@10.9.91%5E%7B%7D
 - pkg:swift/github.com/netease-im/nimsdk-spm@9.21.10
