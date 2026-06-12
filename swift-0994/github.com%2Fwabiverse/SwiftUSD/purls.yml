@@ -74,6 +74,7 @@
 - pkg:swift/github.com/wabiverse/SwiftUSD@v24.8.13
 - pkg:swift/github.com/wabiverse/SwiftUSD@v24.8.14
 - pkg:swift/github.com/wabiverse/SwiftUSD@v24.8.2
+- pkg:swift/github.com/wabiverse/SwiftUSD@v24.8.20
 - pkg:swift/github.com/wabiverse/SwiftUSD@v24.8.3
 - pkg:swift/github.com/wabiverse/SwiftUSD@v24.8.4
 - pkg:swift/github.com/wabiverse/SwiftUSD@v24.8.5
