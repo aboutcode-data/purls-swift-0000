@@ -865,6 +865,7 @@
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.24.1
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.24.2
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.24.3
+- pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-SNAPSHOT-05-05--11-23.git-a4eecfa
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-SNAPSHOT-05-06--02-05.git-5c54386
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.25.0-SNAPSHOT-05-07--02-05.git-e338122
@@ -924,6 +925,7 @@
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.26.0-SNAPSHOT-06-10--19-55.git-822d7a0
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.26.0-SNAPSHOT-06-11--02-06.git-5d2a81b
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.26.0-SNAPSHOT-06-11--09-48.git-88eff8c
+- pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.26.0-SNAPSHOT-06-12--02-05.git-f763651
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.3.0
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.3.0-beta.1
 - pkg:swift/github.com/mapbox/mapbox-core-maps-ios@v11.3.0-rc.1
