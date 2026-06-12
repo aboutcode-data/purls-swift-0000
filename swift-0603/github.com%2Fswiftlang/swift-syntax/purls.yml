@@ -3232,4 +3232,6 @@
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2026-05-20-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2026-05-27-a
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2026-05-27-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2026-06-10-a
+- pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2026-06-10-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-syntax@xcode11-beta1
