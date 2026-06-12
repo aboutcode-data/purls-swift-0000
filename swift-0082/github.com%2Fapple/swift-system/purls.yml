@@ -19,4 +19,5 @@
 - pkg:swift/github.com/apple/swift-system@1.6.3
 - pkg:swift/github.com/apple/swift-system@1.6.4
 - pkg:swift/github.com/apple/swift-system@1.6.5
+- pkg:swift/github.com/apple/swift-system@1.7.0
 - pkg:swift/github.com/apple/swift-system@v0.0.2
