@@ -45,4 +45,8 @@
 - pkg:swift/github.com/moximillian/protokit@7.0.1%5E%7B%7D
 - pkg:swift/github.com/moximillian/protokit@8.0.0
 - pkg:swift/github.com/moximillian/protokit@8.0.0%5E%7B%7D
+- pkg:swift/github.com/moximillian/protokit@9.0.0
+- pkg:swift/github.com/moximillian/protokit@9.0.0%5E%7B%7D
+- pkg:swift/github.com/moximillian/protokit@9.0.1
+- pkg:swift/github.com/moximillian/protokit@9.0.1%5E%7B%7D
 - pkg:swift/github.com/moximillian/protokit@v2.0
