@@ -388,6 +388,8 @@
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-06-07-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-06-08-a
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-06-08-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-foundation@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-06-11-a
+- pkg:swift/github.com/swiftlang/swift-foundation@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-06-11-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-DEVELOPMENT-SNAPSHOT-2024-08-16-a
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-DEVELOPMENT-SNAPSHOT-2024-08-16-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-DEVELOPMENT-SNAPSHOT-2024-08-18-a
@@ -734,3 +736,5 @@
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-DEVELOPMENT-SNAPSHOT-2026-05-27-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-DEVELOPMENT-SNAPSHOT-2026-06-10-a
 - pkg:swift/github.com/swiftlang/swift-foundation@swift-DEVELOPMENT-SNAPSHOT-2026-06-10-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-foundation@swift-DEVELOPMENT-SNAPSHOT-2026-06-12-a
+- pkg:swift/github.com/swiftlang/swift-foundation@swift-DEVELOPMENT-SNAPSHOT-2026-06-12-a%5E%7B%7D
