@@ -40,3 +40,5 @@
 - pkg:swift/github.com/johnno1962/Popen@2.1.9%5E%7B%7D
 - pkg:swift/github.com/johnno1962/Popen@2.2.1
 - pkg:swift/github.com/johnno1962/Popen@2.2.1%5E%7B%7D
+- pkg:swift/github.com/johnno1962/Popen@2.2.2
+- pkg:swift/github.com/johnno1962/Popen@2.2.2%5E%7B%7D
