@@ -91,3 +91,4 @@
 - pkg:swift/github.com/Cocoanetics/DTCoreText@1.6.8%5E%7B%7D
 - pkg:swift/github.com/Cocoanetics/DTCoreText@1.6.9
 - pkg:swift/github.com/Cocoanetics/DTCoreText@2.0.0
+- pkg:swift/github.com/Cocoanetics/DTCoreText@2.1.0
