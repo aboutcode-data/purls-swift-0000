@@ -77,3 +77,4 @@
 - pkg:swift/github.com/bastie/JavApi4Swift@0.8.0
 - pkg:swift/github.com/bastie/JavApi4Swift@0.8.1
 - pkg:swift/github.com/bastie/JavApi4Swift@0.9.0
+- pkg:swift/github.com/bastie/JavApi4Swift@java-1.0-alpha
