@@ -11,3 +11,5 @@
 - pkg:swift/github.com/objecthub/swift-clformat@1.0.9
 - pkg:swift/github.com/objecthub/swift-clformat@1.1
 - pkg:swift/github.com/objecthub/swift-clformat@1.1.1
+- pkg:swift/github.com/objecthub/swift-clformat@1.2
+- pkg:swift/github.com/objecthub/swift-clformat@1.2.1
