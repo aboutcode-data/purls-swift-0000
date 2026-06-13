@@ -545,3 +545,5 @@
 - pkg:swift/github.com/imgly/IMGLYUI-swift@1.76.0-rc.2%5E%7B%7D
 - pkg:swift/github.com/imgly/IMGLYUI-swift@1.76.0-rc.3
 - pkg:swift/github.com/imgly/IMGLYUI-swift@1.76.0-rc.3%5E%7B%7D
+- pkg:swift/github.com/imgly/IMGLYUI-swift@1.77.0-rc.0
+- pkg:swift/github.com/imgly/IMGLYUI-swift@1.77.0-rc.0%5E%7B%7D
