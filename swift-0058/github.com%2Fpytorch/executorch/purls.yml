@@ -16,7 +16,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18187
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18604
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18630
-- pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18788
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/18930
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/19100
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/19683
