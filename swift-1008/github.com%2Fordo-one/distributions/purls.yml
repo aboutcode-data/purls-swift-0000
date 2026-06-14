@@ -3,3 +3,5 @@
 - pkg:swift/github.com/ordo-one/distributions@0.2.1
 - pkg:swift/github.com/ordo-one/distributions@0.3.0
 - pkg:swift/github.com/ordo-one/distributions@1.0.0
+- pkg:swift/github.com/ordo-one/distributions@1.1.0
+- pkg:swift/github.com/ordo-one/distributions@1.2.0
