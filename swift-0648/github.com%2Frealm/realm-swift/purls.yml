@@ -648,6 +648,8 @@
 - pkg:swift/github.com/realm/realm-swift@v20.0.3%5E%7B%7D
 - pkg:swift/github.com/realm/realm-swift@v20.0.4
 - pkg:swift/github.com/realm/realm-swift@v20.0.4%5E%7B%7D
+- pkg:swift/github.com/realm/realm-swift@v20.0.5
+- pkg:swift/github.com/realm/realm-swift@v20.0.5%5E%7B%7D
 - pkg:swift/github.com/realm/realm-swift@v3.0.0
 - pkg:swift/github.com/realm/realm-swift@v3.0.0%5E%7B%7D
 - pkg:swift/github.com/realm/realm-swift@v3.0.0-beta
