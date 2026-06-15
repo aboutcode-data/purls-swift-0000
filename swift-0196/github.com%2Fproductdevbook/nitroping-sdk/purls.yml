@@ -12,6 +12,8 @@
 - pkg:swift/github.com/productdevbook/nitroping-sdk@go/v0.2.11%5E%7B%7D
 - pkg:swift/github.com/productdevbook/nitroping-sdk@go/v0.2.12
 - pkg:swift/github.com/productdevbook/nitroping-sdk@go/v0.2.12%5E%7B%7D
+- pkg:swift/github.com/productdevbook/nitroping-sdk@go/v0.2.13
+- pkg:swift/github.com/productdevbook/nitroping-sdk@go/v0.2.13%5E%7B%7D
 - pkg:swift/github.com/productdevbook/nitroping-sdk@go/v0.2.2
 - pkg:swift/github.com/productdevbook/nitroping-sdk@go/v0.2.2%5E%7B%7D
 - pkg:swift/github.com/productdevbook/nitroping-sdk@go/v0.2.3
@@ -42,6 +44,8 @@
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.11%5E%7B%7D
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.12
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.12%5E%7B%7D
+- pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.13
+- pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.13%5E%7B%7D
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.2
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.2%5E%7B%7D
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.3
