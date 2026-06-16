@@ -8,6 +8,8 @@
 - pkg:swift/github.com/comScore/Comscore-Swift-Package-Manager@6.15.0%5E%7B%7D
 - pkg:swift/github.com/comScore/Comscore-Swift-Package-Manager@6.16.0
 - pkg:swift/github.com/comScore/Comscore-Swift-Package-Manager@6.16.0%5E%7B%7D
+- pkg:swift/github.com/comScore/Comscore-Swift-Package-Manager@6.17.0
+- pkg:swift/github.com/comScore/Comscore-Swift-Package-Manager@6.17.0%5E%7B%7D
 - pkg:swift/github.com/comScore/Comscore-Swift-Package-Manager@v6.10.0
 - pkg:swift/github.com/comScore/Comscore-Swift-Package-Manager@v6.10.0%5E%7B%7D
 - pkg:swift/github.com/comScore/Comscore-Swift-Package-Manager@v6.10.1
