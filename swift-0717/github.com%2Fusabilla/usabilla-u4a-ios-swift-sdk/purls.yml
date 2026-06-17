@@ -144,6 +144,7 @@
 - pkg:swift/github.com/usabilla/usabilla-u4a-ios-swift-sdk@v6.16.0
 - pkg:swift/github.com/usabilla/usabilla-u4a-ios-swift-sdk@v6.17.0
 - pkg:swift/github.com/usabilla/usabilla-u4a-ios-swift-sdk@v6.17.0-Xcode-16.4
+- pkg:swift/github.com/usabilla/usabilla-u4a-ios-swift-sdk@v6.17.1
 - pkg:swift/github.com/usabilla/usabilla-u4a-ios-swift-sdk@v6.2.0
 - pkg:swift/github.com/usabilla/usabilla-u4a-ios-swift-sdk@v6.2.0-Xcode-10
 - pkg:swift/github.com/usabilla/usabilla-u4a-ios-swift-sdk@v6.2.0-Xcode-10.1
