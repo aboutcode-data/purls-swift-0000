@@ -90,6 +90,7 @@
 - pkg:swift/github.com/nesevis/exhaust@v0.10.5
 - pkg:swift/github.com/nesevis/exhaust@v0.11.0
 - pkg:swift/github.com/nesevis/exhaust@v0.11.1
+- pkg:swift/github.com/nesevis/exhaust@v0.11.2
 - pkg:swift/github.com/nesevis/exhaust@v0.2.0
 - pkg:swift/github.com/nesevis/exhaust@v0.3.0
 - pkg:swift/github.com/nesevis/exhaust@v0.3.1
