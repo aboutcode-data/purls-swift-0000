@@ -1,2 +1,3 @@
 - pkg:swift/github.com/ben-smith-dev/swift-thread-local@v0.1.0
 - pkg:swift/github.com/ben-smith-dev/swift-thread-local@v0.2.0
+- pkg:swift/github.com/ben-smith-dev/swift-thread-local@v1.0.0
