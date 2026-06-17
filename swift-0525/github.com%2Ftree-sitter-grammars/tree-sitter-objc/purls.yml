@@ -1,0 +1,10 @@
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@stable
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@stable%5E%7B%7D
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@v1.0.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@v1.1.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@v1.2.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@v2.0.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@v2.1.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@v3.0.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@v3.0.1
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-objc@v3.0.2

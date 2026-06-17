@@ -1,0 +1,13 @@
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.1.2
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.3.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.4.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.5.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.5.1
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.5.2
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.5.3
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.6.0
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.6.1
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.6.2
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.6.3
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.6.4
+- pkg:swift/github.com/tree-sitter-grammars/tree-sitter-xml@v0.7.0
