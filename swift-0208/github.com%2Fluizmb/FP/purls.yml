@@ -2,6 +2,9 @@
 - pkg:swift/github.com/luizmb/FP@v1.1.2
 - pkg:swift/github.com/luizmb/FP@v1.10.0
 - pkg:swift/github.com/luizmb/FP@v1.11.0
+- pkg:swift/github.com/luizmb/FP@v1.11.1
+- pkg:swift/github.com/luizmb/FP@v1.11.2
+- pkg:swift/github.com/luizmb/FP@v1.12.0
 - pkg:swift/github.com/luizmb/FP@v1.2.0
 - pkg:swift/github.com/luizmb/FP@v1.3.0
 - pkg:swift/github.com/luizmb/FP@v1.4.0
