@@ -32,3 +32,5 @@
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.4.5%5E%7B%7D
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.5.0
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.5.0%5E%7B%7D
+- pkg:swift/github.com/lynnswap/CodexReviewKit@v0.6.0
+- pkg:swift/github.com/lynnswap/CodexReviewKit@v0.6.0%5E%7B%7D
