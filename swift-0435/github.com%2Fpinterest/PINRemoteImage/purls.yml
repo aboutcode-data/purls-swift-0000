@@ -189,6 +189,7 @@
 - pkg:swift/github.com/pinterest/PINRemoteImage@releases/p14.23
 - pkg:swift/github.com/pinterest/PINRemoteImage@releases/p14.24
 - pkg:swift/github.com/pinterest/PINRemoteImage@releases/p14.25
+- pkg:swift/github.com/pinterest/PINRemoteImage@releases/p14.26
 - pkg:swift/github.com/pinterest/PINRemoteImage@releases/p14.3
 - pkg:swift/github.com/pinterest/PINRemoteImage@releases/p14.4
 - pkg:swift/github.com/pinterest/PINRemoteImage@releases/p14.5
