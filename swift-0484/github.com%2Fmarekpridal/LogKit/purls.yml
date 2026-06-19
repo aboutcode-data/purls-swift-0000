@@ -16,6 +16,8 @@
 - pkg:swift/github.com/marekpridal/LogKit@2.0.0%5E%7B%7D
 - pkg:swift/github.com/marekpridal/LogKit@3.0.0
 - pkg:swift/github.com/marekpridal/LogKit@3.0.0%5E%7B%7D
+- pkg:swift/github.com/marekpridal/LogKit@3.1.0
+- pkg:swift/github.com/marekpridal/LogKit@3.1.0%5E%7B%7D
 - pkg:swift/github.com/marekpridal/LogKit@v1.0.0
 - pkg:swift/github.com/marekpridal/LogKit@v1.0.0%5E%7B%7D
 - pkg:swift/github.com/marekpridal/LogKit@v1.0.1
