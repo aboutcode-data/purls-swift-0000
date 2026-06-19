@@ -160,3 +160,5 @@
 - pkg:swift/github.com/DesignPipe/exfig@v3.4.0%5E%7B%7D
 - pkg:swift/github.com/DesignPipe/exfig@v3.5.0
 - pkg:swift/github.com/DesignPipe/exfig@v3.5.0%5E%7B%7D
+- pkg:swift/github.com/DesignPipe/exfig@v3.6.0
+- pkg:swift/github.com/DesignPipe/exfig@v3.6.0%5E%7B%7D
