@@ -45,3 +45,7 @@
 - pkg:swift/github.com/gsdali/OCCTSwiftScripts@v1.0.4
 - pkg:swift/github.com/gsdali/OCCTSwiftScripts@v1.0.4%5E%7B%7D
 - pkg:swift/github.com/gsdali/OCCTSwiftScripts@v1.0.5
+- pkg:swift/github.com/gsdali/OCCTSwiftScripts@v1.1.0
+- pkg:swift/github.com/gsdali/OCCTSwiftScripts@v1.1.0%5E%7B%7D
+- pkg:swift/github.com/gsdali/OCCTSwiftScripts@v1.2.0
+- pkg:swift/github.com/gsdali/OCCTSwiftScripts@v1.2.0%5E%7B%7D
