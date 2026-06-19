@@ -8,3 +8,7 @@
 - pkg:swift/github.com/jamf/Haversack@1.2.0-rc.1%5E%7B%7D
 - pkg:swift/github.com/jamf/Haversack@1.2.1
 - pkg:swift/github.com/jamf/Haversack@1.2.1%5E%7B%7D
+- pkg:swift/github.com/jamf/Haversack@1.2.2
+- pkg:swift/github.com/jamf/Haversack@1.2.2%5E%7B%7D
+- pkg:swift/github.com/jamf/Haversack@2.0.0
+- pkg:swift/github.com/jamf/Haversack@2.0.0%5E%7B%7D
