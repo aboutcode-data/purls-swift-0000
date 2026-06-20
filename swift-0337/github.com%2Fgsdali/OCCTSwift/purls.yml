@@ -252,6 +252,8 @@
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.6.3
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.0
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.1
+- pkg:swift/github.com/gsdali/OCCTSwift@v1.7.10
+- pkg:swift/github.com/gsdali/OCCTSwift@v1.7.11
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.2
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.3
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.4
@@ -259,3 +261,6 @@
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.6
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.7
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.8
+- pkg:swift/github.com/gsdali/OCCTSwift@v1.7.9
+- pkg:swift/github.com/gsdali/OCCTSwift@v1.8.0
+- pkg:swift/github.com/gsdali/OCCTSwift@v1.8.0%5E%7B%7D
