@@ -27,7 +27,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/3737
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/11161
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1574
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17022
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17419
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18167
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18419
