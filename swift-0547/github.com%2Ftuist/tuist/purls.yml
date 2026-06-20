@@ -1208,6 +1208,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.2.0
 - pkg:swift/github.com/tuist/tuist@helm%400.2.1
 - pkg:swift/github.com/tuist/tuist@helm%400.3.0
+- pkg:swift/github.com/tuist/tuist@helm%400.4.0
 - pkg:swift/github.com/tuist/tuist@hetzner-robot-controller%400.1.0
 - pkg:swift/github.com/tuist/tuist@kura%400.1.0
 - pkg:swift/github.com/tuist/tuist@kura%400.10.0
@@ -1768,6 +1769,7 @@
 - pkg:swift/github.com/tuist/tuist@server%401.215.6
 - pkg:swift/github.com/tuist/tuist@server%401.215.7
 - pkg:swift/github.com/tuist/tuist@server%401.215.8
+- pkg:swift/github.com/tuist/tuist@server%401.216.0
 - pkg:swift/github.com/tuist/tuist@server%401.22.0
 - pkg:swift/github.com/tuist/tuist@server%401.23.0
 - pkg:swift/github.com/tuist/tuist@server%401.24.0
