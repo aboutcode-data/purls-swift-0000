@@ -110,3 +110,4 @@
 - pkg:swift/github.com/apache/fory@v1.1.0-rc1
 - pkg:swift/github.com/apache/fory@v1.2.0
 - pkg:swift/github.com/apache/fory@v1.2.0-rc1
+- pkg:swift/github.com/apache/fory@v1.3.0-rc1
