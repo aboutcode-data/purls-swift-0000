@@ -1,0 +1,14 @@
+- pkg:swift/github.com/gershnik/objc-helpers@v1.0
+- pkg:swift/github.com/gershnik/objc-helpers@v1.1
+- pkg:swift/github.com/gershnik/objc-helpers@v2.0
+- pkg:swift/github.com/gershnik/objc-helpers@v2.1
+- pkg:swift/github.com/gershnik/objc-helpers@v2.2
+- pkg:swift/github.com/gershnik/objc-helpers@v2.3
+- pkg:swift/github.com/gershnik/objc-helpers@v3.0
+- pkg:swift/github.com/gershnik/objc-helpers@v3.1
+- pkg:swift/github.com/gershnik/objc-helpers@v3.2
+- pkg:swift/github.com/gershnik/objc-helpers@v3.3
+- pkg:swift/github.com/gershnik/objc-helpers@v3.4
+- pkg:swift/github.com/gershnik/objc-helpers@v3.5
+- pkg:swift/github.com/gershnik/objc-helpers@v3.6
+- pkg:swift/github.com/gershnik/objc-helpers@v3.7.0
