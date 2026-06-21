@@ -282,6 +282,8 @@
 - pkg:swift/github.com/realm/SwiftLint@0.63.2%5E%7B%7D
 - pkg:swift/github.com/realm/SwiftLint@0.63.3
 - pkg:swift/github.com/realm/SwiftLint@0.63.3%5E%7B%7D
+- pkg:swift/github.com/realm/SwiftLint@0.64.0
+- pkg:swift/github.com/realm/SwiftLint@0.64.0%5E%7B%7D
 - pkg:swift/github.com/realm/SwiftLint@0.64.0-rc.1
 - pkg:swift/github.com/realm/SwiftLint@0.64.0-rc.1%5E%7B%7D
 - pkg:swift/github.com/realm/SwiftLint@0.7.0
