@@ -264,3 +264,4 @@
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.7.9
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.8.0
 - pkg:swift/github.com/gsdali/OCCTSwift@v1.8.0%5E%7B%7D
+- pkg:swift/github.com/gsdali/OCCTSwift@v1.8.1
