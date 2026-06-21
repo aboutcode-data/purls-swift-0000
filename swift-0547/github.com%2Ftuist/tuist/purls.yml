@@ -1270,6 +1270,7 @@
 - pkg:swift/github.com/tuist/tuist@noora%400.82.3
 - pkg:swift/github.com/tuist/tuist@noora%400.82.4
 - pkg:swift/github.com/tuist/tuist@noora%400.82.5
+- pkg:swift/github.com/tuist/tuist@noora%400.82.6
 - pkg:swift/github.com/tuist/tuist@runner-image%400.1.0
 - pkg:swift/github.com/tuist/tuist@runner-image%400.1.1
 - pkg:swift/github.com/tuist/tuist@runner-image%400.1.2
