@@ -20,6 +20,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/19695
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/18936
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/18988
+- pkg:swift/github.com/pytorch/executorch@ciflow/mlx/20305
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/2367
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/2368
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/3737
@@ -54,7 +55,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19758
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19849
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1986
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19873
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19931
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19934
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19979
@@ -72,15 +72,14 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20299
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20307
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20314
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20326
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20327
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20354
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20370
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20372
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20379
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20380
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20387
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20401
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20418
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20421
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20422
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20425
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2720
