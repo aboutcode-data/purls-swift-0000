@@ -1210,6 +1210,8 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.2.1
 - pkg:swift/github.com/tuist/tuist@helm%400.3.0
 - pkg:swift/github.com/tuist/tuist@helm%400.4.0
+- pkg:swift/github.com/tuist/tuist@helm%400.4.1
+- pkg:swift/github.com/tuist/tuist@helm%400.4.2
 - pkg:swift/github.com/tuist/tuist@hetzner-robot-controller%400.1.0
 - pkg:swift/github.com/tuist/tuist@kura%400.1.0
 - pkg:swift/github.com/tuist/tuist@kura%400.10.0
@@ -1219,6 +1221,8 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.10.4
 - pkg:swift/github.com/tuist/tuist@kura%400.10.5
 - pkg:swift/github.com/tuist/tuist@kura%400.10.6
+- pkg:swift/github.com/tuist/tuist@kura%400.10.7
+- pkg:swift/github.com/tuist/tuist@kura%400.10.8
 - pkg:swift/github.com/tuist/tuist@kura%400.2.0
 - pkg:swift/github.com/tuist/tuist@kura%400.3.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.0
@@ -1271,6 +1275,7 @@
 - pkg:swift/github.com/tuist/tuist@noora%400.82.4
 - pkg:swift/github.com/tuist/tuist@noora%400.82.5
 - pkg:swift/github.com/tuist/tuist@noora%400.82.6
+- pkg:swift/github.com/tuist/tuist@noora%400.82.7
 - pkg:swift/github.com/tuist/tuist@runner-image%400.1.0
 - pkg:swift/github.com/tuist/tuist@runner-image%400.1.1
 - pkg:swift/github.com/tuist/tuist@runner-image%400.1.2
@@ -1295,6 +1300,7 @@
 - pkg:swift/github.com/tuist/tuist@runners-controller%400.12.1
 - pkg:swift/github.com/tuist/tuist@runners-controller%400.13.0
 - pkg:swift/github.com/tuist/tuist@runners-controller%400.13.1
+- pkg:swift/github.com/tuist/tuist@runners-controller%400.13.2
 - pkg:swift/github.com/tuist/tuist@runners-controller%400.2.0
 - pkg:swift/github.com/tuist/tuist@runners-controller%400.3.0
 - pkg:swift/github.com/tuist/tuist@runners-controller%400.4.0
@@ -1772,6 +1778,11 @@
 - pkg:swift/github.com/tuist/tuist@server%401.215.7
 - pkg:swift/github.com/tuist/tuist@server%401.215.8
 - pkg:swift/github.com/tuist/tuist@server%401.216.0
+- pkg:swift/github.com/tuist/tuist@server%401.216.1
+- pkg:swift/github.com/tuist/tuist@server%401.216.2
+- pkg:swift/github.com/tuist/tuist@server%401.216.3
+- pkg:swift/github.com/tuist/tuist@server%401.216.4
+- pkg:swift/github.com/tuist/tuist@server%401.216.5
 - pkg:swift/github.com/tuist/tuist@server%401.22.0
 - pkg:swift/github.com/tuist/tuist@server%401.23.0
 - pkg:swift/github.com/tuist/tuist@server%401.24.0
