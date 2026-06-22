@@ -93,4 +93,6 @@
 - pkg:swift/github.com/onevcat/APNGKit@2.2.5%5E%7B%7D
 - pkg:swift/github.com/onevcat/APNGKit@2.3.0
 - pkg:swift/github.com/onevcat/APNGKit@2.3.0%5E%7B%7D
+- pkg:swift/github.com/onevcat/APNGKit@2.4.0
+- pkg:swift/github.com/onevcat/APNGKit@2.4.0%5E%7B%7D
 - pkg:swift/github.com/onevcat/APNGKit@pod-test
