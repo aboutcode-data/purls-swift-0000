@@ -109,6 +109,8 @@
 - pkg:swift/github.com/AgoraIO/AgoraAudio_iOS@4.5.2.test%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraAudio_iOS@4.5.3
 - pkg:swift/github.com/AgoraIO/AgoraAudio_iOS@4.5.3%5E%7B%7D
+- pkg:swift/github.com/AgoraIO/AgoraAudio_iOS@4.5.3-a1
+- pkg:swift/github.com/AgoraIO/AgoraAudio_iOS@4.5.3-a1%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraAudio_iOS@4.5.3.test
 - pkg:swift/github.com/AgoraIO/AgoraAudio_iOS@4.5.3.test%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraAudio_iOS@4.6.0
