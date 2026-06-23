@@ -334,6 +334,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260503.333
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260510.356
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260531.323
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-260623.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-all-sdks.3
