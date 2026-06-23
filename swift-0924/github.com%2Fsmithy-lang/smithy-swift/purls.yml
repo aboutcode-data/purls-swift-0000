@@ -291,6 +291,8 @@
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.220.0%5E%7B%7D
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.221.0
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.221.0%5E%7B%7D
+- pkg:swift/github.com/smithy-lang/smithy-swift@0.222.0
+- pkg:swift/github.com/smithy-lang/smithy-swift@0.222.0%5E%7B%7D
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.23.0
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.23.0%5E%7B%7D
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.24.0
