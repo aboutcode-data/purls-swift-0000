@@ -1,5 +1,7 @@
 - pkg:swift/github.com/gaelic-ghost/mlx-audio-swift@qwen-reference-conditioning-2026-04-11
 - pkg:swift/github.com/gaelic-ghost/mlx-audio-swift@v0.100.0
+- pkg:swift/github.com/gaelic-ghost/mlx-audio-swift@v0.101.0-gaelic.1
+- pkg:swift/github.com/gaelic-ghost/mlx-audio-swift@v0.101.0-gaelic.1%5E%7B%7D
 - pkg:swift/github.com/gaelic-ghost/mlx-audio-swift@v0.7.0
 - pkg:swift/github.com/gaelic-ghost/mlx-audio-swift@v0.7.0%5E%7B%7D
 - pkg:swift/github.com/gaelic-ghost/mlx-audio-swift@v0.79.0
