@@ -32,3 +32,4 @@
 - pkg:swift/github.com/zegolibrary/zim-ios@2.7.1
 - pkg:swift/github.com/zegolibrary/zim-ios@2.8.0
 - pkg:swift/github.com/zegolibrary/zim-ios@2.9.0
+- pkg:swift/github.com/zegolibrary/zim-ios@3.0.0
