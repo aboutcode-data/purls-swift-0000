@@ -35,4 +35,5 @@
 - pkg:swift/github.com/Kitura/LoggerAPI@1.9.0
 - pkg:swift/github.com/Kitura/LoggerAPI@1.9.200
 - pkg:swift/github.com/Kitura/LoggerAPI@2.0.0
+- pkg:swift/github.com/Kitura/LoggerAPI@2.1.0
 - pkg:swift/github.com/Kitura/LoggerAPI@IBM-2019
