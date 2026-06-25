@@ -9,3 +9,5 @@
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@2.0.0
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@2.0.0%5E%7B%7D
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@3.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@4.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@4.0.0%5E%7B%7D
