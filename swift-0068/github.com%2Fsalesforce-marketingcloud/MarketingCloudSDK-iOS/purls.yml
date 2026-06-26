@@ -11,6 +11,8 @@
 - pkg:swift/github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS@v10.0.0%5E%7B%7D
 - pkg:swift/github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS@v11.0.0
 - pkg:swift/github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS@v11.0.0%5E%7B%7D
+- pkg:swift/github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS@v11.0.1
+- pkg:swift/github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS@v11.0.1%5E%7B%7D
 - pkg:swift/github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS@v5.0.0
 - pkg:swift/github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS@v5.0.0%5E%7B%7D
 - pkg:swift/github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS@v5.1.0
