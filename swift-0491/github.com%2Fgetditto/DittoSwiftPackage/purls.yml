@@ -182,6 +182,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.5-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.5-preview.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.5-rc.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.5-rc.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-b6835ba.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-kotlin17.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-rkyv-20251215-1
