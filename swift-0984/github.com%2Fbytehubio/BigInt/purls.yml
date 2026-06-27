@@ -34,3 +34,4 @@
 - pkg:swift/github.com/bytehubio/BigInt@v5.5.2
 - pkg:swift/github.com/bytehubio/BigInt@v5.6.0
 - pkg:swift/github.com/bytehubio/BigInt@v5.7.0
+- pkg:swift/github.com/bytehubio/BigInt@v6.0.0
