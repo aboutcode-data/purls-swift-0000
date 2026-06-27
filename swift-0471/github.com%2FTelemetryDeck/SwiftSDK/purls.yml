@@ -94,3 +94,4 @@
 - pkg:swift/github.com/TelemetryDeck/SwiftSDK@2.9.7
 - pkg:swift/github.com/TelemetryDeck/SwiftSDK@2.9.8
 - pkg:swift/github.com/TelemetryDeck/SwiftSDK@3.0.0-beta.1
+- pkg:swift/github.com/TelemetryDeck/SwiftSDK@3.0.0-beta.2
