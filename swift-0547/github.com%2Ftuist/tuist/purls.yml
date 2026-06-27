@@ -1181,6 +1181,7 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.11.2
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.11.3
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.11.4
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.11.5
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.2.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.3.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.0
