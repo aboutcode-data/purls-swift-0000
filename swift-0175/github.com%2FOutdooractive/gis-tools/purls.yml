@@ -117,5 +117,6 @@
 - pkg:swift/github.com/Outdooractive/gis-tools@v1.9.1
 - pkg:swift/github.com/Outdooractive/gis-tools@v1.9.2
 - pkg:swift/github.com/Outdooractive/gis-tools@v1.9.3
+- pkg:swift/github.com/Outdooractive/gis-tools@v2.0.0
 - pkg:swift/github.com/Outdooractive/gis-tools@v2.0.0-beta.1
 - pkg:swift/github.com/Outdooractive/gis-tools@v2.0.0-beta.2
