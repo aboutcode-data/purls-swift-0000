@@ -168,6 +168,10 @@
 - pkg:swift/github.com/kudit/Compatibility@v1.13.8%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.13.9
 - pkg:swift/github.com/kudit/Compatibility@v1.13.9%5E%7B%7D
+- pkg:swift/github.com/kudit/Compatibility@v1.14.0
+- pkg:swift/github.com/kudit/Compatibility@v1.14.0%5E%7B%7D
+- pkg:swift/github.com/kudit/Compatibility@v1.14.1
+- pkg:swift/github.com/kudit/Compatibility@v1.14.1%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.2.0
 - pkg:swift/github.com/kudit/Compatibility@v1.2.0%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.2.1
