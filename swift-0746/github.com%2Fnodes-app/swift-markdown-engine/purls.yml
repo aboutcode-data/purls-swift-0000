@@ -14,3 +14,4 @@
 - pkg:swift/github.com/nodes-app/swift-markdown-engine@0.6.0%5E%7B%7D
 - pkg:swift/github.com/nodes-app/swift-markdown-engine@0.7.0
 - pkg:swift/github.com/nodes-app/swift-markdown-engine@0.7.1
+- pkg:swift/github.com/nodes-app/swift-markdown-engine@0.8.0
