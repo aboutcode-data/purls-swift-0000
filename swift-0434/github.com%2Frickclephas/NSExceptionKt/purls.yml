@@ -92,6 +92,7 @@
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.1-spm-bugsnag
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.1-spm-crashlytics
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.10
+- pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.10-kotlin-2.4.10-RC
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.10-spm-bugsnag
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.10-spm-crashlytics
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.0.2
