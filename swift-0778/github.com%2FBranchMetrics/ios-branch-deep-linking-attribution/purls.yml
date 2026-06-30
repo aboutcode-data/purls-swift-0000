@@ -278,6 +278,7 @@
 - pkg:swift/github.com/BranchMetrics/ios-branch-deep-linking-attribution@3.13.2
 - pkg:swift/github.com/BranchMetrics/ios-branch-deep-linking-attribution@3.13.3
 - pkg:swift/github.com/BranchMetrics/ios-branch-deep-linking-attribution@3.14.0
+- pkg:swift/github.com/BranchMetrics/ios-branch-deep-linking-attribution@3.14.1
 - pkg:swift/github.com/BranchMetrics/ios-branch-deep-linking-attribution@3.2.0
 - pkg:swift/github.com/BranchMetrics/ios-branch-deep-linking-attribution@3.3.0
 - pkg:swift/github.com/BranchMetrics/ios-branch-deep-linking-attribution@3.4.0
