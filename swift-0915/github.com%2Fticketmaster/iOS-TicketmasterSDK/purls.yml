@@ -64,6 +64,7 @@
 - pkg:swift/github.com/ticketmaster/iOS-TicketmasterSDK@1.2.0
 - pkg:swift/github.com/ticketmaster/iOS-TicketmasterSDK@1.2.1
 - pkg:swift/github.com/ticketmaster/iOS-TicketmasterSDK@1.20.0
+- pkg:swift/github.com/ticketmaster/iOS-TicketmasterSDK@1.20.0-variant.1
 - pkg:swift/github.com/ticketmaster/iOS-TicketmasterSDK@1.21.0
 - pkg:swift/github.com/ticketmaster/iOS-TicketmasterSDK@1.21.0%5E%7B%7D
 - pkg:swift/github.com/ticketmaster/iOS-TicketmasterSDK@1.21.0-alpha3
