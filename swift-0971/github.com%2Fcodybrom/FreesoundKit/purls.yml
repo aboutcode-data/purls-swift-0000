@@ -21,3 +21,5 @@
 - pkg:swift/github.com/codybrom/FreesoundKit@v1.3.1%5E%7B%7D
 - pkg:swift/github.com/codybrom/FreesoundKit@v2.0.0
 - pkg:swift/github.com/codybrom/FreesoundKit@v2.0.0%5E%7B%7D
+- pkg:swift/github.com/codybrom/FreesoundKit@v2.1.0
+- pkg:swift/github.com/codybrom/FreesoundKit@v2.1.0%5E%7B%7D
