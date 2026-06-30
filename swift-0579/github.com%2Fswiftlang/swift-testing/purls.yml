@@ -386,6 +386,7 @@
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.3-RELEASE
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.3.1-RELEASE
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.3.2-RELEASE
+- pkg:swift/github.com/swiftlang/swift-testing@swift-6.3.3-RELEASE
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-05-24-a
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-05-24-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-testing@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-05-26-a
