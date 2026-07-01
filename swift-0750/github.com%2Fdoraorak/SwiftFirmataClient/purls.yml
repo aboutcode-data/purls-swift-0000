@@ -6,6 +6,12 @@
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@1.1.0%5E%7B%7D
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@1.2.0
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@1.2.0%5E%7B%7D
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@10.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@11.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@12.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@13.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@14.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@14.1.0
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@2.0.0
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@2.0.0%5E%7B%7D
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@3.0.0
@@ -21,3 +27,4 @@
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@7.0.0%5E%7B%7D
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@8.0.0
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@8.0.0%5E%7B%7D
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@9.0.0
