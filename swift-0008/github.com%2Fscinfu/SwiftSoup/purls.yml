@@ -128,6 +128,7 @@
 - pkg:swift/github.com/scinfu/SwiftSoup@2.13.3
 - pkg:swift/github.com/scinfu/SwiftSoup@2.13.4
 - pkg:swift/github.com/scinfu/SwiftSoup@2.13.5
+- pkg:swift/github.com/scinfu/SwiftSoup@2.13.6
 - pkg:swift/github.com/scinfu/SwiftSoup@2.2.0
 - pkg:swift/github.com/scinfu/SwiftSoup@2.2.0%5E%7B%7D
 - pkg:swift/github.com/scinfu/SwiftSoup@2.2.1
