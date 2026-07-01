@@ -44,10 +44,12 @@
 - pkg:swift/github.com/swiftlang/swift-format@602.0.0-prerelease-2025-05-29
 - pkg:swift/github.com/swiftlang/swift-format@602.0.0-prerelease-2025-06-26
 - pkg:swift/github.com/swiftlang/swift-format@602.0.0-prerelease-2025-08-11
+- pkg:swift/github.com/swiftlang/swift-format@603.0.0
 - pkg:swift/github.com/swiftlang/swift-format@603.0.0-prerelease-2025-08-11
 - pkg:swift/github.com/swiftlang/swift-format@603.0.0-prerelease-2025-09-15
 - pkg:swift/github.com/swiftlang/swift-format@603.0.0-prerelease-2025-12-17
 - pkg:swift/github.com/swiftlang/swift-format@603.0.0-prerelease-2026-02-09
+- pkg:swift/github.com/swiftlang/swift-format@603.0.0-prerelease-2026-06-30
 - pkg:swift/github.com/swiftlang/swift-format@604.0.0-prerelease-2025-12-17
 - pkg:swift/github.com/swiftlang/swift-format@swift-5.10-RELEASE
 - pkg:swift/github.com/swiftlang/swift-format@swift-5.10.1-RELEASE
