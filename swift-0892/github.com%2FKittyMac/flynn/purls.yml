@@ -244,6 +244,12 @@
 - pkg:swift/github.com/KittyMac/flynn@v0.4.151%5E%7B%7D
 - pkg:swift/github.com/KittyMac/flynn@v0.4.152
 - pkg:swift/github.com/KittyMac/flynn@v0.4.152%5E%7B%7D
+- pkg:swift/github.com/KittyMac/flynn@v0.4.153
+- pkg:swift/github.com/KittyMac/flynn@v0.4.153%5E%7B%7D
+- pkg:swift/github.com/KittyMac/flynn@v0.4.154
+- pkg:swift/github.com/KittyMac/flynn@v0.4.154%5E%7B%7D
+- pkg:swift/github.com/KittyMac/flynn@v0.4.155
+- pkg:swift/github.com/KittyMac/flynn@v0.4.155%5E%7B%7D
 - pkg:swift/github.com/KittyMac/flynn@v0.4.16
 - pkg:swift/github.com/KittyMac/flynn@v0.4.16%5E%7B%7D
 - pkg:swift/github.com/KittyMac/flynn@v0.4.17
