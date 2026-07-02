@@ -190,6 +190,7 @@
 - pkg:swift/github.com/vapor/fluent-kit@1.54.2
 - pkg:swift/github.com/vapor/fluent-kit@1.55.0
 - pkg:swift/github.com/vapor/fluent-kit@1.56.0
+- pkg:swift/github.com/vapor/fluent-kit@1.57.0
 - pkg:swift/github.com/vapor/fluent-kit@1.6.0
 - pkg:swift/github.com/vapor/fluent-kit@1.7.0
 - pkg:swift/github.com/vapor/fluent-kit@1.7.1
