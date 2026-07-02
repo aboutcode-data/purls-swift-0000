@@ -26,6 +26,7 @@
 - pkg:swift/github.com/contentful/contentful-persistence.swift@0.17.9
 - pkg:swift/github.com/contentful/contentful-persistence.swift@0.18.0
 - pkg:swift/github.com/contentful/contentful-persistence.swift@0.18.1
+- pkg:swift/github.com/contentful/contentful-persistence.swift@0.18.2
 - pkg:swift/github.com/contentful/contentful-persistence.swift@0.2.0
 - pkg:swift/github.com/contentful/contentful-persistence.swift@0.2.3
 - pkg:swift/github.com/contentful/contentful-persistence.swift@0.3.0

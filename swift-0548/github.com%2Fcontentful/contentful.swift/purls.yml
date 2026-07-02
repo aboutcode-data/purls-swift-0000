@@ -93,6 +93,7 @@
 - pkg:swift/github.com/contentful/contentful.swift@5.5.12
 - pkg:swift/github.com/contentful/contentful.swift@5.5.13
 - pkg:swift/github.com/contentful/contentful.swift@5.5.14
+- pkg:swift/github.com/contentful/contentful.swift@5.5.15
 - pkg:swift/github.com/contentful/contentful.swift@5.5.2
 - pkg:swift/github.com/contentful/contentful.swift@5.5.3
 - pkg:swift/github.com/contentful/contentful.swift@5.5.4
