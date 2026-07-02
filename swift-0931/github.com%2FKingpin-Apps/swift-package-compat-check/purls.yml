@@ -6,3 +6,4 @@
 - pkg:swift/github.com/Kingpin-Apps/swift-package-compat-check@0.5.1
 - pkg:swift/github.com/Kingpin-Apps/swift-package-compat-check@0.5.2
 - pkg:swift/github.com/Kingpin-Apps/swift-package-compat-check@0.5.3
+- pkg:swift/github.com/Kingpin-Apps/swift-package-compat-check@0.6.0
