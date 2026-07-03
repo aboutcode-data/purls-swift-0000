@@ -178,6 +178,7 @@
 - pkg:swift/github.com/sparkle-project/Sparkle@2.9.1
 - pkg:swift/github.com/sparkle-project/Sparkle@2.9.2
 - pkg:swift/github.com/sparkle-project/Sparkle@2.9.3
+- pkg:swift/github.com/sparkle-project/Sparkle@2.9.4
 - pkg:swift/github.com/sparkle-project/Sparkle@4_0_mas
 - pkg:swift/github.com/sparkle-project/Sparkle@4_0_mas%5E%7B%7D
 - pkg:swift/github.com/sparkle-project/Sparkle@as-v1.3.1
