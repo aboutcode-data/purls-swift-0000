@@ -1294,6 +1294,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.2.0
 - pkg:swift/github.com/tuist/tuist@helm%400.2.1
 - pkg:swift/github.com/tuist/tuist@helm%400.20.0
+- pkg:swift/github.com/tuist/tuist@helm%400.21.0
 - pkg:swift/github.com/tuist/tuist@helm%400.3.0
 - pkg:swift/github.com/tuist/tuist@helm%400.4.0
 - pkg:swift/github.com/tuist/tuist@helm%400.4.1
