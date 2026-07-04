@@ -34,6 +34,7 @@
 - pkg:swift/github.com/swhitty/FlyingFox@0.26.1
 - pkg:swift/github.com/swhitty/FlyingFox@0.26.2
 - pkg:swift/github.com/swhitty/FlyingFox@0.26.2%5E%7B%7D
+- pkg:swift/github.com/swhitty/FlyingFox@0.27.0
 - pkg:swift/github.com/swhitty/FlyingFox@0.3.0
 - pkg:swift/github.com/swhitty/FlyingFox@0.3.0%5E%7B%7D
 - pkg:swift/github.com/swhitty/FlyingFox@0.3.1
