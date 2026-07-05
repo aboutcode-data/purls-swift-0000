@@ -1,1 +1,2 @@
 - pkg:swift/github.com/brokenhandsio/swift-cbor@0.0.1
+- pkg:swift/github.com/brokenhandsio/swift-cbor@0.1.0
