@@ -104,6 +104,9 @@
 - pkg:swift/github.com/superuser404notfound/AetherEngine@4.1.0%5E%7B%7D
 - pkg:swift/github.com/superuser404notfound/AetherEngine@4.10.0
 - pkg:swift/github.com/superuser404notfound/AetherEngine@4.11.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@4.12.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@4.12.0%5E%7B%7D
+- pkg:swift/github.com/superuser404notfound/AetherEngine@4.12.1
 - pkg:swift/github.com/superuser404notfound/AetherEngine@4.2.0
 - pkg:swift/github.com/superuser404notfound/AetherEngine@4.2.1
 - pkg:swift/github.com/superuser404notfound/AetherEngine@4.2.2
