@@ -80,6 +80,8 @@
 - pkg:swift/github.com/braze-inc/braze-swift-sdk@15.2.0%5E%7B%7D
 - pkg:swift/github.com/braze-inc/braze-swift-sdk@16.0.0
 - pkg:swift/github.com/braze-inc/braze-swift-sdk@16.0.0%5E%7B%7D
+- pkg:swift/github.com/braze-inc/braze-swift-sdk@17.0.0
+- pkg:swift/github.com/braze-inc/braze-swift-sdk@17.0.0%5E%7B%7D
 - pkg:swift/github.com/braze-inc/braze-swift-sdk@5.0.0
 - pkg:swift/github.com/braze-inc/braze-swift-sdk@5.0.0%5E%7B%7D
 - pkg:swift/github.com/braze-inc/braze-swift-sdk@5.0.1

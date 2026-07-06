@@ -80,6 +80,8 @@
 - pkg:swift/github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic@15.2.0%5E%7B%7D
 - pkg:swift/github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic@16.0.0
 - pkg:swift/github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic@16.0.0%5E%7B%7D
+- pkg:swift/github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic@17.0.0
+- pkg:swift/github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic@17.0.0%5E%7B%7D
 - pkg:swift/github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic@7.4.0
 - pkg:swift/github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic@7.4.0%5E%7B%7D
 - pkg:swift/github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic@7.5.0
