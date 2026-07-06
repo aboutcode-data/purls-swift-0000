@@ -18,6 +18,7 @@
 - pkg:swift/github.com/Octopus-Community/octopus-sdk-swift@v1.12.2
 - pkg:swift/github.com/Octopus-Community/octopus-sdk-swift@v1.12.3
 - pkg:swift/github.com/Octopus-Community/octopus-sdk-swift@v1.12.4
+- pkg:swift/github.com/Octopus-Community/octopus-sdk-swift@v1.12.5
 - pkg:swift/github.com/Octopus-Community/octopus-sdk-swift@v1.2.0
 - pkg:swift/github.com/Octopus-Community/octopus-sdk-swift@v1.3.0
 - pkg:swift/github.com/Octopus-Community/octopus-sdk-swift@v1.3.1
