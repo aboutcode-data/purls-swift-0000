@@ -13,6 +13,7 @@
 - pkg:swift/github.com/nesevis/exhaust@release-0.13.1
 - pkg:swift/github.com/nesevis/exhaust@release-0.13.2
 - pkg:swift/github.com/nesevis/exhaust@release-0.13.3
+- pkg:swift/github.com/nesevis/exhaust@release-0.14.0
 - pkg:swift/github.com/nesevis/exhaust@release-0.3.13
 - pkg:swift/github.com/nesevis/exhaust@release-0.3.14
 - pkg:swift/github.com/nesevis/exhaust@release-0.3.15
