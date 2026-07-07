@@ -24,3 +24,4 @@
 - pkg:swift/github.com/Outdooractive/PostgresConnectionPool@0.8.2
 - pkg:swift/github.com/Outdooractive/PostgresConnectionPool@0.8.3
 - pkg:swift/github.com/Outdooractive/PostgresConnectionPool@0.8.4
+- pkg:swift/github.com/Outdooractive/PostgresConnectionPool@v1.0.0
