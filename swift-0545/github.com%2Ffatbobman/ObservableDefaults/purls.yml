@@ -66,5 +66,7 @@
 - pkg:swift/github.com/fatbobman/ObservableDefaults@1.8.6%5E%7B%7D
 - pkg:swift/github.com/fatbobman/ObservableDefaults@1.8.7
 - pkg:swift/github.com/fatbobman/ObservableDefaults@1.8.7%5E%7B%7D
+- pkg:swift/github.com/fatbobman/ObservableDefaults@1.8.8
+- pkg:swift/github.com/fatbobman/ObservableDefaults@1.8.8%5E%7B%7D
 - pkg:swift/github.com/fatbobman/ObservableDefaults@v1.3.0
 - pkg:swift/github.com/fatbobman/ObservableDefaults@v1.3.0%5E%7B%7D
