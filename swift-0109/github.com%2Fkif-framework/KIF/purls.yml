@@ -95,3 +95,5 @@
 - pkg:swift/github.com/kif-framework/KIF@v3.8.8
 - pkg:swift/github.com/kif-framework/KIF@v3.8.9
 - pkg:swift/github.com/kif-framework/KIF@v3.9.0
+- pkg:swift/github.com/kif-framework/KIF@v4.0.0
+- pkg:swift/github.com/kif-framework/KIF@v4.0.0%5E%7B%7D
