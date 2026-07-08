@@ -100,3 +100,4 @@
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.4.7
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.4.8
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.4.9
+- pkg:swift/github.com/Kingpin-Apps/swift-cardano-core@0.5.0
