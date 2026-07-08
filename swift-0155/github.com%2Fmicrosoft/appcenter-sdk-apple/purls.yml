@@ -167,3 +167,4 @@
 - pkg:swift/github.com/microsoft/appcenter-sdk-apple@5.0.6
 - pkg:swift/github.com/microsoft/appcenter-sdk-apple@5.10.0
 - pkg:swift/github.com/microsoft/appcenter-sdk-apple@5.12.0
+- pkg:swift/github.com/microsoft/appcenter-sdk-apple@5.12.1
