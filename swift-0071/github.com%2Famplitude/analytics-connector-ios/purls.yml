@@ -14,3 +14,4 @@
 - pkg:swift/github.com/amplitude/analytics-connector-ios@v1.2.4
 - pkg:swift/github.com/amplitude/analytics-connector-ios@v1.3.0
 - pkg:swift/github.com/amplitude/analytics-connector-ios@v1.3.1
+- pkg:swift/github.com/amplitude/analytics-connector-ios@v1.3.2
