@@ -2,3 +2,4 @@
 - pkg:swift/github.com/microsoft/SwiftStreamingMarkdown@v0.2.0
 - pkg:swift/github.com/microsoft/SwiftStreamingMarkdown@v0.3.0
 - pkg:swift/github.com/microsoft/SwiftStreamingMarkdown@v0.4.0
+- pkg:swift/github.com/microsoft/SwiftStreamingMarkdown@v0.5.0
