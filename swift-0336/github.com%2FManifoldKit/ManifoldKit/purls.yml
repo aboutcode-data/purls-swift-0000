@@ -141,6 +141,7 @@
 - pkg:swift/github.com/ManifoldKit/ManifoldKit@v0.64.0
 - pkg:swift/github.com/ManifoldKit/ManifoldKit@v0.65.0
 - pkg:swift/github.com/ManifoldKit/ManifoldKit@v0.66.0
+- pkg:swift/github.com/ManifoldKit/ManifoldKit@v0.67.0
 - pkg:swift/github.com/ManifoldKit/ManifoldKit@v0.7.0
 - pkg:swift/github.com/ManifoldKit/ManifoldKit@v0.7.1
 - pkg:swift/github.com/ManifoldKit/ManifoldKit@v0.7.2
