@@ -142,3 +142,5 @@
 - pkg:swift/github.com/clerk/clerk-ios@1.2.5
 - pkg:swift/github.com/clerk/clerk-ios@1.2.6
 - pkg:swift/github.com/clerk/clerk-ios@1.2.7
+- pkg:swift/github.com/clerk/clerk-ios@1.2.8
+- pkg:swift/github.com/clerk/clerk-ios@1.2.9
