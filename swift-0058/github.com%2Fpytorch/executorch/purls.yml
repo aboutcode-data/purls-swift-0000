@@ -15,7 +15,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/19100
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/19683
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/20060
-- pkg:swift/github.com/pytorch/executorch@ciflow/cuda/20571
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/19695
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/18936
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/20526
