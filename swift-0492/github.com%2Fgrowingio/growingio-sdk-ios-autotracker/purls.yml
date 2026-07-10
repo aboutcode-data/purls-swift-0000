@@ -81,6 +81,7 @@
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@3.9.0
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@3.9.1
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@3.9.1%5E%7B%7D
+- pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@3.9.2
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.0.0
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.0.0-beta
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.0.0-beta.1
@@ -88,6 +89,7 @@
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.1.0
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.10.0
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.11.0
+- pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.12.0
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.2.0
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.2.0-hotfix.1
 - pkg:swift/github.com/growingio/growingio-sdk-ios-autotracker@4.2.0-hotfix.1%5E%7B%7D
