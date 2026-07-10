@@ -309,6 +309,8 @@
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.0-rc.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.1
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.1%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.10
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.10%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.2
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.2%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.21.3
@@ -373,6 +375,8 @@
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.0-rc.2%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.1
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.25.1%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.26.0
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.26.0%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.26.0-alpha.1
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.26.0-alpha.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@v11.26.0-rc.1
