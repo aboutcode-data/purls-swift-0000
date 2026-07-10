@@ -4,3 +4,5 @@
 - pkg:swift/github.com/PhraseHQ/SwaTex@0.2.2
 - pkg:swift/github.com/PhraseHQ/SwaTex@0.2.3
 - pkg:swift/github.com/PhraseHQ/SwaTex@0.2.3%5E%7B%7D
+- pkg:swift/github.com/PhraseHQ/SwaTex@0.3.0
+- pkg:swift/github.com/PhraseHQ/SwaTex@0.3.0%5E%7B%7D
