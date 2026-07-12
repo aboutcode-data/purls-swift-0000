@@ -2,3 +2,5 @@
 - pkg:swift/github.com/naviapps/action-kit@0.1.0%5E%7B%7D
 - pkg:swift/github.com/naviapps/action-kit@1.0.0
 - pkg:swift/github.com/naviapps/action-kit@1.0.0%5E%7B%7D
+- pkg:swift/github.com/naviapps/action-kit@2.0.0
+- pkg:swift/github.com/naviapps/action-kit@2.0.0%5E%7B%7D

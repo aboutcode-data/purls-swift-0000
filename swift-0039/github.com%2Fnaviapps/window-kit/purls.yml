@@ -1,3 +1,5 @@
 - pkg:swift/github.com/naviapps/window-kit@0.1.0
 - pkg:swift/github.com/naviapps/window-kit@1.0.0
 - pkg:swift/github.com/naviapps/window-kit@1.0.0%5E%7B%7D
+- pkg:swift/github.com/naviapps/window-kit@2.0.0
+- pkg:swift/github.com/naviapps/window-kit@2.0.0%5E%7B%7D
