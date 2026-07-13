@@ -46,3 +46,6 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.4.3
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.4.4
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.4.5
+- pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.4.6
+- pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.5.0
+- pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.5.1
