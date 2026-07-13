@@ -1,6 +1,7 @@
 - pkg:swift/github.com/uber/RIBs-iOS@0.9.2
 - pkg:swift/github.com/uber/RIBs-iOS@0.9.2%5E%7B%7D
 - pkg:swift/github.com/uber/RIBs-iOS@1.0.0
+- pkg:swift/github.com/uber/RIBs-iOS@1.1.0
 - pkg:swift/github.com/uber/RIBs-iOS@v0.10.0
 - pkg:swift/github.com/uber/RIBs-iOS@v0.10.0%5E%7B%7D
 - pkg:swift/github.com/uber/RIBs-iOS@v0.10.1
