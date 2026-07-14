@@ -1,7 +1,1 @@
-- pkg:swift/github.com/maartene/InkSwift@0.0.1
-- pkg:swift/github.com/maartene/InkSwift@0.0.2
-- pkg:swift/github.com/maartene/InkSwift@0.0.3
-- pkg:swift/github.com/maartene/InkSwift@0.0.4
-- pkg:swift/github.com/maartene/InkSwift@0.0.5
-- pkg:swift/github.com/maartene/InkSwift@1.0.0
-- pkg:swift/github.com/maartene/InkSwift@2.0.0
+- pkg:swift/github.com/maartene/InkSwift@8ab831573d42a1e32eb6930613d4cce1e7e0382e
