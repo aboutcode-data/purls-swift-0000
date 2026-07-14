@@ -6,4 +6,5 @@
 - pkg:swift/github.com/wendylabsinc/dbus@0.2.5
 - pkg:swift/github.com/wendylabsinc/dbus@0.3.0
 - pkg:swift/github.com/wendylabsinc/dbus@0.4.0
+- pkg:swift/github.com/wendylabsinc/dbus@0.4.1
 - pkg:swift/github.com/wendylabsinc/dbus@v0.1.0
