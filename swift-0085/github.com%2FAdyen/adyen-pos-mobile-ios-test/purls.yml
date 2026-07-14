@@ -18,6 +18,8 @@
 - pkg:swift/github.com/Adyen/adyen-pos-mobile-ios-test@v3.16.0%5E%7B%7D
 - pkg:swift/github.com/Adyen/adyen-pos-mobile-ios-test@v3.17.0
 - pkg:swift/github.com/Adyen/adyen-pos-mobile-ios-test@v3.17.0%5E%7B%7D
+- pkg:swift/github.com/Adyen/adyen-pos-mobile-ios-test@v3.18.0
+- pkg:swift/github.com/Adyen/adyen-pos-mobile-ios-test@v3.18.0%5E%7B%7D
 - pkg:swift/github.com/Adyen/adyen-pos-mobile-ios-test@v3.3.1-test
 - pkg:swift/github.com/Adyen/adyen-pos-mobile-ios-test@v3.3.1-test%5E%7B%7D
 - pkg:swift/github.com/Adyen/adyen-pos-mobile-ios-test@v3.5.0
