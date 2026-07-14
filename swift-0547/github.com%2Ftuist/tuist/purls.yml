@@ -859,7 +859,12 @@
 - pkg:swift/github.com/tuist/tuist@4.203.0-canary.24
 - pkg:swift/github.com/tuist/tuist@4.203.0-canary.25
 - pkg:swift/github.com/tuist/tuist@4.203.0-canary.26
+- pkg:swift/github.com/tuist/tuist@4.203.0-canary.27
+- pkg:swift/github.com/tuist/tuist@4.203.0-canary.28
+- pkg:swift/github.com/tuist/tuist@4.203.0-canary.29
 - pkg:swift/github.com/tuist/tuist@4.203.0-canary.3
+- pkg:swift/github.com/tuist/tuist@4.203.0-canary.30
+- pkg:swift/github.com/tuist/tuist@4.203.0-canary.31
 - pkg:swift/github.com/tuist/tuist@4.203.0-canary.4
 - pkg:swift/github.com/tuist/tuist@4.203.0-canary.5
 - pkg:swift/github.com/tuist/tuist@4.203.0-canary.6
@@ -1350,6 +1355,8 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.28.4
 - pkg:swift/github.com/tuist/tuist@helm%400.29.0
 - pkg:swift/github.com/tuist/tuist@helm%400.3.0
+- pkg:swift/github.com/tuist/tuist@helm%400.30.0
+- pkg:swift/github.com/tuist/tuist@helm%400.31.0
 - pkg:swift/github.com/tuist/tuist@helm%400.4.0
 - pkg:swift/github.com/tuist/tuist@helm%400.4.1
 - pkg:swift/github.com/tuist/tuist@helm%400.4.2
@@ -1394,6 +1401,7 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.16.2
 - pkg:swift/github.com/tuist/tuist@kura%400.16.3
 - pkg:swift/github.com/tuist/tuist@kura%400.16.4
+- pkg:swift/github.com/tuist/tuist@kura%400.16.5
 - pkg:swift/github.com/tuist/tuist@kura%400.2.0
 - pkg:swift/github.com/tuist/tuist@kura%400.3.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.0
@@ -2042,6 +2050,9 @@
 - pkg:swift/github.com/tuist/tuist@server%401.236.2
 - pkg:swift/github.com/tuist/tuist@server%401.237.0
 - pkg:swift/github.com/tuist/tuist@server%401.237.1
+- pkg:swift/github.com/tuist/tuist@server%401.238.0
+- pkg:swift/github.com/tuist/tuist@server%401.238.1
+- pkg:swift/github.com/tuist/tuist@server%401.238.2
 - pkg:swift/github.com/tuist/tuist@server%401.24.0
 - pkg:swift/github.com/tuist/tuist@server%401.24.1
 - pkg:swift/github.com/tuist/tuist@server%401.24.2
@@ -2360,6 +2371,8 @@
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.50.4
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.51.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.51.1
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.52.0
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.53.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.6.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.6.1
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.6.2
