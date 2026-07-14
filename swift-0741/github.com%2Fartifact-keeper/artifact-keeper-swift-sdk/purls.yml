@@ -24,3 +24,5 @@
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.5.2
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.5.3
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.5.4
+- pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.5.5
+- pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.5.6
