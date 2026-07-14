@@ -29,3 +29,4 @@
 - pkg:swift/github.com/eure/swift-storybook@2.8.0
 - pkg:swift/github.com/eure/swift-storybook@2.9.0
 - pkg:swift/github.com/eure/swift-storybook@2.9.1
+- pkg:swift/github.com/eure/swift-storybook@3.0.0
