@@ -51,6 +51,8 @@
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security@v0.23.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security@v0.23.0%5E%7B%7D
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security@v0.23.1
+- pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security@v0.23.2
+- pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security@v0.23.3
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security@v0.3.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security@v0.3.0%5E%7B%7D
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security@v0.3.1
