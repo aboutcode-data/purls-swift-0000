@@ -1093,6 +1093,7 @@
 - pkg:swift/github.com/mapbox/mapbox-common-ios@v24.28.0-SNAPSHOT-07-13--16-36.git-193ef72
 - pkg:swift/github.com/mapbox/mapbox-common-ios@v24.28.0-SNAPSHOT-07-14--12-07.git-3660141
 - pkg:swift/github.com/mapbox/mapbox-common-ios@v24.28.0-SNAPSHOT-07-15--02-02.git-4609283
+- pkg:swift/github.com/mapbox/mapbox-common-ios@v24.28.0-alpha.1
 - pkg:swift/github.com/mapbox/mapbox-common-ios@v24.3.0
 - pkg:swift/github.com/mapbox/mapbox-common-ios@v24.3.0-beta.1
 - pkg:swift/github.com/mapbox/mapbox-common-ios@v24.3.0-rc.1
