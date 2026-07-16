@@ -14,7 +14,10 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/19100
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/19683
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/20060
+- pkg:swift/github.com/pytorch/executorch@ciflow/cuda/20967
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/19695
+- pkg:swift/github.com/pytorch/executorch@ciflow/mlx/20967
+- pkg:swift/github.com/pytorch/executorch@ciflow/mlx/20970
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/20526
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/20780
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/20841
@@ -65,6 +68,13 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20905
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20907
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20947
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20953
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20960
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20961
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20962
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20963
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20964
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20965
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2720

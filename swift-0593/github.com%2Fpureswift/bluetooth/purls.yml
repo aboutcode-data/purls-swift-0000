@@ -110,3 +110,5 @@
 - pkg:swift/github.com/pureswift/bluetooth@7.3.1
 - pkg:swift/github.com/pureswift/bluetooth@7.4.0
 - pkg:swift/github.com/pureswift/bluetooth@7.4.1
+- pkg:swift/github.com/pureswift/bluetooth@7.4.2
+- pkg:swift/github.com/pureswift/bluetooth@7.5.0
