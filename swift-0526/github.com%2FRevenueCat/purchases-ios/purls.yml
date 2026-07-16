@@ -784,6 +784,8 @@
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.80.2%5E%7B%7D
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.80.3
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.80.3%5E%7B%7D
+- pkg:swift/github.com/RevenueCat/purchases-ios@5.81.0
+- pkg:swift/github.com/RevenueCat/purchases-ios@5.81.0%5E%7B%7D
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.9.0
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.9.0%5E%7B%7D
 - pkg:swift/github.com/RevenueCat/purchases-ios@5.9.0-alpha-web-redemption.01
