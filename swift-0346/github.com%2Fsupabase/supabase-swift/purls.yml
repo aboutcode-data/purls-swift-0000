@@ -121,6 +121,7 @@
 - pkg:swift/github.com/supabase/supabase-swift@v2.49.0
 - pkg:swift/github.com/supabase/supabase-swift@v2.50.0
 - pkg:swift/github.com/supabase/supabase-swift@v2.51.0
+- pkg:swift/github.com/supabase/supabase-swift@v2.52.0
 - pkg:swift/github.com/supabase/supabase-swift@v2.6.0
 - pkg:swift/github.com/supabase/supabase-swift@v2.7.0
 - pkg:swift/github.com/supabase/supabase-swift@v2.8.0
