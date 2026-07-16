@@ -53,3 +53,4 @@
 - pkg:swift/github.com/pointfreeco/swift-case-paths@1.7.2
 - pkg:swift/github.com/pointfreeco/swift-case-paths@1.7.3
 - pkg:swift/github.com/pointfreeco/swift-case-paths@1.8.0
+- pkg:swift/github.com/pointfreeco/swift-case-paths@1.9.0

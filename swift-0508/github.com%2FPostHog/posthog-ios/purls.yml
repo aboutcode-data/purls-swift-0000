@@ -472,6 +472,10 @@
 - pkg:swift/github.com/PostHog/posthog-ios@3.64.7%5E%7B%7D
 - pkg:swift/github.com/PostHog/posthog-ios@3.65.0
 - pkg:swift/github.com/PostHog/posthog-ios@3.65.0%5E%7B%7D
+- pkg:swift/github.com/PostHog/posthog-ios@3.66.0
+- pkg:swift/github.com/PostHog/posthog-ios@3.66.0%5E%7B%7D
+- pkg:swift/github.com/PostHog/posthog-ios@3.66.1
+- pkg:swift/github.com/PostHog/posthog-ios@3.66.1%5E%7B%7D
 - pkg:swift/github.com/PostHog/posthog-ios@3.7.0
 - pkg:swift/github.com/PostHog/posthog-ios@3.7.0%5E%7B%7D
 - pkg:swift/github.com/PostHog/posthog-ios@3.7.1
