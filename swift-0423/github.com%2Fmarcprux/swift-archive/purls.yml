@@ -71,3 +71,5 @@
 - pkg:swift/github.com/marcprux/swift-archive@v3.8.6
 - pkg:swift/github.com/marcprux/swift-archive@v3.8.7
 - pkg:swift/github.com/marcprux/swift-archive@v3.8.7%5E%7B%7D
+- pkg:swift/github.com/marcprux/swift-archive@v3.8.9
+- pkg:swift/github.com/marcprux/swift-archive@v3.8.9%5E%7B%7D
