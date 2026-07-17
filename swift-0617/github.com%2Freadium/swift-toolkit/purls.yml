@@ -38,6 +38,8 @@
 - pkg:swift/github.com/readium/swift-toolkit@3.1.0%5E%7B%7D
 - pkg:swift/github.com/readium/swift-toolkit@3.10.0
 - pkg:swift/github.com/readium/swift-toolkit@3.10.0%5E%7B%7D
+- pkg:swift/github.com/readium/swift-toolkit@3.11.0
+- pkg:swift/github.com/readium/swift-toolkit@3.11.0%5E%7B%7D
 - pkg:swift/github.com/readium/swift-toolkit@3.2.0
 - pkg:swift/github.com/readium/swift-toolkit@3.2.0%5E%7B%7D
 - pkg:swift/github.com/readium/swift-toolkit@3.3.0
