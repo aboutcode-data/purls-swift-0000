@@ -12,5 +12,7 @@
 - pkg:swift/github.com/tfmart/ScrobbleKit@1.1.1
 - pkg:swift/github.com/tfmart/ScrobbleKit@2.0.1
 - pkg:swift/github.com/tfmart/ScrobbleKit@2.0.1%5E%7B%7D
+- pkg:swift/github.com/tfmart/ScrobbleKit@2.0.2
+- pkg:swift/github.com/tfmart/ScrobbleKit@2.0.2%5E%7B%7D
 - pkg:swift/github.com/tfmart/ScrobbleKit@v2.0.0
 - pkg:swift/github.com/tfmart/ScrobbleKit@v2.0.0%5E%7B%7D
