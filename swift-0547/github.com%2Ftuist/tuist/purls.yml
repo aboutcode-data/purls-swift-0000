@@ -1373,6 +1373,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.34.1
 - pkg:swift/github.com/tuist/tuist@helm%400.35.0
 - pkg:swift/github.com/tuist/tuist@helm%400.35.1
+- pkg:swift/github.com/tuist/tuist@helm%400.36.0
 - pkg:swift/github.com/tuist/tuist@helm%400.4.0
 - pkg:swift/github.com/tuist/tuist@helm%400.4.1
 - pkg:swift/github.com/tuist/tuist@helm%400.4.2
@@ -2087,6 +2088,8 @@
 - pkg:swift/github.com/tuist/tuist@server%401.241.0
 - pkg:swift/github.com/tuist/tuist@server%401.242.0
 - pkg:swift/github.com/tuist/tuist@server%401.242.1
+- pkg:swift/github.com/tuist/tuist@server%401.243.0
+- pkg:swift/github.com/tuist/tuist@server%401.244.0
 - pkg:swift/github.com/tuist/tuist@server%401.25.0
 - pkg:swift/github.com/tuist/tuist@server%401.25.1
 - pkg:swift/github.com/tuist/tuist@server%401.26.0
@@ -2411,6 +2414,8 @@
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.56.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.57.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.57.1
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.58.0
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.59.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.6.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.6.1
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.6.2
