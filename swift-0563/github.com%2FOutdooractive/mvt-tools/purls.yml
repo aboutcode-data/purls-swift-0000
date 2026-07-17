@@ -72,3 +72,6 @@
 - pkg:swift/github.com/Outdooractive/mvt-tools@v2.0.1
 - pkg:swift/github.com/Outdooractive/mvt-tools@v2.1.0
 - pkg:swift/github.com/Outdooractive/mvt-tools@v2.2.0
+- pkg:swift/github.com/Outdooractive/mvt-tools@v2.2.1
+- pkg:swift/github.com/Outdooractive/mvt-tools@v2.2.2
+- pkg:swift/github.com/Outdooractive/mvt-tools@v2.2.3
