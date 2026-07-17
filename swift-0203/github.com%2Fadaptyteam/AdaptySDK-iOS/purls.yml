@@ -332,3 +332,5 @@
 - pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@4.0.0-beta.1%5E%7B%7D
 - pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@4.0.0-beta.2
 - pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@4.0.0-beta.2%5E%7B%7D
+- pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@4.0.1
+- pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@4.0.1%5E%7B%7D
