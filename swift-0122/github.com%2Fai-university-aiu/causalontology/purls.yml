@@ -13,7 +13,10 @@
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-persistent-store
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-phase-four
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-prolog-gate
+- pkg:swift/github.com/ai-university-aiu/causalontology@pre-prolog-pin
+- pkg:swift/github.com/ai-university-aiu/causalontology@pre-qa-fixups
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-readme-swap
+- pkg:swift/github.com/ai-university-aiu/causalontology@pre-readme-tidy
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-remint-1.0.0
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-tier-b-federation
 - pkg:swift/github.com/ai-university-aiu/causalontology@v1.0.0
