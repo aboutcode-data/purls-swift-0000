@@ -154,5 +154,17 @@
 - pkg:swift/github.com/superuser404notfound/AetherEngine@5.6.0
 - pkg:swift/github.com/superuser404notfound/AetherEngine@5.6.1
 - pkg:swift/github.com/superuser404notfound/AetherEngine@5.6.2
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.7.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.7.0%5E%7B%7D
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.0%5E%7B%7D
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.1
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.2
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.2%5E%7B%7D
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.3
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.3%5E%7B%7D
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.4
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.4%5E%7B%7D
+- pkg:swift/github.com/superuser404notfound/AetherEngine@5.8.5
 - pkg:swift/github.com/superuser404notfound/AetherEngine@diag-2026-05-09
 - pkg:swift/github.com/superuser404notfound/AetherEngine@speculative-timing-attempts
