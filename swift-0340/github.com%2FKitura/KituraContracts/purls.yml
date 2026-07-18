@@ -35,4 +35,5 @@
 - pkg:swift/github.com/Kitura/KituraContracts@1.2.201
 - pkg:swift/github.com/Kitura/KituraContracts@2.0.0
 - pkg:swift/github.com/Kitura/KituraContracts@2.0.1
+- pkg:swift/github.com/Kitura/KituraContracts@2.1.0
 - pkg:swift/github.com/Kitura/KituraContracts@IBM-2019
