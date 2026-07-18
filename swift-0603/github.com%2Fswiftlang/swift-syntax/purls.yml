@@ -1633,6 +1633,8 @@
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-07-13-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-07-14-a
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-07-14-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-syntax@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-07-15-a
+- pkg:swift/github.com/swiftlang/swift-syntax@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-07-15-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2018-08-25-a
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2018-08-25-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-syntax@swift-DEVELOPMENT-SNAPSHOT-2019-01-12-a
