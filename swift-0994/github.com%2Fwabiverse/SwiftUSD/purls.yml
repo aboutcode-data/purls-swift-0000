@@ -88,3 +88,4 @@
 - pkg:swift/github.com/wabiverse/SwiftUSD@v26.5.2-beta.1
 - pkg:swift/github.com/wabiverse/SwiftUSD@v26.5.2-beta.2
 - pkg:swift/github.com/wabiverse/SwiftUSD@v26.5.2-beta.3
+- pkg:swift/github.com/wabiverse/SwiftUSD@v26.8.1
