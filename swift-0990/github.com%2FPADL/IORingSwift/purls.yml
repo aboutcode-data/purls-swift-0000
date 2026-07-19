@@ -44,3 +44,5 @@
 - pkg:swift/github.com/PADL/IORingSwift@0.9.9
 - pkg:swift/github.com/PADL/IORingSwift@1.0.0
 - pkg:swift/github.com/PADL/IORingSwift@1.0.1
+- pkg:swift/github.com/PADL/IORingSwift@1.0.2
+- pkg:swift/github.com/PADL/IORingSwift@1.0.3
