@@ -6,6 +6,8 @@
 - pkg:swift/github.com/ai-university-aiu/causalontology@bindings/go/v2.0.0%5E%7B%7D
 - pkg:swift/github.com/ai-university-aiu/causalontology@history/remint-2.0.0-wholeword
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-canon-v17
+- pkg:swift/github.com/ai-university-aiu/causalontology@pre-causalontology-3-0-0
+- pkg:swift/github.com/ai-university-aiu/causalontology@pre-causalontology-3-0-0%5E%7B%7D
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-ci-gate-fix
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-docs-remint
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-examples-remint
