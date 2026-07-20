@@ -24,3 +24,5 @@
 - pkg:swift/github.com/wishkit/wishkit-ios@4.8.0
 - pkg:swift/github.com/wishkit/wishkit-ios@4.9.0
 - pkg:swift/github.com/wishkit/wishkit-ios@5.0.0
+- pkg:swift/github.com/wishkit/wishkit-ios@5.0.1
+- pkg:swift/github.com/wishkit/wishkit-ios@5.0.2
