@@ -6,6 +6,7 @@
 - pkg:swift/github.com/apache/fory@go/fory/v1.0.0
 - pkg:swift/github.com/apache/fory@go/fory/v1.1.0
 - pkg:swift/github.com/apache/fory@go/fory/v1.3.0
+- pkg:swift/github.com/apache/fory@go/fory/v1.4.0
 - pkg:swift/github.com/apache/fory@v0.1.0
 - pkg:swift/github.com/apache/fory@v0.1.0-alpha.1
 - pkg:swift/github.com/apache/fory@v0.1.0-alpha.2
