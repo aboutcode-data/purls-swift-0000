@@ -38,6 +38,7 @@
 - pkg:swift/github.com/giginet/Scipio@0.31.0
 - pkg:swift/github.com/giginet/Scipio@0.32.0
 - pkg:swift/github.com/giginet/Scipio@0.32.1
+- pkg:swift/github.com/giginet/Scipio@0.33.0
 - pkg:swift/github.com/giginet/Scipio@0.4.0
 - pkg:swift/github.com/giginet/Scipio@0.5.0
 - pkg:swift/github.com/giginet/Scipio@0.6.0
