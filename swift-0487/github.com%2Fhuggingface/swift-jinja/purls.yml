@@ -30,3 +30,4 @@
 - pkg:swift/github.com/huggingface/swift-jinja@2.3.6
 - pkg:swift/github.com/huggingface/swift-jinja@2.4.0
 - pkg:swift/github.com/huggingface/swift-jinja@2.4.1
+- pkg:swift/github.com/huggingface/swift-jinja@2.4.2
