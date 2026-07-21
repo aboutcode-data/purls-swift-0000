@@ -33,6 +33,16 @@
 - pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.12.0%5E%7B%7D
 - pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.13.0
 - pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.13.0%5E%7B%7D
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.14.0
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.14.0%5E%7B%7D
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.15.0
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.15.0%5E%7B%7D
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.16.0
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.16.0%5E%7B%7D
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.17.0
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.17.0%5E%7B%7D
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.18.0
+- pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.18.0%5E%7B%7D
 - pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.2.0
 - pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.2.0%5E%7B%7D
 - pkg:swift/github.com/zelentsov-dev/asc-mcp@v3.3.0
