@@ -10,6 +10,7 @@
 - pkg:swift/github.com/zendesk/sdk_guide_kit_ios@2.0.0
 - pkg:swift/github.com/zendesk/sdk_guide_kit_ios@2.1.0
 - pkg:swift/github.com/zendesk/sdk_guide_kit_ios@2.10.0
+- pkg:swift/github.com/zendesk/sdk_guide_kit_ios@2.11.0
 - pkg:swift/github.com/zendesk/sdk_guide_kit_ios@2.2.0
 - pkg:swift/github.com/zendesk/sdk_guide_kit_ios@2.3.0
 - pkg:swift/github.com/zendesk/sdk_guide_kit_ios@2.4.0

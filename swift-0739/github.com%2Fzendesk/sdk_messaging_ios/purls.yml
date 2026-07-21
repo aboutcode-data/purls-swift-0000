@@ -52,6 +52,7 @@
 - pkg:swift/github.com/zendesk/sdk_messaging_ios@2.39.0
 - pkg:swift/github.com/zendesk/sdk_messaging_ios@2.4.0
 - pkg:swift/github.com/zendesk/sdk_messaging_ios@2.4.1
+- pkg:swift/github.com/zendesk/sdk_messaging_ios@2.40.0
 - pkg:swift/github.com/zendesk/sdk_messaging_ios@2.5.0
 - pkg:swift/github.com/zendesk/sdk_messaging_ios@2.6.0
 - pkg:swift/github.com/zendesk/sdk_messaging_ios@2.7.0
