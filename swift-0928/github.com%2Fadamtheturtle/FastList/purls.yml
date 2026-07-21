@@ -15,3 +15,5 @@
 - pkg:swift/github.com/adamtheturtle/FastList@0.6.3
 - pkg:swift/github.com/adamtheturtle/FastList@0.6.4
 - pkg:swift/github.com/adamtheturtle/FastList@0.7.0
+- pkg:swift/github.com/adamtheturtle/FastList@0.7.1
+- pkg:swift/github.com/adamtheturtle/FastList@0.8.0
