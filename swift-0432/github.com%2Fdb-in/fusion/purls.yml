@@ -42,6 +42,8 @@
 - pkg:swift/github.com/db-in/fusion@1.7.1%5E%7B%7D
 - pkg:swift/github.com/db-in/fusion@1.7.2
 - pkg:swift/github.com/db-in/fusion@1.7.2%5E%7B%7D
+- pkg:swift/github.com/db-in/fusion@1.7.3
+- pkg:swift/github.com/db-in/fusion@1.7.3%5E%7B%7D
 - pkg:swift/github.com/db-in/fusion@Fusion-v1.0.0
 - pkg:swift/github.com/db-in/fusion@Fusion-v1.0.0%5E%7B%7D
 - pkg:swift/github.com/db-in/fusion@Fusion-v1.0.1
