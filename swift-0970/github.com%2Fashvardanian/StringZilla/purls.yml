@@ -166,3 +166,7 @@
 - pkg:swift/github.com/ashvardanian/StringZilla@v4.6.1%5E%7B%7D
 - pkg:swift/github.com/ashvardanian/StringZilla@v4.6.2
 - pkg:swift/github.com/ashvardanian/StringZilla@v4.6.2%5E%7B%7D
+- pkg:swift/github.com/ashvardanian/StringZilla@v4.6.3
+- pkg:swift/github.com/ashvardanian/StringZilla@v4.6.3%5E%7B%7D
+- pkg:swift/github.com/ashvardanian/StringZilla@v5.0.0
+- pkg:swift/github.com/ashvardanian/StringZilla@v5.0.0%5E%7B%7D
