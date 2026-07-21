@@ -3,3 +3,5 @@
 - pkg:swift/github.com/apple/swift-nio-imap@0.2.0
 - pkg:swift/github.com/apple/swift-nio-imap@0.2.0%5E%7B%7D
 - pkg:swift/github.com/apple/swift-nio-imap@0.3.0
+- pkg:swift/github.com/apple/swift-nio-imap@0.4.0
+- pkg:swift/github.com/apple/swift-nio-imap@0.4.0%5E%7B%7D
