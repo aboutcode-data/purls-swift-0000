@@ -30,4 +30,6 @@
 - pkg:swift/github.com/FluidGroup/Rideau@2.3.2
 - pkg:swift/github.com/FluidGroup/Rideau@2.3.3
 - pkg:swift/github.com/FluidGroup/Rideau@2.4.0
+- pkg:swift/github.com/FluidGroup/Rideau@2.4.1
+- pkg:swift/github.com/FluidGroup/Rideau@2.4.2
 - pkg:swift/github.com/FluidGroup/Rideau@3.0.0-beta.1
