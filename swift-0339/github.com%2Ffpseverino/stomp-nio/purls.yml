@@ -6,3 +6,4 @@
 - pkg:swift/github.com/fpseverino/stomp-nio@0.0.6
 - pkg:swift/github.com/fpseverino/stomp-nio@0.0.7
 - pkg:swift/github.com/fpseverino/stomp-nio@0.0.8
+- pkg:swift/github.com/fpseverino/stomp-nio@0.0.9
