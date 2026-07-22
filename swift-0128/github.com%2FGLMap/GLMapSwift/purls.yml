@@ -34,3 +34,5 @@
 - pkg:swift/github.com/GLMap/GLMapSwift@1.8.0%5E%7B%7D
 - pkg:swift/github.com/GLMap/GLMapSwift@1.9.0
 - pkg:swift/github.com/GLMap/GLMapSwift@1.9.0%5E%7B%7D
+- pkg:swift/github.com/GLMap/GLMapSwift@2.0
+- pkg:swift/github.com/GLMap/GLMapSwift@2.0%5E%7B%7D
