@@ -236,3 +236,4 @@
 - pkg:swift/github.com/OneSignal/OneSignal-iOS-SDK@5.5.2
 - pkg:swift/github.com/OneSignal/OneSignal-iOS-SDK@5.5.3
 - pkg:swift/github.com/OneSignal/OneSignal-iOS-SDK@5.5.4
+- pkg:swift/github.com/OneSignal/OneSignal-iOS-SDK@5.5.5
