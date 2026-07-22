@@ -22,6 +22,8 @@
 - pkg:swift/github.com/loro-dev/loro-swift@1.13.2%5E%7B%7D
 - pkg:swift/github.com/loro-dev/loro-swift@1.13.2-pre-release
 - pkg:swift/github.com/loro-dev/loro-swift@1.13.2-pre-release%5E%7B%7D
+- pkg:swift/github.com/loro-dev/loro-swift@1.13.3
+- pkg:swift/github.com/loro-dev/loro-swift@1.13.3%5E%7B%7D
 - pkg:swift/github.com/loro-dev/loro-swift@1.13.3-pre-release
 - pkg:swift/github.com/loro-dev/loro-swift@1.13.3-pre-release%5E%7B%7D
 - pkg:swift/github.com/loro-dev/loro-swift@1.2.7-alpha
