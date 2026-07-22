@@ -379,6 +379,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-transports-android-module.7
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental-windows-runner-fix.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-experimental.forge.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-preview.10
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-preview.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-preview.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-preview.4
