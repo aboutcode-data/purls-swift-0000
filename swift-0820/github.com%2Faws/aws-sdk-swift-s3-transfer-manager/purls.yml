@@ -1,2 +1,3 @@
 - pkg:swift/github.com/aws/aws-sdk-swift-s3-transfer-manager@0.1.0
 - pkg:swift/github.com/aws/aws-sdk-swift-s3-transfer-manager@1.0.0
+- pkg:swift/github.com/aws/aws-sdk-swift-s3-transfer-manager@1.0.1
