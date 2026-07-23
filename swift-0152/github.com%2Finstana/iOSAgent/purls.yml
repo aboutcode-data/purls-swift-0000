@@ -39,6 +39,8 @@
 - pkg:swift/github.com/instana/iOSAgent@1.10.0%5E%7B%7D
 - pkg:swift/github.com/instana/iOSAgent@1.10.1
 - pkg:swift/github.com/instana/iOSAgent@1.10.1%5E%7B%7D
+- pkg:swift/github.com/instana/iOSAgent@1.10.2
+- pkg:swift/github.com/instana/iOSAgent@1.10.2%5E%7B%7D
 - pkg:swift/github.com/instana/iOSAgent@1.2.0
 - pkg:swift/github.com/instana/iOSAgent@1.2.1
 - pkg:swift/github.com/instana/iOSAgent@1.2.2
