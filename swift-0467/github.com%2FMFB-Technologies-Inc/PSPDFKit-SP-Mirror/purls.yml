@@ -8,6 +8,10 @@
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.0.0
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.1.0
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.1.0%5E%7B%7D
+- pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.10.0
+- pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.10.0%5E%7B%7D
+- pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.11.0
+- pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.11.0%5E%7B%7D
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.2.0
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.3.0
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@26.3.0%5E%7B%7D
@@ -29,6 +33,10 @@
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-14.9.0%5E%7B%7D
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.0.0
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.1.0
+- pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.10.0
+- pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.10.0%5E%7B%7D
+- pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.11.0
+- pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.11.0%5E%7B%7D
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.2.0
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.2.0%5E%7B%7D
 - pkg:swift/github.com/MFB-Technologies-Inc/PSPDFKit-SP-Mirror@pre-26.3.0
