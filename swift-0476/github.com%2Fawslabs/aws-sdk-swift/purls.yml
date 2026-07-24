@@ -899,6 +899,8 @@
 - pkg:swift/github.com/awslabs/aws-sdk-swift@1.7.43%5E%7B%7D
 - pkg:swift/github.com/awslabs/aws-sdk-swift@1.7.44
 - pkg:swift/github.com/awslabs/aws-sdk-swift@1.7.44%5E%7B%7D
+- pkg:swift/github.com/awslabs/aws-sdk-swift@1.7.45
+- pkg:swift/github.com/awslabs/aws-sdk-swift@1.7.45%5E%7B%7D
 - pkg:swift/github.com/awslabs/aws-sdk-swift@1.7.5
 - pkg:swift/github.com/awslabs/aws-sdk-swift@1.7.5%5E%7B%7D
 - pkg:swift/github.com/awslabs/aws-sdk-swift@1.7.6
