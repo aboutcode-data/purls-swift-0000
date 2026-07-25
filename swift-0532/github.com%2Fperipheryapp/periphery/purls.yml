@@ -168,3 +168,5 @@
 - pkg:swift/github.com/peripheryapp/periphery@3.7.3%5E%7B%7D
 - pkg:swift/github.com/peripheryapp/periphery@3.7.4
 - pkg:swift/github.com/peripheryapp/periphery@3.7.4%5E%7B%7D
+- pkg:swift/github.com/peripheryapp/periphery@3.8.0
+- pkg:swift/github.com/peripheryapp/periphery@3.8.0%5E%7B%7D
