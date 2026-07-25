@@ -1302,6 +1302,7 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.16.7
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.16.8
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.17.0
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.18.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.2.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.3.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.0
@@ -1420,6 +1421,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.4.0
 - pkg:swift/github.com/tuist/tuist@helm%400.4.1
 - pkg:swift/github.com/tuist/tuist@helm%400.4.2
+- pkg:swift/github.com/tuist/tuist@helm%400.40.0
 - pkg:swift/github.com/tuist/tuist@helm%400.5.0
 - pkg:swift/github.com/tuist/tuist@helm%400.6.0
 - pkg:swift/github.com/tuist/tuist@helm%400.6.1
@@ -1471,6 +1473,7 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.20.0
 - pkg:swift/github.com/tuist/tuist@kura%400.20.1
 - pkg:swift/github.com/tuist/tuist@kura%400.21.0
+- pkg:swift/github.com/tuist/tuist@kura%400.21.1
 - pkg:swift/github.com/tuist/tuist@kura%400.3.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.1
@@ -2170,6 +2173,8 @@
 - pkg:swift/github.com/tuist/tuist@server%401.248.2
 - pkg:swift/github.com/tuist/tuist@server%401.248.3
 - pkg:swift/github.com/tuist/tuist@server%401.248.4
+- pkg:swift/github.com/tuist/tuist@server%401.248.5
+- pkg:swift/github.com/tuist/tuist@server%401.249.0
 - pkg:swift/github.com/tuist/tuist@server%401.25.0
 - pkg:swift/github.com/tuist/tuist@server%401.25.1
 - pkg:swift/github.com/tuist/tuist@server%401.26.0
