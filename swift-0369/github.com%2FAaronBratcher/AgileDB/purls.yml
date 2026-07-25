@@ -68,3 +68,5 @@
 - pkg:swift/github.com/AaronBratcher/AgileDB@8.2.5%5E%7B%7D
 - pkg:swift/github.com/AaronBratcher/AgileDB@8.3.0
 - pkg:swift/github.com/AaronBratcher/AgileDB@8.3.0%5E%7B%7D
+- pkg:swift/github.com/AaronBratcher/AgileDB@8.3.1
+- pkg:swift/github.com/AaronBratcher/AgileDB@8.3.1%5E%7B%7D
