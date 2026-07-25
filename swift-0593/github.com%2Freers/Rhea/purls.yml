@@ -21,4 +21,7 @@
 - pkg:swift/github.com/reers/Rhea@2.2.8
 - pkg:swift/github.com/reers/Rhea@2.3.0
 - pkg:swift/github.com/reers/Rhea@2.4.0
+- pkg:swift/github.com/reers/Rhea@2.4.1
+- pkg:swift/github.com/reers/Rhea@2.4.1%5E%7B%7D
+- pkg:swift/github.com/reers/Rhea@2.5.0
 - pkg:swift/github.com/reers/Rhea@v0.1.0
