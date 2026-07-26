@@ -14,3 +14,4 @@
 - pkg:swift/github.com/rock-n-code/amiibo-service@v1.4.0
 - pkg:swift/github.com/rock-n-code/amiibo-service@v1.4.1
 - pkg:swift/github.com/rock-n-code/amiibo-service@v1.4.2
+- pkg:swift/github.com/rock-n-code/amiibo-service@v2.0.0
