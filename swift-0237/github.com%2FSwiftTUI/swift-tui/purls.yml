@@ -41,3 +41,5 @@
 - pkg:swift/github.com/SwiftTUI/swift-tui@0.1.8
 - pkg:swift/github.com/SwiftTUI/swift-tui@0.1.9
 - pkg:swift/github.com/SwiftTUI/swift-tui@0.2.0
+- pkg:swift/github.com/SwiftTUI/swift-tui@0.3.0
+- pkg:swift/github.com/SwiftTUI/swift-tui@0.3.1
