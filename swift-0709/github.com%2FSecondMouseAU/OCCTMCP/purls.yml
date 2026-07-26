@@ -62,8 +62,15 @@
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.25.0
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.26.0
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.27.0
+- pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.28.0
+- pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.28.0%5E%7B%7D
+- pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.29.0
+- pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.29.0%5E%7B%7D
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.3.0
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.3.0%5E%7B%7D
+- pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.30.0
+- pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.30.0%5E%7B%7D
+- pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.31.0
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.4.0
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.4.0%5E%7B%7D
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.4.1
