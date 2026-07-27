@@ -12,4 +12,6 @@
 - pkg:swift/github.com/deepsealabs/libdc-swift@1.7.0%5E%7B%7D
 - pkg:swift/github.com/deepsealabs/libdc-swift@1.8.0
 - pkg:swift/github.com/deepsealabs/libdc-swift@1.8.0%5E%7B%7D
+- pkg:swift/github.com/deepsealabs/libdc-swift@1.8.1
+- pkg:swift/github.com/deepsealabs/libdc-swift@1.8.1%5E%7B%7D
 - pkg:swift/github.com/deepsealabs/libdc-swift@v1.4.0
