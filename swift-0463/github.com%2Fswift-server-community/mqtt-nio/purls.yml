@@ -32,3 +32,4 @@
 - pkg:swift/github.com/swift-server-community/mqtt-nio@2.8.0
 - pkg:swift/github.com/swift-server-community/mqtt-nio@2.9.0
 - pkg:swift/github.com/swift-server-community/mqtt-nio@3.0.0-alpha.1
+- pkg:swift/github.com/swift-server-community/mqtt-nio@3.0.0-alpha.2
