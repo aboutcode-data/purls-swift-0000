@@ -1,2 +1,4 @@
 - pkg:swift/github.com/mobilefuse/mobilefuse-ios-sdk-spm@1.10.0
 - pkg:swift/github.com/mobilefuse/mobilefuse-ios-sdk-spm@1.11.0
+- pkg:swift/github.com/mobilefuse/mobilefuse-ios-sdk-spm@1.11.1
+- pkg:swift/github.com/mobilefuse/mobilefuse-ios-sdk-spm@1.11.1%5E%7B%7D
