@@ -4,6 +4,10 @@
 - pkg:swift/github.com/ai-university-aiu/causalontology@bindings/go/v1.0.1%5E%7B%7D
 - pkg:swift/github.com/ai-university-aiu/causalontology@bindings/go/v2.0.0
 - pkg:swift/github.com/ai-university-aiu/causalontology@bindings/go/v2.0.0%5E%7B%7D
+- pkg:swift/github.com/ai-university-aiu/causalontology@bindings/go/v4.0.0
+- pkg:swift/github.com/ai-university-aiu/causalontology@bindings/go/v4.0.1
+- pkg:swift/github.com/ai-university-aiu/causalontology@bindings/go/v4.0.1%5E%7B%7D
+- pkg:swift/github.com/ai-university-aiu/causalontology@bindings/go/v4/v4.0.0
 - pkg:swift/github.com/ai-university-aiu/causalontology@history/remint-2.0.0-wholeword
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-canon-v17
 - pkg:swift/github.com/ai-university-aiu/causalontology@pre-causalontology-3-0-0
@@ -32,3 +36,6 @@
 - pkg:swift/github.com/ai-university-aiu/causalontology@v2.0.1
 - pkg:swift/github.com/ai-university-aiu/causalontology@v2.0.1%5E%7B%7D
 - pkg:swift/github.com/ai-university-aiu/causalontology@v4.0.0
+- pkg:swift/github.com/ai-university-aiu/causalontology@v4.0.1
+- pkg:swift/github.com/ai-university-aiu/causalontology@v4.0.2
+- pkg:swift/github.com/ai-university-aiu/causalontology@v4.0.2%5E%7B%7D
