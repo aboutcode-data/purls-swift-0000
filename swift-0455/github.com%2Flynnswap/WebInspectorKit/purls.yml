@@ -10,3 +10,5 @@
 - pkg:swift/github.com/lynnswap/WebInspectorKit@v0.2.0
 - pkg:swift/github.com/lynnswap/WebInspectorKit@v0.2.0-beta1
 - pkg:swift/github.com/lynnswap/WebInspectorKit@v0.3.0
+- pkg:swift/github.com/lynnswap/WebInspectorKit@v0.4.0
+- pkg:swift/github.com/lynnswap/WebInspectorKit@v0.4.1
