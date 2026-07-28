@@ -19,3 +19,4 @@
 - pkg:swift/github.com/brightdigit/SyndiKit@0.7.0
 - pkg:swift/github.com/brightdigit/SyndiKit@0.8.0
 - pkg:swift/github.com/brightdigit/SyndiKit@0.8.1
+- pkg:swift/github.com/brightdigit/SyndiKit@1.0.0-alpha.1
