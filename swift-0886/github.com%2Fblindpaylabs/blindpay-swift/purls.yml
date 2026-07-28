@@ -16,3 +16,5 @@
 - pkg:swift/github.com/blindpaylabs/blindpay-swift@v2.9.0%5E%7B%7D
 - pkg:swift/github.com/blindpaylabs/blindpay-swift@v3.0.0
 - pkg:swift/github.com/blindpaylabs/blindpay-swift@v3.0.0%5E%7B%7D
+- pkg:swift/github.com/blindpaylabs/blindpay-swift@v3.1.0
+- pkg:swift/github.com/blindpaylabs/blindpay-swift@v3.2.0
