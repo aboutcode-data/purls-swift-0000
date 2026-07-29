@@ -20,6 +20,7 @@
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.23.0
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.24.0
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.25.0
+- pkg:swift/github.com/VadimToptunov/KassiOS@0.26.0
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.3.0
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.3.0%5E%7B%7D
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.4.0
@@ -34,3 +35,4 @@
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.8.0%5E%7B%7D
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.9.0
 - pkg:swift/github.com/VadimToptunov/KassiOS@0.9.0%5E%7B%7D
+- pkg:swift/github.com/VadimToptunov/KassiOS@1.0.0
