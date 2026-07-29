@@ -1,0 +1,16 @@
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@1.0.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@1.0.1
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@1.0.2
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@1.1.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@1.2.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@1.3.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.0.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.1.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.1.1
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.1.1%5E%7B%7D
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.1.2
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.2.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.3.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.4.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.4.0%5E%7B%7D
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@2.5.0
