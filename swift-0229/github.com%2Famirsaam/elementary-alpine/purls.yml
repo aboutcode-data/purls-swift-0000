@@ -10,3 +10,5 @@
 - pkg:swift/github.com/amirsaam/elementary-alpine@0.2.500
 - pkg:swift/github.com/amirsaam/elementary-alpine@0.2.600
 - pkg:swift/github.com/amirsaam/elementary-alpine@0.3.000
+- pkg:swift/github.com/amirsaam/elementary-alpine@0.3.100
+- pkg:swift/github.com/amirsaam/elementary-alpine@0.4.000
