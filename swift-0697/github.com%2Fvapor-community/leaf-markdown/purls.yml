@@ -8,3 +8,4 @@
 - pkg:swift/github.com/vapor-community/leaf-markdown@3.0.0
 - pkg:swift/github.com/vapor-community/leaf-markdown@3.0.0-beta.1
 - pkg:swift/github.com/vapor-community/leaf-markdown@3.0.1
+- pkg:swift/github.com/vapor-community/leaf-markdown@4.0.0
