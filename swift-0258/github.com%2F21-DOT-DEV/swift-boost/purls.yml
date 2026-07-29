@@ -1,0 +1,6 @@
+- pkg:swift/github.com/21-DOT-DEV/swift-boost@1.80.0
+- pkg:swift/github.com/21-DOT-DEV/swift-boost@1.81.0
+- pkg:swift/github.com/21-DOT-DEV/swift-boost@1.90.0
+- pkg:swift/github.com/21-DOT-DEV/swift-boost@pruned-umbrella-1.90.0
+- pkg:swift/github.com/21-DOT-DEV/swift-boost@subtree-1.81.0
+- pkg:swift/github.com/21-DOT-DEV/swift-boost@umbrella-target-1.90.0
