@@ -8,3 +8,5 @@
 - pkg:swift/github.com/extentos/swift-glasses@1.7.0-rc1
 - pkg:swift/github.com/extentos/swift-glasses@1.8.0
 - pkg:swift/github.com/extentos/swift-glasses@1.9.0
+- pkg:swift/github.com/extentos/swift-glasses@2.0.0
+- pkg:swift/github.com/extentos/swift-glasses@2.0.1
