@@ -30,3 +30,6 @@
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6686-stage
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6760-nightly
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6765-nightly
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6779-stage
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6780-stage
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6781-stage

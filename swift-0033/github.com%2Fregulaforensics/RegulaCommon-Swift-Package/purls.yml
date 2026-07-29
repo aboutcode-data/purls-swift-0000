@@ -40,3 +40,5 @@
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2591-stage
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2595-nightly
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2596-nightly
+- pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2602-stage
+- pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2604-stage
