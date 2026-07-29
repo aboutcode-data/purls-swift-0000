@@ -29,3 +29,5 @@
 - pkg:swift/github.com/migueldeicaza/SwiftGodotBinary@v0.20
 - pkg:swift/github.com/migueldeicaza/SwiftGodotBinary@v0.21
 - pkg:swift/github.com/migueldeicaza/SwiftGodotBinary@v0.76.1
+- pkg:swift/github.com/migueldeicaza/SwiftGodotBinary@v0.77.1
+- pkg:swift/github.com/migueldeicaza/SwiftGodotBinary@v0.77.2
