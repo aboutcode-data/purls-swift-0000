@@ -109,3 +109,5 @@
 - pkg:swift/github.com/emqx/CocoaMQTT@2.2.5
 - pkg:swift/github.com/emqx/CocoaMQTT@2.2.6
 - pkg:swift/github.com/emqx/CocoaMQTT@2.3.0
+- pkg:swift/github.com/emqx/CocoaMQTT@2.4.0
+- pkg:swift/github.com/emqx/CocoaMQTT@2.4.0%5E%7B%7D
