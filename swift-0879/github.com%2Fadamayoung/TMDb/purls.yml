@@ -28,6 +28,7 @@
 - pkg:swift/github.com/adamayoung/TMDb@18.0.1
 - pkg:swift/github.com/adamayoung/TMDb@18.1.0
 - pkg:swift/github.com/adamayoung/TMDb@18.2.0
+- pkg:swift/github.com/adamayoung/TMDb@19.0.0
 - pkg:swift/github.com/adamayoung/TMDb@2.0.0
 - pkg:swift/github.com/adamayoung/TMDb@2.0.1
 - pkg:swift/github.com/adamayoung/TMDb@2.1.0
