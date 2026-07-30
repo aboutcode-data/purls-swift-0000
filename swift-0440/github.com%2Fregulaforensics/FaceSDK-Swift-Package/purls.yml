@@ -35,3 +35,6 @@
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4596-nightly
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4614-stage
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4686-nightly
+- pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4700-stage
+- pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4702-stage
+- pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@9.7.4704-nightly
