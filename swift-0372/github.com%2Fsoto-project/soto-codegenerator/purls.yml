@@ -73,3 +73,4 @@
 - pkg:swift/github.com/soto-project/soto-codegenerator@7.9.3
 - pkg:swift/github.com/soto-project/soto-codegenerator@7.9.4
 - pkg:swift/github.com/soto-project/soto-codegenerator@7.9.5
+- pkg:swift/github.com/soto-project/soto-codegenerator@7.9.6
