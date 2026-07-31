@@ -2,3 +2,6 @@
 - pkg:swift/github.com/sohandotgit/Porthole@1.1.0
 - pkg:swift/github.com/sohandotgit/Porthole@1.2.0
 - pkg:swift/github.com/sohandotgit/Porthole@2.0.0
+- pkg:swift/github.com/sohandotgit/Porthole@3.0.0
+- pkg:swift/github.com/sohandotgit/Porthole@3.0.1
+- pkg:swift/github.com/sohandotgit/Porthole@3.0.2
