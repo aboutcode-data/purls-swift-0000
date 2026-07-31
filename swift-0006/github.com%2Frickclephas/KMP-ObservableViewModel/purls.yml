@@ -108,3 +108,4 @@
 - pkg:swift/github.com/rickclephas/KMP-ObservableViewModel@v1.0.5
 - pkg:swift/github.com/rickclephas/KMP-ObservableViewModel@v1.0.5-kotlin-2.4.10-RC
 - pkg:swift/github.com/rickclephas/KMP-ObservableViewModel@v1.0.6
+- pkg:swift/github.com/rickclephas/KMP-ObservableViewModel@v1.0.6-kotlin-2.4.20-Beta2
