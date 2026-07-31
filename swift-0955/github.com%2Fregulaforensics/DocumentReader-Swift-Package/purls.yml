@@ -40,3 +40,4 @@
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6796-nightly
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6798-nightly
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6799-beta
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6801-stage
