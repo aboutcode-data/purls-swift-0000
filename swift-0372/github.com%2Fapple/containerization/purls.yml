@@ -102,6 +102,7 @@
 - pkg:swift/github.com/apple/containerization@0.4.1
 - pkg:swift/github.com/apple/containerization@0.40.0
 - pkg:swift/github.com/apple/containerization@0.40.1
+- pkg:swift/github.com/apple/containerization@0.40.2
 - pkg:swift/github.com/apple/containerization@0.5.0
 - pkg:swift/github.com/apple/containerization@0.6.0
 - pkg:swift/github.com/apple/containerization@0.6.0%5E%7B%7D
