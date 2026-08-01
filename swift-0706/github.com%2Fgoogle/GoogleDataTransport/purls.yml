@@ -1,5 +1,6 @@
 - pkg:swift/github.com/google/GoogleDataTransport@10.0.0
 - pkg:swift/github.com/google/GoogleDataTransport@10.1.0
+- pkg:swift/github.com/google/GoogleDataTransport@10.1.1
 - pkg:swift/github.com/google/GoogleDataTransport@8.2.0
 - pkg:swift/github.com/google/GoogleDataTransport@8.3.0
 - pkg:swift/github.com/google/GoogleDataTransport@8.3.1
