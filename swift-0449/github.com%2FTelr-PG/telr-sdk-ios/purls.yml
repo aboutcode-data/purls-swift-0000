@@ -28,6 +28,7 @@
 - pkg:swift/github.com/Telr-PG/telr-sdk-ios@4.2.0
 - pkg:swift/github.com/Telr-PG/telr-sdk-ios@4.3.0
 - pkg:swift/github.com/Telr-PG/telr-sdk-ios@4.4.0
+- pkg:swift/github.com/Telr-PG/telr-sdk-ios@4.4.1
 - pkg:swift/github.com/Telr-PG/telr-sdk-ios@ios-v0.0.6
 - pkg:swift/github.com/Telr-PG/telr-sdk-ios@ios-v0.0.7
 - pkg:swift/github.com/Telr-PG/telr-sdk-ios@ios-v0.0.8
