@@ -24,3 +24,4 @@
 - pkg:swift/github.com/quickpose/quickpose-ios-sdk@v1.2.6
 - pkg:swift/github.com/quickpose/quickpose-ios-sdk@v1.2.9
 - pkg:swift/github.com/quickpose/quickpose-ios-sdk@v1.3.0
+- pkg:swift/github.com/quickpose/quickpose-ios-sdk@v1.4.0
