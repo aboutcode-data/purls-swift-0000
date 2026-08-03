@@ -4,5 +4,13 @@
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.2.0
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.2.0%5E%7B%7D
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.2.1
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.3.0
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.3.0%5E%7B%7D
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.3.1
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.3.1%5E%7B%7D
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.4.0
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.4.0%5E%7B%7D
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.5.0
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.5.0%5E%7B%7D
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.6.0
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.6.0%5E%7B%7D
