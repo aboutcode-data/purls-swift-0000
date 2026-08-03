@@ -100,6 +100,7 @@
 - pkg:swift/github.com/processout/processout-ios@4.40.2
 - pkg:swift/github.com/processout/processout-ios@4.41.0
 - pkg:swift/github.com/processout/processout-ios@4.42.0
+- pkg:swift/github.com/processout/processout-ios@4.43.0
 - pkg:swift/github.com/processout/processout-ios@4.5.0
 - pkg:swift/github.com/processout/processout-ios@4.5.1
 - pkg:swift/github.com/processout/processout-ios@4.5.2

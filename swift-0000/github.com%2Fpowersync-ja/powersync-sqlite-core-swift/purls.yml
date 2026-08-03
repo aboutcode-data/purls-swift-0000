@@ -30,3 +30,4 @@
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.8
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.4.9
 - pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.5.1
+- pkg:swift/github.com/powersync-ja/powersync-sqlite-core-swift@v0.5.2
