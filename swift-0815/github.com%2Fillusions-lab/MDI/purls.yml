@@ -5,6 +5,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.14
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.15
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.16
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.17
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.3
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.6
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.7
@@ -36,6 +37,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.30
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.31
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.32
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.33
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.4
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.4%5E%7B%7D
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.5
@@ -50,6 +52,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.14
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.15
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.16
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.17
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.3
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.6
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.7
@@ -69,6 +72,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-export-profile%402.0.2
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-export-profile%402.0.20
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-export-profile%402.0.21
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-export-profile%402.0.22
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-export-profile%402.0.3
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-export-profile%402.0.4
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-export-profile%402.0.5
@@ -99,6 +103,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.3%5E%7B%7D
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.30
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.31
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.32
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.4
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.5
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.6
@@ -126,6 +131,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.29
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.3
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.3%5E%7B%7D
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.30
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.4
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.5
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.6
@@ -155,6 +161,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-epub%402.0.3%5E%7B%7D
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-epub%402.0.30
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-epub%402.0.31
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-epub%402.0.32
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-epub%402.0.4
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-epub%402.0.4%5E%7B%7D
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-epub%402.0.5
@@ -210,6 +217,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-html%402.0.3
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-html%402.0.3%5E%7B%7D
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-html%402.0.30
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-html%402.0.31
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-html%402.0.4
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-html%402.0.4%5E%7B%7D
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-html%402.0.5
@@ -241,6 +249,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.30
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.31
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.32
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.33
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.4
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.4%5E%7B%7D
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.5
