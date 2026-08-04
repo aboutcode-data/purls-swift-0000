@@ -4,6 +4,8 @@
 - pkg:swift/github.com/sushichop/Puppy@0.1.1%5E%7B%7D
 - pkg:swift/github.com/sushichop/Puppy@0.1.2
 - pkg:swift/github.com/sushichop/Puppy@0.1.2%5E%7B%7D
+- pkg:swift/github.com/sushichop/Puppy@0.10.0
+- pkg:swift/github.com/sushichop/Puppy@0.10.0%5E%7B%7D
 - pkg:swift/github.com/sushichop/Puppy@0.2.0
 - pkg:swift/github.com/sushichop/Puppy@0.2.0%5E%7B%7D
 - pkg:swift/github.com/sushichop/Puppy@0.3.0
