@@ -7,3 +7,4 @@
 - pkg:swift/github.com/danthorpe/swift-networking@0.5.0
 - pkg:swift/github.com/danthorpe/swift-networking@0.6.0
 - pkg:swift/github.com/danthorpe/swift-networking@0.7.0
+- pkg:swift/github.com/danthorpe/swift-networking@0.8.0
