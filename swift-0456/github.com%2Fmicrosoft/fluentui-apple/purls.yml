@@ -169,6 +169,7 @@
 - pkg:swift/github.com/microsoft/fluentui-apple@0.34.4
 - pkg:swift/github.com/microsoft/fluentui-apple@0.35.0
 - pkg:swift/github.com/microsoft/fluentui-apple@0.36.0
+- pkg:swift/github.com/microsoft/fluentui-apple@0.37.0
 - pkg:swift/github.com/microsoft/fluentui-apple@0.4.0
 - pkg:swift/github.com/microsoft/fluentui-apple@0.4.1
 - pkg:swift/github.com/microsoft/fluentui-apple@0.4.2
