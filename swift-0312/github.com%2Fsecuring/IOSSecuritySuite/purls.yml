@@ -24,3 +24,4 @@
 - pkg:swift/github.com/securing/IOSSecuritySuite@2.0.2
 - pkg:swift/github.com/securing/IOSSecuritySuite@2.1.0
 - pkg:swift/github.com/securing/IOSSecuritySuite@2.2.0
+- pkg:swift/github.com/securing/IOSSecuritySuite@2.3.0
