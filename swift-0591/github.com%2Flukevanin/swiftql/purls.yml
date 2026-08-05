@@ -1,4 +1,6 @@
 - pkg:swift/github.com/lukevanin/swiftql@1.0.0
+- pkg:swift/github.com/lukevanin/swiftql@release-test/v1.5.999
+- pkg:swift/github.com/lukevanin/swiftql@release-test/v1.5.999%5E%7B%7D
 - pkg:swift/github.com/lukevanin/swiftql@v1.1.0
 - pkg:swift/github.com/lukevanin/swiftql@v1.1.0%5E%7B%7D
 - pkg:swift/github.com/lukevanin/swiftql@v1.2.0
