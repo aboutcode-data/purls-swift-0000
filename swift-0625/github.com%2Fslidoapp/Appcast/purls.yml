@@ -10,4 +10,5 @@
 - pkg:swift/github.com/slidoapp/Appcast@0.5.0%5E%7B%7D
 - pkg:swift/github.com/slidoapp/Appcast@0.6.0
 - pkg:swift/github.com/slidoapp/Appcast@0.6.0%5E%7B%7D
-- pkg:swift/github.com/slidoapp/Appcast@v0.5.0
+- pkg:swift/github.com/slidoapp/Appcast@1.0.0
+- pkg:swift/github.com/slidoapp/Appcast@1.0.0%5E%7B%7D
