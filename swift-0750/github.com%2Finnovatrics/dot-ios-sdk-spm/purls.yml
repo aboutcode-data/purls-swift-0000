@@ -143,3 +143,5 @@
 - pkg:swift/github.com/innovatrics/dot-ios-sdk-spm@9.4.1%5E%7B%7D
 - pkg:swift/github.com/innovatrics/dot-ios-sdk-spm@9.5.0
 - pkg:swift/github.com/innovatrics/dot-ios-sdk-spm@9.5.0%5E%7B%7D
+- pkg:swift/github.com/innovatrics/dot-ios-sdk-spm@9.6.0
+- pkg:swift/github.com/innovatrics/dot-ios-sdk-spm@9.6.0%5E%7B%7D
