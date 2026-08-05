@@ -500,6 +500,8 @@
 - pkg:swift/github.com/mattt/llama.swift@2.10273.0
 - pkg:swift/github.com/mattt/llama.swift@2.10274.0
 - pkg:swift/github.com/mattt/llama.swift@2.10276.0
+- pkg:swift/github.com/mattt/llama.swift@2.10278.0
+- pkg:swift/github.com/mattt/llama.swift@2.10280.0
 - pkg:swift/github.com/mattt/llama.swift@2.7484.0
 - pkg:swift/github.com/mattt/llama.swift@2.7507.0
 - pkg:swift/github.com/mattt/llama.swift@2.7508.0
