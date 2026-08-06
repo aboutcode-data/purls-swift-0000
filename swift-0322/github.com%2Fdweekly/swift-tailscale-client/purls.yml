@@ -3,6 +3,10 @@
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.1.1
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.10.0
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.10.0%5E%7B%7D
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.11.0
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.11.0%5E%7B%7D
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.12.0
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v0.12.0%5E%7B%7D
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.2.0
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.2.0%5E%7B%7D
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.2.1
