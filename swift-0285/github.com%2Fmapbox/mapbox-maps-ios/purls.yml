@@ -16,6 +16,8 @@
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@11.29.0-alpha.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@11.29.0-alpha.2
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@11.29.0-alpha.2%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@11.29.0-alpha.3
+- pkg:swift/github.com/mapbox/mapbox-maps-ios@11.29.0-alpha.3%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@main-broken-subtree
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@main-broken-subtree%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-maps-ios@untagged-319b162e668d2ecd4916
