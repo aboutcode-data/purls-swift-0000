@@ -10,3 +10,5 @@
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@2.1.1-test.1
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@2.1.4-nightly.23.08.10
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@2.2.8
+- pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@2.3.0
+- pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@2.3.0%5E%7B%7D
