@@ -5,3 +5,4 @@
 - pkg:swift/github.com/ivantokar/hokusai-vapor@v0.1.2
 - pkg:swift/github.com/ivantokar/hokusai-vapor@v0.2.0
 - pkg:swift/github.com/ivantokar/hokusai-vapor@v0.2.0%5E%7B%7D
+- pkg:swift/github.com/ivantokar/hokusai-vapor@v1.0.0

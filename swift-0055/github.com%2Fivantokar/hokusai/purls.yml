@@ -10,3 +10,4 @@
 - pkg:swift/github.com/ivantokar/hokusai@v0.2.2
 - pkg:swift/github.com/ivantokar/hokusai@v0.2.2%5E%7B%7D
 - pkg:swift/github.com/ivantokar/hokusai@v0.3.0
+- pkg:swift/github.com/ivantokar/hokusai@v1.0.0
