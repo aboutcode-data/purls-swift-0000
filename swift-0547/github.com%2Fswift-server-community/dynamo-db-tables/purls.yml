@@ -2,3 +2,4 @@
 - pkg:swift/github.com/swift-server-community/dynamo-db-tables@1.0.0-alpha.1
 - pkg:swift/github.com/swift-server-community/dynamo-db-tables@1.0.0-rc.1
 - pkg:swift/github.com/swift-server-community/dynamo-db-tables@1.0.0-rc.2
+- pkg:swift/github.com/swift-server-community/dynamo-db-tables@1.0.0-rc.3
