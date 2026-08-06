@@ -126,6 +126,8 @@
 - pkg:swift/github.com/p-x9/MachOKit@0.52.0%5E%7B%7D
 - pkg:swift/github.com/p-x9/MachOKit@0.52.1
 - pkg:swift/github.com/p-x9/MachOKit@0.52.1%5E%7B%7D
+- pkg:swift/github.com/p-x9/MachOKit@0.52.2
+- pkg:swift/github.com/p-x9/MachOKit@0.52.2%5E%7B%7D
 - pkg:swift/github.com/p-x9/MachOKit@0.6.0
 - pkg:swift/github.com/p-x9/MachOKit@0.6.0%5E%7B%7D
 - pkg:swift/github.com/p-x9/MachOKit@0.7.0
