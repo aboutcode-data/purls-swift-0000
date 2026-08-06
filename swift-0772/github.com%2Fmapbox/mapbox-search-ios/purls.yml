@@ -322,6 +322,8 @@
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.29.0-alpha.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.29.0-alpha.2
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.29.0-alpha.2%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-search-ios@v2.29.0-alpha.3
+- pkg:swift/github.com/mapbox/mapbox-search-ios@v2.29.0-alpha.3%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.3.0
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.3.0-beta.1
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.3.0-rc.1
