@@ -23,6 +23,12 @@
 - pkg:swift/github.com/gewill/iperf-swift@v3.21%5E%7B%7D
 - pkg:swift/github.com/gewill/iperf-swift@v3.21.1
 - pkg:swift/github.com/gewill/iperf-swift@v3.21.1%5E%7B%7D
+- pkg:swift/github.com/gewill/iperf-swift@v3.21.10
+- pkg:swift/github.com/gewill/iperf-swift@v3.21.10%5E%7B%7D
+- pkg:swift/github.com/gewill/iperf-swift@v3.21.11
+- pkg:swift/github.com/gewill/iperf-swift@v3.21.11%5E%7B%7D
+- pkg:swift/github.com/gewill/iperf-swift@v3.21.12
+- pkg:swift/github.com/gewill/iperf-swift@v3.21.12%5E%7B%7D
 - pkg:swift/github.com/gewill/iperf-swift@v3.21.2
 - pkg:swift/github.com/gewill/iperf-swift@v3.21.2%5E%7B%7D
 - pkg:swift/github.com/gewill/iperf-swift@v3.21.3
