@@ -185,5 +185,6 @@
 - pkg:swift/github.com/customerio/customerio-ios@4.6.1
 - pkg:swift/github.com/customerio/customerio-ios@4.7.0
 - pkg:swift/github.com/customerio/customerio-ios@4.7.1
+- pkg:swift/github.com/customerio/customerio-ios@4.7.2
 - pkg:swift/github.com/customerio/customerio-ios@v0.0.1-test-20250515103845
 - pkg:swift/github.com/customerio/customerio-ios@v0.0.1-test-20250515103845%5E%7B%7D
