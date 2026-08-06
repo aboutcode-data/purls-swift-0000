@@ -68,6 +68,7 @@
 - pkg:swift/github.com/nordicsemi/IOS-DFU-Library@4.15.2
 - pkg:swift/github.com/nordicsemi/IOS-DFU-Library@4.15.3
 - pkg:swift/github.com/nordicsemi/IOS-DFU-Library@4.16.0
+- pkg:swift/github.com/nordicsemi/IOS-DFU-Library@4.17.0
 - pkg:swift/github.com/nordicsemi/IOS-DFU-Library@4.2.0
 - pkg:swift/github.com/nordicsemi/IOS-DFU-Library@4.2.1
 - pkg:swift/github.com/nordicsemi/IOS-DFU-Library@4.2.2
