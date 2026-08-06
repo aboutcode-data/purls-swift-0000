@@ -65,3 +65,4 @@
 - pkg:swift/github.com/SwiftTUI/swift-tui@0.6.1
 - pkg:swift/github.com/SwiftTUI/swift-tui@0.6.2
 - pkg:swift/github.com/SwiftTUI/swift-tui@0.6.3
+- pkg:swift/github.com/SwiftTUI/swift-tui@0.7.0
