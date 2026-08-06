@@ -11,3 +11,4 @@
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift@200.8.1
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift@200.8.2
 - pkg:swift/github.com/Esri/arcgis-maps-sdk-swift@300.0.0
+- pkg:swift/github.com/Esri/arcgis-maps-sdk-swift@300.1.0
