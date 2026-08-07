@@ -95,6 +95,7 @@
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDK@202606.1.1
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDK@202606.2.0
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDK@202607.1.0
+- pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDK@202608.1.0
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDK@6.27.0
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDK@6.28.0
 - pkg:swift/github.com/Zentrust/OTPublishersHeadlessSDK@6.29.0
