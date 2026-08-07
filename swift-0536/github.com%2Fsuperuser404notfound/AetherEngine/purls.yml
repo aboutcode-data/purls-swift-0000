@@ -260,6 +260,10 @@
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.1.2
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.1.3
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.1.4
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.10.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.11.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.12.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.12.1
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.2.0
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.2.1
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.3.0
@@ -285,5 +289,7 @@
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.6.3
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.6.4
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.7.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.8.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.9.0
 - pkg:swift/github.com/superuser404notfound/AetherEngine@diag-2026-05-09
 - pkg:swift/github.com/superuser404notfound/AetherEngine@speculative-timing-attempts
