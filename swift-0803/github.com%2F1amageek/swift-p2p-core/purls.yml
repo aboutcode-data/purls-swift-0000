@@ -3,3 +3,7 @@
 - pkg:swift/github.com/1amageek/swift-p2p-core@0.2.1
 - pkg:swift/github.com/1amageek/swift-p2p-core@0.3.0
 - pkg:swift/github.com/1amageek/swift-p2p-core@0.3.0%5E%7B%7D
+- pkg:swift/github.com/1amageek/swift-p2p-core@0.3.1
+- pkg:swift/github.com/1amageek/swift-p2p-core@0.3.1%5E%7B%7D
+- pkg:swift/github.com/1amageek/swift-p2p-core@0.3.2
+- pkg:swift/github.com/1amageek/swift-p2p-core@0.3.2%5E%7B%7D

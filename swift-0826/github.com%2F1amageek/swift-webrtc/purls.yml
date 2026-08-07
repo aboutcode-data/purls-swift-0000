@@ -10,3 +10,4 @@
 - pkg:swift/github.com/1amageek/swift-webrtc@1.5.1
 - pkg:swift/github.com/1amageek/swift-webrtc@1.5.2
 - pkg:swift/github.com/1amageek/swift-webrtc@1.5.3
+- pkg:swift/github.com/1amageek/swift-webrtc@2.0.0
