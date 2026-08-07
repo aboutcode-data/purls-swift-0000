@@ -37,3 +37,4 @@
 - pkg:swift/github.com/argmaxinc/argmax-oss-swift@v0.9.3
 - pkg:swift/github.com/argmaxinc/argmax-oss-swift@v0.9.4
 - pkg:swift/github.com/argmaxinc/argmax-oss-swift@v1.0.0
+- pkg:swift/github.com/argmaxinc/argmax-oss-swift@v1.1.0
