@@ -16,3 +16,4 @@
 - pkg:swift/github.com/differentiable-swift/swift-differentiation@2.2.4
 - pkg:swift/github.com/differentiable-swift/swift-differentiation@2.2.5
 - pkg:swift/github.com/differentiable-swift/swift-differentiation@3.0.0
+- pkg:swift/github.com/differentiable-swift/swift-differentiation@3.0.1
