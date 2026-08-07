@@ -15,3 +15,5 @@
 - pkg:swift/github.com/1amageek/swift-libp2p@0.2.5
 - pkg:swift/github.com/1amageek/swift-libp2p@0.2.6
 - pkg:swift/github.com/1amageek/swift-libp2p@0.2.6%5E%7B%7D
+- pkg:swift/github.com/1amageek/swift-libp2p@0.3.0
+- pkg:swift/github.com/1amageek/swift-libp2p@0.3.0%5E%7B%7D
