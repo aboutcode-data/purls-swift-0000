@@ -1,4 +1,6 @@
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@15.0.0-test-tag-2
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.28.0
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.28.0%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.28.0-alpha.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.28.0-alpha.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.28.0-alpha.3

@@ -310,6 +310,8 @@
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.26.0-alpha.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.26.0-rc.1
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.26.0-rc.1%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-search-ios@v2.28.0
+- pkg:swift/github.com/mapbox/mapbox-search-ios@v2.28.0%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.28.0-alpha.1
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.28.0-alpha.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v2.28.0-alpha.2
