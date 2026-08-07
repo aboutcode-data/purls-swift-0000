@@ -8,6 +8,7 @@
 - pkg:swift/github.com/googlemaps/ios-places-sdk@10.4.0
 - pkg:swift/github.com/googlemaps/ios-places-sdk@10.6.0
 - pkg:swift/github.com/googlemaps/ios-places-sdk@10.8.0
+- pkg:swift/github.com/googlemaps/ios-places-sdk@11.0.0
 - pkg:swift/github.com/googlemaps/ios-places-sdk@8.3.0
 - pkg:swift/github.com/googlemaps/ios-places-sdk@8.5.0
 - pkg:swift/github.com/googlemaps/ios-places-sdk@9.0.0
