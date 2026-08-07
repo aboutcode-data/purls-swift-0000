@@ -27,6 +27,8 @@
 - pkg:swift/github.com/southkin/FullyRESTful@3.1.5
 - pkg:swift/github.com/southkin/FullyRESTful@3.1.5%5E%7B%7D
 - pkg:swift/github.com/southkin/FullyRESTful@3.2.0
+- pkg:swift/github.com/southkin/FullyRESTful@4.0.0
+- pkg:swift/github.com/southkin/FullyRESTful@4.0.0%5E%7B%7D
 - pkg:swift/github.com/southkin/FullyRESTful@v1.0.0
 - pkg:swift/github.com/southkin/FullyRESTful@v1.0.0%5E%7B%7D
 - pkg:swift/github.com/southkin/FullyRESTful@v1.0.1
