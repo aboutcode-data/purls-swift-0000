@@ -26,3 +26,7 @@
 - pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@2.4.2
 - pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@2.5.0
 - pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@2.5.1
+- pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.0
+- pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.0%5E%7B%7D
+- pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.0rc1
+- pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.0rc1%5E%7B%7D
