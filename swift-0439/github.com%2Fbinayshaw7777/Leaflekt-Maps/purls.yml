@@ -8,6 +8,7 @@
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@1.0.5
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@1.0.6
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@1.1.0
+- pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@1.1.1
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@v0.1.0
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@v0.2.0
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@v0.3.0
@@ -19,3 +20,4 @@
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@v1.0.5
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@v1.0.6
 - pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@v1.1.0
+- pkg:swift/github.com/binayshaw7777/Leaflekt-Maps@v1.1.1
