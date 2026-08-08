@@ -133,3 +133,4 @@
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.1.5
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.2.0
 - pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.2.1
+- pkg:swift/github.com/Pushwoosh/Pushwoosh-XCFramework@7.2.2
