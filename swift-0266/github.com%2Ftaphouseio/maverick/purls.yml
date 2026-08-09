@@ -49,3 +49,5 @@
 - pkg:swift/github.com/taphouseio/maverick@v3.5.6%5E%7B%7D
 - pkg:swift/github.com/taphouseio/maverick@v3.5.7
 - pkg:swift/github.com/taphouseio/maverick@v3.5.7%5E%7B%7D
+- pkg:swift/github.com/taphouseio/maverick@v4.0.0
+- pkg:swift/github.com/taphouseio/maverick@v4.0.0%5E%7B%7D
