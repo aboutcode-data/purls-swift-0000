@@ -32,6 +32,8 @@
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@16.2.0
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@16.3.0
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@17.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@18.0.0
+- pkg:swift/github.com/doraorak/SwiftFirmataClient@18.0.0%5E%7B%7D
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@2.0.0
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@2.0.0%5E%7B%7D
 - pkg:swift/github.com/doraorak/SwiftFirmataClient@3.0.0
