@@ -38,6 +38,7 @@
 - pkg:swift/github.com/tuist/ProjectDescription@4.186.2
 - pkg:swift/github.com/tuist/ProjectDescription@4.193.4
 - pkg:swift/github.com/tuist/ProjectDescription@4.2.0
+- pkg:swift/github.com/tuist/ProjectDescription@4.203.4
 - pkg:swift/github.com/tuist/ProjectDescription@4.33.0
 - pkg:swift/github.com/tuist/ProjectDescription@4.37.0
 - pkg:swift/github.com/tuist/ProjectDescription@4.39.1
