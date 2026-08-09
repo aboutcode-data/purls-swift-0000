@@ -272,6 +272,7 @@
 - pkg:swift/github.com/kstenerud/KSCrash@2.4.0
 - pkg:swift/github.com/kstenerud/KSCrash@2.5.0
 - pkg:swift/github.com/kstenerud/KSCrash@2.5.1
+- pkg:swift/github.com/kstenerud/KSCrash@2.6.0
 - pkg:swift/github.com/kstenerud/KSCrash@2.6.0-beta.1
 - pkg:swift/github.com/kstenerud/KSCrash@2.6.0-beta.2
 - pkg:swift/github.com/kstenerud/KSCrash@2.6.0-beta.3
