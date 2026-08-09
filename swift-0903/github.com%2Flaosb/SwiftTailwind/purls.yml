@@ -11,8 +11,13 @@
 - pkg:swift/github.com/laosb/SwiftTailwind@1.1.0.test.1%2Btw.4.1.14
 - pkg:swift/github.com/laosb/SwiftTailwind@1.1.1%2Btw.4.1.18
 - pkg:swift/github.com/laosb/SwiftTailwind@1.1.2%2Btw.4.2.1
+- pkg:swift/github.com/laosb/SwiftTailwind@1.2.0%2Btw.4.3.3
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.1.18
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.1.18-1e1d57de8a8984c528a106f038fb432b3965b1873c8603ee6bd661f935a77f4a
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.1.18-7c9ee27c52842db7c45e376d9e9d94c463cb89f9ca91bb1b3e69f5e61d81d8b7
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.1.18-e41dde7884391c83e50815a25dc0db70061b2dfdc9ed9026e31689594a2305af
 - pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.2.1-e8c826ef1e50a546d990602bf922a21515b536e20affd34a35761055a7415216
+- pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.3.3-00553dd33b62f0dc34b48d2105da59800a1c209dd0db89bd213f6bcf26b276f2
+- pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.3.3-516200ec6a6f4b1899cab65a8cf7ec2f60d161844c8772cd8dd51de5a6291c57
+- pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.3.3-8436a4eba07abc936e5bb62d23fb0e7eace2b9f67feff2e1ec68fbf606a2ce4f
+- pkg:swift/github.com/laosb/SwiftTailwind@TailwindCSSCLI-v4.3.3-a3ea20ae142e4688adbd1807e148be727dce8956ea5507b3e244953643647354
