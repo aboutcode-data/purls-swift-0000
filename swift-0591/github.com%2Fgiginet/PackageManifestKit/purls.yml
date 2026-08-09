@@ -1,2 +1,4 @@
 - pkg:swift/github.com/giginet/PackageManifestKit@0.1.0
 - pkg:swift/github.com/giginet/PackageManifestKit@0.2.0
+- pkg:swift/github.com/giginet/PackageManifestKit@0.3.0
+- pkg:swift/github.com/giginet/PackageManifestKit@0.3.1
