@@ -280,6 +280,11 @@
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.17.1
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.18.0
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.18.1
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.19.0
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.19.1
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.19.2
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.19.3
+- pkg:swift/github.com/superuser404notfound/AetherEngine@6.19.4
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.2.0
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.2.1
 - pkg:swift/github.com/superuser404notfound/AetherEngine@6.3.0
