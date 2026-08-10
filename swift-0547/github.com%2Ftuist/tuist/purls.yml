@@ -1456,6 +1456,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.42.3
 - pkg:swift/github.com/tuist/tuist@helm%400.42.4
 - pkg:swift/github.com/tuist/tuist@helm%400.43.0
+- pkg:swift/github.com/tuist/tuist@helm%400.43.1
 - pkg:swift/github.com/tuist/tuist@helm%400.5.0
 - pkg:swift/github.com/tuist/tuist@helm%400.6.0
 - pkg:swift/github.com/tuist/tuist@helm%400.6.1
@@ -1520,6 +1521,7 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.22.2
 - pkg:swift/github.com/tuist/tuist@kura%400.22.3
 - pkg:swift/github.com/tuist/tuist@kura%400.22.4
+- pkg:swift/github.com/tuist/tuist@kura%400.22.5
 - pkg:swift/github.com/tuist/tuist@kura%400.3.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.1
