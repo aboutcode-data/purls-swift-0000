@@ -30,3 +30,5 @@
 - pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.0%5E%7B%7D
 - pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.0rc1
 - pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.0rc1%5E%7B%7D
+- pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.1rc1
+- pkg:swift/github.com/XCTestHTMLReport/XCTestHTMLReport@3.0.1rc1%5E%7B%7D
