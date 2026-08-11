@@ -18,3 +18,5 @@
 - pkg:swift/github.com/sinch/sinch-ios-sdk-spm@v5.41.6%5E%7B%7D
 - pkg:swift/github.com/sinch/sinch-ios-sdk-spm@v5.42.4
 - pkg:swift/github.com/sinch/sinch-ios-sdk-spm@v5.42.4%5E%7B%7D
+- pkg:swift/github.com/sinch/sinch-ios-sdk-spm@v5.44.3
+- pkg:swift/github.com/sinch/sinch-ios-sdk-spm@v5.44.3%5E%7B%7D
