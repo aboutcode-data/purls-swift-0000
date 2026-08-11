@@ -57,6 +57,9 @@
 - pkg:swift/github.com/MortenGregersen/Bagbutik@22.0.1
 - pkg:swift/github.com/MortenGregersen/Bagbutik@23.0.0
 - pkg:swift/github.com/MortenGregersen/Bagbutik@24.0.0
+- pkg:swift/github.com/MortenGregersen/Bagbutik@24.0.0-pre2
+- pkg:swift/github.com/MortenGregersen/Bagbutik@24.0.0-pre3
+- pkg:swift/github.com/MortenGregersen/Bagbutik@24.0.0-pre4
 - pkg:swift/github.com/MortenGregersen/Bagbutik@3.0.0
 - pkg:swift/github.com/MortenGregersen/Bagbutik@3.0.1
 - pkg:swift/github.com/MortenGregersen/Bagbutik@3.1.1
