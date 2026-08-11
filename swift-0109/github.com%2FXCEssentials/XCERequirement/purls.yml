@@ -64,3 +64,5 @@
 - pkg:swift/github.com/XCEssentials/XCERequirement@3.0.0%5E%7B%7D
 - pkg:swift/github.com/XCEssentials/XCERequirement@4.0.0
 - pkg:swift/github.com/XCEssentials/XCERequirement@4.0.0%5E%7B%7D
+- pkg:swift/github.com/XCEssentials/XCERequirement@4.1.0
+- pkg:swift/github.com/XCEssentials/XCERequirement@4.1.0%5E%7B%7D
