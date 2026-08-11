@@ -99,3 +99,4 @@
 - pkg:swift/github.com/vapor/console-kit@5.0.0-alpha.4
 - pkg:swift/github.com/vapor/console-kit@5.0.0-alpha.5
 - pkg:swift/github.com/vapor/console-kit@5.0.0-beta.1
+- pkg:swift/github.com/vapor/console-kit@5.0.0-beta.2
