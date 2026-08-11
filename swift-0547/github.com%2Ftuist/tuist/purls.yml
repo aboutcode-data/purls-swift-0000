@@ -913,6 +913,7 @@
 - pkg:swift/github.com/tuist/tuist@4.204.0-canary.7
 - pkg:swift/github.com/tuist/tuist@4.204.0-canary.8
 - pkg:swift/github.com/tuist/tuist@4.204.0-canary.9
+- pkg:swift/github.com/tuist/tuist@4.204.0-rc.1
 - pkg:swift/github.com/tuist/tuist@4.21.0
 - pkg:swift/github.com/tuist/tuist@4.21.1
 - pkg:swift/github.com/tuist/tuist@4.21.2
@@ -1252,6 +1253,7 @@
 - pkg:swift/github.com/tuist/tuist@cache%400.32.10
 - pkg:swift/github.com/tuist/tuist@cache%400.32.11
 - pkg:swift/github.com/tuist/tuist@cache%400.32.12
+- pkg:swift/github.com/tuist/tuist@cache%400.32.13
 - pkg:swift/github.com/tuist/tuist@cache%400.32.2
 - pkg:swift/github.com/tuist/tuist@cache%400.32.3
 - pkg:swift/github.com/tuist/tuist@cache%400.32.4
@@ -1322,6 +1324,7 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.17.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.18.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.18.1
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.18.2
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.2.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.3.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.0
