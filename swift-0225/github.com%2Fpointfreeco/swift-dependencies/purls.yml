@@ -26,6 +26,7 @@
 - pkg:swift/github.com/pointfreeco/swift-dependencies@1.13.1
 - pkg:swift/github.com/pointfreeco/swift-dependencies@1.14.0
 - pkg:swift/github.com/pointfreeco/swift-dependencies@1.14.1
+- pkg:swift/github.com/pointfreeco/swift-dependencies@1.15.0
 - pkg:swift/github.com/pointfreeco/swift-dependencies@1.2.0
 - pkg:swift/github.com/pointfreeco/swift-dependencies@1.2.1
 - pkg:swift/github.com/pointfreeco/swift-dependencies@1.2.2
