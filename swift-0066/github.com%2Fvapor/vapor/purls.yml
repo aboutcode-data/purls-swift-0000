@@ -628,3 +628,4 @@
 - pkg:swift/github.com/vapor/vapor@4.99.2
 - pkg:swift/github.com/vapor/vapor@4.99.3
 - pkg:swift/github.com/vapor/vapor@5.0.0-alpha.1
+- pkg:swift/github.com/vapor/vapor@5.0.0-alpha.2
