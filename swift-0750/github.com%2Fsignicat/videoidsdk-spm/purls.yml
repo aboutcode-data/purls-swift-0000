@@ -20,6 +20,10 @@
 - pkg:swift/github.com/signicat/videoidsdk-spm@1.48.0%5E%7B%7D
 - pkg:swift/github.com/signicat/videoidsdk-spm@1.49.0
 - pkg:swift/github.com/signicat/videoidsdk-spm@1.49.0%5E%7B%7D
+- pkg:swift/github.com/signicat/videoidsdk-spm@26.10.10-RC
+- pkg:swift/github.com/signicat/videoidsdk-spm@26.10.10-RC%5E%7B%7D
+- pkg:swift/github.com/signicat/videoidsdk-spm@26.10.11-RC
+- pkg:swift/github.com/signicat/videoidsdk-spm@26.10.11-RC%5E%7B%7D
 - pkg:swift/github.com/signicat/videoidsdk-spm@26.10.3
 - pkg:swift/github.com/signicat/videoidsdk-spm@26.10.3%5E%7B%7D
 - pkg:swift/github.com/signicat/videoidsdk-spm@26.10.5
