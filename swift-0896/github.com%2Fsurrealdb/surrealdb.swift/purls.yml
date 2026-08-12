@@ -1,1 +1,2 @@
-- pkg:swift/github.com/surrealdb/surrealdb.swift@f1d5b8aa0f781848dde800444ae32f1cf281f245
+- pkg:swift/github.com/surrealdb/surrealdb.swift@v1.0.0-alpha.1
+- pkg:swift/github.com/surrealdb/surrealdb.swift@v1.0.0-alpha.1%5E%7B%7D
