@@ -3,3 +3,6 @@
 - pkg:swift/github.com/Releva-ai/sdk-swift@v3.1.0
 - pkg:swift/github.com/Releva-ai/sdk-swift@v3.1.1
 - pkg:swift/github.com/Releva-ai/sdk-swift@v3.1.2
+- pkg:swift/github.com/Releva-ai/sdk-swift@v4.0.0
+- pkg:swift/github.com/Releva-ai/sdk-swift@v4.1.0
+- pkg:swift/github.com/Releva-ai/sdk-swift@v4.2.0
