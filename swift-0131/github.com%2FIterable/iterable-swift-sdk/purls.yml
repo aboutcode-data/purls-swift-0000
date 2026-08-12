@@ -159,3 +159,5 @@
 - pkg:swift/github.com/Iterable/iterable-swift-sdk@6.7.3%5E%7B%7D
 - pkg:swift/github.com/Iterable/iterable-swift-sdk@6.7.4
 - pkg:swift/github.com/Iterable/iterable-swift-sdk@6.7.4%5E%7B%7D
+- pkg:swift/github.com/Iterable/iterable-swift-sdk@6.7.5
+- pkg:swift/github.com/Iterable/iterable-swift-sdk@6.7.5%5E%7B%7D
