@@ -29,3 +29,4 @@
 - pkg:swift/github.com/dankogai/swift-bignum@6.1.0
 - pkg:swift/github.com/dankogai/swift-bignum@6.2.0
 - pkg:swift/github.com/dankogai/swift-bignum@6.3.0
+- pkg:swift/github.com/dankogai/swift-bignum@6.3.1
