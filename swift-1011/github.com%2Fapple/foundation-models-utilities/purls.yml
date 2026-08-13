@@ -2,3 +2,5 @@
 - pkg:swift/github.com/apple/foundation-models-utilities@1.0.0-beta1%5E%7B%7D
 - pkg:swift/github.com/apple/foundation-models-utilities@1.0.0-beta3
 - pkg:swift/github.com/apple/foundation-models-utilities@1.0.0-beta3%5E%7B%7D
+- pkg:swift/github.com/apple/foundation-models-utilities@1.0.0-beta5
+- pkg:swift/github.com/apple/foundation-models-utilities@1.0.0-beta5%5E%7B%7D
