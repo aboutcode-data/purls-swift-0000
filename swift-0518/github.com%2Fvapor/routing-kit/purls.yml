@@ -54,3 +54,4 @@
 - pkg:swift/github.com/vapor/routing-kit@4.9.3
 - pkg:swift/github.com/vapor/routing-kit@5.0.0-beta.1
 - pkg:swift/github.com/vapor/routing-kit@5.0.0-beta.2
+- pkg:swift/github.com/vapor/routing-kit@5.0.0-beta.3
