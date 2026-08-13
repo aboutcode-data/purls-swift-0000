@@ -79,6 +79,8 @@
 - pkg:swift/github.com/signalfx/splunk-otel-ios@2.3.2%5E%7B%7D
 - pkg:swift/github.com/signalfx/splunk-otel-ios@2.4.0
 - pkg:swift/github.com/signalfx/splunk-otel-ios@2.4.0%5E%7B%7D
+- pkg:swift/github.com/signalfx/splunk-otel-ios@2.4.1
+- pkg:swift/github.com/signalfx/splunk-otel-ios@2.4.1%5E%7B%7D
 - pkg:swift/github.com/signalfx/splunk-otel-ios@v0.12.1
 - pkg:swift/github.com/signalfx/splunk-otel-ios@v0.12.1%5E%7B%7D
 - pkg:swift/github.com/signalfx/splunk-otel-ios@v0.13.0
