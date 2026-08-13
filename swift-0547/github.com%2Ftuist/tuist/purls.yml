@@ -2655,6 +2655,7 @@
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.70.4
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.70.5
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.71.0
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.71.1
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.8.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.9.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.9.1
