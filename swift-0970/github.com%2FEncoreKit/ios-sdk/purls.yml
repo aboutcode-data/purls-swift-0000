@@ -66,3 +66,5 @@
 - pkg:swift/github.com/EncoreKit/ios-sdk@v1.4.56%5E%7B%7D
 - pkg:swift/github.com/EncoreKit/ios-sdk@v1.4.57
 - pkg:swift/github.com/EncoreKit/ios-sdk@v1.4.57%5E%7B%7D
+- pkg:swift/github.com/EncoreKit/ios-sdk@v2.0.0
+- pkg:swift/github.com/EncoreKit/ios-sdk@v2.0.0%5E%7B%7D
