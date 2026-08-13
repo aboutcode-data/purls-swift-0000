@@ -1,6 +1,7 @@
 - pkg:swift/github.com/cashapp/AccessibilitySnapshot@0.10.0
 - pkg:swift/github.com/cashapp/AccessibilitySnapshot@0.11.0
 - pkg:swift/github.com/cashapp/AccessibilitySnapshot@0.11.0%5E%7B%7D
+- pkg:swift/github.com/cashapp/AccessibilitySnapshot@0.12.0
 - pkg:swift/github.com/cashapp/AccessibilitySnapshot@0.3.0
 - pkg:swift/github.com/cashapp/AccessibilitySnapshot@0.3.1
 - pkg:swift/github.com/cashapp/AccessibilitySnapshot@0.3.2
