@@ -5,3 +5,4 @@
 - pkg:swift/github.com/request-dl/swift-openapi-request-dl-nio@1.0.1
 - pkg:swift/github.com/request-dl/swift-openapi-request-dl-nio@1.1.0
 - pkg:swift/github.com/request-dl/swift-openapi-request-dl-nio@1.2.0
+- pkg:swift/github.com/request-dl/swift-openapi-request-dl-nio@2.0.0
