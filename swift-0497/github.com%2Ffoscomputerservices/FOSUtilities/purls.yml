@@ -6,6 +6,8 @@
 - pkg:swift/github.com/foscomputerservices/FOSUtilities@0.11.0
 - pkg:swift/github.com/foscomputerservices/FOSUtilities@0.12.0
 - pkg:swift/github.com/foscomputerservices/FOSUtilities@0.12.0%5E%7B%7D
+- pkg:swift/github.com/foscomputerservices/FOSUtilities@0.12.1
+- pkg:swift/github.com/foscomputerservices/FOSUtilities@0.12.1%5E%7B%7D
 - pkg:swift/github.com/foscomputerservices/FOSUtilities@0.2.0
 - pkg:swift/github.com/foscomputerservices/FOSUtilities@0.2.0%5E%7B%7D
 - pkg:swift/github.com/foscomputerservices/FOSUtilities@0.2.1
