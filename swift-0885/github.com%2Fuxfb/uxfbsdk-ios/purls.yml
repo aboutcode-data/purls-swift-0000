@@ -68,8 +68,12 @@
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@4.4.0%5E%7B%7D
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@4.4.1
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@4.4.1%5E%7B%7D
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@4.4.2
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@4.4.2%5E%7B%7D
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@4.5.0
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@4.5.0%5E%7B%7D
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@4.5.1
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@4.5.1%5E%7B%7D
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v2.0.0
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v2.0.0%5E%7B%7D
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v2.0.1
@@ -140,5 +144,9 @@
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.4.0%5E%7B%7D
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.4.1
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.4.1%5E%7B%7D
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.4.2
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.4.2%5E%7B%7D
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.5.0
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.5.0%5E%7B%7D
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.5.1
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.5.1%5E%7B%7D
