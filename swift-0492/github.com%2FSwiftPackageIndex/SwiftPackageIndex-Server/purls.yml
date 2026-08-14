@@ -705,6 +705,8 @@
 - pkg:swift/github.com/SwiftPackageIndex/SwiftPackageIndex-Server@2.124.5%5E%7B%7D
 - pkg:swift/github.com/SwiftPackageIndex/SwiftPackageIndex-Server@2.124.6
 - pkg:swift/github.com/SwiftPackageIndex/SwiftPackageIndex-Server@2.124.6%5E%7B%7D
+- pkg:swift/github.com/SwiftPackageIndex/SwiftPackageIndex-Server@2.125.0
+- pkg:swift/github.com/SwiftPackageIndex/SwiftPackageIndex-Server@2.125.0%5E%7B%7D
 - pkg:swift/github.com/SwiftPackageIndex/SwiftPackageIndex-Server@2.13.0
 - pkg:swift/github.com/SwiftPackageIndex/SwiftPackageIndex-Server@2.13.0%5E%7B%7D
 - pkg:swift/github.com/SwiftPackageIndex/SwiftPackageIndex-Server@2.13.1
