@@ -22,3 +22,5 @@
 - pkg:swift/github.com/jiyimeta/swift-wirelet@v0.3.2%5E%7B%7D
 - pkg:swift/github.com/jiyimeta/swift-wirelet@v0.4.0
 - pkg:swift/github.com/jiyimeta/swift-wirelet@v0.4.0%5E%7B%7D
+- pkg:swift/github.com/jiyimeta/swift-wirelet@v0.4.1
+- pkg:swift/github.com/jiyimeta/swift-wirelet@v0.4.1%5E%7B%7D
