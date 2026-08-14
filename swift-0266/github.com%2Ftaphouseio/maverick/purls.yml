@@ -31,6 +31,12 @@
 - pkg:swift/github.com/taphouseio/maverick@3.1.0%5E%7B%7D
 - pkg:swift/github.com/taphouseio/maverick@3.2.0
 - pkg:swift/github.com/taphouseio/maverick@3.2.0%5E%7B%7D
+- pkg:swift/github.com/taphouseio/maverick@4.0.0
+- pkg:swift/github.com/taphouseio/maverick@4.0.0%5E%7B%7D
+- pkg:swift/github.com/taphouseio/maverick@4.0.1
+- pkg:swift/github.com/taphouseio/maverick@4.0.1%5E%7B%7D
+- pkg:swift/github.com/taphouseio/maverick@4.0.2
+- pkg:swift/github.com/taphouseio/maverick@4.0.2%5E%7B%7D
 - pkg:swift/github.com/taphouseio/maverick@call-ping-method
 - pkg:swift/github.com/taphouseio/maverick@call-ping-method%5E%7B%7D
 - pkg:swift/github.com/taphouseio/maverick@v3.5.0
@@ -49,5 +55,3 @@
 - pkg:swift/github.com/taphouseio/maverick@v3.5.6%5E%7B%7D
 - pkg:swift/github.com/taphouseio/maverick@v3.5.7
 - pkg:swift/github.com/taphouseio/maverick@v3.5.7%5E%7B%7D
-- pkg:swift/github.com/taphouseio/maverick@v4.0.0
-- pkg:swift/github.com/taphouseio/maverick@v4.0.0%5E%7B%7D
