@@ -42,3 +42,4 @@
 - pkg:swift/github.com/youversion/platform-sdk-swift@5.2.3
 - pkg:swift/github.com/youversion/platform-sdk-swift@5.3.0
 - pkg:swift/github.com/youversion/platform-sdk-swift@5.4.0
+- pkg:swift/github.com/youversion/platform-sdk-swift@5.5.0
