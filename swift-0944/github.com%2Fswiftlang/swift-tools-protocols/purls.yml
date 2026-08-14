@@ -8,3 +8,5 @@
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@0.0.7
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@0.0.8
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@0.0.9
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-08-11-a
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-08-11-a%5E%7B%7D
