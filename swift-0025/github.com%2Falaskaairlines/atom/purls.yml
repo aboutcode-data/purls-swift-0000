@@ -10,6 +10,7 @@
 - pkg:swift/github.com/alaskaairlines/atom@v3.0.1
 - pkg:swift/github.com/alaskaairlines/atom@v4.0.0
 - pkg:swift/github.com/alaskaairlines/atom@v4.0.1
+- pkg:swift/github.com/alaskaairlines/atom@v4.10.0
 - pkg:swift/github.com/alaskaairlines/atom@v4.2.0
 - pkg:swift/github.com/alaskaairlines/atom@v4.5.0
 - pkg:swift/github.com/alaskaairlines/atom@v4.6.0
