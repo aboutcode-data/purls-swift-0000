@@ -19,3 +19,4 @@
 - pkg:swift/github.com/cybozu/WebUI@4.2.1
 - pkg:swift/github.com/cybozu/WebUI@4.3.0
 - pkg:swift/github.com/cybozu/WebUI@4.4.0
+- pkg:swift/github.com/cybozu/WebUI@4.5.0

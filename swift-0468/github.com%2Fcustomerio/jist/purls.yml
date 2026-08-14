@@ -1,0 +1,9 @@
+- pkg:swift/github.com/customerio/jist@android-v0.1.0
+- pkg:swift/github.com/customerio/jist@v0.1.0
+- pkg:swift/github.com/customerio/jist@web-v0.1.3
+- pkg:swift/github.com/customerio/jist@web-v0.1.4
+- pkg:swift/github.com/customerio/jist@web-v0.1.5
+- pkg:swift/github.com/customerio/jist@web-v0.1.6
+- pkg:swift/github.com/customerio/jist@web-v0.1.7
+- pkg:swift/github.com/customerio/jist@web-v0.1.8
+- pkg:swift/github.com/customerio/jist@web-v0.3.0
