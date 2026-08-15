@@ -137,6 +137,10 @@
 - pkg:swift/github.com/prebid/prebid-mobile-ios@3.3.2-carthage%5E%7B%7D
 - pkg:swift/github.com/prebid/prebid-mobile-ios@3.3.3
 - pkg:swift/github.com/prebid/prebid-mobile-ios@3.3.3%5E%7B%7D
+- pkg:swift/github.com/prebid/prebid-mobile-ios@3.3.4
+- pkg:swift/github.com/prebid/prebid-mobile-ios@3.3.4%5E%7B%7D
+- pkg:swift/github.com/prebid/prebid-mobile-ios@3.3.4-carthage
+- pkg:swift/github.com/prebid/prebid-mobile-ios@3.3.4-carthage%5E%7B%7D
 - pkg:swift/github.com/prebid/prebid-mobile-ios@test-doc-1
 - pkg:swift/github.com/prebid/prebid-mobile-ios@test-doc-2
 - pkg:swift/github.com/prebid/prebid-mobile-ios@test-doc-3
