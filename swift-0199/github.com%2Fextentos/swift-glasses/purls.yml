@@ -21,3 +21,6 @@
 - pkg:swift/github.com/extentos/swift-glasses@2.2.3
 - pkg:swift/github.com/extentos/swift-glasses@2.2.4
 - pkg:swift/github.com/extentos/swift-glasses@2.2.4%5E%7B%7D
+- pkg:swift/github.com/extentos/swift-glasses@2.3.0
+- pkg:swift/github.com/extentos/swift-glasses@2.3.1
+- pkg:swift/github.com/extentos/swift-glasses@2.3.1%5E%7B%7D
