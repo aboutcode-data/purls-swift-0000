@@ -28,6 +28,7 @@
 - pkg:swift/github.com/context-sdk/context-sdk-releases@5.14.1
 - pkg:swift/github.com/context-sdk/context-sdk-releases@5.15.0
 - pkg:swift/github.com/context-sdk/context-sdk-releases@5.16.0
+- pkg:swift/github.com/context-sdk/context-sdk-releases@5.17.0
 - pkg:swift/github.com/context-sdk/context-sdk-releases@5.2.0
 - pkg:swift/github.com/context-sdk/context-sdk-releases@5.2.1
 - pkg:swift/github.com/context-sdk/context-sdk-releases@5.3.0
