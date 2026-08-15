@@ -55,6 +55,8 @@
 - pkg:swift/github.com/Aeastr/Portal@5.2.0-4
 - pkg:swift/github.com/Aeastr/Portal@5.2.0-5
 - pkg:swift/github.com/Aeastr/Portal@6.0.0
+- pkg:swift/github.com/Aeastr/Portal@6.1.0
+- pkg:swift/github.com/Aeastr/Portal@6.1.0%5E%7B%7D
 - pkg:swift/github.com/Aeastr/Portal@dev-20251114-164547-f16004a
 - pkg:swift/github.com/Aeastr/Portal@dev-20251114-164547-f16004a%5E%7B%7D
 - pkg:swift/github.com/Aeastr/Portal@dev-20251114-165506-5cdb0a5
