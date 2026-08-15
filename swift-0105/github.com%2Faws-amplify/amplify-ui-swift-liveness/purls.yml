@@ -167,3 +167,5 @@
 - pkg:swift/github.com/aws-amplify/amplify-ui-swift-liveness@1.4.5-unstable.0%5E%7B%7D
 - pkg:swift/github.com/aws-amplify/amplify-ui-swift-liveness@1.4.5-unstable.1
 - pkg:swift/github.com/aws-amplify/amplify-ui-swift-liveness@1.4.5-unstable.1%5E%7B%7D
+- pkg:swift/github.com/aws-amplify/amplify-ui-swift-liveness@1.4.6-unstable.0
+- pkg:swift/github.com/aws-amplify/amplify-ui-swift-liveness@1.4.6-unstable.0%5E%7B%7D
