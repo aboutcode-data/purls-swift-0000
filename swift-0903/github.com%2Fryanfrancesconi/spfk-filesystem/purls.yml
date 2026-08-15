@@ -24,3 +24,4 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-filesystem@1.2.5
 - pkg:swift/github.com/ryanfrancesconi/spfk-filesystem@1.3.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-filesystem@1.4.0
+- pkg:swift/github.com/ryanfrancesconi/spfk-filesystem@1.5.0
