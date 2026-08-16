@@ -154,6 +154,7 @@
 - pkg:swift/github.com/kean/Nuke@13.0.5
 - pkg:swift/github.com/kean/Nuke@13.0.6
 - pkg:swift/github.com/kean/Nuke@13.1.0
+- pkg:swift/github.com/kean/Nuke@13.2.0
 - pkg:swift/github.com/kean/Nuke@2.0.0
 - pkg:swift/github.com/kean/Nuke@2.0.0%5E%7B%7D
 - pkg:swift/github.com/kean/Nuke@2.0.1
