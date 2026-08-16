@@ -102,6 +102,7 @@
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.27.0%5E%7B%7D
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.27.1
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.27.1%5E%7B%7D
+- pkg:swift/github.com/felfoldy/SwiftPy@v0.27.2
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.3.0
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.3.0%5E%7B%7D
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.3.1
