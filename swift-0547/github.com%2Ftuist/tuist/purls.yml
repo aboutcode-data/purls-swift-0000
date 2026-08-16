@@ -1347,6 +1347,7 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.21.1
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.21.2
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.22.0
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.22.1
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.3.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.1
@@ -2707,6 +2708,7 @@
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.73.2
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.73.3
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.74.0
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.74.1
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.8.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.9.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.9.1
