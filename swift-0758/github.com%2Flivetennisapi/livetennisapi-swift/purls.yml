@@ -1,3 +1,4 @@
 - pkg:swift/github.com/livetennisapi/livetennisapi-swift@1.0.0
 - pkg:swift/github.com/livetennisapi/livetennisapi-swift@v1.1.0
 - pkg:swift/github.com/livetennisapi/livetennisapi-swift@v1.1.0%5E%7B%7D
+- pkg:swift/github.com/livetennisapi/livetennisapi-swift@v1.1.1
