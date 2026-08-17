@@ -29,3 +29,4 @@
 - pkg:swift/github.com/contentstack/contentstack-swift@v2.3.4
 - pkg:swift/github.com/contentstack/contentstack-swift@v2.4.0
 - pkg:swift/github.com/contentstack/contentstack-swift@v2.5.0
+- pkg:swift/github.com/contentstack/contentstack-swift@v2.5.1
