@@ -55,3 +55,4 @@
 - pkg:swift/github.com/modern-swift-dev/swift-snapshot-testing@2.1.0
 - pkg:swift/github.com/modern-swift-dev/swift-snapshot-testing@2.1.0%5E%7B%7D
 - pkg:swift/github.com/modern-swift-dev/swift-snapshot-testing@2.1.1
+- pkg:swift/github.com/modern-swift-dev/swift-snapshot-testing@2.2.0
