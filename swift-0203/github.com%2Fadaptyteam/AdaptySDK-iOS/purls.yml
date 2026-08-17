@@ -339,3 +339,7 @@
 - pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@4.0.2
 - pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@4.0.3
 - pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@4.1.0
+- pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@archive/extended_logging_system
+- pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@archive/extended_logging_system%5E%7B%7D
+- pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@archive/fallback_public_api
+- pkg:swift/github.com/adaptyteam/AdaptySDK-iOS@archive/fallback_public_api%5E%7B%7D
