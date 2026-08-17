@@ -10,6 +10,10 @@
 - pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.10.0%5E%7B%7D
 - pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.11.0
 - pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.11.0%5E%7B%7D
+- pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.11.1
+- pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.11.1%5E%7B%7D
+- pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.11.2
+- pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.11.2%5E%7B%7D
 - pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.2.0
 - pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.2.0%5E%7B%7D
 - pkg:swift/github.com/jaywcjlove/PermissionFlow@v2.3.0
