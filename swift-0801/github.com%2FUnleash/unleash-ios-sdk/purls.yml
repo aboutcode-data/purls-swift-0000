@@ -63,5 +63,6 @@
 - pkg:swift/github.com/Unleash/unleash-ios-sdk@2.4.0%5E%7B%7D
 - pkg:swift/github.com/Unleash/unleash-ios-sdk@2.5.0
 - pkg:swift/github.com/Unleash/unleash-ios-sdk@2.5.1
+- pkg:swift/github.com/Unleash/unleash-ios-sdk@2.5.2
 - pkg:swift/github.com/Unleash/unleash-ios-sdk@v1.0.4
 - pkg:swift/github.com/Unleash/unleash-ios-sdk@v1.0.4%5E%7B%7D
