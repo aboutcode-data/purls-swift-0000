@@ -11,3 +11,4 @@
 - pkg:swift/github.com/hummingbird-project/swift-jobs-valkey@1.0.0-rc.3
 - pkg:swift/github.com/hummingbird-project/swift-jobs-valkey@1.0.0-rc.4
 - pkg:swift/github.com/hummingbird-project/swift-jobs-valkey@1.0.0-rc.5
+- pkg:swift/github.com/hummingbird-project/swift-jobs-valkey@1.1.0
