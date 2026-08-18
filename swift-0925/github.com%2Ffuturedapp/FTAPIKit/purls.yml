@@ -16,6 +16,7 @@
 - pkg:swift/github.com/futuredapp/FTAPIKit@1.5.0
 - pkg:swift/github.com/futuredapp/FTAPIKit@1.6.0
 - pkg:swift/github.com/futuredapp/FTAPIKit@2.0.0
+- pkg:swift/github.com/futuredapp/FTAPIKit@2.1.0
 - pkg:swift/github.com/futuredapp/FTAPIKit@v0.1
 - pkg:swift/github.com/futuredapp/FTAPIKit@v0.2
 - pkg:swift/github.com/futuredapp/FTAPIKit@v0.2.1
