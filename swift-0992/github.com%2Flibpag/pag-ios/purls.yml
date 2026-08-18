@@ -587,6 +587,10 @@
 - pkg:swift/github.com/libpag/pag-ios@4.4.65%5E%7B%7D
 - pkg:swift/github.com/libpag/pag-ios@4.4.66
 - pkg:swift/github.com/libpag/pag-ios@4.4.66%5E%7B%7D
+- pkg:swift/github.com/libpag/pag-ios@4.4.67
+- pkg:swift/github.com/libpag/pag-ios@4.4.67%5E%7B%7D
+- pkg:swift/github.com/libpag/pag-ios@4.4.68
+- pkg:swift/github.com/libpag/pag-ios@4.4.68%5E%7B%7D
 - pkg:swift/github.com/libpag/pag-ios@4.4.7
 - pkg:swift/github.com/libpag/pag-ios@4.4.7%5E%7B%7D
 - pkg:swift/github.com/libpag/pag-ios@4.4.8
@@ -619,5 +623,7 @@
 - pkg:swift/github.com/libpag/pag-ios@4.5.83
 - pkg:swift/github.com/libpag/pag-ios@4.5.84
 - pkg:swift/github.com/libpag/pag-ios@4.5.85
+- pkg:swift/github.com/libpag/pag-ios@4.5.92
+- pkg:swift/github.com/libpag/pag-ios@4.5.92%5E%7B%7D
 - pkg:swift/github.com/libpag/pag-ios@v0.5.5
 - pkg:swift/github.com/libpag/pag-ios@v0.5.6
