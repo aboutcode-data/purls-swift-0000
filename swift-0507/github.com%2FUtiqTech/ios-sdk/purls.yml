@@ -6,3 +6,4 @@
 - pkg:swift/github.com/UtiqTech/ios-sdk@1.0.2
 - pkg:swift/github.com/UtiqTech/ios-sdk@1.0.7
 - pkg:swift/github.com/UtiqTech/ios-sdk@1.0.8
+- pkg:swift/github.com/UtiqTech/ios-sdk@v2.0.0
