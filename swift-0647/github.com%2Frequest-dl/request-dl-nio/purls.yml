@@ -43,3 +43,4 @@
 - pkg:swift/github.com/request-dl/request-dl-nio@4.1.0-beta.1
 - pkg:swift/github.com/request-dl/request-dl-nio@4.1.0-beta.2
 - pkg:swift/github.com/request-dl/request-dl-nio@4.1.0-beta.4
+- pkg:swift/github.com/request-dl/request-dl-nio@4.2.0-beta.1
