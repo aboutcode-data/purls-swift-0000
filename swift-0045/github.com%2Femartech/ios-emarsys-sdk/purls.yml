@@ -74,6 +74,8 @@
 - pkg:swift/github.com/emartech/ios-emarsys-sdk@3.10.0%5E%7B%7D
 - pkg:swift/github.com/emartech/ios-emarsys-sdk@3.10.1
 - pkg:swift/github.com/emartech/ios-emarsys-sdk@3.10.1%5E%7B%7D
+- pkg:swift/github.com/emartech/ios-emarsys-sdk@3.10.2
+- pkg:swift/github.com/emartech/ios-emarsys-sdk@3.10.2%5E%7B%7D
 - pkg:swift/github.com/emartech/ios-emarsys-sdk@3.2.0
 - pkg:swift/github.com/emartech/ios-emarsys-sdk@3.2.0%5E%7B%7D
 - pkg:swift/github.com/emartech/ios-emarsys-sdk@3.2.1
