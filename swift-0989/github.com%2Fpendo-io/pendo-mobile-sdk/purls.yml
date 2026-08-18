@@ -145,6 +145,8 @@
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.11.2%5E%7B%7D
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.11.3
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.11.3%5E%7B%7D
+- pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.11.4
+- pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.11.4%5E%7B%7D
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.12.0
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.12.0%5E%7B%7D
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.12.1
@@ -157,10 +159,14 @@
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.12.4%5E%7B%7D
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.12.5
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.12.5%5E%7B%7D
+- pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.12.6
+- pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.12.6%5E%7B%7D
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.0
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.0%5E%7B%7D
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.1
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.1%5E%7B%7D
+- pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.10
+- pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.10%5E%7B%7D
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.2
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.2%5E%7B%7D
 - pkg:swift/github.com/pendo-io/pendo-mobile-sdk@3.13.3
