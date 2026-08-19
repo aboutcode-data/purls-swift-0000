@@ -929,6 +929,9 @@
 - pkg:swift/github.com/tuist/tuist@4.205.0-canary.7
 - pkg:swift/github.com/tuist/tuist@4.205.0-canary.8
 - pkg:swift/github.com/tuist/tuist@4.205.0-canary.9
+- pkg:swift/github.com/tuist/tuist@4.205.0-rc.1
+- pkg:swift/github.com/tuist/tuist@4.206.0-canary.1
+- pkg:swift/github.com/tuist/tuist@4.206.0-canary.2
 - pkg:swift/github.com/tuist/tuist@4.21.0
 - pkg:swift/github.com/tuist/tuist@4.21.1
 - pkg:swift/github.com/tuist/tuist@4.21.2
@@ -1357,6 +1360,8 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.22.3
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.22.4
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.22.5
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.23.0
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.23.1
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.3.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.1
@@ -1511,6 +1516,8 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.48.3
 - pkg:swift/github.com/tuist/tuist@helm%400.49.0
 - pkg:swift/github.com/tuist/tuist@helm%400.5.0
+- pkg:swift/github.com/tuist/tuist@helm%400.50.0
+- pkg:swift/github.com/tuist/tuist@helm%400.50.1
 - pkg:swift/github.com/tuist/tuist@helm%400.6.0
 - pkg:swift/github.com/tuist/tuist@helm%400.6.1
 - pkg:swift/github.com/tuist/tuist@helm%400.7.0
@@ -1584,6 +1591,7 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.23.6
 - pkg:swift/github.com/tuist/tuist@kura%400.23.7
 - pkg:swift/github.com/tuist/tuist@kura%400.23.8
+- pkg:swift/github.com/tuist/tuist@kura%400.23.9
 - pkg:swift/github.com/tuist/tuist@kura%400.3.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.1
@@ -1615,6 +1623,7 @@
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.7.0
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.7.1
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.7.2
+- pkg:swift/github.com/tuist/tuist@linux-runner-image%400.7.3
 - pkg:swift/github.com/tuist/tuist@noora%400.76.0
 - pkg:swift/github.com/tuist/tuist@noora%400.77.0
 - pkg:swift/github.com/tuist/tuist@noora%400.77.1
@@ -2348,6 +2357,11 @@
 - pkg:swift/github.com/tuist/tuist@server%401.26.0
 - pkg:swift/github.com/tuist/tuist@server%401.260.0
 - pkg:swift/github.com/tuist/tuist@server%401.260.1
+- pkg:swift/github.com/tuist/tuist@server%401.261.0
+- pkg:swift/github.com/tuist/tuist@server%401.262.0
+- pkg:swift/github.com/tuist/tuist@server%401.262.1
+- pkg:swift/github.com/tuist/tuist@server%401.262.2
+- pkg:swift/github.com/tuist/tuist@server%401.262.3
 - pkg:swift/github.com/tuist/tuist@server%401.27.0
 - pkg:swift/github.com/tuist/tuist@server%401.28.0
 - pkg:swift/github.com/tuist/tuist@server%401.29.0
