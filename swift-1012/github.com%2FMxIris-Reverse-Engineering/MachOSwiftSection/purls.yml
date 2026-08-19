@@ -19,6 +19,8 @@
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOSwiftSection@0.15.1%5E%7B%7D
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOSwiftSection@0.15.2
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOSwiftSection@0.15.2%5E%7B%7D
+- pkg:swift/github.com/MxIris-Reverse-Engineering/MachOSwiftSection@0.16.0
+- pkg:swift/github.com/MxIris-Reverse-Engineering/MachOSwiftSection@0.16.0%5E%7B%7D
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOSwiftSection@0.2.0
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOSwiftSection@0.2.0%5E%7B%7D
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOSwiftSection@0.3.0

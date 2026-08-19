@@ -28,3 +28,4 @@
 - pkg:swift/github.com/nashysolutions/foundation-dependencies@5.0.1%5E%7B%7D
 - pkg:swift/github.com/nashysolutions/foundation-dependencies@6.0.0
 - pkg:swift/github.com/nashysolutions/foundation-dependencies@6.0.0%5E%7B%7D
+- pkg:swift/github.com/nashysolutions/foundation-dependencies@7.0.0
