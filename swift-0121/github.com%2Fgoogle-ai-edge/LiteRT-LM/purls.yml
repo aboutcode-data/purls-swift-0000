@@ -11,6 +11,7 @@
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.15.0
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.15.0-alpha0
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.16.0
+- pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.16.1
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.2.0
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.3.0
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.4.0
