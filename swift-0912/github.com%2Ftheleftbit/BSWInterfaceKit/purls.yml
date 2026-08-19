@@ -5,6 +5,8 @@
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@0.5.0
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@1.0.0
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@2.0.0
+- pkg:swift/github.com/theleftbit/BSWInterfaceKit@26.8.0
+- pkg:swift/github.com/theleftbit/BSWInterfaceKit@26.8.0%5E%7B%7D
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@3.0.0
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@3.1.0
 - pkg:swift/github.com/theleftbit/BSWInterfaceKit@3.1.1
