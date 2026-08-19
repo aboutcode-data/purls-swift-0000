@@ -27,6 +27,8 @@
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.16.0
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.17.0
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.18.0
+- pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.19.0
+- pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.20.0
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.5.1
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.6.0
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.8.0
