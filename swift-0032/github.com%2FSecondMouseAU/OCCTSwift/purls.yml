@@ -369,4 +369,5 @@
 - pkg:swift/github.com/SecondMouseAU/OCCTSwift@v2.0.0-kernel.1
 - pkg:swift/github.com/SecondMouseAU/OCCTSwift@v2.0.0-kernel.2
 - pkg:swift/github.com/SecondMouseAU/OCCTSwift@v2.0.0-kernel.3
+- pkg:swift/github.com/SecondMouseAU/OCCTSwift@v3.0.0
 - pkg:swift/github.com/SecondMouseAU/OCCTSwift@v3.0.0-kernel.1
