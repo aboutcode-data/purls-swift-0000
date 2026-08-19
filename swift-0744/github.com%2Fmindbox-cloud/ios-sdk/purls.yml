@@ -57,6 +57,7 @@
 - pkg:swift/github.com/mindbox-cloud/ios-sdk@2.15.0-rc
 - pkg:swift/github.com/mindbox-cloud/ios-sdk@2.15.1
 - pkg:swift/github.com/mindbox-cloud/ios-sdk@2.15.2
+- pkg:swift/github.com/mindbox-cloud/ios-sdk@2.15.3
 - pkg:swift/github.com/mindbox-cloud/ios-sdk@2.2.0
 - pkg:swift/github.com/mindbox-cloud/ios-sdk@2.3.0
 - pkg:swift/github.com/mindbox-cloud/ios-sdk@2.4.0
