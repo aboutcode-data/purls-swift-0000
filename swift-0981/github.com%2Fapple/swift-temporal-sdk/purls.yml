@@ -9,6 +9,7 @@
 - pkg:swift/github.com/apple/swift-temporal-sdk@1.0.0-alpha.2
 - pkg:swift/github.com/apple/swift-temporal-sdk@1.0.0-alpha.3
 - pkg:swift/github.com/apple/swift-temporal-sdk@1.1.0
+- pkg:swift/github.com/apple/swift-temporal-sdk@1.2.0
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-5045af3
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-682d441
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-682d441-1
