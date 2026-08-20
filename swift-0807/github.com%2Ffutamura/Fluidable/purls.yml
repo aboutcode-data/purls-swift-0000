@@ -1,0 +1,9 @@
+- pkg:swift/github.com/futamura/Fluidable@0.0.1
+- pkg:swift/github.com/futamura/Fluidable@0.0.1%5E%7B%7D
+- pkg:swift/github.com/futamura/Fluidable@1.0.0
+- pkg:swift/github.com/futamura/Fluidable@1.0.0%5E%7B%7D
+- pkg:swift/github.com/futamura/Fluidable@2.0.0
+- pkg:swift/github.com/futamura/Fluidable@2.0.0%5E%7B%7D
+- pkg:swift/github.com/futamura/Fluidable@3.0.0
+- pkg:swift/github.com/futamura/Fluidable@fix-constraint
+- pkg:swift/github.com/futamura/Fluidable@fix-constraint%5E%7B%7D
