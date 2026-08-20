@@ -11,3 +11,4 @@
 - pkg:swift/github.com/crontab/AsyncMux@v2.4.0
 - pkg:swift/github.com/crontab/AsyncMux@v2.4.0%5E%7B%7D
 - pkg:swift/github.com/crontab/AsyncMux@v2.4.1
+- pkg:swift/github.com/crontab/AsyncMux@v2.4.2
