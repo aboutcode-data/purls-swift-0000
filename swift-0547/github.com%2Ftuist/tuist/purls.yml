@@ -936,6 +936,9 @@
 - pkg:swift/github.com/tuist/tuist@4.206.0-canary.3
 - pkg:swift/github.com/tuist/tuist@4.206.0-canary.4
 - pkg:swift/github.com/tuist/tuist@4.206.0-canary.5
+- pkg:swift/github.com/tuist/tuist@4.206.0-canary.6
+- pkg:swift/github.com/tuist/tuist@4.206.0-canary.7
+- pkg:swift/github.com/tuist/tuist@4.206.0-canary.8
 - pkg:swift/github.com/tuist/tuist@4.21.0
 - pkg:swift/github.com/tuist/tuist@4.21.1
 - pkg:swift/github.com/tuist/tuist@4.21.2
@@ -1173,6 +1176,7 @@
 - pkg:swift/github.com/tuist/tuist@app%400.25.4
 - pkg:swift/github.com/tuist/tuist@app%400.25.5
 - pkg:swift/github.com/tuist/tuist@app%400.25.6
+- pkg:swift/github.com/tuist/tuist@app%400.25.7
 - pkg:swift/github.com/tuist/tuist@app%400.3.0
 - pkg:swift/github.com/tuist/tuist@app%400.3.0%5E%7B%7D
 - pkg:swift/github.com/tuist/tuist@app%400.3.1
@@ -1367,6 +1371,7 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.23.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.23.1
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.23.2
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.24.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.3.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.4.1
@@ -1528,6 +1533,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.51.2
 - pkg:swift/github.com/tuist/tuist@helm%400.52.0
 - pkg:swift/github.com/tuist/tuist@helm%400.52.1
+- pkg:swift/github.com/tuist/tuist@helm%400.52.2
 - pkg:swift/github.com/tuist/tuist@helm%400.6.0
 - pkg:swift/github.com/tuist/tuist@helm%400.6.1
 - pkg:swift/github.com/tuist/tuist@helm%400.7.0
@@ -2381,6 +2387,8 @@
 - pkg:swift/github.com/tuist/tuist@server%401.266.0
 - pkg:swift/github.com/tuist/tuist@server%401.266.1
 - pkg:swift/github.com/tuist/tuist@server%401.266.2
+- pkg:swift/github.com/tuist/tuist@server%401.267.0
+- pkg:swift/github.com/tuist/tuist@server%401.268.0
 - pkg:swift/github.com/tuist/tuist@server%401.27.0
 - pkg:swift/github.com/tuist/tuist@server%401.28.0
 - pkg:swift/github.com/tuist/tuist@server%401.29.0
