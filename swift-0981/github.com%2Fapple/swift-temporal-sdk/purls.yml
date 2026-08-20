@@ -15,6 +15,7 @@
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-682d441-1
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-682d441-3
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-682d441-6
+- pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-6e90e6d
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-c57f825-2
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-db65dd9
 - pkg:swift/github.com/apple/swift-temporal-sdk@temporal-sdk-core-db65dd9-1
