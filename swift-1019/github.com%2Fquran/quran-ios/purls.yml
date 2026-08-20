@@ -30,6 +30,10 @@
 - pkg:swift/github.com/quran/quran-ios@2.6.2%5E%7B%7D
 - pkg:swift/github.com/quran/quran-ios@2.6.3
 - pkg:swift/github.com/quran/quran-ios@2.6.3%5E%7B%7D
+- pkg:swift/github.com/quran/quran-ios@2.6.4
+- pkg:swift/github.com/quran/quran-ios@2.6.4%5E%7B%7D
+- pkg:swift/github.com/quran/quran-ios@2.6.5
+- pkg:swift/github.com/quran/quran-ios@2.6.5%5E%7B%7D
 - pkg:swift/github.com/quran/quran-ios@v1.0.0
 - pkg:swift/github.com/quran/quran-ios@v1.0.0%5E%7B%7D
 - pkg:swift/github.com/quran/quran-ios@v1.0.1
