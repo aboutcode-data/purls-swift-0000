@@ -44,3 +44,5 @@
 - pkg:swift/github.com/paypal/paypal-ios@2.0.0-beta2%5E%7B%7D
 - pkg:swift/github.com/paypal/paypal-ios@2.0.1
 - pkg:swift/github.com/paypal/paypal-ios@2.0.1%5E%7B%7D
+- pkg:swift/github.com/paypal/paypal-ios@3.0.0
+- pkg:swift/github.com/paypal/paypal-ios@3.0.0%5E%7B%7D
