@@ -24,6 +24,8 @@
 - pkg:swift/github.com/Rallista/valhalla-mobile@0.5.0%5E%7B%7D
 - pkg:swift/github.com/Rallista/valhalla-mobile@0.5.1
 - pkg:swift/github.com/Rallista/valhalla-mobile@0.5.1%5E%7B%7D
+- pkg:swift/github.com/Rallista/valhalla-mobile@0.6.0
+- pkg:swift/github.com/Rallista/valhalla-mobile@0.6.0%5E%7B%7D
 - pkg:swift/github.com/Rallista/valhalla-mobile@v0.0.1
 - pkg:swift/github.com/Rallista/valhalla-mobile@v0.0.10
 - pkg:swift/github.com/Rallista/valhalla-mobile@v0.0.10%5E%7B%7D
