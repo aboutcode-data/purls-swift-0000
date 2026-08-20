@@ -32,3 +32,4 @@
 - pkg:swift/github.com/grpc/grpc-swift-nio-transport@2.8.0
 - pkg:swift/github.com/grpc/grpc-swift-nio-transport@2.9.0
 - pkg:swift/github.com/grpc/grpc-swift-nio-transport@2.9.1
+- pkg:swift/github.com/grpc/grpc-swift-nio-transport@2.9.2
