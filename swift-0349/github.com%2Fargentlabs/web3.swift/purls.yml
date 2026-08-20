@@ -37,5 +37,7 @@
 - pkg:swift/github.com/argentlabs/web3.swift@1.5.1
 - pkg:swift/github.com/argentlabs/web3.swift@1.6.0
 - pkg:swift/github.com/argentlabs/web3.swift@1.6.1
+- pkg:swift/github.com/argentlabs/web3.swift@2.0.0
+- pkg:swift/github.com/argentlabs/web3.swift@2.0.0%5E%7B%7D
 - pkg:swift/github.com/argentlabs/web3.swift@list
 - pkg:swift/github.com/argentlabs/web3.swift@push
