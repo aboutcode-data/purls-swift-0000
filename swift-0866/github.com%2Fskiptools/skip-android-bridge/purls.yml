@@ -42,3 +42,5 @@
 - pkg:swift/github.com/skiptools/skip-android-bridge@0.6.3%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip-android-bridge@0.6.4
 - pkg:swift/github.com/skiptools/skip-android-bridge@0.6.4%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip-android-bridge@0.6.5
+- pkg:swift/github.com/skiptools/skip-android-bridge@0.6.5%5E%7B%7D
