@@ -39,3 +39,4 @@
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.39.4
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.40.0
 - pkg:swift/github.com/situmtech/situm-sdk-spm@3.41.0
+- pkg:swift/github.com/situmtech/situm-sdk-spm@3.41.1
