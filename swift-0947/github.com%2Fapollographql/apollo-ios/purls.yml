@@ -279,6 +279,7 @@
 - pkg:swift/github.com/apollographql/apollo-ios@2.1.2
 - pkg:swift/github.com/apollographql/apollo-ios@2.2.0
 - pkg:swift/github.com/apollographql/apollo-ios@2.3.0
+- pkg:swift/github.com/apollographql/apollo-ios@2.4.0
 - pkg:swift/github.com/apollographql/apollo-ios@preview-defer.1
 - pkg:swift/github.com/apollographql/apollo-ios@preview-defer.2
 - pkg:swift/github.com/apollographql/apollo-ios@preview-field-merging.1
