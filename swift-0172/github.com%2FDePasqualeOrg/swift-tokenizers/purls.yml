@@ -24,6 +24,10 @@
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@0.7.0%5E%7B%7D
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@0.7.1
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@0.7.1%5E%7B%7D
+- pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@0.7.2
+- pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@0.7.2%5E%7B%7D
+- pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@0.7.3
+- pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@0.7.3%5E%7B%7D
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@tokenizers-rust-0.3.0
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@tokenizers-rust-0.3.1
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@tokenizers-rust-0.3.2
@@ -36,3 +40,4 @@
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@tokenizers-rust-0.6.3
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@tokenizers-rust-0.7.0
 - pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@tokenizers-rust-0.7.1
+- pkg:swift/github.com/DePasqualeOrg/swift-tokenizers@tokenizers-rust-0.7.2
