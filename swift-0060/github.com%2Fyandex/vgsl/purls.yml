@@ -72,6 +72,7 @@
 - pkg:swift/github.com/yandex/vgsl@7.20.0
 - pkg:swift/github.com/yandex/vgsl@7.21.0
 - pkg:swift/github.com/yandex/vgsl@7.25.1
+- pkg:swift/github.com/yandex/vgsl@7.25.4
 - pkg:swift/github.com/yandex/vgsl@7.3.0
 - pkg:swift/github.com/yandex/vgsl@7.3.1
 - pkg:swift/github.com/yandex/vgsl@7.4.0
