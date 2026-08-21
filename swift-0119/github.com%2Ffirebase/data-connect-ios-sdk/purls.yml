@@ -7,6 +7,7 @@
 - pkg:swift/github.com/firebase/data-connect-ios-sdk@11.12.3
 - pkg:swift/github.com/firebase/data-connect-ios-sdk@11.12.4
 - pkg:swift/github.com/firebase/data-connect-ios-sdk@11.12.5
+- pkg:swift/github.com/firebase/data-connect-ios-sdk@11.12.6
 - pkg:swift/github.com/firebase/data-connect-ios-sdk@11.3.0-beta
 - pkg:swift/github.com/firebase/data-connect-ios-sdk@11.4.0-beta
 - pkg:swift/github.com/firebase/data-connect-ios-sdk@11.5.0-beta
