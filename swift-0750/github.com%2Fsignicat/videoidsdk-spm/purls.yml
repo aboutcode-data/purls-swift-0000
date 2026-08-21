@@ -34,5 +34,7 @@
 - pkg:swift/github.com/signicat/videoidsdk-spm@26.26.2%5E%7B%7D
 - pkg:swift/github.com/signicat/videoidsdk-spm@26.30.0
 - pkg:swift/github.com/signicat/videoidsdk-spm@26.30.0%5E%7B%7D
+- pkg:swift/github.com/signicat/videoidsdk-spm@26.34.2
+- pkg:swift/github.com/signicat/videoidsdk-spm@26.34.2%5E%7B%7D
 - pkg:swift/github.com/signicat/videoidsdk-spm@26.4.0
 - pkg:swift/github.com/signicat/videoidsdk-spm@26.4.0%5E%7B%7D
