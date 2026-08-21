@@ -33,3 +33,4 @@
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Static@6.18.1
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Static@7.0.0
 - pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Static@7.0.1
+- pkg:swift/github.com/AppsFlyerSDK/AppsFlyerFramework-Static@7.0.2
