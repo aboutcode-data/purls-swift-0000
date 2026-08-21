@@ -80,3 +80,4 @@
 - pkg:swift/github.com/myTargetSDK/mytarget-ios-spm@5.44.0
 - pkg:swift/github.com/myTargetSDK/mytarget-ios-spm@5.44.1
 - pkg:swift/github.com/myTargetSDK/mytarget-ios-spm@5.45.0
+- pkg:swift/github.com/myTargetSDK/mytarget-ios-spm@5.46.0
