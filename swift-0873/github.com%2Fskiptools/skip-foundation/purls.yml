@@ -356,3 +356,5 @@
 - pkg:swift/github.com/skiptools/skip-foundation@1.4.2%5E%7B%7D
 - pkg:swift/github.com/skiptools/skip-foundation@1.4.3
 - pkg:swift/github.com/skiptools/skip-foundation@1.4.3%5E%7B%7D
+- pkg:swift/github.com/skiptools/skip-foundation@1.4.4
+- pkg:swift/github.com/skiptools/skip-foundation@1.4.4%5E%7B%7D
