@@ -479,6 +479,8 @@
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v3.27.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v3.27.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v3.27.2
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@v3.27.3
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@v3.27.3%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v3.3.0
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v3.3.0-beta.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@v3.3.0-rc.1
