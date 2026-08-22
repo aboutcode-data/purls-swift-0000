@@ -8,6 +8,10 @@
 - pkg:swift/github.com/halalchristiano/Choir@v0.12.1%5E%7B%7D
 - pkg:swift/github.com/halalchristiano/Choir@v0.13.0
 - pkg:swift/github.com/halalchristiano/Choir@v0.13.0%5E%7B%7D
+- pkg:swift/github.com/halalchristiano/Choir@v0.14.0
+- pkg:swift/github.com/halalchristiano/Choir@v0.14.0%5E%7B%7D
+- pkg:swift/github.com/halalchristiano/Choir@v0.15.0
+- pkg:swift/github.com/halalchristiano/Choir@v0.15.0%5E%7B%7D
 - pkg:swift/github.com/halalchristiano/Choir@v0.2.0
 - pkg:swift/github.com/halalchristiano/Choir@v0.2.0%5E%7B%7D
 - pkg:swift/github.com/halalchristiano/Choir@v0.2.1
