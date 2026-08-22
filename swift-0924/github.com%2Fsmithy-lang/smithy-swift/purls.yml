@@ -343,6 +343,8 @@
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.244.0%5E%7B%7D
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.245.0
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.245.0%5E%7B%7D
+- pkg:swift/github.com/smithy-lang/smithy-swift@0.246.0
+- pkg:swift/github.com/smithy-lang/smithy-swift@0.246.0%5E%7B%7D
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.25.0
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.25.0%5E%7B%7D
 - pkg:swift/github.com/smithy-lang/smithy-swift@0.26.0
