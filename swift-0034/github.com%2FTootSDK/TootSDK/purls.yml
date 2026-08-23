@@ -127,6 +127,7 @@
 - pkg:swift/github.com/TootSDK/TootSDK@22.0.0
 - pkg:swift/github.com/TootSDK/TootSDK@23.0.0
 - pkg:swift/github.com/TootSDK/TootSDK@23.1.0
+- pkg:swift/github.com/TootSDK/TootSDK@23.2.0
 - pkg:swift/github.com/TootSDK/TootSDK@3.0.0
 - pkg:swift/github.com/TootSDK/TootSDK@3.1.0
 - pkg:swift/github.com/TootSDK/TootSDK@3.10.0
