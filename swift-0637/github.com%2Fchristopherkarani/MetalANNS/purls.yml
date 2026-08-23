@@ -2,5 +2,7 @@
 - pkg:swift/github.com/christopherkarani/MetalANNS@0.2.0
 - pkg:swift/github.com/christopherkarani/MetalANNS@0.2.1
 - pkg:swift/github.com/christopherkarani/MetalANNS@0.2.1%5E%7B%7D
+- pkg:swift/github.com/christopherkarani/MetalANNS@0.2.2
+- pkg:swift/github.com/christopherkarani/MetalANNS@0.2.2%5E%7B%7D
 - pkg:swift/github.com/christopherkarani/MetalANNS@v0.1.2
 - pkg:swift/github.com/christopherkarani/MetalANNS@v0.1.2%5E%7B%7D
