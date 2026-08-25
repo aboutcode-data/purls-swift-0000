@@ -72,6 +72,7 @@
 - pkg:swift/github.com/openid/AppAuth-iOS@1.7.6
 - pkg:swift/github.com/openid/AppAuth-iOS@2.0.0
 - pkg:swift/github.com/openid/AppAuth-iOS@2.1.0
+- pkg:swift/github.com/openid/AppAuth-iOS@3.0.0
 - pkg:swift/github.com/openid/AppAuth-iOS@archive/dev-logout-pre1.0
 - pkg:swift/github.com/openid/AppAuth-iOS@archive/dev-logout-pre1.0%5E%7B%7D
 - pkg:swift/github.com/openid/AppAuth-iOS@archive/ios12beta
