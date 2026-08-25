@@ -18,3 +18,4 @@
 - pkg:swift/github.com/o-nnerb/swift-async-stream@2.0.7
 - pkg:swift/github.com/o-nnerb/swift-async-stream@2.1.0
 - pkg:swift/github.com/o-nnerb/swift-async-stream@2.1.1
+- pkg:swift/github.com/o-nnerb/swift-async-stream@2.1.2
