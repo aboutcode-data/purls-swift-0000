@@ -118,6 +118,7 @@
 - pkg:swift/github.com/mapbox/mapbox-directions-swift@v2.14.2
 - pkg:swift/github.com/mapbox/mapbox-directions-swift@v2.14.3
 - pkg:swift/github.com/mapbox/mapbox-directions-swift@v2.14.4
+- pkg:swift/github.com/mapbox/mapbox-directions-swift@v2.15.0
 - pkg:swift/github.com/mapbox/mapbox-directions-swift@v2.2.0
 - pkg:swift/github.com/mapbox/mapbox-directions-swift@v2.2.0-alpha.1
 - pkg:swift/github.com/mapbox/mapbox-directions-swift@v2.2.0-rc.1
