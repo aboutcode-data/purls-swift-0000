@@ -31,6 +31,8 @@
 - pkg:swift/github.com/aepryus/Acheron@oo3.1.6
 - pkg:swift/github.com/aepryus/Acheron@oo3.2
 - pkg:swift/github.com/aepryus/Acheron@oo3.2%5E%7B%7D
+- pkg:swift/github.com/aepryus/Acheron@oo3.2.1
+- pkg:swift/github.com/aepryus/Acheron@oo3.2.1%5E%7B%7D
 - pkg:swift/github.com/aepryus/Acheron@oo311
 - pkg:swift/github.com/aepryus/Acheron@oo311%5E%7B%7D
 - pkg:swift/github.com/aepryus/Acheron@v1.0.0
