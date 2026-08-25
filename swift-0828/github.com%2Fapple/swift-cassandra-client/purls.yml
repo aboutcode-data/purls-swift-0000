@@ -4,6 +4,7 @@
 - pkg:swift/github.com/apple/swift-cassandra-client@0.10.1
 - pkg:swift/github.com/apple/swift-cassandra-client@0.11.0
 - pkg:swift/github.com/apple/swift-cassandra-client@0.12.0
+- pkg:swift/github.com/apple/swift-cassandra-client@0.13.0
 - pkg:swift/github.com/apple/swift-cassandra-client@0.2.0
 - pkg:swift/github.com/apple/swift-cassandra-client@0.3.0
 - pkg:swift/github.com/apple/swift-cassandra-client@0.4.0
