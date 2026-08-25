@@ -6,6 +6,7 @@
 - pkg:swift/github.com/brokenhandsio/kiln@v0.1.1
 - pkg:swift/github.com/brokenhandsio/kiln@v1.0.0
 - pkg:swift/github.com/brokenhandsio/kiln@v1.1.0
+- pkg:swift/github.com/brokenhandsio/kiln@v1.10.0
 - pkg:swift/github.com/brokenhandsio/kiln@v1.2.0
 - pkg:swift/github.com/brokenhandsio/kiln@v1.3.0
 - pkg:swift/github.com/brokenhandsio/kiln@v1.3.1
