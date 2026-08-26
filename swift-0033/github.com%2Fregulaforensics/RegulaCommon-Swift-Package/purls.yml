@@ -59,6 +59,7 @@
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2667-stage
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2670-stage
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2673-stage
+- pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.7.2698-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2629-stage
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2632-stage
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2641-stage
@@ -78,3 +79,4 @@
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2687-stage
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2688-stage
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2696-rc
+- pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2697-rc
