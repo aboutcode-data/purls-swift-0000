@@ -13,3 +13,4 @@
 - pkg:swift/github.com/r0ml/OpenCV@4.9.9
 - pkg:swift/github.com/r0ml/OpenCV@5.0.0
 - pkg:swift/github.com/r0ml/OpenCV@5.0.2
+- pkg:swift/github.com/r0ml/OpenCV@5.0.5
