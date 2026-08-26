@@ -24,6 +24,8 @@
 - pkg:swift/github.com/nmdias/FeedKit@10.3.0%5E%7B%7D
 - pkg:swift/github.com/nmdias/FeedKit@10.4.0
 - pkg:swift/github.com/nmdias/FeedKit@10.4.0%5E%7B%7D
+- pkg:swift/github.com/nmdias/FeedKit@10.5.0
+- pkg:swift/github.com/nmdias/FeedKit@10.5.0%5E%7B%7D
 - pkg:swift/github.com/nmdias/FeedKit@2.0.0
 - pkg:swift/github.com/nmdias/FeedKit@2.0.0%5E%7B%7D
 - pkg:swift/github.com/nmdias/FeedKit@2.1.0
