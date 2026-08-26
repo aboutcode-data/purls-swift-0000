@@ -89,3 +89,4 @@
 - pkg:swift/github.com/yandex/vgsl@7.9.1
 - pkg:swift/github.com/yandex/vgsl@7.9.2
 - pkg:swift/github.com/yandex/vgsl@7.9.3
+- pkg:swift/github.com/yandex/vgsl@8.0.0
