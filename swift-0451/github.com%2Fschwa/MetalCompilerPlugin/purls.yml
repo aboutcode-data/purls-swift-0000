@@ -8,3 +8,5 @@
 - pkg:swift/github.com/schwa/MetalCompilerPlugin@0.1.4
 - pkg:swift/github.com/schwa/MetalCompilerPlugin@0.1.5
 - pkg:swift/github.com/schwa/MetalCompilerPlugin@0.1.6
+- pkg:swift/github.com/schwa/MetalCompilerPlugin@0.2.0
+- pkg:swift/github.com/schwa/MetalCompilerPlugin@0.3.0
