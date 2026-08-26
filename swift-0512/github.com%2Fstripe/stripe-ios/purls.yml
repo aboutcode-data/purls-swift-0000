@@ -462,6 +462,8 @@
 - pkg:swift/github.com/stripe/stripe-ios@26.6.0%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-ios@26.7.0
 - pkg:swift/github.com/stripe/stripe-ios@26.7.0%5E%7B%7D
+- pkg:swift/github.com/stripe/stripe-ios@26.8.0
+- pkg:swift/github.com/stripe/stripe-ios@26.8.0%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-ios@X.Y.Z
 - pkg:swift/github.com/stripe/stripe-ios@X.Y.Z%5E%7B%7D
 - pkg:swift/github.com/stripe/stripe-ios@fastlane-tag/iosstore/v1.0/build-2-identity_example
