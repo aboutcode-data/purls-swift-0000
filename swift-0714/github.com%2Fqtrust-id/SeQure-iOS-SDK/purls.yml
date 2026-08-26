@@ -28,3 +28,5 @@
 - pkg:swift/github.com/qtrust-id/SeQure-iOS-SDK@2.2.0
 - pkg:swift/github.com/qtrust-id/SeQure-iOS-SDK@2.2.1
 - pkg:swift/github.com/qtrust-id/SeQure-iOS-SDK@3.0.0-beta.1
+- pkg:swift/github.com/qtrust-id/SeQure-iOS-SDK@3.0.0-beta.2
+- pkg:swift/github.com/qtrust-id/SeQure-iOS-SDK@3.0.0-beta.4
