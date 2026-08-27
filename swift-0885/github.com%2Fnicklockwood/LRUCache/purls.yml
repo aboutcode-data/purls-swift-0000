@@ -11,3 +11,4 @@
 - pkg:swift/github.com/nicklockwood/LRUCache@1.1.2
 - pkg:swift/github.com/nicklockwood/LRUCache@1.2.0
 - pkg:swift/github.com/nicklockwood/LRUCache@1.2.1
+- pkg:swift/github.com/nicklockwood/LRUCache@1.3.0
