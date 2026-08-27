@@ -94,6 +94,9 @@
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.21.0-rc2
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.21.0-rc3
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.21.0-rc4
+- pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.22.0
+- pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.22.0-rc1
+- pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.22.0-rc2
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.3.0
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.3.0-rc1
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@6.3.0-rc2
