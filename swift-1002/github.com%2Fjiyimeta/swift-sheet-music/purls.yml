@@ -33,6 +33,7 @@
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@1.9.0
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@1.9.0%5E%7B%7D
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@2.0.0
+- pkg:swift/github.com/jiyimeta/swift-sheet-music@2.0.1
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@v1.0.0
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@v1.0.0%5E%7B%7D
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@v1.1.0
