@@ -30,6 +30,7 @@
 - pkg:swift/github.com/pointfreeco/xctest-dynamic-overlay@1.10.1
 - pkg:swift/github.com/pointfreeco/xctest-dynamic-overlay@1.11.0
 - pkg:swift/github.com/pointfreeco/xctest-dynamic-overlay@1.13.0
+- pkg:swift/github.com/pointfreeco/xctest-dynamic-overlay@1.13.1
 - pkg:swift/github.com/pointfreeco/xctest-dynamic-overlay@1.2.0
 - pkg:swift/github.com/pointfreeco/xctest-dynamic-overlay@1.2.1
 - pkg:swift/github.com/pointfreeco/xctest-dynamic-overlay@1.2.2
