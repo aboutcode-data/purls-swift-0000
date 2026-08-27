@@ -1818,6 +1818,8 @@
 - pkg:swift/github.com/swiftlang/sourcekit-lsp@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-08-13-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/sourcekit-lsp@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-08-14-a
 - pkg:swift/github.com/swiftlang/sourcekit-lsp@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-08-14-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/sourcekit-lsp@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-08-25-a
+- pkg:swift/github.com/swiftlang/sourcekit-lsp@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-08-25-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/sourcekit-lsp@swift-DEVELOPMENT-SNAPSHOT-2019-02-14-a
 - pkg:swift/github.com/swiftlang/sourcekit-lsp@swift-DEVELOPMENT-SNAPSHOT-2019-02-14-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/sourcekit-lsp@swift-DEVELOPMENT-SNAPSHOT-2019-02-19-a
