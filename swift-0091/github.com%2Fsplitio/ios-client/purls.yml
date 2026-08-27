@@ -547,3 +547,4 @@
 - pkg:swift/github.com/splitio/ios-client@3.8.0-rc1%5E%7B%7D
 - pkg:swift/github.com/splitio/ios-client@4.0.0-rc
 - pkg:swift/github.com/splitio/ios-client@4.0.0-rc%5E%7B%7D
+- pkg:swift/github.com/splitio/ios-client@rm
