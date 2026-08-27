@@ -323,6 +323,7 @@
 - pkg:swift/github.com/facebook/facebook-ios-sdk@v18.0.2
 - pkg:swift/github.com/facebook/facebook-ios-sdk@v18.0.3
 - pkg:swift/github.com/facebook/facebook-ios-sdk@v18.1.0
+- pkg:swift/github.com/facebook/facebook-ios-sdk@v18.1.1
 - pkg:swift/github.com/facebook/facebook-ios-sdk@v4.39.1
 - pkg:swift/github.com/facebook/facebook-ios-sdk@v4.39.1%5E%7B%7D
 - pkg:swift/github.com/facebook/facebook-ios-sdk@v4.40.0
