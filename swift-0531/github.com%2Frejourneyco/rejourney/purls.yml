@@ -8,12 +8,17 @@
 - pkg:swift/github.com/rejourneyco/rejourney@flutter-v0.2.1
 - pkg:swift/github.com/rejourneyco/rejourney@flutter-v0.3.0
 - pkg:swift/github.com/rejourneyco/rejourney@flutter-v0.3.1
+- pkg:swift/github.com/rejourneyco/rejourney@flutter-v0.3.2
 - pkg:swift/github.com/rejourneyco/rejourney@react-native/v1.2.0
 - pkg:swift/github.com/rejourneyco/rejourney@react-native/v1.3.0
 - pkg:swift/github.com/rejourneyco/rejourney@react-native/v1.3.1
 - pkg:swift/github.com/rejourneyco/rejourney@react-native/v1.4.0
+- pkg:swift/github.com/rejourneyco/rejourney@react-native/v1.4.1
+- pkg:swift/github.com/rejourneyco/rejourney@react-native/v1.5.0
 - pkg:swift/github.com/rejourneyco/rejourney@v0.1.1
 - pkg:swift/github.com/rejourneyco/rejourney@v0.2.0
 - pkg:swift/github.com/rejourneyco/rejourney@v0.3.0
 - pkg:swift/github.com/rejourneyco/rejourney@v0.3.1
 - pkg:swift/github.com/rejourneyco/rejourney@v0.4.0
+- pkg:swift/github.com/rejourneyco/rejourney@v0.4.1
+- pkg:swift/github.com/rejourneyco/rejourney@v0.5.0
