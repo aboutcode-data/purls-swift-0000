@@ -56,3 +56,5 @@
 - pkg:swift/github.com/dotaeva/scaffolding@3.4.0
 - pkg:swift/github.com/dotaeva/scaffolding@3.5.0
 - pkg:swift/github.com/dotaeva/scaffolding@3.5.0%5E%7B%7D
+- pkg:swift/github.com/dotaeva/scaffolding@3.5.1
+- pkg:swift/github.com/dotaeva/scaffolding@3.5.1%5E%7B%7D
