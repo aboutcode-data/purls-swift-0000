@@ -206,6 +206,8 @@
 - pkg:swift/github.com/kudit/Compatibility@v1.19.2%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.19.3
 - pkg:swift/github.com/kudit/Compatibility@v1.19.3%5E%7B%7D
+- pkg:swift/github.com/kudit/Compatibility@v1.19.4
+- pkg:swift/github.com/kudit/Compatibility@v1.19.4%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.2.0
 - pkg:swift/github.com/kudit/Compatibility@v1.2.0%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.2.1
