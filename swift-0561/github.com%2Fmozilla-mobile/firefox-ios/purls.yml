@@ -223,6 +223,7 @@
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@firefox-v153.3
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@firefox-v154.0
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@firefox-v154.1
+- pkg:swift/github.com/mozilla-mobile/firefox-ios@firefox-v155.0
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v124.0
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v124.1
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v125.0
@@ -248,6 +249,7 @@
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v143.0
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v148.2
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v151.3.1
+- pkg:swift/github.com/mozilla-mobile/firefox-ios@focus/klar-v155.0
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@v10.0
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@v10.0%5E%7B%7D
 - pkg:swift/github.com/mozilla-mobile/firefox-ios@v10.0b1
