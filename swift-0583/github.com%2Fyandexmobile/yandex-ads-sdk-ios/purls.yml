@@ -186,6 +186,7 @@
 - pkg:swift/github.com/yandexmobile/yandex-ads-sdk-ios@8.1.0
 - pkg:swift/github.com/yandexmobile/yandex-ads-sdk-ios@8.2.0
 - pkg:swift/github.com/yandexmobile/yandex-ads-sdk-ios@8.3.0
+- pkg:swift/github.com/yandexmobile/yandex-ads-sdk-ios@8.4.0
 - pkg:swift/github.com/yandexmobile/yandex-ads-sdk-ios@adapter-admob-0.6.0
 - pkg:swift/github.com/yandexmobile/yandex-ads-sdk-ios@adapter-admob-0.7.0
 - pkg:swift/github.com/yandexmobile/yandex-ads-sdk-ios@adapter-admob-5.0.0.1
