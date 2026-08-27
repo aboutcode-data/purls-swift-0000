@@ -7,6 +7,7 @@
 - pkg:swift/github.com/OpenSwiftUIProject/OpenCombine@0.13.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenCombine@0.15.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenCombine@0.15.1
+- pkg:swift/github.com/OpenSwiftUIProject/OpenCombine@0.16.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenCombine@0.2.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenCombine@0.3.0
 - pkg:swift/github.com/OpenSwiftUIProject/OpenCombine@0.4.0
