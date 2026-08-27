@@ -28,3 +28,4 @@
 - pkg:swift/github.com/pointfreeco/combine-schedulers@1.0.3
 - pkg:swift/github.com/pointfreeco/combine-schedulers@1.1.0
 - pkg:swift/github.com/pointfreeco/combine-schedulers@1.2.0
+- pkg:swift/github.com/pointfreeco/combine-schedulers@1.2.1
