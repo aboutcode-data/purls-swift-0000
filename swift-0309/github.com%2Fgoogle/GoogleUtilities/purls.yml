@@ -36,6 +36,7 @@
 - pkg:swift/github.com/google/GoogleUtilities@8.1.0
 - pkg:swift/github.com/google/GoogleUtilities@8.1.1
 - pkg:swift/github.com/google/GoogleUtilities@8.1.2
+- pkg:swift/github.com/google/GoogleUtilities@8.1.3
 - pkg:swift/github.com/google/GoogleUtilities@CocoaPods-7.10.0
 - pkg:swift/github.com/google/GoogleUtilities@CocoaPods-7.11.0
 - pkg:swift/github.com/google/GoogleUtilities@CocoaPods-7.11.1

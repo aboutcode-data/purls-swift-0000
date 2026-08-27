@@ -52,6 +52,7 @@
 - pkg:swift/github.com/googleads/swift-package-manager-google-mobile-ads@13.6.0
 - pkg:swift/github.com/googleads/swift-package-manager-google-mobile-ads@13.7.0
 - pkg:swift/github.com/googleads/swift-package-manager-google-mobile-ads@13.8.0
+- pkg:swift/github.com/googleads/swift-package-manager-google-mobile-ads@13.9.0
 - pkg:swift/github.com/googleads/swift-package-manager-google-mobile-ads@9.0.0
 - pkg:swift/github.com/googleads/swift-package-manager-google-mobile-ads@9.1.0
 - pkg:swift/github.com/googleads/swift-package-manager-google-mobile-ads@9.10.0
