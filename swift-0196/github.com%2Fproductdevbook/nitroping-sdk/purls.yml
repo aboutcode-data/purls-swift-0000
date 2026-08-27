@@ -65,3 +65,5 @@
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.8%5E%7B%7D
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.9
 - pkg:swift/github.com/productdevbook/nitroping-sdk@v0.2.9%5E%7B%7D
+- pkg:swift/github.com/productdevbook/nitroping-sdk@v1.0.0
+- pkg:swift/github.com/productdevbook/nitroping-sdk@v1.0.0%5E%7B%7D
