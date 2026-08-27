@@ -28,3 +28,4 @@
 - pkg:swift/github.com/adjust/adjust_signature_sdk@v3.67.0-beta
 - pkg:swift/github.com/adjust/adjust_signature_sdk@v3.7.0
 - pkg:swift/github.com/adjust/adjust_signature_sdk@v5.0.0
+- pkg:swift/github.com/adjust/adjust_signature_sdk@v5.5.0
