@@ -59,7 +59,9 @@
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6843-stage
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6862-rc
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6867-rc
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.7.6875-rc
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.8.6857-rc
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.8.6861-rc
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.8.6866-rc
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.8.6874-rc
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.8.6876-rc
