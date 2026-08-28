@@ -16,6 +16,9 @@
 - pkg:swift/github.com/SteliyanH/kadr-ui@v0.15.0%5E%7B%7D
 - pkg:swift/github.com/SteliyanH/kadr-ui@v0.16.0
 - pkg:swift/github.com/SteliyanH/kadr-ui@v0.16.0%5E%7B%7D
+- pkg:swift/github.com/SteliyanH/kadr-ui@v0.18.0
+- pkg:swift/github.com/SteliyanH/kadr-ui@v0.19.0
+- pkg:swift/github.com/SteliyanH/kadr-ui@v0.19.0%5E%7B%7D
 - pkg:swift/github.com/SteliyanH/kadr-ui@v0.4.0
 - pkg:swift/github.com/SteliyanH/kadr-ui@v0.4.0%5E%7B%7D
 - pkg:swift/github.com/SteliyanH/kadr-ui@v0.4.1
