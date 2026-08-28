@@ -6,6 +6,8 @@
 - pkg:swift/github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework@10.0.2%5E%7B%7D
 - pkg:swift/github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework@10.1.0
 - pkg:swift/github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework@10.1.0%5E%7B%7D
+- pkg:swift/github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework@11.0.0
+- pkg:swift/github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework@11.0.0%5E%7B%7D
 - pkg:swift/github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework@8.0.0
 - pkg:swift/github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework@8.0.0%5E%7B%7D
 - pkg:swift/github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework@8.1.0
