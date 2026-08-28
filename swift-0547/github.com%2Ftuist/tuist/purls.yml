@@ -966,6 +966,7 @@
 - pkg:swift/github.com/tuist/tuist@4.207.0-canary.2
 - pkg:swift/github.com/tuist/tuist@4.207.0-canary.3
 - pkg:swift/github.com/tuist/tuist@4.207.0-canary.4
+- pkg:swift/github.com/tuist/tuist@4.207.0-canary.5
 - pkg:swift/github.com/tuist/tuist@4.21.0
 - pkg:swift/github.com/tuist/tuist@4.21.1
 - pkg:swift/github.com/tuist/tuist@4.21.2
@@ -1424,6 +1425,8 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.9.1
 - pkg:swift/github.com/tuist/tuist@egress-tree-agent%400.1.0
 - pkg:swift/github.com/tuist/tuist@egress-tree-agent%400.2.0
+- pkg:swift/github.com/tuist/tuist@egress-tree-agent%400.3.0
+- pkg:swift/github.com/tuist/tuist@egress-tree-agent%400.3.1
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.1
 - pkg:swift/github.com/tuist/tuist@gradle%400.1.2
@@ -1601,6 +1604,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.66.1
 - pkg:swift/github.com/tuist/tuist@helm%400.67.0
 - pkg:swift/github.com/tuist/tuist@helm%400.68.0
+- pkg:swift/github.com/tuist/tuist@helm%400.69.0
 - pkg:swift/github.com/tuist/tuist@helm%400.7.0
 - pkg:swift/github.com/tuist/tuist@helm%400.8.0
 - pkg:swift/github.com/tuist/tuist@helm%400.8.1
