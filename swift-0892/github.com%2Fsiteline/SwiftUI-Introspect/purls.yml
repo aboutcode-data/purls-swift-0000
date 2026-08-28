@@ -50,12 +50,10 @@
 - pkg:swift/github.com/siteline/SwiftUI-Introspect@1.1.4
 - pkg:swift/github.com/siteline/SwiftUI-Introspect@1.2.0
 - pkg:swift/github.com/siteline/SwiftUI-Introspect@1.3.0
-- pkg:swift/github.com/siteline/SwiftUI-Introspect@1.4.0-beta.1
-- pkg:swift/github.com/siteline/SwiftUI-Introspect@1.4.0-beta.2
-- pkg:swift/github.com/siteline/SwiftUI-Introspect@1.4.0-beta.3
-- pkg:swift/github.com/siteline/SwiftUI-Introspect@1.4.0-beta.4
+- pkg:swift/github.com/siteline/SwiftUI-Introspect@1.3.1
 - pkg:swift/github.com/siteline/SwiftUI-Introspect@26.0.0
 - pkg:swift/github.com/siteline/SwiftUI-Introspect@26.0.0-rc.1
 - pkg:swift/github.com/siteline/SwiftUI-Introspect@26.0.1
+- pkg:swift/github.com/siteline/SwiftUI-Introspect@26.0.2
 - pkg:swift/github.com/siteline/SwiftUI-Introspect@27.0.0-beta.1
 - pkg:swift/github.com/siteline/SwiftUI-Introspect@27.0.0-beta.2
