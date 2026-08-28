@@ -39,6 +39,7 @@
 - pkg:swift/github.com/appwrite/sdk-for-swift@20.0.0
 - pkg:swift/github.com/appwrite/sdk-for-swift@20.1.0
 - pkg:swift/github.com/appwrite/sdk-for-swift@21.0.0
+- pkg:swift/github.com/appwrite/sdk-for-swift@22.0.0-rc.1
 - pkg:swift/github.com/appwrite/sdk-for-swift@3.0.0
 - pkg:swift/github.com/appwrite/sdk-for-swift@3.0.1
 - pkg:swift/github.com/appwrite/sdk-for-swift@4.0.0
