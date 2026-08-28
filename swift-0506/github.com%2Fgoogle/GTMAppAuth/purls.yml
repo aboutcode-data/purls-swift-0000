@@ -27,3 +27,4 @@
 - pkg:swift/github.com/google/GTMAppAuth@4.1.0
 - pkg:swift/github.com/google/GTMAppAuth@4.1.1
 - pkg:swift/github.com/google/GTMAppAuth@5.0.0
+- pkg:swift/github.com/google/GTMAppAuth@6.0.0
