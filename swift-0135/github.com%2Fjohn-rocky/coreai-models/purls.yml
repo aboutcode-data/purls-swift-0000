@@ -6,6 +6,8 @@
 - pkg:swift/github.com/john-rocky/coreai-models@0.2.2-zoo
 - pkg:swift/github.com/john-rocky/coreai-models@0.2.3-zoo
 - pkg:swift/github.com/john-rocky/coreai-models@0.2.3-zoo%5E%7B%7D
+- pkg:swift/github.com/john-rocky/coreai-models@0.2.4-zoo
+- pkg:swift/github.com/john-rocky/coreai-models@0.2.4-zoo%5E%7B%7D
 - pkg:swift/github.com/john-rocky/coreai-models@fork-v0.1.0-zoo
 - pkg:swift/github.com/john-rocky/coreai-models@fork-v0.1.0-zoo%5E%7B%7D
 - pkg:swift/github.com/john-rocky/coreai-models@fork-v0.1.1-zoo
