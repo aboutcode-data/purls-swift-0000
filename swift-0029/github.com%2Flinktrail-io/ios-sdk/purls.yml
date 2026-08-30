@@ -2,6 +2,8 @@
 - pkg:swift/github.com/linktrail-io/ios-sdk@0.0.10%5E%7B%7D
 - pkg:swift/github.com/linktrail-io/ios-sdk@0.0.11
 - pkg:swift/github.com/linktrail-io/ios-sdk@0.0.11%5E%7B%7D
+- pkg:swift/github.com/linktrail-io/ios-sdk@0.0.12
+- pkg:swift/github.com/linktrail-io/ios-sdk@0.0.12%5E%7B%7D
 - pkg:swift/github.com/linktrail-io/ios-sdk@0.0.8
 - pkg:swift/github.com/linktrail-io/ios-sdk@0.0.9
 - pkg:swift/github.com/linktrail-io/ios-sdk@0.0.9%5E%7B%7D
