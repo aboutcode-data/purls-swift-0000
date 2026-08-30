@@ -1691,6 +1691,7 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.29.0
 - pkg:swift/github.com/tuist/tuist@kura%400.29.1
 - pkg:swift/github.com/tuist/tuist@kura%400.3.0
+- pkg:swift/github.com/tuist/tuist@kura%400.30.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.0
 - pkg:swift/github.com/tuist/tuist@kura%400.4.1
 - pkg:swift/github.com/tuist/tuist@kura%400.5.0
