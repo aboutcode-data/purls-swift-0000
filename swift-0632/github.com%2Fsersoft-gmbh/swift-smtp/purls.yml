@@ -18,6 +18,7 @@
 - pkg:swift/github.com/sersoft-gmbh/swift-smtp@2.16.1
 - pkg:swift/github.com/sersoft-gmbh/swift-smtp@2.17.0
 - pkg:swift/github.com/sersoft-gmbh/swift-smtp@2.18.0
+- pkg:swift/github.com/sersoft-gmbh/swift-smtp@2.18.1
 - pkg:swift/github.com/sersoft-gmbh/swift-smtp@2.2.0
 - pkg:swift/github.com/sersoft-gmbh/swift-smtp@2.3.0
 - pkg:swift/github.com/sersoft-gmbh/swift-smtp@2.4.0
