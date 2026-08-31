@@ -152,3 +152,4 @@
 - pkg:swift/github.com/mattpolzin/OpenAPIKit@6.2.0
 - pkg:swift/github.com/mattpolzin/OpenAPIKit@7.0.0-alpha.1
 - pkg:swift/github.com/mattpolzin/OpenAPIKit@7.0.0-alpha.2
+- pkg:swift/github.com/mattpolzin/OpenAPIKit@7.0.0-beta.1
