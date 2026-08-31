@@ -154,7 +154,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18496
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/18497
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19019
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19849
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1986
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/19931
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/20021
