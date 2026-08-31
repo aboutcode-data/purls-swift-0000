@@ -32,5 +32,6 @@
 - pkg:swift/github.com/danoli3/ofxiOSBoost@1.82.0
 - pkg:swift/github.com/danoli3/ofxiOSBoost@1.83.0
 - pkg:swift/github.com/danoli3/ofxiOSBoost@1.84.0
+- pkg:swift/github.com/danoli3/ofxiOSBoost@1.85.0
 - pkg:swift/github.com/danoli3/ofxiOSBoost@v1.59.0-libc%2B%2B
 - pkg:swift/github.com/danoli3/ofxiOSBoost@v1.59.0-libstdc%2B%2B
