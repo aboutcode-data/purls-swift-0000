@@ -84,6 +84,8 @@
 - pkg:swift/github.com/kakao/kakao-ios-sdk@2.27.3%5E%7B%7D
 - pkg:swift/github.com/kakao/kakao-ios-sdk@2.28.0
 - pkg:swift/github.com/kakao/kakao-ios-sdk@2.28.0%5E%7B%7D
+- pkg:swift/github.com/kakao/kakao-ios-sdk@2.29.0
+- pkg:swift/github.com/kakao/kakao-ios-sdk@2.29.0%5E%7B%7D
 - pkg:swift/github.com/kakao/kakao-ios-sdk@2.8.3
 - pkg:swift/github.com/kakao/kakao-ios-sdk@2.8.3%5E%7B%7D
 - pkg:swift/github.com/kakao/kakao-ios-sdk@2.8.4
