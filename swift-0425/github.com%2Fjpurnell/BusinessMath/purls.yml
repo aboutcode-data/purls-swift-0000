@@ -134,6 +134,7 @@
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.3.1%5E%7B%7D
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.3.2
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.3.2%5E%7B%7D
+- pkg:swift/github.com/jpurnell/BusinessMath@v2.4.0
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.5.0
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.5.0%5E%7B%7D
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.5.1
@@ -142,3 +143,5 @@
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.5.2%5E%7B%7D
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.6.0
 - pkg:swift/github.com/jpurnell/BusinessMath@v2.6.0%5E%7B%7D
+- pkg:swift/github.com/jpurnell/BusinessMath@v2.7.0
+- pkg:swift/github.com/jpurnell/BusinessMath@v2.7.0%5E%7B%7D
