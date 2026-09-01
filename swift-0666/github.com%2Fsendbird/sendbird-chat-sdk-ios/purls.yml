@@ -76,6 +76,7 @@
 - pkg:swift/github.com/sendbird/sendbird-chat-sdk-ios@4.38.1
 - pkg:swift/github.com/sendbird/sendbird-chat-sdk-ios@4.39.0
 - pkg:swift/github.com/sendbird/sendbird-chat-sdk-ios@4.39.1
+- pkg:swift/github.com/sendbird/sendbird-chat-sdk-ios@4.39.10
 - pkg:swift/github.com/sendbird/sendbird-chat-sdk-ios@4.39.2
 - pkg:swift/github.com/sendbird/sendbird-chat-sdk-ios@4.39.3
 - pkg:swift/github.com/sendbird/sendbird-chat-sdk-ios@4.39.4
