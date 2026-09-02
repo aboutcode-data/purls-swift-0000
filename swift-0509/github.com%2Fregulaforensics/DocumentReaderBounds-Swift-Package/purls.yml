@@ -35,3 +35,6 @@
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20139-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20210-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20230-rc
+- pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20244-rc
+- pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20259-rc
+- pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20291-rc
