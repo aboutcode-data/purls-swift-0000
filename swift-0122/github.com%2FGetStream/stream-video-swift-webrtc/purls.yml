@@ -57,6 +57,7 @@
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.14.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.15.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.16.0
+- pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.17.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.3.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.4.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.5.0
