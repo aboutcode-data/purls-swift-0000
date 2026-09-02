@@ -10,3 +10,4 @@
 - pkg:swift/github.com/vapor/swift-openapi-vapor@1.0.0-alpha.1
 - pkg:swift/github.com/vapor/swift-openapi-vapor@1.0.1
 - pkg:swift/github.com/vapor/swift-openapi-vapor@1.1.0
+- pkg:swift/github.com/vapor/swift-openapi-vapor@1.2.0
