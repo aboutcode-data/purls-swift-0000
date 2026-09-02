@@ -74,6 +74,7 @@
 - pkg:swift/github.com/apple/swift-crypto@4.4.0
 - pkg:swift/github.com/apple/swift-crypto@4.5.0
 - pkg:swift/github.com/apple/swift-crypto@4.5.1
+- pkg:swift/github.com/apple/swift-crypto@4.5.2
 - pkg:swift/github.com/apple/swift-crypto@5.0.0-beta.1
 - pkg:swift/github.com/apple/swift-crypto@5.0.0-beta.2
 - pkg:swift/github.com/apple/swift-crypto@5.0.0-beta.4
