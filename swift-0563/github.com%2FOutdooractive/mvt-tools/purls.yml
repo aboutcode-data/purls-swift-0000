@@ -90,3 +90,4 @@
 - pkg:swift/github.com/Outdooractive/mvt-tools@v2.4.3
 - pkg:swift/github.com/Outdooractive/mvt-tools@v2.4.4
 - pkg:swift/github.com/Outdooractive/mvt-tools@v2.5.0
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0
