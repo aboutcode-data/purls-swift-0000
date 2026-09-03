@@ -30,6 +30,7 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.12.1%5E%7B%7D
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.13.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.14.0
+- pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.14.1
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.2.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.2.0%5E%7B%7D
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@1.2.1
