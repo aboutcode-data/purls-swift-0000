@@ -1,3 +1,4 @@
+- pkg:swift/github.com/harflabs/SwiftVLC@swiftvlc-candidate-v1.1.0-beta.9-ec2e80cb483203af24a212ce305899ba970add33
 - pkg:swift/github.com/harflabs/SwiftVLC@v0.1.0
 - pkg:swift/github.com/harflabs/SwiftVLC@v0.10.0
 - pkg:swift/github.com/harflabs/SwiftVLC@v0.10.1
