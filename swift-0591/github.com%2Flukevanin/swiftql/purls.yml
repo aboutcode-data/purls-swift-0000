@@ -30,3 +30,5 @@
 - pkg:swift/github.com/lukevanin/swiftql@v1.5.6
 - pkg:swift/github.com/lukevanin/swiftql@v1.5.7
 - pkg:swift/github.com/lukevanin/swiftql@v1.5.7%5E%7B%7D
+- pkg:swift/github.com/lukevanin/swiftql@v1.6.0
+- pkg:swift/github.com/lukevanin/swiftql@v1.6.0%5E%7B%7D
