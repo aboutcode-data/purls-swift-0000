@@ -47,6 +47,7 @@
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-storage@v0.23.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-storage@v0.23.1
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-storage@v0.23.2
+- pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-storage@v0.25.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-storage@v0.3.0
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-storage@v0.3.0%5E%7B%7D
 - pkg:swift/github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-storage@v0.4.0
