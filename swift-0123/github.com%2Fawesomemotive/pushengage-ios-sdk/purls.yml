@@ -1,0 +1,11 @@
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.0.1
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.0.1-beta
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.0.2
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.0.3
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.0.4
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.0.5
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.0.6
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.1.0
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@0.1.0%5E%7B%7D
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@1.0.0
+- pkg:swift/github.com/awesomemotive/pushengage-ios-sdk@1.0.0%5E%7B%7D
