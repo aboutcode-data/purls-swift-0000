@@ -32,4 +32,6 @@
 - pkg:swift/github.com/ainame/swift-slack@0.9.0%5E%7B%7D
 - pkg:swift/github.com/ainame/swift-slack@2026.7.0
 - pkg:swift/github.com/ainame/swift-slack@2026.7.0%5E%7B%7D
+- pkg:swift/github.com/ainame/swift-slack@2026.9.0
+- pkg:swift/github.com/ainame/swift-slack@2026.9.0%5E%7B%7D
 - pkg:swift/github.com/ainame/swift-slack@v0.1.0
