@@ -59,3 +59,5 @@
 - pkg:swift/github.com/regulaforensics/FaceCoreBasic-Swift-Package@8.4.2623-rc
 - pkg:swift/github.com/regulaforensics/FaceCoreBasic-Swift-Package@8.4.2625-rc
 - pkg:swift/github.com/regulaforensics/FaceCoreBasic-Swift-Package@8.4.2628-rc
+- pkg:swift/github.com/regulaforensics/FaceCoreBasic-Swift-Package@8.4.2630-nightly
+- pkg:swift/github.com/regulaforensics/FaceCoreBasic-Swift-Package@8.4.2631-rc
