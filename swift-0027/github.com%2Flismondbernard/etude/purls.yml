@@ -1,0 +1,8 @@
+- pkg:swift/github.com/lismondbernard/etude@phase-1
+- pkg:swift/github.com/lismondbernard/etude@phase-2
+- pkg:swift/github.com/lismondbernard/etude@phase-3
+- pkg:swift/github.com/lismondbernard/etude@phase-4
+- pkg:swift/github.com/lismondbernard/etude@phase-5
+- pkg:swift/github.com/lismondbernard/etude@phase-6
+- pkg:swift/github.com/lismondbernard/etude@v0.1.0
+- pkg:swift/github.com/lismondbernard/etude@v0.1.0%5E%7B%7D
