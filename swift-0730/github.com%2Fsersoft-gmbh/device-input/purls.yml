@@ -40,3 +40,4 @@
 - pkg:swift/github.com/sersoft-gmbh/device-input@7.3.0
 - pkg:swift/github.com/sersoft-gmbh/device-input@8.0.0
 - pkg:swift/github.com/sersoft-gmbh/device-input@8.1.0
+- pkg:swift/github.com/sersoft-gmbh/device-input@8.1.1
