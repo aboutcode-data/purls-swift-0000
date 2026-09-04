@@ -164,6 +164,8 @@
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_iOS@4.5.2-a170%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_iOS@4.5.2-b170
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_iOS@4.5.2-b170%5E%7B%7D
+- pkg:swift/github.com/AgoraIO/AgoraRtcEngine_iOS@4.5.2-rc.170
+- pkg:swift/github.com/AgoraIO/AgoraRtcEngine_iOS@4.5.2-rc.170%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_iOS@4.5.2.211
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_iOS@4.5.2.211%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraRtcEngine_iOS@4.5.2.211.1
