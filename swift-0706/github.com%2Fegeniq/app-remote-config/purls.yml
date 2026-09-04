@@ -12,3 +12,5 @@
 - pkg:swift/github.com/egeniq/app-remote-config@0.7.0
 - pkg:swift/github.com/egeniq/app-remote-config@0.7.1
 - pkg:swift/github.com/egeniq/app-remote-config@0.7.2
+- pkg:swift/github.com/egeniq/app-remote-config@0.8.0-a1
+- pkg:swift/github.com/egeniq/app-remote-config@0.8.0-a2
