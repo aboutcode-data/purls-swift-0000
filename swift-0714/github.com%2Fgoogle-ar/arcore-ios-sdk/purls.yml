@@ -17,6 +17,7 @@
 - pkg:swift/github.com/google-ar/arcore-ios-sdk@1.52.0
 - pkg:swift/github.com/google-ar/arcore-ios-sdk@1.53.0
 - pkg:swift/github.com/google-ar/arcore-ios-sdk@1.54.0
+- pkg:swift/github.com/google-ar/arcore-ios-sdk@1.56.0
 - pkg:swift/github.com/google-ar/arcore-ios-sdk@v1.10.0
 - pkg:swift/github.com/google-ar/arcore-ios-sdk@v1.11.0
 - pkg:swift/github.com/google-ar/arcore-ios-sdk@v1.12.0
