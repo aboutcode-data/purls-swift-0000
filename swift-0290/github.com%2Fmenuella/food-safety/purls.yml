@@ -1,5 +1,6 @@
 - pkg:swift/github.com/menuella/food-safety@packages/go/v1.2.0
 - pkg:swift/github.com/menuella/food-safety@packages/go/v1.3.0
+- pkg:swift/github.com/menuella/food-safety@packages/go/v1.3.1
 - pkg:swift/github.com/menuella/food-safety@v0.3.6
 - pkg:swift/github.com/menuella/food-safety@v0.3.6%5E%7B%7D
 - pkg:swift/github.com/menuella/food-safety@v1.0.0
@@ -12,3 +13,5 @@
 - pkg:swift/github.com/menuella/food-safety@v1.2.0%5E%7B%7D
 - pkg:swift/github.com/menuella/food-safety@v1.3.0
 - pkg:swift/github.com/menuella/food-safety@v1.3.0%5E%7B%7D
+- pkg:swift/github.com/menuella/food-safety@v1.3.1
+- pkg:swift/github.com/menuella/food-safety@v1.3.1%5E%7B%7D
