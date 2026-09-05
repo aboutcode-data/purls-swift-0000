@@ -1,6 +1,7 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-video@1.0.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-video@1.1.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-video@1.1.1
+- pkg:swift/github.com/ryanfrancesconi/spfk-video@1.10.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-video@1.2.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-video@1.2.1
 - pkg:swift/github.com/ryanfrancesconi/spfk-video@1.3.0
