@@ -24,3 +24,5 @@
 - pkg:swift/github.com/jsj/better-auth-swift@v0.0.7%5E%7B%7D
 - pkg:swift/github.com/jsj/better-auth-swift@v0.0.8
 - pkg:swift/github.com/jsj/better-auth-swift@v0.0.9
+- pkg:swift/github.com/jsj/better-auth-swift@v0.1.0
+- pkg:swift/github.com/jsj/better-auth-swift@v0.1.0%5E%7B%7D
