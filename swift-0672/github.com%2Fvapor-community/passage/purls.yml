@@ -99,5 +99,7 @@
 - pkg:swift/github.com/vapor-community/passage@0.7.3%5E%7B%7D
 - pkg:swift/github.com/vapor-community/passage@0.7.4
 - pkg:swift/github.com/vapor-community/passage@0.7.4%5E%7B%7D
+- pkg:swift/github.com/vapor-community/passage@0.7.5
+- pkg:swift/github.com/vapor-community/passage@0.7.5%5E%7B%7D
 - pkg:swift/github.com/vapor-community/passage@test-thread-sanitize
 - pkg:swift/github.com/vapor-community/passage@test-thread-sanitize%5E%7B%7D
