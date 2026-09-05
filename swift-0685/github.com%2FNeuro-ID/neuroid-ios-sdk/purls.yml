@@ -19,6 +19,7 @@
 - pkg:swift/github.com/Neuro-ID/neuroid-ios-sdk@4.2.0
 - pkg:swift/github.com/Neuro-ID/neuroid-ios-sdk@4.3.0
 - pkg:swift/github.com/Neuro-ID/neuroid-ios-sdk@4.3.1
+- pkg:swift/github.com/Neuro-ID/neuroid-ios-sdk@4.3.2
 - pkg:swift/github.com/Neuro-ID/neuroid-ios-sdk@development
 - pkg:swift/github.com/Neuro-ID/neuroid-ios-sdk@v1.0-beta
 - pkg:swift/github.com/Neuro-ID/neuroid-ios-sdk@v1.1.2-beta
