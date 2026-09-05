@@ -1,6 +1,12 @@
 - pkg:swift/github.com/nRouterAI/nrouter-sdk@2.1.0
 - pkg:swift/github.com/nRouterAI/nrouter-sdk@2.1.1
 - pkg:swift/github.com/nRouterAI/nrouter-sdk@2.2.1
+- pkg:swift/github.com/nRouterAI/nrouter-sdk@3.0.0
+- pkg:swift/github.com/nRouterAI/nrouter-sdk@3.0.0%5E%7B%7D
 - pkg:swift/github.com/nRouterAI/nrouter-sdk@sdks/go/v1.0.0
 - pkg:swift/github.com/nRouterAI/nrouter-sdk@sdks/go/v1.0.1
 - pkg:swift/github.com/nRouterAI/nrouter-sdk@sdks/go/v2.2.1
+- pkg:swift/github.com/nRouterAI/nrouter-sdk@sdks/go/v3.0.0
+- pkg:swift/github.com/nRouterAI/nrouter-sdk@sdks/go/v3.0.0%5E%7B%7D
+- pkg:swift/github.com/nRouterAI/nrouter-sdk@v3.0.0
+- pkg:swift/github.com/nRouterAI/nrouter-sdk@v3.0.0%5E%7B%7D
