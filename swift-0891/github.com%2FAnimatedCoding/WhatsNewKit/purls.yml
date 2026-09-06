@@ -36,6 +36,8 @@
 - pkg:swift/github.com/AnimatedCoding/WhatsNewKit@v2.0.2
 - pkg:swift/github.com/AnimatedCoding/WhatsNewKit@v2.0.20
 - pkg:swift/github.com/AnimatedCoding/WhatsNewKit@v2.0.20%5E%7B%7D
+- pkg:swift/github.com/AnimatedCoding/WhatsNewKit@v2.0.21
+- pkg:swift/github.com/AnimatedCoding/WhatsNewKit@v2.0.21%5E%7B%7D
 - pkg:swift/github.com/AnimatedCoding/WhatsNewKit@v2.0.3
 - pkg:swift/github.com/AnimatedCoding/WhatsNewKit@v2.0.4
 - pkg:swift/github.com/AnimatedCoding/WhatsNewKit@v2.0.5
