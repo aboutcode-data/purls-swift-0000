@@ -64,3 +64,5 @@
 - pkg:swift/github.com/ilpanich/axiam-swift-sdk@v1.0.0-beta10%5E%7B%7D
 - pkg:swift/github.com/ilpanich/axiam-swift-sdk@v1.0.0-beta11
 - pkg:swift/github.com/ilpanich/axiam-swift-sdk@v1.0.0-beta11%5E%7B%7D
+- pkg:swift/github.com/ilpanich/axiam-swift-sdk@v1.0.0-beta12
+- pkg:swift/github.com/ilpanich/axiam-swift-sdk@v1.0.0-beta12%5E%7B%7D
