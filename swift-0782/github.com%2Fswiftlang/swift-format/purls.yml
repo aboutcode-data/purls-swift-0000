@@ -506,6 +506,8 @@
 - pkg:swift/github.com/swiftlang/swift-format@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-08-28-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-format@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-09-01-a
 - pkg:swift/github.com/swiftlang/swift-format@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-09-01-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-format@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-09-04-a
+- pkg:swift/github.com/swiftlang/swift-format@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-09-04-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-format@swift-DEVELOPMENT-SNAPSHOT-2024-08-16-a
 - pkg:swift/github.com/swiftlang/swift-format@swift-DEVELOPMENT-SNAPSHOT-2024-08-16-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-format@swift-DEVELOPMENT-SNAPSHOT-2024-08-18-a
@@ -864,3 +866,5 @@
 - pkg:swift/github.com/swiftlang/swift-format@swift-DEVELOPMENT-SNAPSHOT-2026-08-21-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-format@swift-DEVELOPMENT-SNAPSHOT-2026-08-30-a
 - pkg:swift/github.com/swiftlang/swift-format@swift-DEVELOPMENT-SNAPSHOT-2026-08-30-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-format@swift-DEVELOPMENT-SNAPSHOT-2026-09-05-a
+- pkg:swift/github.com/swiftlang/swift-format@swift-DEVELOPMENT-SNAPSHOT-2026-09-05-a%5E%7B%7D

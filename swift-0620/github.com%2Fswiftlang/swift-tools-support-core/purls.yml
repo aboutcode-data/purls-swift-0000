@@ -1304,6 +1304,8 @@
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-08-28-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-09-01-a
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-09-01-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-09-04-a
+- pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-09-04-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-DEVELOPMENT-SNAPSHOT-2020-10-24-a
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-DEVELOPMENT-SNAPSHOT-2020-10-27-a
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-DEVELOPMENT-SNAPSHOT-2020-10-27-a%5E%7B%7D
@@ -2663,3 +2665,5 @@
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-DEVELOPMENT-SNAPSHOT-2026-08-21-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-DEVELOPMENT-SNAPSHOT-2026-08-30-a
 - pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-DEVELOPMENT-SNAPSHOT-2026-08-30-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-DEVELOPMENT-SNAPSHOT-2026-09-05-a
+- pkg:swift/github.com/swiftlang/swift-tools-support-core@swift-DEVELOPMENT-SNAPSHOT-2026-09-05-a%5E%7B%7D
