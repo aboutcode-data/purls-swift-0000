@@ -25,6 +25,7 @@
 - pkg:swift/github.com/lynnswap/XcodeMCPKit@v0.14.6
 - pkg:swift/github.com/lynnswap/XcodeMCPKit@v0.15.0
 - pkg:swift/github.com/lynnswap/XcodeMCPKit@v0.15.1
+- pkg:swift/github.com/lynnswap/XcodeMCPKit@v0.15.2
 - pkg:swift/github.com/lynnswap/XcodeMCPKit@v0.2.0
 - pkg:swift/github.com/lynnswap/XcodeMCPKit@v0.2.1
 - pkg:swift/github.com/lynnswap/XcodeMCPKit@v0.3.0
