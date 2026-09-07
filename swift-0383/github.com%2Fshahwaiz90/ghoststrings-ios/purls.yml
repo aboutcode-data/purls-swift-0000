@@ -5,6 +5,8 @@
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@1.4.2
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@1.4.3
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@1.4.4
+- pkg:swift/github.com/shahwaiz90/ghoststrings-ios@1.4.5
+- pkg:swift/github.com/shahwaiz90/ghoststrings-ios@1.4.5%5E%7B%7D
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@v1.0.0
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@v1.0.1
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@v1.0.2
@@ -27,3 +29,5 @@
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@v1.3.1
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@v1.4.0
 - pkg:swift/github.com/shahwaiz90/ghoststrings-ios@v1.4.1
+- pkg:swift/github.com/shahwaiz90/ghoststrings-ios@v1.4.5
+- pkg:swift/github.com/shahwaiz90/ghoststrings-ios@v1.4.5%5E%7B%7D
