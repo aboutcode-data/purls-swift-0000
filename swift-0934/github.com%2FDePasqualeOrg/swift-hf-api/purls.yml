@@ -18,3 +18,5 @@
 - pkg:swift/github.com/DePasqualeOrg/swift-hf-api@hfapi-rust-0.4.1
 - pkg:swift/github.com/DePasqualeOrg/swift-hf-api@hfapi-rust-0.4.2
 - pkg:swift/github.com/DePasqualeOrg/swift-hf-api@hfapi-rust-0.4.3
+- pkg:swift/github.com/DePasqualeOrg/swift-hf-api@hfapi-rust-0.4.4
+- pkg:swift/github.com/DePasqualeOrg/swift-hf-api@hfapi-rust-0.4.5
