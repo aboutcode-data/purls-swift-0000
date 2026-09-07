@@ -36,6 +36,12 @@
 - pkg:swift/github.com/mapbox/mapbox-search-ios@2.31.0-SNAPSHOT-09-04--01-34.git-26a0395%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-search-ios@2.31.0-SNAPSHOT-09-07--01-41.git-a9c6d84
 - pkg:swift/github.com/mapbox/mapbox-search-ios@2.31.0-SNAPSHOT-09-07--01-41.git-a9c6d84%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-search-ios@2.31.0-SNAPSHOT-09-07--08-35.git-f2a3749
+- pkg:swift/github.com/mapbox/mapbox-search-ios@2.31.0-SNAPSHOT-09-07--08-35.git-f2a3749%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-search-ios@2.31.0-rc.1
+- pkg:swift/github.com/mapbox/mapbox-search-ios@2.31.0-rc.1%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-search-ios@2.32.0-SNAPSHOT-09-07--10-14.git-86caf07
+- pkg:swift/github.com/mapbox/mapbox-search-ios@2.32.0-SNAPSHOT-09-07--10-14.git-86caf07%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v1.0.0
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v1.0.0-beta.10
 - pkg:swift/github.com/mapbox/mapbox-search-ios@v1.0.0-beta.11
