@@ -132,6 +132,7 @@
 - pkg:swift/github.com/sparkle-project/Sparkle@2.1.0-beta.2
 - pkg:swift/github.com/sparkle-project/Sparkle@2.1.1_macpaw
 - pkg:swift/github.com/sparkle-project/Sparkle@2.1.1_macpaw%5E%7B%7D
+- pkg:swift/github.com/sparkle-project/Sparkle@2.10.0-beta.1
 - pkg:swift/github.com/sparkle-project/Sparkle@2.1_macpaw
 - pkg:swift/github.com/sparkle-project/Sparkle@2.1_macpaw%5E%7B%7D
 - pkg:swift/github.com/sparkle-project/Sparkle@2.2.0
