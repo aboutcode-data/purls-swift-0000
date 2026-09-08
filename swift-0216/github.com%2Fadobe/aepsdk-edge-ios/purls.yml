@@ -21,3 +21,4 @@
 - pkg:swift/github.com/adobe/aepsdk-edge-ios@5.0.1
 - pkg:swift/github.com/adobe/aepsdk-edge-ios@5.0.2
 - pkg:swift/github.com/adobe/aepsdk-edge-ios@5.0.3
+- pkg:swift/github.com/adobe/aepsdk-edge-ios@5.1.0
