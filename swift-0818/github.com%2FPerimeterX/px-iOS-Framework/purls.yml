@@ -102,6 +102,7 @@
 - pkg:swift/github.com/PerimeterX/px-iOS-Framework@3.2.1
 - pkg:swift/github.com/PerimeterX/px-iOS-Framework@3.2.10
 - pkg:swift/github.com/PerimeterX/px-iOS-Framework@3.2.11
+- pkg:swift/github.com/PerimeterX/px-iOS-Framework@3.2.12
 - pkg:swift/github.com/PerimeterX/px-iOS-Framework@3.2.2
 - pkg:swift/github.com/PerimeterX/px-iOS-Framework@3.2.3
 - pkg:swift/github.com/PerimeterX/px-iOS-Framework@3.2.4
