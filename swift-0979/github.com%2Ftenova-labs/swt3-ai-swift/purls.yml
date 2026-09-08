@@ -1,4 +1,5 @@
 - pkg:swift/github.com/tenova-labs/swt3-ai-swift@0.5.7
+- pkg:swift/github.com/tenova-labs/swt3-ai-swift@0.7.1
 - pkg:swift/github.com/tenova-labs/swt3-ai-swift@v0.5.7
 - pkg:swift/github.com/tenova-labs/swt3-ai-swift@v0.5.8
 - pkg:swift/github.com/tenova-labs/swt3-ai-swift@v0.6.5
