@@ -1,2 +1,4 @@
 - pkg:swift/github.com/tuist/ZIPFoundation@0.9.20
 - pkg:swift/github.com/tuist/ZIPFoundation@0.9.21
+- pkg:swift/github.com/tuist/ZIPFoundation@0.9.22
+- pkg:swift/github.com/tuist/ZIPFoundation@0.9.22%5E%7B%7D
