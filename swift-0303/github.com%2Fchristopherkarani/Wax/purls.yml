@@ -35,6 +35,8 @@
 - pkg:swift/github.com/christopherkarani/Wax@0.1.38
 - pkg:swift/github.com/christopherkarani/Wax@0.1.39
 - pkg:swift/github.com/christopherkarani/Wax@0.1.4
+- pkg:swift/github.com/christopherkarani/Wax@0.1.40
+- pkg:swift/github.com/christopherkarani/Wax@0.1.41
 - pkg:swift/github.com/christopherkarani/Wax@0.1.5
 - pkg:swift/github.com/christopherkarani/Wax@0.1.6
 - pkg:swift/github.com/christopherkarani/Wax@0.1.7
@@ -88,6 +90,8 @@
 - pkg:swift/github.com/christopherkarani/Wax@waxmcp-v0.1.38
 - pkg:swift/github.com/christopherkarani/Wax@waxmcp-v0.1.39
 - pkg:swift/github.com/christopherkarani/Wax@waxmcp-v0.1.4
+- pkg:swift/github.com/christopherkarani/Wax@waxmcp-v0.1.40
+- pkg:swift/github.com/christopherkarani/Wax@waxmcp-v0.1.41
 - pkg:swift/github.com/christopherkarani/Wax@waxmcp-v0.1.5
 - pkg:swift/github.com/christopherkarani/Wax@waxmcp-v0.1.5%5E%7B%7D
 - pkg:swift/github.com/christopherkarani/Wax@waxmcp-v0.1.6
