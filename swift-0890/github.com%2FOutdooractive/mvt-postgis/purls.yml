@@ -26,3 +26,5 @@
 - pkg:swift/github.com/Outdooractive/mvt-postgis@v2.0.5
 - pkg:swift/github.com/Outdooractive/mvt-postgis@v2.0.6
 - pkg:swift/github.com/Outdooractive/mvt-postgis@v2.0.7
+- pkg:swift/github.com/Outdooractive/mvt-postgis@v2.0.8
+- pkg:swift/github.com/Outdooractive/mvt-postgis@v2.0.9
