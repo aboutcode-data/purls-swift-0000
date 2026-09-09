@@ -52,6 +52,7 @@
 - pkg:swift/github.com/KeyboardKit/KeyboardKit@10.9.1
 - pkg:swift/github.com/KeyboardKit/KeyboardKit@10.9.2
 - pkg:swift/github.com/KeyboardKit/KeyboardKit@10.9.3
+- pkg:swift/github.com/KeyboardKit/KeyboardKit@10.9.4
 - pkg:swift/github.com/KeyboardKit/KeyboardKit@11.0-dp.2
 - pkg:swift/github.com/KeyboardKit/KeyboardKit@11.0.0-dp.2
 - pkg:swift/github.com/KeyboardKit/KeyboardKit@2.0.0
