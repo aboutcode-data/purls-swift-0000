@@ -20,10 +20,7 @@
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.5.18197
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.5.18259
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.6.18851
-- pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.7.19595-stage
-- pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.7.19619-stage
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.7.19694
-- pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.7.19718-stage
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.19750-stage
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.19768-stage
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.19902-stage
@@ -50,3 +47,4 @@
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20454-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20488
 - pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.8.20506-rc
+- pkg:swift/github.com/regulaforensics/DocumentReaderBounds-Swift-Package@9.9.20523-rc
