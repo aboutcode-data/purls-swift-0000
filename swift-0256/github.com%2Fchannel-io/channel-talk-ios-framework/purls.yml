@@ -72,6 +72,7 @@
 - pkg:swift/github.com/channel-io/channel-talk-ios-framework@13.2.0
 - pkg:swift/github.com/channel-io/channel-talk-ios-framework@13.2.1
 - pkg:swift/github.com/channel-io/channel-talk-ios-framework@13.2.2
+- pkg:swift/github.com/channel-io/channel-talk-ios-framework@13.3.0
 - pkg:swift/github.com/channel-io/channel-talk-ios-framework@8.0.0
 - pkg:swift/github.com/channel-io/channel-talk-ios-framework@8.0.1
 - pkg:swift/github.com/channel-io/channel-talk-ios-framework@8.0.2
