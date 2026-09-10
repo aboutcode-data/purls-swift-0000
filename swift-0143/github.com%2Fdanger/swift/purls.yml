@@ -86,6 +86,7 @@
 - pkg:swift/github.com/danger/swift@3.21.2
 - pkg:swift/github.com/danger/swift@3.22.0
 - pkg:swift/github.com/danger/swift@3.22.1
+- pkg:swift/github.com/danger/swift@3.23.0
 - pkg:swift/github.com/danger/swift@3.3.0
 - pkg:swift/github.com/danger/swift@3.3.1
 - pkg:swift/github.com/danger/swift@3.3.2
