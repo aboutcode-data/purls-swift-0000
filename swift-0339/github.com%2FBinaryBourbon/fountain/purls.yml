@@ -93,6 +93,8 @@
 - pkg:swift/github.com/BinaryBourbon/fountain@sdk-v1.22.0%5E%7B%7D
 - pkg:swift/github.com/BinaryBourbon/fountain@sdk-v1.23.0
 - pkg:swift/github.com/BinaryBourbon/fountain@sdk-v1.23.0%5E%7B%7D
+- pkg:swift/github.com/BinaryBourbon/fountain@sdk-v1.24.0
+- pkg:swift/github.com/BinaryBourbon/fountain@sdk-v1.24.0%5E%7B%7D
 - pkg:swift/github.com/BinaryBourbon/fountain@sdk-v1.3.0
 - pkg:swift/github.com/BinaryBourbon/fountain@sdk-v1.3.0%5E%7B%7D
 - pkg:swift/github.com/BinaryBourbon/fountain@sdk-v1.4.0
