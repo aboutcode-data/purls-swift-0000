@@ -188,6 +188,8 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.7-experimental-impr.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.7-experimental.preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.7-experimental.vp.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.7-preview.1
+- pkg:swift/github.com/getditto/DittoSwiftPackage@4.14.7-preview.2
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-b6835ba.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-kotlin17.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@4.15.0-experimental-rkyv-20251215-1
