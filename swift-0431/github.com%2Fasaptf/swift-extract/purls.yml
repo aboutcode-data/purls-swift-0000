@@ -20,6 +20,7 @@
 - pkg:swift/github.com/asaptf/swift-extract@0.8.0%5E%7B%7D
 - pkg:swift/github.com/asaptf/swift-extract@0.8.1
 - pkg:swift/github.com/asaptf/swift-extract@0.8.1%5E%7B%7D
+- pkg:swift/github.com/asaptf/swift-extract@0.8.2
 - pkg:swift/github.com/asaptf/swift-extract@v0.1.0
 - pkg:swift/github.com/asaptf/swift-extract@v0.1.0%5E%7B%7D
 - pkg:swift/github.com/asaptf/swift-extract@v0.2.0
@@ -42,3 +43,5 @@
 - pkg:swift/github.com/asaptf/swift-extract@v0.8.0%5E%7B%7D
 - pkg:swift/github.com/asaptf/swift-extract@v0.8.1
 - pkg:swift/github.com/asaptf/swift-extract@v0.8.1%5E%7B%7D
+- pkg:swift/github.com/asaptf/swift-extract@v0.8.2
+- pkg:swift/github.com/asaptf/swift-extract@v0.8.2%5E%7B%7D
