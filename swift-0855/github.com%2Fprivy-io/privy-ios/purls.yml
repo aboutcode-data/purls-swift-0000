@@ -60,6 +60,7 @@
 - pkg:swift/github.com/privy-io/privy-ios@2.15.0
 - pkg:swift/github.com/privy-io/privy-ios@2.16.0
 - pkg:swift/github.com/privy-io/privy-ios@2.16.1
+- pkg:swift/github.com/privy-io/privy-ios@2.16.2-rc
 - pkg:swift/github.com/privy-io/privy-ios@2.2.0
 - pkg:swift/github.com/privy-io/privy-ios@2.3.0
 - pkg:swift/github.com/privy-io/privy-ios@2.4.0
