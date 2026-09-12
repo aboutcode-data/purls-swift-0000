@@ -64,3 +64,5 @@
 - pkg:swift/github.com/Nodibell/SwiftSci@v3.6.1
 - pkg:swift/github.com/Nodibell/SwiftSci@v3.7.0
 - pkg:swift/github.com/Nodibell/SwiftSci@v3.7.0%5E%7B%7D
+- pkg:swift/github.com/Nodibell/SwiftSci@v3.8.0
+- pkg:swift/github.com/Nodibell/SwiftSci@v3.8.0%5E%7B%7D
