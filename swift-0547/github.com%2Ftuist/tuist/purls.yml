@@ -1012,6 +1012,7 @@
 - pkg:swift/github.com/tuist/tuist@4.208.0-rc.1
 - pkg:swift/github.com/tuist/tuist@4.209.0-canary.1
 - pkg:swift/github.com/tuist/tuist@4.209.0-canary.2
+- pkg:swift/github.com/tuist/tuist@4.209.0-canary.3
 - pkg:swift/github.com/tuist/tuist@4.21.0
 - pkg:swift/github.com/tuist/tuist@4.21.1
 - pkg:swift/github.com/tuist/tuist@4.21.2
@@ -1544,6 +1545,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.111.0
 - pkg:swift/github.com/tuist/tuist@helm%400.112.0
 - pkg:swift/github.com/tuist/tuist@helm%400.112.1
+- pkg:swift/github.com/tuist/tuist@helm%400.112.2
 - pkg:swift/github.com/tuist/tuist@helm%400.12.0
 - pkg:swift/github.com/tuist/tuist@helm%400.12.1
 - pkg:swift/github.com/tuist/tuist@helm%400.12.2
@@ -1859,6 +1861,8 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.45.0
 - pkg:swift/github.com/tuist/tuist@kura%400.45.1
 - pkg:swift/github.com/tuist/tuist@kura%400.45.2
+- pkg:swift/github.com/tuist/tuist@kura%400.45.3
+- pkg:swift/github.com/tuist/tuist@kura%400.45.4
 - pkg:swift/github.com/tuist/tuist@kura%400.5.0
 - pkg:swift/github.com/tuist/tuist@kura%400.5.1
 - pkg:swift/github.com/tuist/tuist@kura%400.6.0
@@ -1895,6 +1899,8 @@
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.8.1
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.9.0
 - pkg:swift/github.com/tuist/tuist@linux-runner-image%400.9.1
+- pkg:swift/github.com/tuist/tuist@linux-runner-image%400.9.2
+- pkg:swift/github.com/tuist/tuist@linux-runner-image%400.9.3
 - pkg:swift/github.com/tuist/tuist@noora%400.76.0
 - pkg:swift/github.com/tuist/tuist@noora%400.77.0
 - pkg:swift/github.com/tuist/tuist@noora%400.77.1
@@ -1959,6 +1965,7 @@
 - pkg:swift/github.com/tuist/tuist@runner-image%400.16.4
 - pkg:swift/github.com/tuist/tuist@runner-image%400.17.0
 - pkg:swift/github.com/tuist/tuist@runner-image%400.18.0
+- pkg:swift/github.com/tuist/tuist@runner-image%400.18.1
 - pkg:swift/github.com/tuist/tuist@runner-image%400.2.0
 - pkg:swift/github.com/tuist/tuist@runner-image%400.2.1
 - pkg:swift/github.com/tuist/tuist@runner-image%400.3.0
