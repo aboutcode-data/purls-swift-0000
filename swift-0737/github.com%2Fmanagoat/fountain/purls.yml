@@ -13,6 +13,8 @@
 - pkg:swift/github.com/managoat/fountain@elixir-sdk-v0.3.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@elixir-sdk-v0.3.1
 - pkg:swift/github.com/managoat/fountain@elixir-sdk-v0.3.1%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@elixir-sdk-v0.4.0
+- pkg:swift/github.com/managoat/fountain@elixir-sdk-v0.4.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@pre-acp
 - pkg:swift/github.com/managoat/fountain@pre-acp%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@pre-buzz-gateway
@@ -137,6 +139,14 @@
 - pkg:swift/github.com/managoat/fountain@sdk-v2.0.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@sdk-v2.1.0
 - pkg:swift/github.com/managoat/fountain@sdk-v2.1.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-v3.0.0
+- pkg:swift/github.com/managoat/fountain@sdk-v3.0.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-v4.0.0
+- pkg:swift/github.com/managoat/fountain@sdk-v4.0.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-v5.0.0
+- pkg:swift/github.com/managoat/fountain@sdk-v5.0.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-v5.1.0
+- pkg:swift/github.com/managoat/fountain@sdk-v5.1.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@v0.1.0
 - pkg:swift/github.com/managoat/fountain@v0.1.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@v0.10.0
@@ -157,6 +167,8 @@
 - pkg:swift/github.com/managoat/fountain@v0.15.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@v0.16.0
 - pkg:swift/github.com/managoat/fountain@v0.16.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@v0.17.0
+- pkg:swift/github.com/managoat/fountain@v0.17.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@v0.2.0
 - pkg:swift/github.com/managoat/fountain@v0.2.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@v0.2.1
