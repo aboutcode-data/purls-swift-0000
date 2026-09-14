@@ -623,7 +623,12 @@
 - pkg:swift/github.com/ggml-org/llama.cpp@b1094
 - pkg:swift/github.com/ggml-org/llama.cpp@b10941
 - pkg:swift/github.com/ggml-org/llama.cpp@b10944
+- pkg:swift/github.com/ggml-org/llama.cpp@b10946
+- pkg:swift/github.com/ggml-org/llama.cpp@b10947
+- pkg:swift/github.com/ggml-org/llama.cpp@b10948
 - pkg:swift/github.com/ggml-org/llama.cpp@b1095
+- pkg:swift/github.com/ggml-org/llama.cpp@b10950
+- pkg:swift/github.com/ggml-org/llama.cpp@b10951
 - pkg:swift/github.com/ggml-org/llama.cpp@b1096
 - pkg:swift/github.com/ggml-org/llama.cpp@b1098
 - pkg:swift/github.com/ggml-org/llama.cpp@b1099
