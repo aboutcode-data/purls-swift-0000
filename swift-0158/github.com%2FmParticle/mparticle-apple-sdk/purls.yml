@@ -302,3 +302,4 @@
 - pkg:swift/github.com/mParticle/mparticle-apple-sdk@v9.4.2
 - pkg:swift/github.com/mParticle/mparticle-apple-sdk@v9.4.3
 - pkg:swift/github.com/mParticle/mparticle-apple-sdk@v9.5.0
+- pkg:swift/github.com/mParticle/mparticle-apple-sdk@v9.5.1
