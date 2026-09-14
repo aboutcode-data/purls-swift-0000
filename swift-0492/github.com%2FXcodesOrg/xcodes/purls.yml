@@ -72,4 +72,6 @@
 - pkg:swift/github.com/XcodesOrg/xcodes@2.0.2%5E%7B%7D
 - pkg:swift/github.com/XcodesOrg/xcodes@2.0.3
 - pkg:swift/github.com/XcodesOrg/xcodes@2.0.3%5E%7B%7D
+- pkg:swift/github.com/XcodesOrg/xcodes@2.1.0
+- pkg:swift/github.com/XcodesOrg/xcodes@2.1.0%5E%7B%7D
 - pkg:swift/github.com/XcodesOrg/xcodes@v2.0.0b1
