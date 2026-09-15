@@ -1,2 +1,4 @@
 - pkg:swift/github.com/blackberry/BlackBerry-Dynamics-iOS-SDK@v15.0.67
 - pkg:swift/github.com/blackberry/BlackBerry-Dynamics-iOS-SDK@v15.0.75
+- pkg:swift/github.com/blackberry/BlackBerry-Dynamics-iOS-SDK@v15.1.18
+- pkg:swift/github.com/blackberry/BlackBerry-Dynamics-iOS-SDK@v15.1.18%5E%7B%7D
