@@ -50,6 +50,7 @@
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4877-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4884-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4891-rc
+- pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.3.4898-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.4.4821-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.4.4823-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.4.4824-rc
@@ -68,6 +69,7 @@
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.4.4888-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.4.4892-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.4.4895-beta
+- pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@8.4.4899-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@9.7.4704-nightly
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@9.8.4807-rc
 - pkg:swift/github.com/regulaforensics/FaceSDK-Swift-Package@9.8.4815-rc
