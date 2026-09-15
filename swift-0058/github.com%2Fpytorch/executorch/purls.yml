@@ -150,6 +150,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/050e3b18d18d113afe9f1e49bce95847d56d8eb2
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/0a4ec570024ebd1ad0fef62d29b9877506228e7f
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/0f80ecb296a5b7e8b22b1e00714e7677402d4ad0
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/13ec99a26f1207d36cdf8742fc2cc00d7ba85ec0
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1473d0ee0ae06597a4cfe80bc0b88d564453ef13
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1574
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/17419
@@ -205,12 +206,9 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22416
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22580
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22585
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22596
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22601
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22629
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22707
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22719
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22724
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22730
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22738
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22741
@@ -329,6 +327,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/eb216017a7ed73413559e52efb63f292ec26a730
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/ee2cd8ac9c0aa7226a5f604ea0b877197fb3a258
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f115e69452991f6c90d78b93d2c6ca2372e4879e
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f3c08fcf35dce206c6d993d6ef0383b9086e0190
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f3daa57bd40913965084fde17b20df2521e61427
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f5102b8fd9f311d8e57199fdfeb1633e6f9264fd
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f6eaba2391f80491b2c5d63095be05038284035b
@@ -427,3 +426,4 @@
 - pkg:swift/github.com/pytorch/executorch@v1.4.1-rc1
 - pkg:swift/github.com/pytorch/executorch@v1.4.1-rc2
 - pkg:swift/github.com/pytorch/executorch@v1.4.1-rc3
+- pkg:swift/github.com/pytorch/executorch@v1.5.0-rc1
