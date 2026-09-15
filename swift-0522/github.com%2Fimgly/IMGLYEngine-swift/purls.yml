@@ -616,6 +616,8 @@
 - pkg:swift/github.com/imgly/IMGLYEngine-swift@1.75.1%5E%7B%7D
 - pkg:swift/github.com/imgly/IMGLYEngine-swift@1.75.1-rc.0
 - pkg:swift/github.com/imgly/IMGLYEngine-swift@1.75.1-rc.0%5E%7B%7D
+- pkg:swift/github.com/imgly/IMGLYEngine-swift@1.75.2
+- pkg:swift/github.com/imgly/IMGLYEngine-swift@1.75.2%5E%7B%7D
 - pkg:swift/github.com/imgly/IMGLYEngine-swift@1.75.2-rc.0
 - pkg:swift/github.com/imgly/IMGLYEngine-swift@1.75.2-rc.0%5E%7B%7D
 - pkg:swift/github.com/imgly/IMGLYEngine-swift@1.76.0
