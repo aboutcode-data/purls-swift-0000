@@ -100,6 +100,7 @@
 - pkg:swift/github.com/crisp-im/crisp-sdk-ios@2.9.0-beta.1
 - pkg:swift/github.com/crisp-im/crisp-sdk-ios@2.9.0-beta.2
 - pkg:swift/github.com/crisp-im/crisp-sdk-ios@2.9.0-beta.3
+- pkg:swift/github.com/crisp-im/crisp-sdk-ios@3.0.0
 - pkg:swift/github.com/crisp-im/crisp-sdk-ios@3.0.0-beta.1
 - pkg:swift/github.com/crisp-im/crisp-sdk-ios@3.0.0-beta.2
 - pkg:swift/github.com/crisp-im/crisp-sdk-ios@3.0.0-beta.3
