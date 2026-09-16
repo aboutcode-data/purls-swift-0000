@@ -13,6 +13,7 @@
 - pkg:swift/github.com/apache/fory@go/fory/v1.7.0
 - pkg:swift/github.com/apache/fory@go/fory/v1.7.1
 - pkg:swift/github.com/apache/fory@go/fory/v1.7.2
+- pkg:swift/github.com/apache/fory@go/fory/v1.7.3
 - pkg:swift/github.com/apache/fory@v0.1.0
 - pkg:swift/github.com/apache/fory@v0.1.0-alpha.1
 - pkg:swift/github.com/apache/fory@v0.1.0-alpha.2
@@ -138,5 +139,6 @@
 - pkg:swift/github.com/apache/fory@v1.7.2
 - pkg:swift/github.com/apache/fory@v1.7.2-rc1
 - pkg:swift/github.com/apache/fory@v1.7.2-rc2
+- pkg:swift/github.com/apache/fory@v1.7.3
 - pkg:swift/github.com/apache/fory@v1.7.3-rc1
 - pkg:swift/github.com/apache/fory@v1.7.3-rc2
