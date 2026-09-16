@@ -94,6 +94,7 @@
 - pkg:swift/github.com/muxinc/mux-stats-sdk-avplayer@v4.14.0
 - pkg:swift/github.com/muxinc/mux-stats-sdk-avplayer@v4.15.0
 - pkg:swift/github.com/muxinc/mux-stats-sdk-avplayer@v4.16.0
+- pkg:swift/github.com/muxinc/mux-stats-sdk-avplayer@v4.17.0
 - pkg:swift/github.com/muxinc/mux-stats-sdk-avplayer@v4.2.0
 - pkg:swift/github.com/muxinc/mux-stats-sdk-avplayer@v4.3.0
 - pkg:swift/github.com/muxinc/mux-stats-sdk-avplayer@v4.4.0
