@@ -1,6 +1,7 @@
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@1.145.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@1.145.1
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@1.145.2
+- pkg:swift/github.com/GetStream/stream-video-swift-webrtc@1.145.21
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@1.145.3
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@1.145.4
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@1.145.5
@@ -60,6 +61,8 @@
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.17.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.18.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.20.0
+- pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.21.0
+- pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.22.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.3.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.4.0
 - pkg:swift/github.com/GetStream/stream-video-swift-webrtc@145.5.0
