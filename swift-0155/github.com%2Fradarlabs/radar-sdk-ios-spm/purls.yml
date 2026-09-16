@@ -89,5 +89,6 @@
 - pkg:swift/github.com/radarlabs/radar-sdk-ios-spm@3.39.0
 - pkg:swift/github.com/radarlabs/radar-sdk-ios-spm@3.39.1
 - pkg:swift/github.com/radarlabs/radar-sdk-ios-spm@3.40.0
+- pkg:swift/github.com/radarlabs/radar-sdk-ios-spm@3.41.0
 - pkg:swift/github.com/radarlabs/radar-sdk-ios-spm@3.9.15-beta.2
 - pkg:swift/github.com/radarlabs/radar-sdk-ios-spm@3.9.15-beta.3
