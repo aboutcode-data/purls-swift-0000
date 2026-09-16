@@ -66,6 +66,8 @@
 - pkg:swift/github.com/singular-labs/Singular-iOS-SDK@12.14.0%5E%7B%7D
 - pkg:swift/github.com/singular-labs/Singular-iOS-SDK@12.14.1
 - pkg:swift/github.com/singular-labs/Singular-iOS-SDK@12.14.1%5E%7B%7D
+- pkg:swift/github.com/singular-labs/Singular-iOS-SDK@12.14.2
+- pkg:swift/github.com/singular-labs/Singular-iOS-SDK@12.14.2%5E%7B%7D
 - pkg:swift/github.com/singular-labs/Singular-iOS-SDK@12.2.0
 - pkg:swift/github.com/singular-labs/Singular-iOS-SDK@12.2.0%5E%7B%7D
 - pkg:swift/github.com/singular-labs/Singular-iOS-SDK@12.3.1
