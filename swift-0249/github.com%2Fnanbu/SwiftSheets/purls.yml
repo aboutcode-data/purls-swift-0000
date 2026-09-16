@@ -63,3 +63,5 @@
 - pkg:swift/github.com/nanbu/SwiftSheets@0.7.2%5E%7B%7D
 - pkg:swift/github.com/nanbu/SwiftSheets@0.8.0
 - pkg:swift/github.com/nanbu/SwiftSheets@0.9.0
+- pkg:swift/github.com/nanbu/SwiftSheets@1.0.0
+- pkg:swift/github.com/nanbu/SwiftSheets@1.0.0%5E%7B%7D
