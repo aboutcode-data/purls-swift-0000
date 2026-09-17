@@ -1,0 +1,4 @@
+- pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@1.1.1-swift
+- pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@bindings/go/v1.1.1
+- pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.0
+- pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.1
