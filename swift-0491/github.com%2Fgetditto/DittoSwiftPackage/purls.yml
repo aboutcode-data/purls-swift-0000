@@ -337,6 +337,7 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.3-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.4-rc.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.4-rc.2
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.0.4-rc.3
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260215.211
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.1.0-dev-weekly.20260222.225
@@ -408,4 +409,5 @@
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.2.0-dev-weekly.20260823.2222
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.2.0-dev-weekly.20260830.2299
 - pkg:swift/github.com/getditto/DittoSwiftPackage@5.2.0-dev-weekly.20260906.2376
+- pkg:swift/github.com/getditto/DittoSwiftPackage@5.2.0-preview.1
 - pkg:swift/github.com/getditto/DittoSwiftPackage@ckage-publish-4.1
