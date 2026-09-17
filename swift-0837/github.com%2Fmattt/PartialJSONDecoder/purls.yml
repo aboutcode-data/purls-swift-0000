@@ -1,1 +1,2 @@
 - pkg:swift/github.com/mattt/PartialJSONDecoder@1.0.0
+- pkg:swift/github.com/mattt/PartialJSONDecoder@1.0.1
