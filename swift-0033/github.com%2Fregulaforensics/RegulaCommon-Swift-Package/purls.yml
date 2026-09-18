@@ -112,6 +112,7 @@
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2811-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2814-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2819-rc
+- pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.8.2829-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.9.2718-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.9.2719-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.9.2724-nightly
@@ -133,3 +134,5 @@
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.9.2818-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.9.2822-nightly
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.9.2824-rc
+- pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.9.2827-nightly
+- pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.9.2828-rc
