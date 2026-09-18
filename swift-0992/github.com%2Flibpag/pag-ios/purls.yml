@@ -597,6 +597,8 @@
 - pkg:swift/github.com/libpag/pag-ios@4.4.7%5E%7B%7D
 - pkg:swift/github.com/libpag/pag-ios@4.4.72
 - pkg:swift/github.com/libpag/pag-ios@4.4.72%5E%7B%7D
+- pkg:swift/github.com/libpag/pag-ios@4.4.73
+- pkg:swift/github.com/libpag/pag-ios@4.4.73%5E%7B%7D
 - pkg:swift/github.com/libpag/pag-ios@4.4.8
 - pkg:swift/github.com/libpag/pag-ios@4.4.8%5E%7B%7D
 - pkg:swift/github.com/libpag/pag-ios@4.5.12
