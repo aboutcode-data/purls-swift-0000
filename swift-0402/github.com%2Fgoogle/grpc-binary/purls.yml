@@ -9,3 +9,4 @@
 - pkg:swift/github.com/google/grpc-binary@1.65.1
 - pkg:swift/github.com/google/grpc-binary@1.69.0
 - pkg:swift/github.com/google/grpc-binary@1.69.1
+- pkg:swift/github.com/google/grpc-binary@1.83.1
