@@ -1,6 +1,7 @@
 - pkg:swift/github.com/swift-extras/swift-extras-base64@0.7.0
 - pkg:swift/github.com/swift-extras/swift-extras-base64@1.0.0
 - pkg:swift/github.com/swift-extras/swift-extras-base64@1.1.0
+- pkg:swift/github.com/swift-extras/swift-extras-base64@1.2.0
 - pkg:swift/github.com/swift-extras/swift-extras-base64@v0.1.0
 - pkg:swift/github.com/swift-extras/swift-extras-base64@v0.2.0
 - pkg:swift/github.com/swift-extras/swift-extras-base64@v0.3.0
