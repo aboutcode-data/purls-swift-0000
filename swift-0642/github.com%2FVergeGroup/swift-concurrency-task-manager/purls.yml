@@ -13,3 +13,4 @@
 - pkg:swift/github.com/VergeGroup/swift-concurrency-task-manager@2.1.4
 - pkg:swift/github.com/VergeGroup/swift-concurrency-task-manager@2.2.0
 - pkg:swift/github.com/VergeGroup/swift-concurrency-task-manager@3.0.0
+- pkg:swift/github.com/VergeGroup/swift-concurrency-task-manager@3.1.0
