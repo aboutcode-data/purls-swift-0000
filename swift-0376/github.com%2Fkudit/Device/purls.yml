@@ -142,6 +142,8 @@
 - pkg:swift/github.com/kudit/Device@v2.13.0%5E%7B%7D
 - pkg:swift/github.com/kudit/Device@v2.13.1
 - pkg:swift/github.com/kudit/Device@v2.13.1%5E%7B%7D
+- pkg:swift/github.com/kudit/Device@v2.14.0
+- pkg:swift/github.com/kudit/Device@v2.14.0%5E%7B%7D
 - pkg:swift/github.com/kudit/Device@v2.2
 - pkg:swift/github.com/kudit/Device@v2.2%5E%7B%7D
 - pkg:swift/github.com/kudit/Device@v2.2.1
