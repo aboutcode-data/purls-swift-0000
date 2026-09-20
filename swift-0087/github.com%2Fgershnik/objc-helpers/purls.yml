@@ -12,3 +12,4 @@
 - pkg:swift/github.com/gershnik/objc-helpers@v3.5
 - pkg:swift/github.com/gershnik/objc-helpers@v3.6
 - pkg:swift/github.com/gershnik/objc-helpers@v3.7.0
+- pkg:swift/github.com/gershnik/objc-helpers@v3.8.0
