@@ -1339,6 +1339,7 @@
 - pkg:swift/github.com/tuist/tuist@atlas%400.13.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.13.1
 - pkg:swift/github.com/tuist/tuist@atlas%400.14.0
+- pkg:swift/github.com/tuist/tuist@atlas%400.15.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.2.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.2.1
 - pkg:swift/github.com/tuist/tuist@atlas%400.2.2
