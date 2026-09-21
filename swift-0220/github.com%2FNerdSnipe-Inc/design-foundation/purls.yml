@@ -16,6 +16,8 @@
 - pkg:swift/github.com/NerdSnipe-Inc/design-foundation@1.4.0%5E%7B%7D
 - pkg:swift/github.com/NerdSnipe-Inc/design-foundation@1.5.0
 - pkg:swift/github.com/NerdSnipe-Inc/design-foundation@1.5.0%5E%7B%7D
+- pkg:swift/github.com/NerdSnipe-Inc/design-foundation@1.6.0
+- pkg:swift/github.com/NerdSnipe-Inc/design-foundation@1.6.0%5E%7B%7D
 - pkg:swift/github.com/NerdSnipe-Inc/design-foundation@v1.0.1
 - pkg:swift/github.com/NerdSnipe-Inc/design-foundation@v1.0.2
 - pkg:swift/github.com/NerdSnipe-Inc/design-foundation@v1.1.0
