@@ -26,3 +26,5 @@
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.8.0%5E%7B%7D
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.9.0
 - pkg:swift/github.com/dweekly/swift-tailscale-client@v0.9.0%5E%7B%7D
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v1.0.0
+- pkg:swift/github.com/dweekly/swift-tailscale-client@v1.0.0%5E%7B%7D
