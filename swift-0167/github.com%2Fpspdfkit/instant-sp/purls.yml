@@ -86,3 +86,4 @@
 - pkg:swift/github.com/pspdfkit/instant-sp@26.7.0
 - pkg:swift/github.com/pspdfkit/instant-sp@26.8.0
 - pkg:swift/github.com/pspdfkit/instant-sp@26.9.0
+- pkg:swift/github.com/pspdfkit/instant-sp@27.0.0
