@@ -145,3 +145,4 @@
 - pkg:swift/github.com/apache/fory@v1.7.3-rc2
 - pkg:swift/github.com/apache/fory@v1.7.4
 - pkg:swift/github.com/apache/fory@v1.7.4-rc1
+- pkg:swift/github.com/apache/fory@v1.7.5-rc1
