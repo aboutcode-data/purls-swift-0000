@@ -16,4 +16,5 @@
 - pkg:swift/github.com/garmin/fit-objective-c-sdk@21.212.0
 - pkg:swift/github.com/garmin/fit-objective-c-sdk@21.213.0
 - pkg:swift/github.com/garmin/fit-objective-c-sdk@21.214.0
+- pkg:swift/github.com/garmin/fit-objective-c-sdk@21.217.0
 - pkg:swift/github.com/garmin/fit-objective-c-sdk@21.94.0
