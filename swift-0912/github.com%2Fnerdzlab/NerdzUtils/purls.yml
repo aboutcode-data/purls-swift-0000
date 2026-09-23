@@ -172,3 +172,5 @@
 - pkg:swift/github.com/nerdzlab/NerdzUtils@1.0.95
 - pkg:swift/github.com/nerdzlab/NerdzUtils@1.0.96
 - pkg:swift/github.com/nerdzlab/NerdzUtils@1.1.0
+- pkg:swift/github.com/nerdzlab/NerdzUtils@2.0.0
+- pkg:swift/github.com/nerdzlab/NerdzUtils@2.0.0%5E%7B%7D
