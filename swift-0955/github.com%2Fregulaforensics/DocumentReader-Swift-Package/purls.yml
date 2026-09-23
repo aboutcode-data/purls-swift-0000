@@ -107,3 +107,6 @@
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.9.7027-rc
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.9.7033-nightly
 - pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.9.7034-rc
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.9.7037-nightly
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.9.7039-nightly
+- pkg:swift/github.com/regulaforensics/DocumentReader-Swift-Package@9.9.7040-rc
