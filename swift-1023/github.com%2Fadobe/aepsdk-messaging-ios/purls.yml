@@ -24,6 +24,7 @@
 - pkg:swift/github.com/adobe/aepsdk-messaging-ios@5.15.0
 - pkg:swift/github.com/adobe/aepsdk-messaging-ios@5.16.0
 - pkg:swift/github.com/adobe/aepsdk-messaging-ios@5.16.1
+- pkg:swift/github.com/adobe/aepsdk-messaging-ios@5.16.2
 - pkg:swift/github.com/adobe/aepsdk-messaging-ios@5.2.0
 - pkg:swift/github.com/adobe/aepsdk-messaging-ios@5.3.0
 - pkg:swift/github.com/adobe/aepsdk-messaging-ios@5.4.0
