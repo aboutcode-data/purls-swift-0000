@@ -1365,6 +1365,10 @@
 - pkg:swift/github.com/tuist/tuist@atlas%400.21.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.22.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.23.0
+- pkg:swift/github.com/tuist/tuist@atlas%400.23.1
+- pkg:swift/github.com/tuist/tuist@atlas%400.23.2
+- pkg:swift/github.com/tuist/tuist@atlas%400.24.0
+- pkg:swift/github.com/tuist/tuist@atlas%400.24.1
 - pkg:swift/github.com/tuist/tuist@atlas%400.3.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.3.1
 - pkg:swift/github.com/tuist/tuist@atlas%400.4.0
@@ -1691,6 +1695,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.140.0
 - pkg:swift/github.com/tuist/tuist@helm%400.140.1
 - pkg:swift/github.com/tuist/tuist@helm%400.141.0
+- pkg:swift/github.com/tuist/tuist@helm%400.141.1
 - pkg:swift/github.com/tuist/tuist@helm%400.15.0
 - pkg:swift/github.com/tuist/tuist@helm%400.16.0
 - pkg:swift/github.com/tuist/tuist@helm%400.17.0
@@ -2023,6 +2028,7 @@
 - pkg:swift/github.com/tuist/tuist@kura%400.54.0
 - pkg:swift/github.com/tuist/tuist@kura%400.55.0
 - pkg:swift/github.com/tuist/tuist@kura%400.56.0-canary.1
+- pkg:swift/github.com/tuist/tuist@kura%400.56.0-canary.2
 - pkg:swift/github.com/tuist/tuist@kura%400.6.0
 - pkg:swift/github.com/tuist/tuist@kura%400.6.1
 - pkg:swift/github.com/tuist/tuist@kura%400.7.0
