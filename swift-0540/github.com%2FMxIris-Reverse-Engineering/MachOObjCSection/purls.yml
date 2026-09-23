@@ -45,5 +45,7 @@
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOObjCSection@0.8.104%5E%7B%7D
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOObjCSection@0.8.105
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOObjCSection@0.8.105%5E%7B%7D
+- pkg:swift/github.com/MxIris-Reverse-Engineering/MachOObjCSection@0.8.106
+- pkg:swift/github.com/MxIris-Reverse-Engineering/MachOObjCSection@0.8.106%5E%7B%7D
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOObjCSection@fork/0.6.0-patch1
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOObjCSection@fork/0.6.0-patch1%5E%7B%7D
