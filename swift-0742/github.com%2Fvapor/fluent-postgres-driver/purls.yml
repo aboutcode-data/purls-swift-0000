@@ -47,6 +47,8 @@
 - pkg:swift/github.com/vapor/fluent-postgres-driver@2.10.1
 - pkg:swift/github.com/vapor/fluent-postgres-driver@2.11.0
 - pkg:swift/github.com/vapor/fluent-postgres-driver@2.12.0
+- pkg:swift/github.com/vapor/fluent-postgres-driver@2.13.0
+- pkg:swift/github.com/vapor/fluent-postgres-driver@2.13.1
 - pkg:swift/github.com/vapor/fluent-postgres-driver@2.2.0
 - pkg:swift/github.com/vapor/fluent-postgres-driver@2.2.1
 - pkg:swift/github.com/vapor/fluent-postgres-driver@2.2.2
