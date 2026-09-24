@@ -30,3 +30,4 @@
 - pkg:swift/github.com/sersoft-gmbh/semver@5.3.0
 - pkg:swift/github.com/sersoft-gmbh/semver@5.4.0
 - pkg:swift/github.com/sersoft-gmbh/semver@5.5.0
+- pkg:swift/github.com/sersoft-gmbh/semver@5.6.0
