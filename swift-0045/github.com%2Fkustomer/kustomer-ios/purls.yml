@@ -113,3 +113,4 @@
 - pkg:swift/github.com/kustomer/kustomer-ios@7.2.8
 - pkg:swift/github.com/kustomer/kustomer-ios@8.0.0
 - pkg:swift/github.com/kustomer/kustomer-ios@8.1.0
+- pkg:swift/github.com/kustomer/kustomer-ios@8.2.0
