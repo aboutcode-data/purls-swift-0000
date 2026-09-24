@@ -84,6 +84,7 @@
 - pkg:swift/github.com/measure-sh/measure@kmp-v0.1.0
 - pkg:swift/github.com/measure-sh/measure@kmp-v0.1.0-alpha.1
 - pkg:swift/github.com/measure-sh/measure@kmp-v0.2.0
+- pkg:swift/github.com/measure-sh/measure@kmp-v0.3.0
 - pkg:swift/github.com/measure-sh/measure@measure-android-0.1.0
 - pkg:swift/github.com/measure-sh/measure@measure-android-0.2.0
 - pkg:swift/github.com/measure-sh/measure@measure-android-0.3.0
