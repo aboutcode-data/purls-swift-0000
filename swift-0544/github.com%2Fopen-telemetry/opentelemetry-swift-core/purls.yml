@@ -7,3 +7,4 @@
 - pkg:swift/github.com/open-telemetry/opentelemetry-swift-core@2.4.2
 - pkg:swift/github.com/open-telemetry/opentelemetry-swift-core@2.5.0
 - pkg:swift/github.com/open-telemetry/opentelemetry-swift-core@2.5.1
+- pkg:swift/github.com/open-telemetry/opentelemetry-swift-core@2.6.0
