@@ -3,5 +3,7 @@
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@bindings/ocaml/v1.1.1
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.0
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.1
+- pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.1-crystal
+- pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.1-crystal%5E%7B%7D
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.1-d
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.1-d%5E%7B%7D
