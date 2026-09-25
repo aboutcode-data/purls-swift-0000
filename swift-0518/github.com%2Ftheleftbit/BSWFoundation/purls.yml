@@ -24,6 +24,7 @@
 - pkg:swift/github.com/theleftbit/BSWFoundation@2.4.0
 - pkg:swift/github.com/theleftbit/BSWFoundation@26.8.0
 - pkg:swift/github.com/theleftbit/BSWFoundation@26.8.0%5E%7B%7D
+- pkg:swift/github.com/theleftbit/BSWFoundation@26.9.0
 - pkg:swift/github.com/theleftbit/BSWFoundation@3.0.0
 - pkg:swift/github.com/theleftbit/BSWFoundation@3.1.0
 - pkg:swift/github.com/theleftbit/BSWFoundation@3.2.0
