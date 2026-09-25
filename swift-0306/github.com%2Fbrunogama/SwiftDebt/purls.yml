@@ -4,6 +4,8 @@
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.0.1%5E%7B%7D
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.1.0
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.1.0%5E%7B%7D
+- pkg:swift/github.com/brunogama/SwiftDebt@v0.10.0
+- pkg:swift/github.com/brunogama/SwiftDebt@v0.10.0%5E%7B%7D
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.2.0
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.2.0%5E%7B%7D
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.2.1
@@ -24,3 +26,9 @@
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.7.2%5E%7B%7D
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.7.3
 - pkg:swift/github.com/brunogama/SwiftDebt@v0.7.3%5E%7B%7D
+- pkg:swift/github.com/brunogama/SwiftDebt@v0.8.0
+- pkg:swift/github.com/brunogama/SwiftDebt@v0.8.0%5E%7B%7D
+- pkg:swift/github.com/brunogama/SwiftDebt@v0.8.1
+- pkg:swift/github.com/brunogama/SwiftDebt@v0.8.1%5E%7B%7D
+- pkg:swift/github.com/brunogama/SwiftDebt@v0.9.0
+- pkg:swift/github.com/brunogama/SwiftDebt@v0.9.0%5E%7B%7D
