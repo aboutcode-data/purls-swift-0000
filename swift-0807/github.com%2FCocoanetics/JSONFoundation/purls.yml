@@ -17,3 +17,4 @@
 - pkg:swift/github.com/Cocoanetics/JSONFoundation@2.5.1
 - pkg:swift/github.com/Cocoanetics/JSONFoundation@2.5.1%5E%7B%7D
 - pkg:swift/github.com/Cocoanetics/JSONFoundation@3.0.0
+- pkg:swift/github.com/Cocoanetics/JSONFoundation@3.1.0
