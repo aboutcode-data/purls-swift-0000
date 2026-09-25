@@ -63,6 +63,7 @@
 - pkg:swift/github.com/hmlongco/Factory@3.3.1
 - pkg:swift/github.com/hmlongco/Factory@3.3.2
 - pkg:swift/github.com/hmlongco/Factory@3.4.0
+- pkg:swift/github.com/hmlongco/Factory@3.4.1
 - pkg:swift/github.com/hmlongco/Factory@v1.3.0
 - pkg:swift/github.com/hmlongco/Factory@v2.4.10
 - pkg:swift/github.com/hmlongco/Factory@v2.4.11
