@@ -22,3 +22,4 @@
 - pkg:swift/github.com/checkout/checkout-risk-sdk-ios@4.0.2
 - pkg:swift/github.com/checkout/checkout-risk-sdk-ios@5.0.0
 - pkg:swift/github.com/checkout/checkout-risk-sdk-ios@6.0.0
+- pkg:swift/github.com/checkout/checkout-risk-sdk-ios@6.0.1
