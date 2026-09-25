@@ -414,6 +414,8 @@
 - pkg:swift/github.com/urbanairship/ios-library@19.11.0%5E%7B%7D
 - pkg:swift/github.com/urbanairship/ios-library@19.11.1
 - pkg:swift/github.com/urbanairship/ios-library@19.11.1%5E%7B%7D
+- pkg:swift/github.com/urbanairship/ios-library@19.11.10
+- pkg:swift/github.com/urbanairship/ios-library@19.11.10%5E%7B%7D
 - pkg:swift/github.com/urbanairship/ios-library@19.11.2
 - pkg:swift/github.com/urbanairship/ios-library@19.11.2%5E%7B%7D
 - pkg:swift/github.com/urbanairship/ios-library@19.11.3
