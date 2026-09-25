@@ -56,6 +56,8 @@
 - pkg:swift/github.com/ggml-org/ggml@v0.25.1%5E%7B%7D
 - pkg:swift/github.com/ggml-org/ggml@v0.25.2
 - pkg:swift/github.com/ggml-org/ggml@v0.25.2%5E%7B%7D
+- pkg:swift/github.com/ggml-org/ggml@v0.25.3
+- pkg:swift/github.com/ggml-org/ggml@v0.25.3%5E%7B%7D
 - pkg:swift/github.com/ggml-org/ggml@v0.9.1
 - pkg:swift/github.com/ggml-org/ggml@v0.9.1%5E%7B%7D
 - pkg:swift/github.com/ggml-org/ggml@v0.9.10
