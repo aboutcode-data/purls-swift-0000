@@ -334,6 +334,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b0bc7b2dae20d2bd22b10b8c7893e36153d4698d
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b21348102d05be7dbdc8c0eaab7d06736f1277b5
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b253af8a155b823b434ff3cc8c7ecb9a1cc59f91
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b2896aedda1d9cf688e919b98fb314ab7cbe97aa
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b4c53c6c3e2d6ac2d6c601aab0b9cbedb3babb88
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b54e1b320f6d6ec1122265119d8f59da22a69f3c
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b75c7381ce8e642008cea041a6395f1e8d6fc59b
