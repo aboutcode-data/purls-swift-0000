@@ -27,8 +27,16 @@
 - pkg:swift/github.com/managoat/fountain@pre-buzz-gateway%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@pre-openclaw
 - pkg:swift/github.com/managoat/fountain@pre-openclaw%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-elixir-v0.7.0
+- pkg:swift/github.com/managoat/fountain@sdk-elixir-v0.7.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-python-v0.7.0
+- pkg:swift/github.com/managoat/fountain@sdk-python-v0.7.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@sdk-swift-v0.20.0
 - pkg:swift/github.com/managoat/fountain@sdk-swift-v0.20.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-swift-v0.21.0
+- pkg:swift/github.com/managoat/fountain@sdk-swift-v0.21.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.2.0
+- pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.2.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@sdk-v0.1.1
 - pkg:swift/github.com/managoat/fountain@sdk-v0.1.1%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@sdk-v0.1.10
