@@ -27,3 +27,4 @@
 - pkg:swift/github.com/apple/swift-collections@1.5.1
 - pkg:swift/github.com/apple/swift-collections@1.6.0
 - pkg:swift/github.com/apple/swift-collections@1.7.0
+- pkg:swift/github.com/apple/swift-collections@1.7.1
