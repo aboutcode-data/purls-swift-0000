@@ -52,3 +52,5 @@
 - pkg:swift/github.com/FluidGroup/Brightroom@4.0.0-beta.1
 - pkg:swift/github.com/FluidGroup/Brightroom@5.0.0
 - pkg:swift/github.com/FluidGroup/Brightroom@5.1.0
+- pkg:swift/github.com/FluidGroup/Brightroom@5.1.1
+- pkg:swift/github.com/FluidGroup/Brightroom@5.1.2
