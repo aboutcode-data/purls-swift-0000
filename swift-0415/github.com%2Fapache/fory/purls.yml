@@ -148,3 +148,4 @@
 - pkg:swift/github.com/apache/fory@v1.7.4-rc1
 - pkg:swift/github.com/apache/fory@v1.7.5
 - pkg:swift/github.com/apache/fory@v1.7.5-rc1
+- pkg:swift/github.com/apache/fory@v1.7.6-rc1
