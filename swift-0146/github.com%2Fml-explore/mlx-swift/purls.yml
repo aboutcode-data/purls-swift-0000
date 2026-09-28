@@ -28,3 +28,4 @@
 - pkg:swift/github.com/ml-explore/mlx-swift@0.31.4
 - pkg:swift/github.com/ml-explore/mlx-swift@0.31.5
 - pkg:swift/github.com/ml-explore/mlx-swift@0.31.6
+- pkg:swift/github.com/ml-explore/mlx-swift@0.32.2
