@@ -1,5 +1,6 @@
 - pkg:swift/github.com/ainame/Swift-WebP@0.6.0
 - pkg:swift/github.com/ainame/Swift-WebP@0.6.1
+- pkg:swift/github.com/ainame/Swift-WebP@0.7.0
 - pkg:swift/github.com/ainame/Swift-WebP@v0.0.1
 - pkg:swift/github.com/ainame/Swift-WebP@v0.0.10
 - pkg:swift/github.com/ainame/Swift-WebP@v0.0.2
