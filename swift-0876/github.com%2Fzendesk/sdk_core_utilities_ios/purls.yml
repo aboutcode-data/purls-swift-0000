@@ -22,3 +22,4 @@
 - pkg:swift/github.com/zendesk/sdk_core_utilities_ios@7.2.0
 - pkg:swift/github.com/zendesk/sdk_core_utilities_ios@8.0.0
 - pkg:swift/github.com/zendesk/sdk_core_utilities_ios@8.1.0
+- pkg:swift/github.com/zendesk/sdk_core_utilities_ios@8.2.0
