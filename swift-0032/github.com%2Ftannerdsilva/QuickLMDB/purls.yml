@@ -30,6 +30,7 @@
 - pkg:swift/github.com/tannerdsilva/QuickLMDB@13.0.0
 - pkg:swift/github.com/tannerdsilva/QuickLMDB@14.0.0
 - pkg:swift/github.com/tannerdsilva/QuickLMDB@15.0.0
+- pkg:swift/github.com/tannerdsilva/QuickLMDB@16.0.0
 - pkg:swift/github.com/tannerdsilva/QuickLMDB@2.0.0
 - pkg:swift/github.com/tannerdsilva/QuickLMDB@2.1.0
 - pkg:swift/github.com/tannerdsilva/QuickLMDB@3.0.0
