@@ -18,6 +18,7 @@
 - pkg:swift/github.com/sceneview/sceneview@assets-v1
 - pkg:swift/github.com/sceneview/sceneview@audit-2026-05-14-pixel9
 - pkg:swift/github.com/sceneview/sceneview@demo-v1.1.0
+- pkg:swift/github.com/sceneview/sceneview@hd-pack-v1
 - pkg:swift/github.com/sceneview/sceneview@samples-legacy-v3.6
 - pkg:swift/github.com/sceneview/sceneview@samples-legacy-v3.6%5E%7B%7D
 - pkg:swift/github.com/sceneview/sceneview@v0.0.3
@@ -234,6 +235,8 @@
 - pkg:swift/github.com/sceneview/sceneview@v4.46.0%5E%7B%7D
 - pkg:swift/github.com/sceneview/sceneview@v4.47.0
 - pkg:swift/github.com/sceneview/sceneview@v4.47.0%5E%7B%7D
+- pkg:swift/github.com/sceneview/sceneview@v4.48.0
+- pkg:swift/github.com/sceneview/sceneview@v4.48.0%5E%7B%7D
 - pkg:swift/github.com/sceneview/sceneview@v4.5.0
 - pkg:swift/github.com/sceneview/sceneview@v4.6.0
 - pkg:swift/github.com/sceneview/sceneview@v4.6.1
