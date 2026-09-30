@@ -31,3 +31,4 @@
 - pkg:swift/github.com/hummingbird-project/hummingbird-lambda@2.0.1
 - pkg:swift/github.com/hummingbird-project/hummingbird-lambda@2.0.2
 - pkg:swift/github.com/hummingbird-project/hummingbird-lambda@2.1.0
+- pkg:swift/github.com/hummingbird-project/hummingbird-lambda@3.0.0-rc.1
