@@ -9,6 +9,7 @@
 - pkg:swift/github.com/zendesk/sdk_socket_client_ios@1.12.0
 - pkg:swift/github.com/zendesk/sdk_socket_client_ios@1.13.0
 - pkg:swift/github.com/zendesk/sdk_socket_client_ios@1.14.0
+- pkg:swift/github.com/zendesk/sdk_socket_client_ios@1.15.0
 - pkg:swift/github.com/zendesk/sdk_socket_client_ios@1.2.0
 - pkg:swift/github.com/zendesk/sdk_socket_client_ios@1.3.0
 - pkg:swift/github.com/zendesk/sdk_socket_client_ios@1.4.0
