@@ -87,3 +87,4 @@
 - pkg:swift/github.com/pspdfkit/pspdfkit-sp@26.8.0
 - pkg:swift/github.com/pspdfkit/pspdfkit-sp@26.9.0
 - pkg:swift/github.com/pspdfkit/pspdfkit-sp@27.0.0
+- pkg:swift/github.com/pspdfkit/pspdfkit-sp@27.0.1
