@@ -55,3 +55,4 @@
 - pkg:swift/github.com/open-telemetry/opentelemetry-swift@2.5.0
 - pkg:swift/github.com/open-telemetry/opentelemetry-swift@2.5.1
 - pkg:swift/github.com/open-telemetry/opentelemetry-swift@2.5.2
+- pkg:swift/github.com/open-telemetry/opentelemetry-swift@2.6.0
