@@ -3,6 +3,7 @@
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@bindings/lua/v1.1.1-2
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@bindings/ocaml/v1.1.1
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@licd-tool-v1.1.1
+- pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@racket-v1.1.1
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.0
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.1
 - pkg:swift/github.com/AB-KeyNub/KeyNub-SDK@v1.1.1-crystal
