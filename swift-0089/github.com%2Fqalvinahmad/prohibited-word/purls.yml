@@ -1,0 +1,6 @@
+- pkg:swift/github.com/qalvinahmad/prohibited-word@0.1.0
+- pkg:swift/github.com/qalvinahmad/prohibited-word@0.1.0%5E%7B%7D
+- pkg:swift/github.com/qalvinahmad/prohibited-word@packages/go/v0.1.0
+- pkg:swift/github.com/qalvinahmad/prohibited-word@packages/go/v0.1.0%5E%7B%7D
+- pkg:swift/github.com/qalvinahmad/prohibited-word@v0.1.0
+- pkg:swift/github.com/qalvinahmad/prohibited-word@v0.1.0%5E%7B%7D
