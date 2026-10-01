@@ -32,6 +32,8 @@
 - pkg:swift/github.com/bookingcom/perfsuite-ios@1.11.3%5E%7B%7D
 - pkg:swift/github.com/bookingcom/perfsuite-ios@1.11.4
 - pkg:swift/github.com/bookingcom/perfsuite-ios@1.11.4%5E%7B%7D
+- pkg:swift/github.com/bookingcom/perfsuite-ios@1.11.5
+- pkg:swift/github.com/bookingcom/perfsuite-ios@1.11.5%5E%7B%7D
 - pkg:swift/github.com/bookingcom/perfsuite-ios@1.2.1
 - pkg:swift/github.com/bookingcom/perfsuite-ios@1.2.1%5E%7B%7D
 - pkg:swift/github.com/bookingcom/perfsuite-ios@1.2.2
