@@ -1,0 +1,9 @@
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.25.0
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.26.0
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.26.1
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.27.0
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.28.0
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.29.0
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.29.1
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.29.2
+- pkg:swift/github.com/getsentry/sentry-apple-cocoalumberjack@9.30.0
