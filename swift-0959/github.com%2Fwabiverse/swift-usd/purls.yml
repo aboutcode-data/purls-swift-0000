@@ -98,3 +98,5 @@
 - pkg:swift/github.com/wabiverse/swift-usd@v26.8.8
 - pkg:swift/github.com/wabiverse/swift-usd@v26.8.9
 - pkg:swift/github.com/wabiverse/swift-usd@v26.9.0
+- pkg:swift/github.com/wabiverse/swift-usd@v26.9.1
+- pkg:swift/github.com/wabiverse/swift-usd@v26.9.2
