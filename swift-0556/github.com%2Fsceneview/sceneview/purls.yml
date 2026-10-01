@@ -242,6 +242,8 @@
 - pkg:swift/github.com/sceneview/sceneview@v4.5.0
 - pkg:swift/github.com/sceneview/sceneview@v4.50.0
 - pkg:swift/github.com/sceneview/sceneview@v4.50.0%5E%7B%7D
+- pkg:swift/github.com/sceneview/sceneview@v4.51.0
+- pkg:swift/github.com/sceneview/sceneview@v4.51.0%5E%7B%7D
 - pkg:swift/github.com/sceneview/sceneview@v4.6.0
 - pkg:swift/github.com/sceneview/sceneview@v4.6.1
 - pkg:swift/github.com/sceneview/sceneview@v4.6.2
