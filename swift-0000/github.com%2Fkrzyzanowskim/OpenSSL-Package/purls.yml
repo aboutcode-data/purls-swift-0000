@@ -30,3 +30,5 @@
 - pkg:swift/github.com/krzyzanowskim/OpenSSL-Package@3.6.2000%5E%7B%7D
 - pkg:swift/github.com/krzyzanowskim/OpenSSL-Package@3.6.3000
 - pkg:swift/github.com/krzyzanowskim/OpenSSL-Package@3.6.3000%5E%7B%7D
+- pkg:swift/github.com/krzyzanowskim/OpenSSL-Package@3.6.5000
+- pkg:swift/github.com/krzyzanowskim/OpenSSL-Package@3.6.5000%5E%7B%7D
