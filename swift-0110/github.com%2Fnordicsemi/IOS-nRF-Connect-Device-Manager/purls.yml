@@ -50,6 +50,8 @@
 - pkg:swift/github.com/nordicsemi/IOS-nRF-Connect-Device-Manager@1.14.7%5E%7B%7D
 - pkg:swift/github.com/nordicsemi/IOS-nRF-Connect-Device-Manager@1.14.8
 - pkg:swift/github.com/nordicsemi/IOS-nRF-Connect-Device-Manager@1.14.8%5E%7B%7D
+- pkg:swift/github.com/nordicsemi/IOS-nRF-Connect-Device-Manager@1.14.9
+- pkg:swift/github.com/nordicsemi/IOS-nRF-Connect-Device-Manager@1.14.9%5E%7B%7D
 - pkg:swift/github.com/nordicsemi/IOS-nRF-Connect-Device-Manager@1.2.0
 - pkg:swift/github.com/nordicsemi/IOS-nRF-Connect-Device-Manager@1.2.0%5E%7B%7D
 - pkg:swift/github.com/nordicsemi/IOS-nRF-Connect-Device-Manager@1.2.1
