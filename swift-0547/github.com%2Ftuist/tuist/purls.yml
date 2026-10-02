@@ -1103,6 +1103,8 @@
 - pkg:swift/github.com/tuist/tuist@4.212.0-canary.13
 - pkg:swift/github.com/tuist/tuist@4.212.0-canary.14
 - pkg:swift/github.com/tuist/tuist@4.212.0-canary.15
+- pkg:swift/github.com/tuist/tuist@4.212.0-canary.16
+- pkg:swift/github.com/tuist/tuist@4.212.0-canary.17
 - pkg:swift/github.com/tuist/tuist@4.212.0-canary.2
 - pkg:swift/github.com/tuist/tuist@4.212.0-canary.3
 - pkg:swift/github.com/tuist/tuist@4.212.0-canary.4
