@@ -6,6 +6,8 @@
 - pkg:swift/github.com/huggingface/AnyLanguageModel@0.14.0
 - pkg:swift/github.com/huggingface/AnyLanguageModel@0.14.1
 - pkg:swift/github.com/huggingface/AnyLanguageModel@0.14.2
+- pkg:swift/github.com/huggingface/AnyLanguageModel@0.15.0
+- pkg:swift/github.com/huggingface/AnyLanguageModel@0.15.1
 - pkg:swift/github.com/huggingface/AnyLanguageModel@0.2.0
 - pkg:swift/github.com/huggingface/AnyLanguageModel@0.2.1
 - pkg:swift/github.com/huggingface/AnyLanguageModel@0.2.2
