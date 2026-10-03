@@ -228,6 +228,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23322
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23348
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23363
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23377
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2720
@@ -239,6 +240,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2937
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2995
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2b6ae07ed6a204f6e2dd73bc70818e73d7f32bef
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2c8510343e47ca8908c93674e7676d854a9205a4
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2e873cd5729cff86f7c6d64e2795aeee95ea8bf2
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2f7824593d0d14f9d5d73faa540b681b6b2b507c
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/3005
@@ -247,6 +249,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/3025
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/3049
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/3056
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/305638c4ae8d48e26bf0c9fbfbff009416304636
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/3134
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/3199
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/3248
@@ -412,6 +415,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f5102b8fd9f311d8e57199fdfeb1633e6f9264fd
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f6eaba2391f80491b2c5d63095be05038284035b
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/fa1e8671fb761ce432360e0edb9a9de4b5853c53
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/fbf91c21d390070d711724dbe5fc03b235f348d0
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/ff679f595de379c26f4ee7a80dd03589a115aa45
 - pkg:swift/github.com/pytorch/executorch@stable-2023-08-01
 - pkg:swift/github.com/pytorch/executorch@stable-2023-08-01%5E%7B%7D
