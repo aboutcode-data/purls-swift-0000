@@ -41,6 +41,10 @@
 - pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.2.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.3.0
 - pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.3.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.4.0
+- pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.4.0%5E%7B%7D
+- pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.5.0
+- pkg:swift/github.com/managoat/fountain@sdk-typescript-v6.5.0%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@sdk-v0.1.1
 - pkg:swift/github.com/managoat/fountain@sdk-v0.1.1%5E%7B%7D
 - pkg:swift/github.com/managoat/fountain@sdk-v0.1.10
