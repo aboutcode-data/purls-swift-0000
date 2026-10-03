@@ -22,6 +22,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.8
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.0.9
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.1.0
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi%402.1.1
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.10
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.11
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.12
@@ -66,6 +67,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.8
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.0.9
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.1.0
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-cli%402.1.1
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.10
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.11
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-core%402.0.12
@@ -161,6 +163,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.8
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.0.9
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.1.0
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-remark%402.1.1
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.10
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.11
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-docx%402.0.12
@@ -350,6 +353,7 @@
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.8
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.0.9
 - pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.1.0
+- pkg:swift/github.com/illusions-lab/MDI@%40illusions-lab/mdi-to-pdf%402.1.1
 - pkg:swift/github.com/illusions-lab/MDI@2.0.1
 - pkg:swift/github.com/illusions-lab/MDI@2.0.2
 - pkg:swift/github.com/illusions-lab/MDI@2.0.3
