@@ -1,3 +1,5 @@
+- pkg:swift/github.com/lhoward/AsyncExtensions@0.10.0
+- pkg:swift/github.com/lhoward/AsyncExtensions@0.10.0%5E%7B%7D
 - pkg:swift/github.com/lhoward/AsyncExtensions@0.5.2
 - pkg:swift/github.com/lhoward/AsyncExtensions@0.5.2%5E%7B%7D
 - pkg:swift/github.com/lhoward/AsyncExtensions@0.5.5
@@ -10,3 +12,5 @@
 - pkg:swift/github.com/lhoward/AsyncExtensions@0.9.5
 - pkg:swift/github.com/lhoward/AsyncExtensions@0.9.6
 - pkg:swift/github.com/lhoward/AsyncExtensions@0.9.7
+- pkg:swift/github.com/lhoward/AsyncExtensions@0.9.8
+- pkg:swift/github.com/lhoward/AsyncExtensions@0.9.8%5E%7B%7D
