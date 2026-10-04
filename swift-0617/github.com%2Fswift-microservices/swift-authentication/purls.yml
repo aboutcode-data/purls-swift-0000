@@ -1,3 +1,4 @@
 - pkg:swift/github.com/swift-microservices/swift-authentication@0.1.0
 - pkg:swift/github.com/swift-microservices/swift-authentication@0.2.0
 - pkg:swift/github.com/swift-microservices/swift-authentication@0.3.0
+- pkg:swift/github.com/swift-microservices/swift-authentication@0.3.1

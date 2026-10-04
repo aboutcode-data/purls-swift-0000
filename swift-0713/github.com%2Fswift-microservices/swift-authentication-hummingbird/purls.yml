@@ -2,3 +2,4 @@
 - pkg:swift/github.com/swift-microservices/swift-authentication-hummingbird@0.1.1
 - pkg:swift/github.com/swift-microservices/swift-authentication-hummingbird@0.2.0
 - pkg:swift/github.com/swift-microservices/swift-authentication-hummingbird@0.3.0
+- pkg:swift/github.com/swift-microservices/swift-authentication-hummingbird@0.3.1
