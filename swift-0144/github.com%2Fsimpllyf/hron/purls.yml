@@ -5,6 +5,7 @@
 - pkg:swift/github.com/simpllyf/hron@go/v0.6.1
 - pkg:swift/github.com/simpllyf/hron@go/v1.0.0
 - pkg:swift/github.com/simpllyf/hron@go/v2.0.0
+- pkg:swift/github.com/simpllyf/hron@go/v2.1.0
 - pkg:swift/github.com/simpllyf/hron@v0.1.0
 - pkg:swift/github.com/simpllyf/hron@v0.1.1
 - pkg:swift/github.com/simpllyf/hron@v0.1.2
@@ -21,3 +22,4 @@
 - pkg:swift/github.com/simpllyf/hron@v0.6.1
 - pkg:swift/github.com/simpllyf/hron@v1.0.0
 - pkg:swift/github.com/simpllyf/hron@v2.0.0
+- pkg:swift/github.com/simpllyf/hron@v2.1.0
