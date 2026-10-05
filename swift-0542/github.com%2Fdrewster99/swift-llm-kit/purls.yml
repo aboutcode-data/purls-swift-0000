@@ -148,6 +148,8 @@
 - pkg:swift/github.com/drewster99/swift-llm-kit@0.0.210%5E%7B%7D
 - pkg:swift/github.com/drewster99/swift-llm-kit@0.0.211
 - pkg:swift/github.com/drewster99/swift-llm-kit@0.0.212
+- pkg:swift/github.com/drewster99/swift-llm-kit@0.0.213
+- pkg:swift/github.com/drewster99/swift-llm-kit@0.0.214
 - pkg:swift/github.com/drewster99/swift-llm-kit@0.0.22
 - pkg:swift/github.com/drewster99/swift-llm-kit@0.0.22%5E%7B%7D
 - pkg:swift/github.com/drewster99/swift-llm-kit@0.0.23
