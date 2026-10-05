@@ -1,3 +1,5 @@
 - pkg:swift/github.com/swift-library/swift-gyb@0.0.1
 - pkg:swift/github.com/swift-library/swift-gyb@0.0.2
 - pkg:swift/github.com/swift-library/swift-gyb@0.0.2%5E%7B%7D
+- pkg:swift/github.com/swift-library/swift-gyb@v0.1.0
+- pkg:swift/github.com/swift-library/swift-gyb@v0.1.0%5E%7B%7D
