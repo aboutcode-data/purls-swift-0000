@@ -13,6 +13,8 @@
 - pkg:swift/github.com/lynnswap/SyntaxEditorUI@v0.16.4
 - pkg:swift/github.com/lynnswap/SyntaxEditorUI@v0.16.5
 - pkg:swift/github.com/lynnswap/SyntaxEditorUI@v0.17.0
+- pkg:swift/github.com/lynnswap/SyntaxEditorUI@v0.17.1
+- pkg:swift/github.com/lynnswap/SyntaxEditorUI@v0.17.1%5E%7B%7D
 - pkg:swift/github.com/lynnswap/SyntaxEditorUI@v0.2.0
 - pkg:swift/github.com/lynnswap/SyntaxEditorUI@v0.3.0
 - pkg:swift/github.com/lynnswap/SyntaxEditorUI@v0.3.1
