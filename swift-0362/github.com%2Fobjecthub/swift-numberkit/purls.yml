@@ -31,3 +31,4 @@
 - pkg:swift/github.com/objecthub/swift-numberkit@2.5.1
 - pkg:swift/github.com/objecthub/swift-numberkit@2.6
 - pkg:swift/github.com/objecthub/swift-numberkit@2.6.1
+- pkg:swift/github.com/objecthub/swift-numberkit@3.0.0
