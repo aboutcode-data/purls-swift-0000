@@ -131,6 +131,8 @@
 - pkg:swift/github.com/SwifQL/SwifQL@1.5.0
 - pkg:swift/github.com/SwifQL/SwifQL@1.6.0
 - pkg:swift/github.com/SwifQL/SwifQL@1.6.0%5E%7B%7D
+- pkg:swift/github.com/SwifQL/SwifQL@2.0.0
+- pkg:swift/github.com/SwifQL/SwifQL@2.0.0%5E%7B%7D
 - pkg:swift/github.com/SwifQL/SwifQL@2.0.0-beta.1.0.0
 - pkg:swift/github.com/SwifQL/SwifQL@2.0.0-beta.1.0.0%5E%7B%7D
 - pkg:swift/github.com/SwifQL/SwifQL@2.0.0-beta.1.0.1
