@@ -1,3 +1,9 @@
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.101.43
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.101.43%5E%7B%7D
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.103.4
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.103.4%5E%7B%7D
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.105.4
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.105.4%5E%7B%7D
 - pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.34.211
 - pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.34.211%5E%7B%7D
 - pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.50.545
@@ -38,3 +44,7 @@
 - pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.93.129%5E%7B%7D
 - pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.95.43
 - pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.95.43%5E%7B%7D
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.97.43
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.97.43%5E%7B%7D
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.99.43
+- pkg:swift/github.com/machinefabric/tagged-urn-objc@v1.99.43%5E%7B%7D
