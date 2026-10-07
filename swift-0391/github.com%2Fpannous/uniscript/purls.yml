@@ -1,3 +1,6 @@
 - pkg:swift/github.com/pannous/uniscript@sublime-1.0.0
 - pkg:swift/github.com/pannous/uniscript@v0.1.0
 - pkg:swift/github.com/pannous/uniscript@v1.0.0
+- pkg:swift/github.com/pannous/uniscript@v1.0.1
+- pkg:swift/github.com/pannous/uniscript@v1.0.2
+- pkg:swift/github.com/pannous/uniscript@v1.0.3
