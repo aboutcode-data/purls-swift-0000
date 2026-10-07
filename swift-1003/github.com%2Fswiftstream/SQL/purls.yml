@@ -266,3 +266,5 @@
 - pkg:swift/github.com/swiftstream/SQL@2.0.0-beta.6.0.1%5E%7B%7D
 - pkg:swift/github.com/swiftstream/SQL@2.0.0-beta.6.1.0
 - pkg:swift/github.com/swiftstream/SQL@2.0.0-beta.6.1.0%5E%7B%7D
+- pkg:swift/github.com/swiftstream/SQL@2.1.0
+- pkg:swift/github.com/swiftstream/SQL@2.1.0%5E%7B%7D
