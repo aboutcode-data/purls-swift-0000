@@ -146,6 +146,10 @@
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.53.100%5E%7B%7D
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.53.101
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.53.101%5E%7B%7D
+- pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.54.100
+- pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.54.100%5E%7B%7D
+- pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.54.101
+- pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.54.101%5E%7B%7D
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.6.0
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.6.0%5E%7B%7D
 - pkg:swift/github.com/MxIris-Reverse-Engineering/MachOKit@0.7.0
