@@ -7,3 +7,4 @@
 - pkg:swift/github.com/swift-server/swift-kafka-client@1.0.0-alpha.7
 - pkg:swift/github.com/swift-server/swift-kafka-client@1.0.0-alpha.8
 - pkg:swift/github.com/swift-server/swift-kafka-client@1.0.0-alpha.9
+- pkg:swift/github.com/swift-server/swift-kafka-client@1.0.0-beta.1
