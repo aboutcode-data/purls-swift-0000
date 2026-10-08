@@ -832,6 +832,8 @@
 - pkg:swift/github.com/RevenueCat/purchases-ios-spm@5.92.0%5E%7B%7D
 - pkg:swift/github.com/RevenueCat/purchases-ios-spm@5.93.0
 - pkg:swift/github.com/RevenueCat/purchases-ios-spm@5.93.0%5E%7B%7D
+- pkg:swift/github.com/RevenueCat/purchases-ios-spm@5.94.0
+- pkg:swift/github.com/RevenueCat/purchases-ios-spm@5.94.0%5E%7B%7D
 - pkg:swift/github.com/RevenueCat/purchases-ios-spm@paywalls-v2-closed-beta-1
 - pkg:swift/github.com/RevenueCat/purchases-ios-spm@playgrounds-test-4.13.3
 - pkg:swift/github.com/RevenueCat/purchases-ios-spm@test-tag-filter-check
