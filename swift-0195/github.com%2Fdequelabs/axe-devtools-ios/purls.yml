@@ -50,6 +50,8 @@
 - pkg:swift/github.com/dequelabs/axe-devtools-ios@4.1.0%5E%7B%7D
 - pkg:swift/github.com/dequelabs/axe-devtools-ios@4.2.0
 - pkg:swift/github.com/dequelabs/axe-devtools-ios@4.2.0%5E%7B%7D
+- pkg:swift/github.com/dequelabs/axe-devtools-ios@4.3.0
+- pkg:swift/github.com/dequelabs/axe-devtools-ios@4.3.0%5E%7B%7D
 - pkg:swift/github.com/dequelabs/axe-devtools-ios@UIKit_3.0.0
 - pkg:swift/github.com/dequelabs/axe-devtools-ios@UIKit_3.0.0%5E%7B%7D
 - pkg:swift/github.com/dequelabs/axe-devtools-ios@UIKit_3.0.1
