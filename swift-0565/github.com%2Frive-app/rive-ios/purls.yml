@@ -406,6 +406,8 @@
 - pkg:swift/github.com/rive-app/rive-ios@6.27.0%5E%7B%7D
 - pkg:swift/github.com/rive-app/rive-ios@6.28.0
 - pkg:swift/github.com/rive-app/rive-ios@6.28.0%5E%7B%7D
+- pkg:swift/github.com/rive-app/rive-ios@6.28.1
+- pkg:swift/github.com/rive-app/rive-ios@6.28.1%5E%7B%7D
 - pkg:swift/github.com/rive-app/rive-ios@6.3.0
 - pkg:swift/github.com/rive-app/rive-ios@6.3.0%5E%7B%7D
 - pkg:swift/github.com/rive-app/rive-ios@6.3.1
