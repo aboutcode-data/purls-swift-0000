@@ -140,11 +140,9 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/23359
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/23504
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/23538
-- pkg:swift/github.com/pytorch/executorch@ciflow/metal/23543
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/21235
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/23359
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/23538
-- pkg:swift/github.com/pytorch/executorch@ciflow/mlx/23543
 - pkg:swift/github.com/pytorch/executorch@ciflow/nightly/23502
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/2367
 - pkg:swift/github.com/pytorch/executorch@ciflow/periodic/2368
@@ -181,6 +179,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1abaa87f3209dc9d391220293739f75dd877dd56
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1b9ba6d4cb07085e98581bfadead425103753067
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1cfcdf8022325d86d7b745ff624f1a83c4d52d60
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1e0292166c852e8d3e80d0f58a98e8832e374a37
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1e3b7fb263a1b4e90a51170bd2f3f2e685669dc3
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1e6b6b80e1bc37f0541639aa8851558cfb6d7766
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/1f4ea615915e4bf431686c376775752a7c260bbf
@@ -226,7 +225,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/22995
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23154
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23183
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23215
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23288
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23312
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23348
@@ -237,12 +235,12 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23518
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23519
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23521
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23522
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23524
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23527
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23531
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23537
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23538
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23549
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/238506ae35123d99f3578f91fc904c3d605151c9
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
@@ -345,6 +343,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/820086d5bdfc5708a057eff0f0e017fca5006705
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/83d1c53d4bcf18f0db921f31a41c2f4b8b4902b7
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/843f77ee2ca451d77991c1570220c10cb7e1a953
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/852b1fff2c055b84c44cd1d5892f04cee521f872
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/8734b061f1171e9376c8e8f36208532d30dea411
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/88a5f60543adb2e0baebf451a8d066c6649fd4b7
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/897fc8e3dc63e542e50ce4570f6f782d3ee46d22
@@ -438,6 +437,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/efc7f2e3dfda1ee99f7ea9f4e0093e06a50f0319
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f0865091eb966d8c6d9c031d17e10d1c4acc6d7d
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f115e69452991f6c90d78b93d2c6ca2372e4879e
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f11a5f8ff38d3f3a4593d1c5054107ce45315ef4
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f3c08fcf35dce206c6d993d6ef0383b9086e0190
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f3daa57bd40913965084fde17b20df2521e61427
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/f5102b8fd9f311d8e57199fdfeb1633e6f9264fd
