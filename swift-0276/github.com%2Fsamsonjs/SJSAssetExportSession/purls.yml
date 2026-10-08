@@ -19,3 +19,5 @@
 - pkg:swift/github.com/samsonjs/SJSAssetExportSession@0.3.9%5E%7B%7D
 - pkg:swift/github.com/samsonjs/SJSAssetExportSession@0.4.0
 - pkg:swift/github.com/samsonjs/SJSAssetExportSession@0.4.1
+- pkg:swift/github.com/samsonjs/SJSAssetExportSession@0.5.0
+- pkg:swift/github.com/samsonjs/SJSAssetExportSession@0.5.1
