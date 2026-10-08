@@ -15,3 +15,5 @@
 - pkg:swift/github.com/speechall/speechall-swift-sdk@2.0.0%5E%7B%7D
 - pkg:swift/github.com/speechall/speechall-swift-sdk@3.0.0
 - pkg:swift/github.com/speechall/speechall-swift-sdk@3.0.0%5E%7B%7D
+- pkg:swift/github.com/speechall/speechall-swift-sdk@3.1.0
+- pkg:swift/github.com/speechall/speechall-swift-sdk@3.1.0%5E%7B%7D
