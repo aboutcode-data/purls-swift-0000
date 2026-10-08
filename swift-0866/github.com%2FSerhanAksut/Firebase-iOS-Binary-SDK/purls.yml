@@ -11,6 +11,8 @@
 - pkg:swift/github.com/SerhanAksut/Firebase-iOS-Binary-SDK@12.5.0
 - pkg:swift/github.com/SerhanAksut/Firebase-iOS-Binary-SDK@12.7.0
 - pkg:swift/github.com/SerhanAksut/Firebase-iOS-Binary-SDK@12.9.0
+- pkg:swift/github.com/SerhanAksut/Firebase-iOS-Binary-SDK@13.0.1
+- pkg:swift/github.com/SerhanAksut/Firebase-iOS-Binary-SDK@binaries-13.0.1
 - pkg:swift/github.com/SerhanAksut/Firebase-iOS-Binary-SDK@v1.0
 - pkg:swift/github.com/SerhanAksut/Firebase-iOS-Binary-SDK@v12.4.0
 - pkg:swift/github.com/SerhanAksut/Firebase-iOS-Binary-SDK@v2.0
