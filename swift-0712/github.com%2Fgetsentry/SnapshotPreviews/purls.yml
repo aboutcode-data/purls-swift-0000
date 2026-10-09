@@ -39,6 +39,7 @@
 - pkg:swift/github.com/getsentry/SnapshotPreviews@v0.2.2
 - pkg:swift/github.com/getsentry/SnapshotPreviews@v0.2.3
 - pkg:swift/github.com/getsentry/SnapshotPreviews@v0.2.4
+- pkg:swift/github.com/getsentry/SnapshotPreviews@v0.20.0
 - pkg:swift/github.com/getsentry/SnapshotPreviews@v0.3.0
 - pkg:swift/github.com/getsentry/SnapshotPreviews@v0.3.1
 - pkg:swift/github.com/getsentry/SnapshotPreviews@v0.4.0
