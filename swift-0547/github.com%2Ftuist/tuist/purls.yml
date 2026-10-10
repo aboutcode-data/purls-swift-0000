@@ -1500,6 +1500,7 @@
 - pkg:swift/github.com/tuist/tuist@atlas%400.46.2
 - pkg:swift/github.com/tuist/tuist@atlas%400.46.3
 - pkg:swift/github.com/tuist/tuist@atlas%400.47.0
+- pkg:swift/github.com/tuist/tuist@atlas%400.47.1
 - pkg:swift/github.com/tuist/tuist@atlas%400.5.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.6.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.7.0
@@ -3932,6 +3933,7 @@
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.192.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.193.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.193.1
+- pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.193.2
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.2.0
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.2.1
 - pkg:swift/github.com/tuist/tuist@xcresult-processor-image%400.20.0
