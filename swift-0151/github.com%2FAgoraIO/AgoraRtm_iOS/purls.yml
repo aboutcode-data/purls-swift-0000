@@ -7,6 +7,8 @@
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@1.4.9-special.1
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@1.5.0
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@1.5.1
+- pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@1.6.0-205
+- pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@1.6.0-205%5E%7B%7D
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@2.1.1-test.1
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@2.1.4-nightly.23.08.10
 - pkg:swift/github.com/AgoraIO/AgoraRtm_iOS@2.2.8
