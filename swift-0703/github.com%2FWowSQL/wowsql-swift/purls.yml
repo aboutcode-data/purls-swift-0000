@@ -15,3 +15,5 @@
 - pkg:swift/github.com/WowSQL/wowsql-swift@v3.9.0
 - pkg:swift/github.com/WowSQL/wowsql-swift@v3.9.0%5E%7B%7D
 - pkg:swift/github.com/WowSQL/wowsql-swift@v3.9.1
+- pkg:swift/github.com/WowSQL/wowsql-swift@v3.9.2
+- pkg:swift/github.com/WowSQL/wowsql-swift@v3.9.3
