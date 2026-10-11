@@ -92,3 +92,5 @@
 - pkg:swift/github.com/johnno1962/DLKit@3.5.7%5E%7B%7D
 - pkg:swift/github.com/johnno1962/DLKit@3.6.0
 - pkg:swift/github.com/johnno1962/DLKit@3.6.0%5E%7B%7D
+- pkg:swift/github.com/johnno1962/DLKit@3.6.1
+- pkg:swift/github.com/johnno1962/DLKit@3.6.1%5E%7B%7D
