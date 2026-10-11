@@ -1,0 +1,10 @@
+- pkg:swift/github.com/iamaihub/sdk-ios@0.1.0
+- pkg:swift/github.com/iamaihub/sdk-ios@0.2.0
+- pkg:swift/github.com/iamaihub/sdk-ios@1.0.0
+- pkg:swift/github.com/iamaihub/sdk-ios@1.1.0
+- pkg:swift/github.com/iamaihub/sdk-ios@1.3.0
+- pkg:swift/github.com/iamaihub/sdk-ios@1.3.0%5E%7B%7D
+- pkg:swift/github.com/iamaihub/sdk-ios@1.4.0
+- pkg:swift/github.com/iamaihub/sdk-ios@1.5.0
+- pkg:swift/github.com/iamaihub/sdk-ios@v0.6.0
+- pkg:swift/github.com/iamaihub/sdk-ios@v0.6.0%5E%7B%7D
