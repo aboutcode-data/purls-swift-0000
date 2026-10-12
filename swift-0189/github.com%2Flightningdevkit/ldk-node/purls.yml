@@ -17,3 +17,5 @@
 - pkg:swift/github.com/lightningdevkit/ldk-node@v0.6.2
 - pkg:swift/github.com/lightningdevkit/ldk-node@v0.7.0
 - pkg:swift/github.com/lightningdevkit/ldk-node@v0.7.0-rc.0
+- pkg:swift/github.com/lightningdevkit/ldk-node@v0.7.1
+- pkg:swift/github.com/lightningdevkit/ldk-node@v0.7.1%5E%7B%7D
