@@ -24,3 +24,5 @@
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-txbuilder@1.1.1
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-txbuilder@1.1.2
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-txbuilder@1.2.0
+- pkg:swift/github.com/Kingpin-Apps/swift-cardano-txbuilder@1.3.0
+- pkg:swift/github.com/Kingpin-Apps/swift-cardano-txbuilder@1.3.1
