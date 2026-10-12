@@ -80,3 +80,4 @@
 - pkg:swift/github.com/apple/swift-crypto@5.0.0-beta.2
 - pkg:swift/github.com/apple/swift-crypto@5.0.0-beta.4
 - pkg:swift/github.com/apple/swift-crypto@5.0.0-beta.6
+- pkg:swift/github.com/apple/swift-crypto@5.0.1

@@ -33,3 +33,4 @@
 - pkg:swift/github.com/apple/swift-distributed-tracing@1.4.0
 - pkg:swift/github.com/apple/swift-distributed-tracing@1.4.1
 - pkg:swift/github.com/apple/swift-distributed-tracing@1.5.0
+- pkg:swift/github.com/apple/swift-distributed-tracing@1.6.0
