@@ -1,6 +1,7 @@
 - pkg:swift/github.com/emindeniz99/apple-purchase-receipt-verifier@corpus-2026-09-29
 - pkg:swift/github.com/emindeniz99/apple-purchase-receipt-verifier@corpus-2026-10-07
 - pkg:swift/github.com/emindeniz99/apple-purchase-receipt-verifier@corpus-2026-10-08
+- pkg:swift/github.com/emindeniz99/apple-purchase-receipt-verifier@corpus-2026-10-12
 - pkg:swift/github.com/emindeniz99/apple-purchase-receipt-verifier@go/v0.10.0
 - pkg:swift/github.com/emindeniz99/apple-purchase-receipt-verifier@go/v0.11.0
 - pkg:swift/github.com/emindeniz99/apple-purchase-receipt-verifier@go/v0.11.1
