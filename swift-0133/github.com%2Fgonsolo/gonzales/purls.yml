@@ -1,3 +1,5 @@
 - pkg:swift/github.com/gonsolo/gonzales@v0.1.0-alpha
 - pkg:swift/github.com/gonsolo/gonzales@v0.2
 - pkg:swift/github.com/gonsolo/gonzales@v0.3
+- pkg:swift/github.com/gonsolo/gonzales@v0.4
+- pkg:swift/github.com/gonsolo/gonzales@v0.4%5E%7B%7D
