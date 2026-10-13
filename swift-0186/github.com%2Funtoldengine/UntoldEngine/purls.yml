@@ -1,4 +1,5 @@
 - pkg:swift/github.com/untoldengine/UntoldEngine@assets-v1
+- pkg:swift/github.com/untoldengine/UntoldEngine@assets-v2
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.0.1
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.1.0
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.10.0
