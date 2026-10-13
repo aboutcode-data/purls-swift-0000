@@ -53,3 +53,4 @@
 - pkg:swift/github.com/pointfreeco/swift-issue-reporting@2.0.0
 - pkg:swift/github.com/pointfreeco/swift-issue-reporting@2.1.0
 - pkg:swift/github.com/pointfreeco/swift-issue-reporting@2.1.1
+- pkg:swift/github.com/pointfreeco/swift-issue-reporting@2.1.2
