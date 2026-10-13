@@ -24,3 +24,5 @@
 - pkg:swift/github.com/perfectlysoft/perfect-postgresql@3.2.0
 - pkg:swift/github.com/perfectlysoft/perfect-postgresql@3.2.1
 - pkg:swift/github.com/perfectlysoft/perfect-postgresql@4.0.0
+- pkg:swift/github.com/perfectlysoft/perfect-postgresql@5.0.0
+- pkg:swift/github.com/perfectlysoft/perfect-postgresql@5.0.0%5E%7B%7D

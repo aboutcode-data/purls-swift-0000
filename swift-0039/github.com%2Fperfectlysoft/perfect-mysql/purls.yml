@@ -31,3 +31,5 @@
 - pkg:swift/github.com/perfectlysoft/perfect-mysql@3.4.1
 - pkg:swift/github.com/perfectlysoft/perfect-mysql@3.5.0
 - pkg:swift/github.com/perfectlysoft/perfect-mysql@3.5.1
+- pkg:swift/github.com/perfectlysoft/perfect-mysql@4.0.0
+- pkg:swift/github.com/perfectlysoft/perfect-mysql@4.0.0%5E%7B%7D
