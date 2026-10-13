@@ -3,3 +3,4 @@
 - pkg:swift/github.com/swift-microservices/swift-authentication-grpc@0.3.0
 - pkg:swift/github.com/swift-microservices/swift-authentication-grpc@0.4.0
 - pkg:swift/github.com/swift-microservices/swift-authentication-grpc@0.4.1
+- pkg:swift/github.com/swift-microservices/swift-authentication-grpc@0.5.0
