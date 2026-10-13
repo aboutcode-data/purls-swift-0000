@@ -279,6 +279,8 @@
 - pkg:swift/github.com/atomicfi/atomic-transact-ios@3.35.3%5E%7B%7D
 - pkg:swift/github.com/atomicfi/atomic-transact-ios@3.36.0
 - pkg:swift/github.com/atomicfi/atomic-transact-ios@3.36.0%5E%7B%7D
+- pkg:swift/github.com/atomicfi/atomic-transact-ios@3.36.1
+- pkg:swift/github.com/atomicfi/atomic-transact-ios@3.36.1%5E%7B%7D
 - pkg:swift/github.com/atomicfi/atomic-transact-ios@3.4.0
 - pkg:swift/github.com/atomicfi/atomic-transact-ios@3.4.0%5E%7B%7D
 - pkg:swift/github.com/atomicfi/atomic-transact-ios@3.4.1
