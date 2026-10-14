@@ -150,3 +150,4 @@
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.5.0%5E%7B%7D
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.5.1
 - pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.5.1%5E%7B%7D
+- pkg:swift/github.com/uxfb/uxfbsdk-ios@v4.6.0
