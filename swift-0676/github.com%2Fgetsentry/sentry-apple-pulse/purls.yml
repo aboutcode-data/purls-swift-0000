@@ -8,3 +8,4 @@
 - pkg:swift/github.com/getsentry/sentry-apple-pulse@9.29.2
 - pkg:swift/github.com/getsentry/sentry-apple-pulse@9.30.0
 - pkg:swift/github.com/getsentry/sentry-apple-pulse@9.30.1
+- pkg:swift/github.com/getsentry/sentry-apple-pulse@9.30.2
