@@ -35,3 +35,4 @@
 - pkg:swift/github.com/apple/swift-distributed-tracing@1.5.0
 - pkg:swift/github.com/apple/swift-distributed-tracing@1.6.0
 - pkg:swift/github.com/apple/swift-distributed-tracing@1.7.0
+- pkg:swift/github.com/apple/swift-distributed-tracing@1.7.1
