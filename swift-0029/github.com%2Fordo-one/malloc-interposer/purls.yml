@@ -7,3 +7,4 @@
 - pkg:swift/github.com/ordo-one/malloc-interposer@1.4.0
 - pkg:swift/github.com/ordo-one/malloc-interposer@1.5.0
 - pkg:swift/github.com/ordo-one/malloc-interposer@1.5.1
+- pkg:swift/github.com/ordo-one/malloc-interposer@1.6.0
