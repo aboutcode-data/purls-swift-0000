@@ -60,6 +60,7 @@
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@3.7.1
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@4.0.0
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@4.1.0
+- pkg:swift/github.com/jiyimeta/swift-sheet-music@4.10.0
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@4.2.0
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@4.3.0
 - pkg:swift/github.com/jiyimeta/swift-sheet-music@4.4.0
