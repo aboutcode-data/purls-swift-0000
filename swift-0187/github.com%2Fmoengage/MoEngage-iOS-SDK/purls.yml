@@ -29,6 +29,7 @@
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@11.01.0
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@11.02.0
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@11.03.0
+- pkg:swift/github.com/moengage/MoEngage-iOS-SDK@11.04.0
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@8.2.0
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@8.2.0%5E%7B%7D
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@8.2.1
@@ -451,6 +452,7 @@
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@moengage-11.01.0
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@moengage-11.02.0
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@moengage-11.03.0
+- pkg:swift/github.com/moengage/MoEngage-iOS-SDK@moengage-11.04.0
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@moengage-6.0.0
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@moengage-6.0.0%5E%7B%7D
 - pkg:swift/github.com/moengage/MoEngage-iOS-SDK@moengage-6.0.1
