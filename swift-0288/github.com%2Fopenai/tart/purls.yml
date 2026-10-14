@@ -175,6 +175,7 @@
 - pkg:swift/github.com/openai/tart@2.4.4
 - pkg:swift/github.com/openai/tart@2.40.0
 - pkg:swift/github.com/openai/tart@2.40.1
+- pkg:swift/github.com/openai/tart@2.41.0
 - pkg:swift/github.com/openai/tart@2.5.0
 - pkg:swift/github.com/openai/tart@2.6.0
 - pkg:swift/github.com/openai/tart@2.6.1
