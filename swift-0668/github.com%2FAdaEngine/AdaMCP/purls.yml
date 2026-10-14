@@ -1,1 +1,2 @@
-- pkg:swift/github.com/AdaEngine/AdaMCP@6594c890ffa760b3bb4c1ab16eb61e375b45119e
+- pkg:swift/github.com/AdaEngine/AdaMCP@v0.2.0
+- pkg:swift/github.com/AdaEngine/AdaMCP@v0.2.0%5E%7B%7D
