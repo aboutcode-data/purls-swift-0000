@@ -1,3 +1,4 @@
 - pkg:swift/github.com/dataparallel-swift/swift-multiarray@1.0.0
 - pkg:swift/github.com/dataparallel-swift/swift-multiarray@2.0.0
 - pkg:swift/github.com/dataparallel-swift/swift-multiarray@2.1.0
+- pkg:swift/github.com/dataparallel-swift/swift-multiarray@3.0.0
