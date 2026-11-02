@@ -11,3 +11,4 @@
 - pkg:swift/github.com/jmespath/jmespath.swift@1.0.3
 - pkg:swift/github.com/jmespath/jmespath.swift@1.1.0
 - pkg:swift/github.com/jmespath/jmespath.swift@1.1.1
+- pkg:swift/github.com/jmespath/jmespath.swift@1.2.0
