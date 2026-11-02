@@ -11,3 +11,5 @@
 - pkg:swift/github.com/SoundBlaster/SwiftDecision@0.7.0
 - pkg:swift/github.com/SoundBlaster/SwiftDecision@0.7.0%5E%7B%7D
 - pkg:swift/github.com/SoundBlaster/SwiftDecision@0.8.0
+- pkg:swift/github.com/SoundBlaster/SwiftDecision@0.9.0
+- pkg:swift/github.com/SoundBlaster/SwiftDecision@gliner2.5-small-coreml-int8-v1
