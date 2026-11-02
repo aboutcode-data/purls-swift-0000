@@ -102,6 +102,7 @@
 - pkg:swift/github.com/vapor/mysql-kit@4.1.0
 - pkg:swift/github.com/vapor/mysql-kit@4.10.0
 - pkg:swift/github.com/vapor/mysql-kit@4.10.1
+- pkg:swift/github.com/vapor/mysql-kit@4.10.2
 - pkg:swift/github.com/vapor/mysql-kit@4.2.0
 - pkg:swift/github.com/vapor/mysql-kit@4.3.0
 - pkg:swift/github.com/vapor/mysql-kit@4.4.0

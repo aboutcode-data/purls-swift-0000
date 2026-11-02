@@ -102,6 +102,12 @@
 - pkg:swift/github.com/vapor-community/passage@0.7.12%5E%7B%7D
 - pkg:swift/github.com/vapor-community/passage@0.7.13
 - pkg:swift/github.com/vapor-community/passage@0.7.13%5E%7B%7D
+- pkg:swift/github.com/vapor-community/passage@0.7.14
+- pkg:swift/github.com/vapor-community/passage@0.7.14%5E%7B%7D
+- pkg:swift/github.com/vapor-community/passage@0.7.15
+- pkg:swift/github.com/vapor-community/passage@0.7.15%5E%7B%7D
+- pkg:swift/github.com/vapor-community/passage@0.7.16
+- pkg:swift/github.com/vapor-community/passage@0.7.16%5E%7B%7D
 - pkg:swift/github.com/vapor-community/passage@0.7.2
 - pkg:swift/github.com/vapor-community/passage@0.7.3
 - pkg:swift/github.com/vapor-community/passage@0.7.3%5E%7B%7D

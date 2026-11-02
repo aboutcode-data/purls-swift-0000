@@ -76,6 +76,7 @@
 - pkg:swift/github.com/vapor/console-kit@4.15.2
 - pkg:swift/github.com/vapor/console-kit@4.16.0
 - pkg:swift/github.com/vapor/console-kit@4.16.1
+- pkg:swift/github.com/vapor/console-kit@4.16.2
 - pkg:swift/github.com/vapor/console-kit@4.2.0
 - pkg:swift/github.com/vapor/console-kit@4.2.1
 - pkg:swift/github.com/vapor/console-kit@4.2.2
@@ -101,3 +102,4 @@
 - pkg:swift/github.com/vapor/console-kit@5.0.0-alpha.5
 - pkg:swift/github.com/vapor/console-kit@5.0.0-beta.1
 - pkg:swift/github.com/vapor/console-kit@5.0.0-beta.2
+- pkg:swift/github.com/vapor/console-kit@5.0.0-beta.3
