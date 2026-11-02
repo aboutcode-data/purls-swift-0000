@@ -240,6 +240,7 @@
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.13
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.14
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.15
+- pkg:swift/github.com/LeoNatan/LNPopupController@4.5.16
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.2
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.2.1
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.3
@@ -250,6 +251,8 @@
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.7
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.8
 - pkg:swift/github.com/LeoNatan/LNPopupController@4.5.9
+- pkg:swift/github.com/LeoNatan/LNPopupController@4.6.0
+- pkg:swift/github.com/LeoNatan/LNPopupController@4.6.1
 - pkg:swift/github.com/LeoNatan/LNPopupController@v1.1
 - pkg:swift/github.com/LeoNatan/LNPopupController@v1.2
 - pkg:swift/github.com/LeoNatan/LNPopupController@v1.3
