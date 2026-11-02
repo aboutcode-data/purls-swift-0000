@@ -355,3 +355,4 @@
 - pkg:swift/github.com/adjust/ios_sdk@v5.6.2
 - pkg:swift/github.com/adjust/ios_sdk@v5.7.0
 - pkg:swift/github.com/adjust/ios_sdk@v5.8.0
+- pkg:swift/github.com/adjust/ios_sdk@v5.8.1
