@@ -1,1 +1,5 @@
-- pkg:swift/github.com/kasianov-mikhail/scout-db@8cc42dbcd699f46597ee5205fbf4d6f2477475d0
+- pkg:swift/github.com/kasianov-mikhail/scout-db@0.1.0
+- pkg:swift/github.com/kasianov-mikhail/scout-db@0.2.0
+- pkg:swift/github.com/kasianov-mikhail/scout-db@0.2.1
+- pkg:swift/github.com/kasianov-mikhail/scout-db@0.3.0
+- pkg:swift/github.com/kasianov-mikhail/scout-db@0.4.0
