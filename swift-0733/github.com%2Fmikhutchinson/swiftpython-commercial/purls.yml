@@ -80,6 +80,7 @@
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.6.0-duplex.8.3%5E%7B%7D
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.6.0-duplex.8.4
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.6.0-duplex.8.4%5E%7B%7D
+- pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.7.0
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.7.0-preview.1
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.7.0-preview.1.1
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.7.0-preview.1.2
@@ -87,3 +88,4 @@
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.7.0-preview.1.4
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.7.0-preview.1.5
 - pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.7.0-preview.1.6
+- pkg:swift/github.com/mikhutchinson/swiftpython-commercial@v0.7.0-preview.1.7

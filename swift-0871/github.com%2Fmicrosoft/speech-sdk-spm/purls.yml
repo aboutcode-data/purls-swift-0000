@@ -3,3 +3,4 @@
 - pkg:swift/github.com/microsoft/speech-sdk-spm@1.51.1
 - pkg:swift/github.com/microsoft/speech-sdk-spm@1.51.2
 - pkg:swift/github.com/microsoft/speech-sdk-spm@1.52.0
+- pkg:swift/github.com/microsoft/speech-sdk-spm@1.53.0

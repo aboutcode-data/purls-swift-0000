@@ -34,3 +34,5 @@
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.8.0
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.9.0
 - pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.99.0
+- pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.99.1
+- pkg:swift/github.com/migueldeicaza/SwiftTerm@v1.99.2
