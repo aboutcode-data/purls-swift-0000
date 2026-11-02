@@ -10,6 +10,7 @@
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@0.0.9
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-6.4.0-RELEASE
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-6.4.1-RELEASE
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-6.4.2-RELEASE
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-08-11-a
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-08-11-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-08-21-a
@@ -28,3 +29,11 @@
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-06-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-10-a
 - pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-10-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-15-a
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-15-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-17-a
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-17-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-27-a
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-10-27-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-11-01-a
+- pkg:swift/github.com/swiftlang/swift-tools-protocols@swift-DEVELOPMENT-SNAPSHOT-2026-11-01-a%5E%7B%7D
