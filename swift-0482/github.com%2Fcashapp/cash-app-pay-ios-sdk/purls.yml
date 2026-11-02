@@ -14,3 +14,5 @@
 - pkg:swift/github.com/cashapp/cash-app-pay-ios-sdk@v0.6.3
 - pkg:swift/github.com/cashapp/cash-app-pay-ios-sdk@v1.0.0
 - pkg:swift/github.com/cashapp/cash-app-pay-ios-sdk@v2.0.0
+- pkg:swift/github.com/cashapp/cash-app-pay-ios-sdk@v2.1.0
+- pkg:swift/github.com/cashapp/cash-app-pay-ios-sdk@v2.2.0
