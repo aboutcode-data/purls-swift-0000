@@ -24,3 +24,4 @@
 - pkg:swift/github.com/velos/Endpoints@0.4.0
 - pkg:swift/github.com/velos/Endpoints@0.5.0
 - pkg:swift/github.com/velos/Endpoints@0.5.1
+- pkg:swift/github.com/velos/Endpoints@0.5.2

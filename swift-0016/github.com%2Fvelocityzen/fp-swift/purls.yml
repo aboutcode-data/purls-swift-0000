@@ -19,3 +19,7 @@
 - pkg:swift/github.com/velocityzen/fp-swift@3.1.0
 - pkg:swift/github.com/velocityzen/fp-swift@3.2.0
 - pkg:swift/github.com/velocityzen/fp-swift@3.3.0
+- pkg:swift/github.com/velocityzen/fp-swift@4.0.0
+- pkg:swift/github.com/velocityzen/fp-swift@4.1.0
+- pkg:swift/github.com/velocityzen/fp-swift@4.2.0
+- pkg:swift/github.com/velocityzen/fp-swift@4.2.1
