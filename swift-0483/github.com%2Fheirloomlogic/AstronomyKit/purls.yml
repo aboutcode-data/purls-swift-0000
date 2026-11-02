@@ -9,9 +9,7 @@
 - pkg:swift/github.com/heirloomlogic/AstronomyKit@2.0.0%2Bupstream-2.1.19
 - pkg:swift/github.com/heirloomlogic/AstronomyKit@2.1.0%2Bupstream-2.1.19
 - pkg:swift/github.com/heirloomlogic/AstronomyKit@2.2.0%2Bupstream-2.1.19
-- pkg:swift/github.com/heirloomlogic/AstronomyKit@2.3.0%2Bupstream-2.1.19
-- pkg:swift/github.com/heirloomlogic/AstronomyKit@2.4.0%2Bupstream-2.1.19
-- pkg:swift/github.com/heirloomlogic/AstronomyKit@3.0.0%2Bupstream-2.1.19
-- pkg:swift/github.com/heirloomlogic/AstronomyKit@3.1.0%2Bupstream-2.1.19
-- pkg:swift/github.com/heirloomlogic/AstronomyKit@evidence/de-planets-aea1be96
-- pkg:swift/github.com/heirloomlogic/AstronomyKit@evidence/de-planets-aea1be96%5E%7B%7D
+- pkg:swift/github.com/heirloomlogic/AstronomyKit@4.0.0
+- pkg:swift/github.com/heirloomlogic/AstronomyKit@4.1.0
+- pkg:swift/github.com/heirloomlogic/AstronomyKit@4.2.0
+- pkg:swift/github.com/heirloomlogic/AstronomyKit@4.2.0%5E%7B%7D
