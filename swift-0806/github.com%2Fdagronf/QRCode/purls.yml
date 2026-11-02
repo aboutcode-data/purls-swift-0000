@@ -162,6 +162,7 @@
 - pkg:swift/github.com/dagronf/QRCode@28.0.1
 - pkg:swift/github.com/dagronf/QRCode@28.0.2
 - pkg:swift/github.com/dagronf/QRCode@28.1.0
+- pkg:swift/github.com/dagronf/QRCode@29.0.0
 - pkg:swift/github.com/dagronf/QRCode@3.0.0
 - pkg:swift/github.com/dagronf/QRCode@3.0.1
 - pkg:swift/github.com/dagronf/QRCode@4.0.0
