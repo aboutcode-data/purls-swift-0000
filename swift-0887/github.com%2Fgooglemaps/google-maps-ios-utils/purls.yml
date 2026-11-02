@@ -50,3 +50,4 @@
 - pkg:swift/github.com/googlemaps/google-maps-ios-utils@v7.0.0
 - pkg:swift/github.com/googlemaps/google-maps-ios-utils@v7.1.0
 - pkg:swift/github.com/googlemaps/google-maps-ios-utils@v7.1.1
+- pkg:swift/github.com/googlemaps/google-maps-ios-utils@v7.1.2

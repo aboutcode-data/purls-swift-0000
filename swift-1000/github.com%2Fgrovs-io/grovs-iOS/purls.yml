@@ -27,3 +27,5 @@
 - pkg:swift/github.com/grovs-io/grovs-iOS@2.3
 - pkg:swift/github.com/grovs-io/grovs-iOS@3.0.0
 - pkg:swift/github.com/grovs-io/grovs-iOS@3.0.0%5E%7B%7D
+- pkg:swift/github.com/grovs-io/grovs-iOS@3.1.0
+- pkg:swift/github.com/grovs-io/grovs-iOS@3.1.0%5E%7B%7D
