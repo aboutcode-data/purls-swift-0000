@@ -83,3 +83,5 @@
 - pkg:swift/github.com/Survicate/survicate-ios-sdk@8.3.0
 - pkg:swift/github.com/Survicate/survicate-ios-sdk@8.3.1
 - pkg:swift/github.com/Survicate/survicate-ios-sdk@8.3.2
+- pkg:swift/github.com/Survicate/survicate-ios-sdk@9.0.0
+- pkg:swift/github.com/Survicate/survicate-ios-sdk@9.0.1

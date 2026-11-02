@@ -118,6 +118,8 @@
 - pkg:swift/github.com/Subito-it/SBTUITestTunnel@10.0.0%5E%7B%7D
 - pkg:swift/github.com/Subito-it/SBTUITestTunnel@11.0.0
 - pkg:swift/github.com/Subito-it/SBTUITestTunnel@11.0.0%5E%7B%7D
+- pkg:swift/github.com/Subito-it/SBTUITestTunnel@12.0.0
+- pkg:swift/github.com/Subito-it/SBTUITestTunnel@12.0.0%5E%7B%7D
 - pkg:swift/github.com/Subito-it/SBTUITestTunnel@2.0.0
 - pkg:swift/github.com/Subito-it/SBTUITestTunnel@2.0.0%5E%7B%7D
 - pkg:swift/github.com/Subito-it/SBTUITestTunnel@2.0.1
