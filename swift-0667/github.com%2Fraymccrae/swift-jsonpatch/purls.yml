@@ -13,3 +13,5 @@
 - pkg:swift/github.com/raymccrae/swift-jsonpatch@v1.0.4
 - pkg:swift/github.com/raymccrae/swift-jsonpatch@v1.0.5
 - pkg:swift/github.com/raymccrae/swift-jsonpatch@v1.0.6
+- pkg:swift/github.com/raymccrae/swift-jsonpatch@v2.0.0
+- pkg:swift/github.com/raymccrae/swift-jsonpatch@v2.0.0%5E%7B%7D
