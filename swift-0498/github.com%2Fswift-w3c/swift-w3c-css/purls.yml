@@ -1,7 +1,1 @@
-- pkg:swift/github.com/swift-w3c/swift-w3c-css@0.0.1
-- pkg:swift/github.com/swift-w3c/swift-w3c-css@0.1.0
-- pkg:swift/github.com/swift-w3c/swift-w3c-css@0.1.0%5E%7B%7D
-- pkg:swift/github.com/swift-w3c/swift-w3c-css@0.1.1
-- pkg:swift/github.com/swift-w3c/swift-w3c-css@0.1.1%5E%7B%7D
-- pkg:swift/github.com/swift-w3c/swift-w3c-css@0.1.2
-- pkg:swift/github.com/swift-w3c/swift-w3c-css@0.1.2%5E%7B%7D
+- pkg:swift/github.com/swift-w3c/swift-w3c-css@929bb49cdd380fe79d6f0aea9e11a5e9889fd9e8

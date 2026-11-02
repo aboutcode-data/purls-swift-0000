@@ -1,6 +1,1 @@
-- pkg:swift/github.com/swift-whatwg/swift-whatwg-html@0.0.1
-- pkg:swift/github.com/swift-whatwg/swift-whatwg-html@0.1.0
-- pkg:swift/github.com/swift-whatwg/swift-whatwg-html@0.1.1
-- pkg:swift/github.com/swift-whatwg/swift-whatwg-html@0.1.1%5E%7B%7D
-- pkg:swift/github.com/swift-whatwg/swift-whatwg-html@0.1.2
-- pkg:swift/github.com/swift-whatwg/swift-whatwg-html@0.1.2%5E%7B%7D
+- pkg:swift/github.com/swift-whatwg/swift-whatwg-html@43359799627e44dc0dd5e054cf0d9aaf71394e58
