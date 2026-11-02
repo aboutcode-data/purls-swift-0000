@@ -64,3 +64,5 @@
 - pkg:swift/github.com/elegantchaos/Logger@v2.0.2%5E%7B%7D
 - pkg:swift/github.com/elegantchaos/Logger@v2.0.3
 - pkg:swift/github.com/elegantchaos/Logger@v2.0.4
+- pkg:swift/github.com/elegantchaos/Logger@v2.1.0
+- pkg:swift/github.com/elegantchaos/Logger@v2.1.1
