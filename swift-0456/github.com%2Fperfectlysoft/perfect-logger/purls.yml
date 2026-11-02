@@ -27,3 +27,5 @@
 - pkg:swift/github.com/perfectlysoft/perfect-logger@3.2.0
 - pkg:swift/github.com/perfectlysoft/perfect-logger@3.2.1
 - pkg:swift/github.com/perfectlysoft/perfect-logger@3.3.0
+- pkg:swift/github.com/perfectlysoft/perfect-logger@4.0.0
+- pkg:swift/github.com/perfectlysoft/perfect-logger@4.0.0%5E%7B%7D

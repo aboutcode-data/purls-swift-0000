@@ -34,3 +34,7 @@
 - pkg:swift/github.com/perfectlysoft/perfect-smtp@4.0.3
 - pkg:swift/github.com/perfectlysoft/perfect-smtp@4.0.4
 - pkg:swift/github.com/perfectlysoft/perfect-smtp@5.0.0
+- pkg:swift/github.com/perfectlysoft/perfect-smtp@6.0.0
+- pkg:swift/github.com/perfectlysoft/perfect-smtp@6.0.0%5E%7B%7D
+- pkg:swift/github.com/perfectlysoft/perfect-smtp@6.0.1
+- pkg:swift/github.com/perfectlysoft/perfect-smtp@6.0.1%5E%7B%7D
