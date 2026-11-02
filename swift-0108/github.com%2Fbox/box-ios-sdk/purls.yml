@@ -23,6 +23,8 @@
 - pkg:swift/github.com/box/box-ios-sdk@10.16.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@10.17.0
 - pkg:swift/github.com/box/box-ios-sdk@10.17.0%5E%7B%7D
+- pkg:swift/github.com/box/box-ios-sdk@10.18.0
+- pkg:swift/github.com/box/box-ios-sdk@10.18.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@10.2.0
 - pkg:swift/github.com/box/box-ios-sdk@10.2.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@10.3.0
@@ -63,6 +65,8 @@
 - pkg:swift/github.com/box/box-ios-sdk@6.16.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@6.17.0
 - pkg:swift/github.com/box/box-ios-sdk@6.17.0%5E%7B%7D
+- pkg:swift/github.com/box/box-ios-sdk@6.18.0
+- pkg:swift/github.com/box/box-ios-sdk@6.18.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@6.2.0
 - pkg:swift/github.com/box/box-ios-sdk@6.2.0%5E%7B%7D
 - pkg:swift/github.com/box/box-ios-sdk@6.3.0

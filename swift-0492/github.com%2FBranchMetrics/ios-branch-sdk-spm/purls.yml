@@ -63,3 +63,4 @@
 - pkg:swift/github.com/BranchMetrics/ios-branch-sdk-spm@3.8.0
 - pkg:swift/github.com/BranchMetrics/ios-branch-sdk-spm@3.9.0
 - pkg:swift/github.com/BranchMetrics/ios-branch-sdk-spm@3.9.1
+- pkg:swift/github.com/BranchMetrics/ios-branch-sdk-spm@4.0.0-beta.3
