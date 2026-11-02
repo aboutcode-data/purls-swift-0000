@@ -65,4 +65,6 @@
 - pkg:swift/github.com/appmetrica/appmetrica-sdk-ios@6.6.0
 - pkg:swift/github.com/appmetrica/appmetrica-sdk-ios@6.7.0
 - pkg:swift/github.com/appmetrica/appmetrica-sdk-ios@6.7.0%5E%7B%7D
+- pkg:swift/github.com/appmetrica/appmetrica-sdk-ios@6.7.1
+- pkg:swift/github.com/appmetrica/appmetrica-sdk-ios@6.7.1%5E%7B%7D
 - pkg:swift/github.com/appmetrica/appmetrica-sdk-ios@7.0.0
