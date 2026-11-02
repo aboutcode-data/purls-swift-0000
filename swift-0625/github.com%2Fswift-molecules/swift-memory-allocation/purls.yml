@@ -1,2 +1,1 @@
-- pkg:swift/github.com/swift-molecules/swift-memory-allocation@0.1.0
-- pkg:swift/github.com/swift-molecules/swift-memory-allocation@0.2.0
+- pkg:swift/github.com/swift-molecules/swift-memory-allocation@5a15247f5ee1a26e5738d536b78ff37f1eb5be9c

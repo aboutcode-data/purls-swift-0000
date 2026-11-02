@@ -1,8 +1,1 @@
-- pkg:swift/github.com/swift-ietf/swift-rfc-3987@0.1.0
-- pkg:swift/github.com/swift-ietf/swift-rfc-3987@0.2.0
-- pkg:swift/github.com/swift-ietf/swift-rfc-3987@0.3.0
-- pkg:swift/github.com/swift-ietf/swift-rfc-3987@0.3.1
-- pkg:swift/github.com/swift-ietf/swift-rfc-3987@0.3.2
-- pkg:swift/github.com/swift-ietf/swift-rfc-3987@0.3.3
-- pkg:swift/github.com/swift-ietf/swift-rfc-3987@0.3.4
-- pkg:swift/github.com/swift-ietf/swift-rfc-3987@0.3.5
+- pkg:swift/github.com/swift-ietf/swift-rfc-3987@6062f6a54c537da0528fc1d29c8b2176d5a37860

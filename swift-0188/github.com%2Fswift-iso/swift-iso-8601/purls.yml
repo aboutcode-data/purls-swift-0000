@@ -1,6 +1,1 @@
-- pkg:swift/github.com/swift-iso/swift-iso-8601@0.1.0
-- pkg:swift/github.com/swift-iso/swift-iso-8601@0.1.1
-- pkg:swift/github.com/swift-iso/swift-iso-8601@0.2.0
-- pkg:swift/github.com/swift-iso/swift-iso-8601@0.2.1
-- pkg:swift/github.com/swift-iso/swift-iso-8601@0.2.2
-- pkg:swift/github.com/swift-iso/swift-iso-8601@0.2.3
+- pkg:swift/github.com/swift-iso/swift-iso-8601@ba4c53f05921101378d7f102aa9140f21a05cdc4
