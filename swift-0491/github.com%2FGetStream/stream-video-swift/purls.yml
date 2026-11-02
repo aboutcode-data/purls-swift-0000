@@ -94,3 +94,5 @@
 - pkg:swift/github.com/GetStream/stream-video-swift@1.53.0
 - pkg:swift/github.com/GetStream/stream-video-swift@1.54.0
 - pkg:swift/github.com/GetStream/stream-video-swift@1.55.0
+- pkg:swift/github.com/GetStream/stream-video-swift@1.56.0
+- pkg:swift/github.com/GetStream/stream-video-swift@1.56.1
