@@ -12,6 +12,9 @@
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@7.2.0
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@7.2.1
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@7.2.2
+- pkg:swift/github.com/plaid/plaid-link-ios-spm@7.2.3
+- pkg:swift/github.com/plaid/plaid-link-ios-spm@7.3.0
+- pkg:swift/github.com/plaid/plaid-link-ios-spm@7.3.1
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v0.0.1
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v0.0.2
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v0.0.3
@@ -40,6 +43,9 @@
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v6.5.2
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v6.5.3
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v6.5.4
+- pkg:swift/github.com/plaid/plaid-link-ios-spm@v6.5.5
+- pkg:swift/github.com/plaid/plaid-link-ios-spm@v6.5.6
+- pkg:swift/github.com/plaid/plaid-link-ios-spm@v6.5.7
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v7.0.0-beta1
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v7.0.0-beta2
 - pkg:swift/github.com/plaid/plaid-link-ios-spm@v7.0.0-beta3
