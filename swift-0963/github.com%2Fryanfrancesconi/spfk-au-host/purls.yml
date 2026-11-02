@@ -41,3 +41,5 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@1.6.1
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@1.7.0
 - pkg:swift/github.com/ryanfrancesconi/spfk-au-host@1.8.0
+- pkg:swift/github.com/ryanfrancesconi/spfk-au-host@1.9.0
+- pkg:swift/github.com/ryanfrancesconi/spfk-au-host@1.9.1
