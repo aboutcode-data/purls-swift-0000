@@ -58,6 +58,8 @@
 - pkg:swift/github.com/SRGSSR/pillarbox-apple@19.0.0%5E%7B%7D
 - pkg:swift/github.com/SRGSSR/pillarbox-apple@2.0.0
 - pkg:swift/github.com/SRGSSR/pillarbox-apple@2.0.0%5E%7B%7D
+- pkg:swift/github.com/SRGSSR/pillarbox-apple@20.0.0
+- pkg:swift/github.com/SRGSSR/pillarbox-apple@20.0.0%5E%7B%7D
 - pkg:swift/github.com/SRGSSR/pillarbox-apple@3.0.0
 - pkg:swift/github.com/SRGSSR/pillarbox-apple@3.0.0%5E%7B%7D
 - pkg:swift/github.com/SRGSSR/pillarbox-apple@4.0.0
