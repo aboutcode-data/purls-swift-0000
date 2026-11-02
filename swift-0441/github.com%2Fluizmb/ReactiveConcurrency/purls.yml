@@ -6,3 +6,5 @@
 - pkg:swift/github.com/luizmb/ReactiveConcurrency@v1.0.0
 - pkg:swift/github.com/luizmb/ReactiveConcurrency@v1.0.1
 - pkg:swift/github.com/luizmb/ReactiveConcurrency@v1.1.0
+- pkg:swift/github.com/luizmb/ReactiveConcurrency@v2.0.0
+- pkg:swift/github.com/luizmb/ReactiveConcurrency@v2.1.0
