@@ -60,3 +60,5 @@
 - pkg:swift/github.com/cryptomator/cryptolib-swift@1.1.0%5E%7B%7D
 - pkg:swift/github.com/cryptomator/cryptolib-swift@2.0.0
 - pkg:swift/github.com/cryptomator/cryptolib-swift@2.0.0%5E%7B%7D
+- pkg:swift/github.com/cryptomator/cryptolib-swift@3.0.0
+- pkg:swift/github.com/cryptomator/cryptolib-swift@3.0.0%5E%7B%7D
