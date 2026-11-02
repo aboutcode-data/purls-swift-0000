@@ -18,6 +18,8 @@
 - pkg:swift/github.com/pubnub/swift@10.1.8
 - pkg:swift/github.com/pubnub/swift@10.2.0
 - pkg:swift/github.com/pubnub/swift@11.0.0
+- pkg:swift/github.com/pubnub/swift@11.0.1
+- pkg:swift/github.com/pubnub/swift@11.1.0
 - pkg:swift/github.com/pubnub/swift@2.0.0
 - pkg:swift/github.com/pubnub/swift@2.0.0%5E%7B%7D
 - pkg:swift/github.com/pubnub/swift@2.0.1

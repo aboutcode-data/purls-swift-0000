@@ -46,3 +46,5 @@
 - pkg:swift/github.com/pusher/push-notifications-swift@3.0.3
 - pkg:swift/github.com/pusher/push-notifications-swift@3.0.4
 - pkg:swift/github.com/pusher/push-notifications-swift@4.0.0
+- pkg:swift/github.com/pusher/push-notifications-swift@4.1.0
+- pkg:swift/github.com/pusher/push-notifications-swift@4.1.0%5E%7B%7D

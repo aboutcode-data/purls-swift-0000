@@ -1,3 +1,7 @@
+- pkg:swift/github.com/Prosumma/Parsimonious@3.0.0
+- pkg:swift/github.com/Prosumma/Parsimonious@3.0.1
+- pkg:swift/github.com/Prosumma/Parsimonious@3.1.0
+- pkg:swift/github.com/Prosumma/Parsimonious@3.2.0
 - pkg:swift/github.com/Prosumma/Parsimonious@v1.0
 - pkg:swift/github.com/Prosumma/Parsimonious@v1.1
 - pkg:swift/github.com/Prosumma/Parsimonious@v1.2
