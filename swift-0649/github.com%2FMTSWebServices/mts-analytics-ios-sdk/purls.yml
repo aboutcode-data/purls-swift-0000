@@ -16,3 +16,7 @@
 - pkg:swift/github.com/MTSWebServices/mts-analytics-ios-sdk@6.4.0%5E%7B%7D
 - pkg:swift/github.com/MTSWebServices/mts-analytics-ios-sdk@6.5.0
 - pkg:swift/github.com/MTSWebServices/mts-analytics-ios-sdk@6.5.0%5E%7B%7D
+- pkg:swift/github.com/MTSWebServices/mts-analytics-ios-sdk@6.5.1
+- pkg:swift/github.com/MTSWebServices/mts-analytics-ios-sdk@6.5.1%5E%7B%7D
+- pkg:swift/github.com/MTSWebServices/mts-analytics-ios-sdk@6.6.0
+- pkg:swift/github.com/MTSWebServices/mts-analytics-ios-sdk@6.6.0%5E%7B%7D

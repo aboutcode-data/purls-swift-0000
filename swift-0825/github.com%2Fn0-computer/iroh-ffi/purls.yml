@@ -29,3 +29,4 @@
 - pkg:swift/github.com/n0-computer/iroh-ffi@v1.0.0
 - pkg:swift/github.com/n0-computer/iroh-ffi@v1.0.0-rc.1
 - pkg:swift/github.com/n0-computer/iroh-ffi@v1.1.0
+- pkg:swift/github.com/n0-computer/iroh-ffi@v1.2.0
