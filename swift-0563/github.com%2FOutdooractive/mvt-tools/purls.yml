@@ -91,3 +91,16 @@
 - pkg:swift/github.com/Outdooractive/mvt-tools@v2.4.4
 - pkg:swift/github.com/Outdooractive/mvt-tools@v2.5.0
 - pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0%5E%7B%7D
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-beta.5
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-beta.5%5E%7B%7D
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-beta.6
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-beta.6%5E%7B%7D
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-beta.7
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-beta.7%5E%7B%7D
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-beta.8
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-beta.8%5E%7B%7D
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-gis-tools-2
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.0-gis-tools-2%5E%7B%7D
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.1
+- pkg:swift/github.com/Outdooractive/mvt-tools@v3.0.1%5E%7B%7D

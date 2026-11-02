@@ -101,6 +101,7 @@
 - pkg:swift/github.com/p-x9/MachOKit-SPM@0.54.0
 - pkg:swift/github.com/p-x9/MachOKit-SPM@0.54.1
 - pkg:swift/github.com/p-x9/MachOKit-SPM@0.54.1%5E%7B%7D
+- pkg:swift/github.com/p-x9/MachOKit-SPM@0.55.0
 - pkg:swift/github.com/p-x9/MachOKit-SPM@0.6.0
 - pkg:swift/github.com/p-x9/MachOKit-SPM@0.6.0%5E%7B%7D
 - pkg:swift/github.com/p-x9/MachOKit-SPM@0.7.0
