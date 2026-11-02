@@ -28,3 +28,6 @@
 - pkg:swift/github.com/mediquo/mediquo-ios-sdk@10.9.1
 - pkg:swift/github.com/mediquo/mediquo-ios-sdk@10.9.2
 - pkg:swift/github.com/mediquo/mediquo-ios-sdk@26.1.2
+- pkg:swift/github.com/mediquo/mediquo-ios-sdk@26.10.2
+- pkg:swift/github.com/mediquo/mediquo-ios-sdk@26.10.3
+- pkg:swift/github.com/mediquo/mediquo-ios-sdk@26.10.4
