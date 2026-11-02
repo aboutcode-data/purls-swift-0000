@@ -53,3 +53,6 @@
 - pkg:swift/github.com/kylebrowning/APNSwift@7.0.0
 - pkg:swift/github.com/kylebrowning/APNSwift@7.0.1
 - pkg:swift/github.com/kylebrowning/APNSwift@7.0.2
+- pkg:swift/github.com/kylebrowning/APNSwift@7.1.0
+- pkg:swift/github.com/kylebrowning/APNSwift@8.0.0
+- pkg:swift/github.com/kylebrowning/APNSwift@8.0.0-beta1

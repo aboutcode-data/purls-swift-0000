@@ -109,3 +109,5 @@
 - pkg:swift/github.com/krzysztofzablocki/sourcery@2.2.7
 - pkg:swift/github.com/krzysztofzablocki/sourcery@2.2.7%5E%7B%7D
 - pkg:swift/github.com/krzysztofzablocki/sourcery@2.3.0
+- pkg:swift/github.com/krzysztofzablocki/sourcery@2.4.0
+- pkg:swift/github.com/krzysztofzablocki/sourcery@2.4.1
