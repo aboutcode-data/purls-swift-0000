@@ -145,4 +145,8 @@
 - pkg:swift/github.com/The-Wand/Wand@4.0.0rc%5E%7B%7D
 - pkg:swift/github.com/The-Wand/Wand@4.0.1
 - pkg:swift/github.com/The-Wand/Wand@4.0.1%5E%7B%7D
+- pkg:swift/github.com/The-Wand/Wand@5.0.0
+- pkg:swift/github.com/The-Wand/Wand@5.0.0%5E%7B%7D
 - pkg:swift/github.com/The-Wand/Wand@Core2.x-freeze
+- pkg:swift/github.com/The-Wand/Wand@codefreeze_3.x
+- pkg:swift/github.com/The-Wand/Wand@codefreeze_3.x%5E%7B%7D
