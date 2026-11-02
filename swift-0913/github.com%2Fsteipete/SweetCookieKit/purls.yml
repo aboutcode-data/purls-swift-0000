@@ -21,6 +21,10 @@
 - pkg:swift/github.com/steipete/SweetCookieKit@0.5.0%5E%7B%7D
 - pkg:swift/github.com/steipete/SweetCookieKit@v0.5.1
 - pkg:swift/github.com/steipete/SweetCookieKit@v0.5.1%5E%7B%7D
+- pkg:swift/github.com/steipete/SweetCookieKit@v0.5.10
+- pkg:swift/github.com/steipete/SweetCookieKit@v0.5.10%5E%7B%7D
+- pkg:swift/github.com/steipete/SweetCookieKit@v0.5.11
+- pkg:swift/github.com/steipete/SweetCookieKit@v0.5.11%5E%7B%7D
 - pkg:swift/github.com/steipete/SweetCookieKit@v0.5.2
 - pkg:swift/github.com/steipete/SweetCookieKit@v0.5.3
 - pkg:swift/github.com/steipete/SweetCookieKit@v0.5.4
@@ -31,3 +35,7 @@
 - pkg:swift/github.com/steipete/SweetCookieKit@v0.5.6%5E%7B%7D
 - pkg:swift/github.com/steipete/SweetCookieKit@v0.5.7
 - pkg:swift/github.com/steipete/SweetCookieKit@v0.5.7%5E%7B%7D
+- pkg:swift/github.com/steipete/SweetCookieKit@v0.5.8
+- pkg:swift/github.com/steipete/SweetCookieKit@v0.5.8%5E%7B%7D
+- pkg:swift/github.com/steipete/SweetCookieKit@v0.5.9
+- pkg:swift/github.com/steipete/SweetCookieKit@v0.5.9%5E%7B%7D
