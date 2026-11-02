@@ -16,3 +16,7 @@
 - pkg:swift/github.com/aptove/swift-sdk@v0.1.7
 - pkg:swift/github.com/aptove/swift-sdk@v0.1.8
 - pkg:swift/github.com/aptove/swift-sdk@v0.1.9
+- pkg:swift/github.com/aptove/swift-sdk@v0.2.0
+- pkg:swift/github.com/aptove/swift-sdk@v0.2.1
+- pkg:swift/github.com/aptove/swift-sdk@v0.2.2
+- pkg:swift/github.com/aptove/swift-sdk@v0.2.3
