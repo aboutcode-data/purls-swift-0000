@@ -1,5 +1,7 @@
 - pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.0.0
 - pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.1.0
+- pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.10.0
+- pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.10.1
 - pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.2.0
 - pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.3.0
 - pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.4.0
@@ -8,3 +10,5 @@
 - pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.6.0
 - pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.7.0
 - pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.8.0
+- pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.9.0
+- pkg:swift/github.com/ConfigDirector/configdirector-swift-sdk@v1.9.1
