@@ -18,3 +18,4 @@
 - pkg:swift/github.com/coinpaprika/coinpaprika-api-swift-client@2.2
 - pkg:swift/github.com/coinpaprika/coinpaprika-api-swift-client@2.3.0
 - pkg:swift/github.com/coinpaprika/coinpaprika-api-swift-client@2.4.0
+- pkg:swift/github.com/coinpaprika/coinpaprika-api-swift-client@2.4.1
