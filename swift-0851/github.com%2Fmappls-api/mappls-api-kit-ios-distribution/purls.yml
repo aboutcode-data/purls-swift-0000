@@ -2,6 +2,7 @@
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.0%5E%7B%7D
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.1
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.1%5E%7B%7D
+- pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.10
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.2
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.2%5E%7B%7D
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.4
@@ -13,3 +14,4 @@
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.7
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.7%5E%7B%7D
 - pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.8
+- pkg:swift/github.com/mappls-api/mappls-api-kit-ios-distribution@3.0.9

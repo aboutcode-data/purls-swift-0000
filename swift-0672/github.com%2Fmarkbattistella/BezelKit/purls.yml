@@ -5,6 +5,9 @@
 - pkg:swift/github.com/markbattistella/BezelKit@1.0.4
 - pkg:swift/github.com/markbattistella/BezelKit@2.0.0
 - pkg:swift/github.com/markbattistella/BezelKit@2.0.1
+- pkg:swift/github.com/markbattistella/BezelKit@26.10.17
+- pkg:swift/github.com/markbattistella/BezelKit@26.10.17%5E%7B%7D
+- pkg:swift/github.com/markbattistella/BezelKit@26.10.18
 - pkg:swift/github.com/markbattistella/BezelKit@26.2.10
 - pkg:swift/github.com/markbattistella/BezelKit@26.2.20
 - pkg:swift/github.com/markbattistella/BezelKit@26.3.6
