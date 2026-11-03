@@ -10,3 +10,4 @@
 - pkg:swift/github.com/apple/SwiftUsd@7.0.1
 - pkg:swift/github.com/apple/SwiftUsd@8.0.0
 - pkg:swift/github.com/apple/SwiftUsd@8.1.0
+- pkg:swift/github.com/apple/SwiftUsd@9.0.0
