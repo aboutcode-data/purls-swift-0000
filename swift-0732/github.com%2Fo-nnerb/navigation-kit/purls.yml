@@ -4,6 +4,8 @@
 - pkg:swift/github.com/o-nnerb/navigation-kit@1.0.0-alpha.6
 - pkg:swift/github.com/o-nnerb/navigation-kit@2.0.0
 - pkg:swift/github.com/o-nnerb/navigation-kit@2.1.0
+- pkg:swift/github.com/o-nnerb/navigation-kit@2.1.1
+- pkg:swift/github.com/o-nnerb/navigation-kit@2.1.2
 - pkg:swift/github.com/o-nnerb/navigation-kit@v1.0-alpha
 - pkg:swift/github.com/o-nnerb/navigation-kit@v1.0-alpha.2
 - pkg:swift/github.com/o-nnerb/navigation-kit@v1.0-alpha.3
