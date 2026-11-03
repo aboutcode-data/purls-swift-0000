@@ -1,6 +1,7 @@
 - pkg:swift/github.com/swift-dns/swift-vectorization@v1.0.0-alpha.1
 - pkg:swift/github.com/swift-dns/swift-vectorization@v1.0.0-alpha.10
 - pkg:swift/github.com/swift-dns/swift-vectorization@v1.0.0-alpha.11
+- pkg:swift/github.com/swift-dns/swift-vectorization@v1.0.0-alpha.12
 - pkg:swift/github.com/swift-dns/swift-vectorization@v1.0.0-alpha.2
 - pkg:swift/github.com/swift-dns/swift-vectorization@v1.0.0-alpha.3
 - pkg:swift/github.com/swift-dns/swift-vectorization@v1.0.0-alpha.4
