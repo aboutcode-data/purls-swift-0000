@@ -1,5 +1,7 @@
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@2026.10.19-globe
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@2026.10.19-globe%5E%7B%7D
+- pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@2026.11.2-globe
+- pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@2026.11.2-globe%5E%7B%7D
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@5.10.0
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@5.11.0
 - pkg:swift/github.com/maplibre/maplibre-gl-native-distribution@5.12.0
