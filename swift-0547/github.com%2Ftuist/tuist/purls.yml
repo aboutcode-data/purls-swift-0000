@@ -4482,6 +4482,7 @@
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.13
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.14
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.15
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.16
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.2
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.3
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.4
