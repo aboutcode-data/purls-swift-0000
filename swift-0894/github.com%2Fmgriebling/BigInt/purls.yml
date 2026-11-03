@@ -28,3 +28,5 @@
 - pkg:swift/github.com/mgriebling/BigInt@2.2.4%5E%7B%7D
 - pkg:swift/github.com/mgriebling/BigInt@2.3.0
 - pkg:swift/github.com/mgriebling/BigInt@2.3.0%5E%7B%7D
+- pkg:swift/github.com/mgriebling/BigInt@2.3.1
+- pkg:swift/github.com/mgriebling/BigInt@2.3.1%5E%7B%7D
