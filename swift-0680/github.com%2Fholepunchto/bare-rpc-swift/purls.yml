@@ -5,3 +5,4 @@
 - pkg:swift/github.com/holepunchto/bare-rpc-swift@v1.1.0
 - pkg:swift/github.com/holepunchto/bare-rpc-swift@v1.1.0%5E%7B%7D
 - pkg:swift/github.com/holepunchto/bare-rpc-swift@v1.1.1
+- pkg:swift/github.com/holepunchto/bare-rpc-swift@v2.0.0
