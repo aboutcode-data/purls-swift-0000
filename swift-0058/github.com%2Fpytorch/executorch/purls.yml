@@ -142,6 +142,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/23359
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/23504
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/24413
+- pkg:swift/github.com/pytorch/executorch@ciflow/docker/24585
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/24105
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/23359
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/23508
@@ -265,11 +266,13 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24394
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24421
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24422
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24481
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24495
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24507
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24508
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24574
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24584
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24585
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24589
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24ad53effe9ace90419ca13b827fa168bf13a5ae
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/254635cf671f7eef7fa9f6aa0d130824c378be4d
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
@@ -396,6 +399,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/78c85d7553df47fb38c89ee3923e7123af54ac71
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/7970222bdda77286d7e9f8b533bf92f51b9bc288
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/79b149f24cdaa934bfd37b5ddd764184c01a6a25
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/79feb102877c5ebcebaedf988650da5abb670031
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/7a8e8601ccdbc2adac33926aecff1cf3bccf2d02
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/7c8090745414386376cb6a4806eecc5a6e74da36
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/7d9eb71e6c301e4326fb2926f2dba86999721589
@@ -661,3 +665,5 @@
 - pkg:swift/github.com/pytorch/executorch@v1.5.1-rc3
 - pkg:swift/github.com/pytorch/executorch@v1.6.0-rc1
 - pkg:swift/github.com/pytorch/executorch@v1.6.0-rc2
+- pkg:swift/github.com/pytorch/executorch@v1.6.0-rc3
+- pkg:swift/github.com/pytorch/executorch@v1.6.0-rc4
