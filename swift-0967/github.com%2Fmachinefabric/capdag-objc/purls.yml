@@ -94,3 +94,5 @@
 - pkg:swift/github.com/machinefabric/capdag-objc@v1.663.4%5E%7B%7D
 - pkg:swift/github.com/machinefabric/capdag-objc@v1.666.60
 - pkg:swift/github.com/machinefabric/capdag-objc@v1.666.60%5E%7B%7D
+- pkg:swift/github.com/machinefabric/capdag-objc@v1.677.166
+- pkg:swift/github.com/machinefabric/capdag-objc@v1.677.166%5E%7B%7D
