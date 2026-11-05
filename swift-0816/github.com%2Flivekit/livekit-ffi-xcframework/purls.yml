@@ -17,6 +17,7 @@
 - pkg:swift/github.com/livekit/livekit-ffi-xcframework@0.13.0
 - pkg:swift/github.com/livekit/livekit-ffi-xcframework@0.13.1
 - pkg:swift/github.com/livekit/livekit-ffi-xcframework@0.13.2
+- pkg:swift/github.com/livekit/livekit-ffi-xcframework@0.13.4
 - pkg:swift/github.com/livekit/livekit-ffi-xcframework@0.2.0
 - pkg:swift/github.com/livekit/livekit-ffi-xcframework@0.2.1
 - pkg:swift/github.com/livekit/livekit-ffi-xcframework@0.2.2
