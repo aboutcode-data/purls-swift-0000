@@ -29,6 +29,10 @@
 - pkg:swift/github.com/home-assistant/HAKit@0.4.19%5E%7B%7D
 - pkg:swift/github.com/home-assistant/HAKit@0.4.2
 - pkg:swift/github.com/home-assistant/HAKit@0.4.2%5E%7B%7D
+- pkg:swift/github.com/home-assistant/HAKit@0.4.20
+- pkg:swift/github.com/home-assistant/HAKit@0.4.20%5E%7B%7D
+- pkg:swift/github.com/home-assistant/HAKit@0.4.21
+- pkg:swift/github.com/home-assistant/HAKit@0.4.21%5E%7B%7D
 - pkg:swift/github.com/home-assistant/HAKit@0.4.3
 - pkg:swift/github.com/home-assistant/HAKit@0.4.3%5E%7B%7D
 - pkg:swift/github.com/home-assistant/HAKit@0.4.4
