@@ -147,6 +147,8 @@
 - pkg:swift/github.com/measure-sh/measure@v0.12.1%5E%7B%7D
 - pkg:swift/github.com/measure-sh/measure@v0.13.0
 - pkg:swift/github.com/measure-sh/measure@v0.13.0%5E%7B%7D
+- pkg:swift/github.com/measure-sh/measure@v0.14.0
+- pkg:swift/github.com/measure-sh/measure@v0.14.0%5E%7B%7D
 - pkg:swift/github.com/measure-sh/measure@v0.2.0
 - pkg:swift/github.com/measure-sh/measure@v0.2.0%5E%7B%7D
 - pkg:swift/github.com/measure-sh/measure@v0.2.1
