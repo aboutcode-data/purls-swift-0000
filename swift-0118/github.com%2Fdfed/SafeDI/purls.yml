@@ -137,3 +137,4 @@
 - pkg:swift/github.com/dfed/SafeDI@2.2.0-beta-1
 - pkg:swift/github.com/dfed/SafeDI@2.2.0-beta-2
 - pkg:swift/github.com/dfed/SafeDI@2.2.0-rc-1
+- pkg:swift/github.com/dfed/SafeDI@2.3.0-alpha-1
