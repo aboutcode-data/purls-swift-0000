@@ -115,9 +115,11 @@
 - pkg:swift/github.com/grpc/grpc-ios@v1.81.1
 - pkg:swift/github.com/grpc/grpc-ios@v1.82.0
 - pkg:swift/github.com/grpc/grpc-ios@v1.82.2
+- pkg:swift/github.com/grpc/grpc-ios@v1.82.3
 - pkg:swift/github.com/grpc/grpc-ios@v1.83.0
 - pkg:swift/github.com/grpc/grpc-ios@v1.83.0-pre1
 - pkg:swift/github.com/grpc/grpc-ios@v1.83.1
+- pkg:swift/github.com/grpc/grpc-ios@v1.83.2
 - pkg:swift/github.com/grpc/grpc-ios@v1.84.0
 - pkg:swift/github.com/grpc/grpc-ios@v1.84.0-pre1
 - pkg:swift/github.com/grpc/grpc-ios@v1.84.0-pre2
