@@ -45,3 +45,4 @@
 - pkg:swift/github.com/FelixHerrmann/swift-package-list@4.7.2
 - pkg:swift/github.com/FelixHerrmann/swift-package-list@4.8.0
 - pkg:swift/github.com/FelixHerrmann/swift-package-list@4.9.0
+- pkg:swift/github.com/FelixHerrmann/swift-package-list@5.0.0
