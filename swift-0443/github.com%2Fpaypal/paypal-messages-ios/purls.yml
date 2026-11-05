@@ -1,0 +1,11 @@
+- pkg:swift/github.com/paypal/paypal-messages-ios@1.0.0
+- pkg:swift/github.com/paypal/paypal-messages-ios@1.0.0-alpha.1
+- pkg:swift/github.com/paypal/paypal-messages-ios@1.0.0-prerelease.3
+- pkg:swift/github.com/paypal/paypal-messages-ios@1.0.0-prerelease.4
+- pkg:swift/github.com/paypal/paypal-messages-ios@1.0.0-prerelease.5
+- pkg:swift/github.com/paypal/paypal-messages-ios@1.0.0-prerelease.6
+- pkg:swift/github.com/paypal/paypal-messages-ios@1.1.0
+- pkg:swift/github.com/paypal/paypal-messages-ios@1.2.0
+- pkg:swift/github.com/paypal/paypal-messages-ios@2.0.0
+- pkg:swift/github.com/paypal/paypal-messages-ios@v1.0.0-prerelease.1
+- pkg:swift/github.com/paypal/paypal-messages-ios@v1.0.0-prerelease.2
