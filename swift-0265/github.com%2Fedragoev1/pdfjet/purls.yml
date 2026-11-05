@@ -24,3 +24,5 @@
 - pkg:swift/github.com/edragoev1/pdfjet@v9.1.1%5E%7B%7D
 - pkg:swift/github.com/edragoev1/pdfjet@v9.1.5
 - pkg:swift/github.com/edragoev1/pdfjet@v9.1.5%5E%7B%7D
+- pkg:swift/github.com/edragoev1/pdfjet@v9.1.7
+- pkg:swift/github.com/edragoev1/pdfjet@v9.1.7%5E%7B%7D
