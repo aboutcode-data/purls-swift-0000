@@ -51,6 +51,7 @@
 - pkg:swift/github.com/stasel/WebRTC@154.0.0
 - pkg:swift/github.com/stasel/WebRTC@155.0.0
 - pkg:swift/github.com/stasel/WebRTC@156.0.0
+- pkg:swift/github.com/stasel/WebRTC@157.0.0
 - pkg:swift/github.com/stasel/WebRTC@88.0.0
 - pkg:swift/github.com/stasel/WebRTC@89.0.0
 - pkg:swift/github.com/stasel/WebRTC@90.0.0
