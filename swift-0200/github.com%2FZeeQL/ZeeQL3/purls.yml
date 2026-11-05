@@ -1,5 +1,6 @@
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.10.0
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.10.1
+- pkg:swift/github.com/ZeeQL/ZeeQL3@0.10.2
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.5.0
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.5.1
 - pkg:swift/github.com/ZeeQL/ZeeQL3@0.5.2
