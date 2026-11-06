@@ -13,6 +13,7 @@
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.14.5
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.14.6
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.14.7
+- pkg:swift/github.com/lynnswap/CodexReviewKit@v0.14.8
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.2.0
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.2.0%5E%7B%7D
 - pkg:swift/github.com/lynnswap/CodexReviewKit@v0.2.1

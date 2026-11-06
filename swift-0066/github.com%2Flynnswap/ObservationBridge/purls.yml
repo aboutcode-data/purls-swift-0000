@@ -19,6 +19,7 @@
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.15.6
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.15.7
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.15.8
+- pkg:swift/github.com/lynnswap/ObservationBridge@v0.15.9
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.2.0
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.2.1
 - pkg:swift/github.com/lynnswap/ObservationBridge@v0.2.2
