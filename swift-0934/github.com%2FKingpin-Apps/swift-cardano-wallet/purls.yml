@@ -13,3 +13,5 @@
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-wallet@1.7.1
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-wallet@1.7.2
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-wallet@2.0.0
+- pkg:swift/github.com/Kingpin-Apps/swift-cardano-wallet@2.0.1
+- pkg:swift/github.com/Kingpin-Apps/swift-cardano-wallet@2.0.2
