@@ -9,3 +9,5 @@
 - pkg:swift/github.com/OpenCow42/swift-wasmtime@47.0.0%5E%7B%7D
 - pkg:swift/github.com/OpenCow42/swift-wasmtime@48.0.5
 - pkg:swift/github.com/OpenCow42/swift-wasmtime@48.0.5%5E%7B%7D
+- pkg:swift/github.com/OpenCow42/swift-wasmtime@50.0.1
+- pkg:swift/github.com/OpenCow42/swift-wasmtime@50.0.1%5E%7B%7D
