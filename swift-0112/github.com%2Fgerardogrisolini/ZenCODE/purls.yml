@@ -385,3 +385,7 @@
 - pkg:swift/github.com/gerardogrisolini/ZenCODE@v3.1.0%5E%7B%7D
 - pkg:swift/github.com/gerardogrisolini/ZenCODE@v3.2.0
 - pkg:swift/github.com/gerardogrisolini/ZenCODE@v3.2.0%5E%7B%7D
+- pkg:swift/github.com/gerardogrisolini/ZenCODE@v4.0.0
+- pkg:swift/github.com/gerardogrisolini/ZenCODE@v4.0.0%5E%7B%7D
+- pkg:swift/github.com/gerardogrisolini/ZenCODE@v4.0.1
+- pkg:swift/github.com/gerardogrisolini/ZenCODE@v4.0.1%5E%7B%7D
