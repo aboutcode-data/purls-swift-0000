@@ -125,6 +125,8 @@
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.44.5%5E%7B%7D
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.45.0
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.45.0%5E%7B%7D
+- pkg:swift/github.com/nnabeyang/swift-atproto@0.46.0
+- pkg:swift/github.com/nnabeyang/swift-atproto@0.46.0%5E%7B%7D
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.5.0
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.6.0
 - pkg:swift/github.com/nnabeyang/swift-atproto@0.7.0
