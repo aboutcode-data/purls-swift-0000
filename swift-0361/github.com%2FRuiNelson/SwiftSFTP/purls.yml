@@ -30,6 +30,7 @@
 - pkg:swift/github.com/RuiNelson/SwiftSFTP@v3.19.0
 - pkg:swift/github.com/RuiNelson/SwiftSFTP@v3.19.1
 - pkg:swift/github.com/RuiNelson/SwiftSFTP@v3.2.0
+- pkg:swift/github.com/RuiNelson/SwiftSFTP@v3.20.0
 - pkg:swift/github.com/RuiNelson/SwiftSFTP@v3.3.0
 - pkg:swift/github.com/RuiNelson/SwiftSFTP@v3.3.0%5E%7B%7D
 - pkg:swift/github.com/RuiNelson/SwiftSFTP@v3.4.0
