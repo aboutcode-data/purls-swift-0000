@@ -47,3 +47,4 @@
 - pkg:swift/github.com/google/app-check@CocoaPods-11.3.1
 - pkg:swift/github.com/google/app-check@CocoaPods-11.3.2
 - pkg:swift/github.com/google/app-check@CocoaPods-12.0.0
+- pkg:swift/github.com/google/app-check@CocoaPods-12.1.0
