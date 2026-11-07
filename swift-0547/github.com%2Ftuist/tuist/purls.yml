@@ -1343,6 +1343,8 @@
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.45
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.46
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.47
+- pkg:swift/github.com/tuist/tuist@4.217.0-canary.48
+- pkg:swift/github.com/tuist/tuist@4.217.0-canary.49
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.5
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.6
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.7
@@ -1767,6 +1769,7 @@
 - pkg:swift/github.com/tuist/tuist@atlas%400.79.3
 - pkg:swift/github.com/tuist/tuist@atlas%400.79.4
 - pkg:swift/github.com/tuist/tuist@atlas%400.8.0
+- pkg:swift/github.com/tuist/tuist@atlas%400.80.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.9.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.9.1
 - pkg:swift/github.com/tuist/tuist@atlas%400.9.2
@@ -1915,6 +1918,7 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.102.1
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.102.2
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.102.3
+- pkg:swift/github.com/tuist/tuist@capi-scaleway%400.102.4
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.11.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.11.1
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.11.2
@@ -2128,6 +2132,7 @@
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.99.0
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.99.1
 - pkg:swift/github.com/tuist/tuist@capi-scaleway%400.99.2
+- pkg:swift/github.com/tuist/tuist@condukt%401.15.0
 - pkg:swift/github.com/tuist/tuist@egress-tree-agent%400.1.0
 - pkg:swift/github.com/tuist/tuist@egress-tree-agent%400.2.0
 - pkg:swift/github.com/tuist/tuist@egress-tree-agent%400.3.0
@@ -2527,6 +2532,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.280.0
 - pkg:swift/github.com/tuist/tuist@helm%400.281.0
 - pkg:swift/github.com/tuist/tuist@helm%400.282.0
+- pkg:swift/github.com/tuist/tuist@helm%400.283.0
 - pkg:swift/github.com/tuist/tuist@helm%400.29.0
 - pkg:swift/github.com/tuist/tuist@helm%400.3.0
 - pkg:swift/github.com/tuist/tuist@helm%400.30.0
@@ -2692,6 +2698,7 @@
 - pkg:swift/github.com/tuist/tuist@hetzner-robot-controller%400.2.4
 - pkg:swift/github.com/tuist/tuist@hetzner-robot-controller%400.2.5
 - pkg:swift/github.com/tuist/tuist@hetzner-robot-controller%400.2.6
+- pkg:swift/github.com/tuist/tuist@host-kernel%406.18.62-1
 - pkg:swift/github.com/tuist/tuist@install-action%401.0.0
 - pkg:swift/github.com/tuist/tuist@install-action%401.0.1
 - pkg:swift/github.com/tuist/tuist@install-action%401.1.0
@@ -3053,6 +3060,7 @@
 - pkg:swift/github.com/tuist/tuist@pulse%401.40.0
 - pkg:swift/github.com/tuist/tuist@pulse%401.41.0
 - pkg:swift/github.com/tuist/tuist@pulse%401.41.1
+- pkg:swift/github.com/tuist/tuist@pulse%401.42.0
 - pkg:swift/github.com/tuist/tuist@rules_tuist%400.1.0-canary.1
 - pkg:swift/github.com/tuist/tuist@rules_tuist%400.1.0-rc.1
 - pkg:swift/github.com/tuist/tuist@rules_tuist%400.2.0-canary.1
@@ -4677,7 +4685,20 @@
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.13
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.130
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.131
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.132
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.133
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.134
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.135
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.136
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.137
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.138
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.139
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.14
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.140
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.141
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.142
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.143
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.144
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.15
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.16
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.17
