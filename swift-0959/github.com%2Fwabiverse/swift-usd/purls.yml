@@ -83,6 +83,7 @@
 - pkg:swift/github.com/wabiverse/swift-usd@v24.8.7
 - pkg:swift/github.com/wabiverse/swift-usd@v24.8.8
 - pkg:swift/github.com/wabiverse/swift-usd@v24.8.9
+- pkg:swift/github.com/wabiverse/swift-usd@v26.11.1
 - pkg:swift/github.com/wabiverse/swift-usd@v26.5.1
 - pkg:swift/github.com/wabiverse/swift-usd@v26.5.2
 - pkg:swift/github.com/wabiverse/swift-usd@v26.5.2-beta.1
