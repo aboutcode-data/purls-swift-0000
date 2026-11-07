@@ -5,3 +5,4 @@
 - pkg:swift/github.com/Formkunft/swift-libgit2@v1.9.0-securetransport
 - pkg:swift/github.com/Formkunft/swift-libgit2@v1.9.2
 - pkg:swift/github.com/Formkunft/swift-libgit2@v1.9.6
+- pkg:swift/github.com/Formkunft/swift-libgit2@v1.9.7
