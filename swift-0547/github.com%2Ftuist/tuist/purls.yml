@@ -1300,6 +1300,7 @@
 - pkg:swift/github.com/tuist/tuist@4.216.0-canary.8
 - pkg:swift/github.com/tuist/tuist@4.216.0-canary.9
 - pkg:swift/github.com/tuist/tuist@4.216.0-rc.1
+- pkg:swift/github.com/tuist/tuist@4.216.0-rc.2
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.1
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.10
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.11
@@ -1336,6 +1337,12 @@
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.4
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.40
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.41
+- pkg:swift/github.com/tuist/tuist@4.217.0-canary.42
+- pkg:swift/github.com/tuist/tuist@4.217.0-canary.43
+- pkg:swift/github.com/tuist/tuist@4.217.0-canary.44
+- pkg:swift/github.com/tuist/tuist@4.217.0-canary.45
+- pkg:swift/github.com/tuist/tuist@4.217.0-canary.46
+- pkg:swift/github.com/tuist/tuist@4.217.0-canary.47
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.5
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.6
 - pkg:swift/github.com/tuist/tuist@4.217.0-canary.7
@@ -1596,6 +1603,7 @@
 - pkg:swift/github.com/tuist/tuist@app%400.3.4%5E%7B%7D
 - pkg:swift/github.com/tuist/tuist@app%400.3.5
 - pkg:swift/github.com/tuist/tuist@app%400.3.5%5E%7B%7D
+- pkg:swift/github.com/tuist/tuist@app%400.30.0
 - pkg:swift/github.com/tuist/tuist@app%400.4.0
 - pkg:swift/github.com/tuist/tuist@app%400.4.0%5E%7B%7D
 - pkg:swift/github.com/tuist/tuist@app%400.5.0
@@ -1757,6 +1765,7 @@
 - pkg:swift/github.com/tuist/tuist@atlas%400.79.1
 - pkg:swift/github.com/tuist/tuist@atlas%400.79.2
 - pkg:swift/github.com/tuist/tuist@atlas%400.79.3
+- pkg:swift/github.com/tuist/tuist@atlas%400.79.4
 - pkg:swift/github.com/tuist/tuist@atlas%400.8.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.9.0
 - pkg:swift/github.com/tuist/tuist@atlas%400.9.1
@@ -4661,7 +4670,13 @@
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.123
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.124
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.125
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.126
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.127
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.128
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.129
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.13
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.130
+- pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.131
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.14
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.15
 - pkg:swift/github.com/tuist/tuist@server%401.358.0-canary.16
