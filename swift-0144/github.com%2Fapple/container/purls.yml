@@ -47,3 +47,5 @@
 - pkg:swift/github.com/apple/container@1.6.0%5E%7B%7D
 - pkg:swift/github.com/apple/container@1.6.1
 - pkg:swift/github.com/apple/container@1.6.1%5E%7B%7D
+- pkg:swift/github.com/apple/container@1.7.0
+- pkg:swift/github.com/apple/container@1.7.1
