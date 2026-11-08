@@ -20,3 +20,9 @@
 - pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v1.2.8%5E%7B%7D
 - pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v1.2.9
 - pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v1.2.9%5E%7B%7D
+- pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v2.0.1
+- pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v2.0.1%5E%7B%7D
+- pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v2.0.2
+- pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v2.0.2%5E%7B%7D
+- pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v2.0.3
+- pkg:swift/github.com/pushplatform/pushpilot-sdk-ios@v2.0.3%5E%7B%7D
