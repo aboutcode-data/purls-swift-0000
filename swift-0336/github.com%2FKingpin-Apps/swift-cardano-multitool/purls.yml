@@ -26,6 +26,8 @@
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-multitool@0.22.1
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-multitool@0.22.10
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-multitool@0.22.11
+- pkg:swift/github.com/Kingpin-Apps/swift-cardano-multitool@0.22.12
+- pkg:swift/github.com/Kingpin-Apps/swift-cardano-multitool@0.22.13
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-multitool@0.22.2
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-multitool@0.22.3
 - pkg:swift/github.com/Kingpin-Apps/swift-cardano-multitool@0.22.4
