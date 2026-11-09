@@ -1,3 +1,4 @@
 - pkg:swift/github.com/gradientlabs-ai-external/gradient-labs-ios-sdk@v0.6.1
 - pkg:swift/github.com/gradientlabs-ai-external/gradient-labs-ios-sdk@v0.6.2
 - pkg:swift/github.com/gradientlabs-ai-external/gradient-labs-ios-sdk@v0.7.0
+- pkg:swift/github.com/gradientlabs-ai-external/gradient-labs-ios-sdk@v0.7.1
