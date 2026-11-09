@@ -2,6 +2,8 @@
 - pkg:swift/github.com/felfoldy/SwiftPy@pyprompt-2.1.0%5E%7B%7D
 - pkg:swift/github.com/felfoldy/SwiftPy@pyprompt-2.1.1
 - pkg:swift/github.com/felfoldy/SwiftPy@pyprompt-2.1.1%5E%7B%7D
+- pkg:swift/github.com/felfoldy/SwiftPy@pyprompt-2.2.1
+- pkg:swift/github.com/felfoldy/SwiftPy@pyprompt-2.2.1%5E%7B%7D
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.0.1
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.0.1%5E%7B%7D
 - pkg:swift/github.com/felfoldy/SwiftPy@v0.0.2
