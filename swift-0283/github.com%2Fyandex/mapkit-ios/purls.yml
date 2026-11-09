@@ -62,3 +62,5 @@
 - pkg:swift/github.com/yandex/mapkit-ios@4.42.0%5E%7B%7D
 - pkg:swift/github.com/yandex/mapkit-ios@4.45.0
 - pkg:swift/github.com/yandex/mapkit-ios@4.45.0%5E%7B%7D
+- pkg:swift/github.com/yandex/mapkit-ios@4.47.0
+- pkg:swift/github.com/yandex/mapkit-ios@4.47.0%5E%7B%7D
