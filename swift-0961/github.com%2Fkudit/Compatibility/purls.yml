@@ -248,6 +248,12 @@
 - pkg:swift/github.com/kudit/Compatibility@v1.21.2%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.21.3
 - pkg:swift/github.com/kudit/Compatibility@v1.21.3%5E%7B%7D
+- pkg:swift/github.com/kudit/Compatibility@v1.21.4
+- pkg:swift/github.com/kudit/Compatibility@v1.21.4%5E%7B%7D
+- pkg:swift/github.com/kudit/Compatibility@v1.21.5
+- pkg:swift/github.com/kudit/Compatibility@v1.21.5%5E%7B%7D
+- pkg:swift/github.com/kudit/Compatibility@v1.21.6
+- pkg:swift/github.com/kudit/Compatibility@v1.21.6%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.3.0
 - pkg:swift/github.com/kudit/Compatibility@v1.3.0%5E%7B%7D
 - pkg:swift/github.com/kudit/Compatibility@v1.3.1
