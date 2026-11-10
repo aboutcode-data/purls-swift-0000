@@ -115,6 +115,7 @@
 - pkg:swift/github.com/bitdriftlabs/capture-ios@0.25.1
 - pkg:swift/github.com/bitdriftlabs/capture-ios@0.26.0
 - pkg:swift/github.com/bitdriftlabs/capture-ios@0.50.0
+- pkg:swift/github.com/bitdriftlabs/capture-ios@0.51.0
 - pkg:swift/github.com/bitdriftlabs/capture-ios@0.9.100
 - pkg:swift/github.com/bitdriftlabs/capture-ios@0.9.101
 - pkg:swift/github.com/bitdriftlabs/capture-ios@0.9.102
