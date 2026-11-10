@@ -12,3 +12,9 @@
 - pkg:swift/github.com/Vaccone-Software/stoic@0.4.2%5E%7B%7D
 - pkg:swift/github.com/Vaccone-Software/stoic@0.5.0
 - pkg:swift/github.com/Vaccone-Software/stoic@0.5.0%5E%7B%7D
+- pkg:swift/github.com/Vaccone-Software/stoic@0.6.0
+- pkg:swift/github.com/Vaccone-Software/stoic@0.6.0%5E%7B%7D
+- pkg:swift/github.com/Vaccone-Software/stoic@0.7.0
+- pkg:swift/github.com/Vaccone-Software/stoic@0.7.0%5E%7B%7D
+- pkg:swift/github.com/Vaccone-Software/stoic@0.8.0
+- pkg:swift/github.com/Vaccone-Software/stoic@0.8.0%5E%7B%7D
