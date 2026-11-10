@@ -66,6 +66,7 @@
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.10.3016-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.10.3019-nightly
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.10.3020-rc
+- pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.10.3022-rc
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.2.1962
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.2.1988
 - pkg:swift/github.com/regulaforensics/RegulaCommon-Swift-Package@9.3.2092
