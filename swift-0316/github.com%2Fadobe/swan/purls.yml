@@ -200,4 +200,5 @@
 - pkg:swift/github.com/adobe/swan@dawn-chromium-stable-157.0.8103.15
 - pkg:swift/github.com/adobe/swan@dawn-chromium-stable-157.0.8103.27
 - pkg:swift/github.com/adobe/swan@dawn-chromium-stable-157.0.8103.39
+- pkg:swift/github.com/adobe/swan@dawn-chromium-stable-157.0.8103.51
 - pkg:swift/github.com/adobe/swan@dawn-chromium-stable-158.0.8127.18
