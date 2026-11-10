@@ -18,6 +18,7 @@
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.11.10
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.11.11
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.11.12
+- pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.11.13
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.11.2
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.11.3
 - pkg:swift/github.com/artifact-keeper/artifact-keeper-swift-sdk@1.11.4
