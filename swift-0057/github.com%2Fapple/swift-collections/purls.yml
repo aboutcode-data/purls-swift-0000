@@ -32,3 +32,4 @@
 - pkg:swift/github.com/apple/swift-collections@1.7.3
 - pkg:swift/github.com/apple/swift-collections@1.7.4
 - pkg:swift/github.com/apple/swift-collections@1.7.5
+- pkg:swift/github.com/apple/swift-collections@1.7.6
