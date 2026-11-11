@@ -33,6 +33,7 @@
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.10.21532-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.10.21551-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.10.21566-rc
+- pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.10.21584-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.2.16334
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.3.16986
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.4.17651
@@ -42,7 +43,6 @@
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.6.18857
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.7.19698
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.8.20495
-- pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.9.20555-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.9.20582-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.9.20606-rc
 - pkg:swift/github.com/regulaforensics/DocumentReaderOCRRFID-Swift-Package@9.9.20626-rc
