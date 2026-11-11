@@ -1069,6 +1069,8 @@
 - pkg:swift/github.com/swiftlang/swift-docc@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-11-04-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-11-06-a
 - pkg:swift/github.com/swiftlang/swift-docc@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-11-06-a%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swift-docc@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-11-09-a
+- pkg:swift/github.com/swiftlang/swift-docc@swift-6.4.x-DEVELOPMENT-SNAPSHOT-2026-11-09-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc@swift-DEVELOPMENT-SNAPSHOT-2021-11-02-a
 - pkg:swift/github.com/swiftlang/swift-docc@swift-DEVELOPMENT-SNAPSHOT-2021-11-02-a%5E%7B%7D
 - pkg:swift/github.com/swiftlang/swift-docc@swift-DEVELOPMENT-SNAPSHOT-2021-11-10-a
