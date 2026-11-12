@@ -3,6 +3,7 @@
 - pkg:swift/github.com/measure-sh/measure@android-gradle-plugin-v0.12.0
 - pkg:swift/github.com/measure-sh/measure@android-gradle-plugin-v0.13.0
 - pkg:swift/github.com/measure-sh/measure@android-gradle-plugin-v0.14.0
+- pkg:swift/github.com/measure-sh/measure@android-gradle-plugin-v0.15.0
 - pkg:swift/github.com/measure-sh/measure@android-gradle-plugin-v0.3.0
 - pkg:swift/github.com/measure-sh/measure@android-gradle-plugin-v0.3.0%5E%7B%7D
 - pkg:swift/github.com/measure-sh/measure@android-gradle-plugin-v0.4.0
@@ -35,6 +36,7 @@
 - pkg:swift/github.com/measure-sh/measure@android-v0.21.0
 - pkg:swift/github.com/measure-sh/measure@android-v0.21.1
 - pkg:swift/github.com/measure-sh/measure@android-v0.22.0
+- pkg:swift/github.com/measure-sh/measure@android-v0.23.0
 - pkg:swift/github.com/measure-sh/measure@android-v0.3.0
 - pkg:swift/github.com/measure-sh/measure@android-v0.3.0%5E%7B%7D
 - pkg:swift/github.com/measure-sh/measure@android-v0.4.0
