@@ -161,6 +161,7 @@
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.11.0-ms-202611050601
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.11.0-ms-202611100140
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.11.0-ms-202611120406
+- pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.11.0-ms-202611121458
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.4.0
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.4.0-ms-202504041530
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.4.0-ms-202604011630
@@ -272,6 +273,7 @@
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.8.4-ms-202609281958
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.8.4-ms-202609291759
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@26.8.4-ms-202610121230
+- pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@27.3.0-ms-202611120832
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@3.0.0
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@3.0.1
 - pkg:swift/github.com/SAP/cloud-sdk-ios-fiori@3.0.2
