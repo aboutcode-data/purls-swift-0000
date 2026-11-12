@@ -12,3 +12,4 @@
 - pkg:swift/github.com/getsentry/sentry-apple-swift-log@9.31.0
 - pkg:swift/github.com/getsentry/sentry-apple-swift-log@9.32.0
 - pkg:swift/github.com/getsentry/sentry-apple-swift-log@9.33.0
+- pkg:swift/github.com/getsentry/sentry-apple-swift-log@9.34.0
