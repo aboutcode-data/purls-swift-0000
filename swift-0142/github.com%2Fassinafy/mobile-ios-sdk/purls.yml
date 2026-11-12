@@ -13,6 +13,8 @@
 - pkg:swift/github.com/assinafy/mobile-ios-sdk@v1.12.0%5E%7B%7D
 - pkg:swift/github.com/assinafy/mobile-ios-sdk@v1.13.0
 - pkg:swift/github.com/assinafy/mobile-ios-sdk@v1.13.0%5E%7B%7D
+- pkg:swift/github.com/assinafy/mobile-ios-sdk@v1.14.0
+- pkg:swift/github.com/assinafy/mobile-ios-sdk@v1.14.0%5E%7B%7D
 - pkg:swift/github.com/assinafy/mobile-ios-sdk@v1.2.1
 - pkg:swift/github.com/assinafy/mobile-ios-sdk@v1.2.1%5E%7B%7D
 - pkg:swift/github.com/assinafy/mobile-ios-sdk@v1.3.0
