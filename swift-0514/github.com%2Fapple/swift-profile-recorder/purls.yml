@@ -14,6 +14,7 @@
 - pkg:swift/github.com/apple/swift-profile-recorder@0.3.20
 - pkg:swift/github.com/apple/swift-profile-recorder@0.3.21
 - pkg:swift/github.com/apple/swift-profile-recorder@0.3.22
+- pkg:swift/github.com/apple/swift-profile-recorder@0.3.23
 - pkg:swift/github.com/apple/swift-profile-recorder@0.3.3
 - pkg:swift/github.com/apple/swift-profile-recorder@0.3.4
 - pkg:swift/github.com/apple/swift-profile-recorder@0.3.5
