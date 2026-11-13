@@ -3,3 +3,4 @@
 - pkg:swift/github.com/UInt8Co/swift-nio-mtproto@1.1.0
 - pkg:swift/github.com/UInt8Co/swift-nio-mtproto@1.2.0
 - pkg:swift/github.com/UInt8Co/swift-nio-mtproto@1.2.1
+- pkg:swift/github.com/UInt8Co/swift-nio-mtproto@2.0.0
