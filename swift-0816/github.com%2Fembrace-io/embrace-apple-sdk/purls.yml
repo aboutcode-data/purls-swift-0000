@@ -178,5 +178,7 @@
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@7.0.0-rc1
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@7.0.0-rc2
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@7.0.0-rc3
+- pkg:swift/github.com/embrace-io/embrace-apple-sdk@7.1.0
+- pkg:swift/github.com/embrace-io/embrace-apple-sdk@7.1.0-rc1
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@test
 - pkg:swift/github.com/embrace-io/embrace-apple-sdk@test-2
