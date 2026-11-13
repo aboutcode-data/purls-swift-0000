@@ -122,6 +122,7 @@
 - pkg:swift/github.com/GetStream/stream-chat-swiftui@5.14.0
 - pkg:swift/github.com/GetStream/stream-chat-swiftui@5.15.0
 - pkg:swift/github.com/GetStream/stream-chat-swiftui@5.16.0
+- pkg:swift/github.com/GetStream/stream-chat-swiftui@5.17.0
 - pkg:swift/github.com/GetStream/stream-chat-swiftui@5.2.0
 - pkg:swift/github.com/GetStream/stream-chat-swiftui@5.3.0
 - pkg:swift/github.com/GetStream/stream-chat-swiftui@5.4.0
