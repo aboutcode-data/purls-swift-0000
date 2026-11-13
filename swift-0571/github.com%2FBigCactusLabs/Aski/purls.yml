@@ -1,3 +1,7 @@
+- pkg:swift/github.com/BigCactusLabs/Aski@evidence/aski87-control
+- pkg:swift/github.com/BigCactusLabs/Aski@evidence/aski87-control%5E%7B%7D
+- pkg:swift/github.com/BigCactusLabs/Aski@evidence/aski93-control
+- pkg:swift/github.com/BigCactusLabs/Aski@evidence/aski93-control%5E%7B%7D
 - pkg:swift/github.com/BigCactusLabs/Aski@v0.7.0
 - pkg:swift/github.com/BigCactusLabs/Aski@v0.7.0%5E%7B%7D
 - pkg:swift/github.com/BigCactusLabs/Aski@v0.8.0
