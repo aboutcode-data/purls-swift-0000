@@ -22,3 +22,5 @@
 - pkg:swift/github.com/lyft/hammer@2.1.0
 - pkg:swift/github.com/lyft/hammer@2.1.1
 - pkg:swift/github.com/lyft/hammer@2.2.0
+- pkg:swift/github.com/lyft/hammer@2.3.0-android.1
+- pkg:swift/github.com/lyft/hammer@2.3.0-android.1%5E%7B%7D
