@@ -48,3 +48,5 @@
 - pkg:swift/github.com/swift-ros2/swift-ros2@3.1.0-rc.1%5E%7B%7D
 - pkg:swift/github.com/swift-ros2/swift-ros2@3.1.1
 - pkg:swift/github.com/swift-ros2/swift-ros2@3.1.1%5E%7B%7D
+- pkg:swift/github.com/swift-ros2/swift-ros2@3.1.2
+- pkg:swift/github.com/swift-ros2/swift-ros2@3.1.2%5E%7B%7D
