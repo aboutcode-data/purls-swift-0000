@@ -55,6 +55,7 @@
 - pkg:swift/github.com/21-DOT-DEV/swift-secp256k1@0.23.2
 - pkg:swift/github.com/21-DOT-DEV/swift-secp256k1@0.24.0
 - pkg:swift/github.com/21-DOT-DEV/swift-secp256k1@0.25.0
+- pkg:swift/github.com/21-DOT-DEV/swift-secp256k1@0.25.1
 - pkg:swift/github.com/21-DOT-DEV/swift-secp256k1@0.3.0
 - pkg:swift/github.com/21-DOT-DEV/swift-secp256k1@0.3.1
 - pkg:swift/github.com/21-DOT-DEV/swift-secp256k1@0.3.2
