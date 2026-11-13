@@ -1132,6 +1132,8 @@
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.62.2-unstable.3%5E%7B%7D
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.63.0
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.63.0%5E%7B%7D
+- pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1
+- pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1%5E%7B%7D
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1-unstable.0
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1-unstable.0%5E%7B%7D
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1-unstable.1
@@ -1142,6 +1144,8 @@
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1-unstable.3%5E%7B%7D
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1-unstable.4
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1-unstable.4%5E%7B%7D
+- pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1-unstable.5
+- pkg:swift/github.com/aws-amplify/amplify-swift@2.63.1-unstable.5%5E%7B%7D
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.7.0
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.7.0%5E%7B%7D
 - pkg:swift/github.com/aws-amplify/amplify-swift@2.7.1
