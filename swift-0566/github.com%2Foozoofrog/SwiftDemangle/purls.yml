@@ -30,4 +30,6 @@
 - pkg:swift/github.com/oozoofrog/SwiftDemangle@6.0.5
 - pkg:swift/github.com/oozoofrog/SwiftDemangle@6.0.6
 - pkg:swift/github.com/oozoofrog/SwiftDemangle@6.2.3
+- pkg:swift/github.com/oozoofrog/SwiftDemangle@6.4.2
+- pkg:swift/github.com/oozoofrog/SwiftDemangle@6.4.3
 - pkg:swift/github.com/oozoofrog/SwiftDemangle@swift5.5
