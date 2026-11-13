@@ -37,6 +37,7 @@
 - pkg:swift/github.com/measure-sh/measure@android-v0.21.1
 - pkg:swift/github.com/measure-sh/measure@android-v0.22.0
 - pkg:swift/github.com/measure-sh/measure@android-v0.23.0
+- pkg:swift/github.com/measure-sh/measure@android-v0.23.1
 - pkg:swift/github.com/measure-sh/measure@android-v0.3.0
 - pkg:swift/github.com/measure-sh/measure@android-v0.3.0%5E%7B%7D
 - pkg:swift/github.com/measure-sh/measure@android-v0.4.0
@@ -72,6 +73,7 @@
 - pkg:swift/github.com/measure-sh/measure@ios-v0.14.1
 - pkg:swift/github.com/measure-sh/measure@ios-v0.14.2
 - pkg:swift/github.com/measure-sh/measure@ios-v0.15.0
+- pkg:swift/github.com/measure-sh/measure@ios-v0.16.0
 - pkg:swift/github.com/measure-sh/measure@ios-v0.2.0
 - pkg:swift/github.com/measure-sh/measure@ios-v0.3.0
 - pkg:swift/github.com/measure-sh/measure@ios-v0.3.1
@@ -90,6 +92,7 @@
 - pkg:swift/github.com/measure-sh/measure@kmp-v0.1.0-alpha.1
 - pkg:swift/github.com/measure-sh/measure@kmp-v0.2.0
 - pkg:swift/github.com/measure-sh/measure@kmp-v0.3.0
+- pkg:swift/github.com/measure-sh/measure@kmp-v0.4.0
 - pkg:swift/github.com/measure-sh/measure@measure-android-0.1.0
 - pkg:swift/github.com/measure-sh/measure@measure-android-0.2.0
 - pkg:swift/github.com/measure-sh/measure@measure-android-0.3.0
@@ -134,6 +137,7 @@
 - pkg:swift/github.com/measure-sh/measure@rn-v0.4.0
 - pkg:swift/github.com/measure-sh/measure@rn-v0.4.1
 - pkg:swift/github.com/measure-sh/measure@rn-v0.4.2
+- pkg:swift/github.com/measure-sh/measure@rn-v0.5.0
 - pkg:swift/github.com/measure-sh/measure@v0.0.1
 - pkg:swift/github.com/measure-sh/measure@v0.0.1%5E%7B%7D
 - pkg:swift/github.com/measure-sh/measure@v0.1.0
