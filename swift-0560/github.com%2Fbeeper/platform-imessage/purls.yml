@@ -40,6 +40,7 @@
 - pkg:swift/github.com/beeper/platform-imessage@v0.24.8
 - pkg:swift/github.com/beeper/platform-imessage@v0.25.0
 - pkg:swift/github.com/beeper/platform-imessage@v0.25.10
+- pkg:swift/github.com/beeper/platform-imessage@v0.25.11
 - pkg:swift/github.com/beeper/platform-imessage@v0.25.2
 - pkg:swift/github.com/beeper/platform-imessage@v0.25.3
 - pkg:swift/github.com/beeper/platform-imessage@v0.25.4
