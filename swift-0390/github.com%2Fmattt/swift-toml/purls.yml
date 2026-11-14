@@ -1,3 +1,4 @@
 - pkg:swift/github.com/mattt/swift-toml@1.0.0
 - pkg:swift/github.com/mattt/swift-toml@2.0.0
 - pkg:swift/github.com/mattt/swift-toml@2.1.0
+- pkg:swift/github.com/mattt/swift-toml@2.1.1
