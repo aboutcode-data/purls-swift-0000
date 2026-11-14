@@ -11,3 +11,5 @@
 - pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.6.0
 - pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.6.1
 - pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.7.0
+- pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.7.1
+- pkg:swift/github.com/mackoj/PackageGeneratorCLI@0.7.2
