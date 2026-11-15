@@ -457,6 +457,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/91a918e0bd1c022479a79808ab6c76beb42716e6
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/91d26b3140533172f2557eabb1476e22f0b98bc3
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/9250dc3537862db4f66bac07a8974dad81cc0f20
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/925c1bdbc41e442c0dd65d8ead530c4062bdd67c
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/9517b6b3bda408d0d197f4e85dfb83bdd94eefb2
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/9520b0554414ba85e12d172f28ce55e5aef3a688
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/95c40ae48ecf4c79bf4c3b5814889558bb9e5050
@@ -484,6 +485,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/a4e65bff4339b5856f4783d8d4c0aaaf941ce407
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/a51094c9fff2cae8919d6bd5e7399ad954faec63
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/a519331f4b70429520b5b7d9a5a7e85349bb49f2
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/a532d10e63544e54273f4ccba1973bc06ef4e2be
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/a5f989300454df0a7d25915713472f56e2603d86
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/a6171a6585de2d46ef93f3137f64d46f15150e54
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/a6d812a082df57898b8608f56c867140cc9da32c
@@ -507,6 +509,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b21348102d05be7dbdc8c0eaab7d06736f1277b5
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b253af8a155b823b434ff3cc8c7ecb9a1cc59f91
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b2896aedda1d9cf688e919b98fb314ab7cbe97aa
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b3b565b5b62f5e03d57c9054b5a2570a04f0d937
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b4ad399f88619dbaf9158d493f94fecff236717d
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b4c53c6c3e2d6ac2d6c601aab0b9cbedb3babb88
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/b52cc9e436a0b1ade6e35ae0a2b84413e7d0425f
