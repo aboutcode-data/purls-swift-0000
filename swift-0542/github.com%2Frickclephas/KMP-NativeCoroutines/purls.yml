@@ -509,3 +509,9 @@
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.6-spm-combine
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.6-spm-no-deps
 - pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.6-spm-rxswift
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.7
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.7-kotlin-2.5.0-RC
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.7-spm-async
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.7-spm-combine
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.7-spm-no-deps
+- pkg:swift/github.com/rickclephas/KMP-NativeCoroutines@v1.0.7-spm-rxswift

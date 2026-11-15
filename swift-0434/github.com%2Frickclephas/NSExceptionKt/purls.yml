@@ -147,3 +147,6 @@
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.1.0
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.1.0-spm-bugsnag
 - pkg:swift/github.com/rickclephas/NSExceptionKt@v1.1.0-spm-crashlytics
+- pkg:swift/github.com/rickclephas/NSExceptionKt@v1.1.1
+- pkg:swift/github.com/rickclephas/NSExceptionKt@v1.1.1-spm-bugsnag
+- pkg:swift/github.com/rickclephas/NSExceptionKt@v1.1.1-spm-crashlytics
