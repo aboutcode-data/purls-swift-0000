@@ -1,13 +1,3 @@
-- pkg:swift/github.com/rgb/xitdb-swift@guarded
-- pkg:swift/github.com/rgb/xitdb-swift@guarded%5E%7B%7D
-- pkg:swift/github.com/rgb/xitdb-swift@parity
-- pkg:swift/github.com/rgb/xitdb-swift@parity%5E%7B%7D
-- pkg:swift/github.com/rgb/xitdb-swift@rule-b
-- pkg:swift/github.com/rgb/xitdb-swift@rule-b%5E%7B%7D
-- pkg:swift/github.com/rgb/xitdb-swift@snapshot-database
-- pkg:swift/github.com/rgb/xitdb-swift@snapshot-database%5E%7B%7D
-- pkg:swift/github.com/rgb/xitdb-swift@snapshots
-- pkg:swift/github.com/rgb/xitdb-swift@snapshots%5E%7B%7D
 - pkg:swift/github.com/rgb/xitdb-swift@v0.1.0
 - pkg:swift/github.com/rgb/xitdb-swift@v0.1.0%5E%7B%7D
 - pkg:swift/github.com/rgb/xitdb-swift@v0.1.1
@@ -20,3 +10,5 @@
 - pkg:swift/github.com/rgb/xitdb-swift@v0.2.1%5E%7B%7D
 - pkg:swift/github.com/rgb/xitdb-swift@v0.3.0
 - pkg:swift/github.com/rgb/xitdb-swift@v0.3.0%5E%7B%7D
+- pkg:swift/github.com/rgb/xitdb-swift@v0.4.0
+- pkg:swift/github.com/rgb/xitdb-swift@v0.4.0%5E%7B%7D
