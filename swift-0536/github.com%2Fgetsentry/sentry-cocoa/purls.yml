@@ -606,14 +606,17 @@
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.29.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.29.1
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.29.2
+- pkg:swift/github.com/getsentry/sentry-cocoa@9.29.3
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.3.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.30.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.30.1
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.30.2
+- pkg:swift/github.com/getsentry/sentry-cocoa@9.30.3
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.31.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.32.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.33.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.34.0
+- pkg:swift/github.com/getsentry/sentry-cocoa@9.35.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.4.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.4.1
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.5.0
