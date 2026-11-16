@@ -446,6 +446,7 @@
 - pkg:swift/github.com/fastlane/fastlane@2.241.0
 - pkg:swift/github.com/fastlane/fastlane@2.241.1
 - pkg:swift/github.com/fastlane/fastlane@2.241.2
+- pkg:swift/github.com/fastlane/fastlane@2.242.0
 - pkg:swift/github.com/fastlane/fastlane@2.25.0
 - pkg:swift/github.com/fastlane/fastlane@2.26.0
 - pkg:swift/github.com/fastlane/fastlane@2.26.1
