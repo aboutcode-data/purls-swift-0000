@@ -166,6 +166,7 @@
 - pkg:swift/github.com/swifweb/web@2.0.0-nightly.10%5E%7B%7D
 - pkg:swift/github.com/swifweb/web@2.0.0-nightly.11
 - pkg:swift/github.com/swifweb/web@2.0.0-nightly.11%5E%7B%7D
+- pkg:swift/github.com/swifweb/web@2.0.0-nightly.12
 - pkg:swift/github.com/swifweb/web@2.0.0-nightly.2
 - pkg:swift/github.com/swifweb/web@2.0.0-nightly.2%5E%7B%7D
 - pkg:swift/github.com/swifweb/web@2.0.0-nightly.3
