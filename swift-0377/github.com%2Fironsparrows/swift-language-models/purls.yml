@@ -38,3 +38,5 @@
 - pkg:swift/github.com/ironsparrows/swift-language-models@2.0.0
 - pkg:swift/github.com/ironsparrows/swift-language-models@2.1.0
 - pkg:swift/github.com/ironsparrows/swift-language-models@2.1.1
+- pkg:swift/github.com/ironsparrows/swift-language-models@2.1.2
+- pkg:swift/github.com/ironsparrows/swift-language-models@2.1.3
