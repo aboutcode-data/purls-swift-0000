@@ -57,6 +57,7 @@
 - pkg:swift/github.com/appwrite/sdk-for-apple@21.1.0
 - pkg:swift/github.com/appwrite/sdk-for-apple@21.1.1
 - pkg:swift/github.com/appwrite/sdk-for-apple@21.2.0
+- pkg:swift/github.com/appwrite/sdk-for-apple@21.3.0
 - pkg:swift/github.com/appwrite/sdk-for-apple@3.0.0
 - pkg:swift/github.com/appwrite/sdk-for-apple@3.0.1
 - pkg:swift/github.com/appwrite/sdk-for-apple@4.0.0
