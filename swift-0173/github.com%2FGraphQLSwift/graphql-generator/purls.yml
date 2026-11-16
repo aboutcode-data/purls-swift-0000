@@ -10,3 +10,4 @@
 - pkg:swift/github.com/GraphQLSwift/graphql-generator@1.2.4
 - pkg:swift/github.com/GraphQLSwift/graphql-generator@1.2.5
 - pkg:swift/github.com/GraphQLSwift/graphql-generator@1.2.6
+- pkg:swift/github.com/GraphQLSwift/graphql-generator@1.2.7

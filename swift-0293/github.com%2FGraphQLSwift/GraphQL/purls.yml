@@ -84,3 +84,4 @@
 - pkg:swift/github.com/GraphQLSwift/GraphQL@4.1.2
 - pkg:swift/github.com/GraphQLSwift/GraphQL@4.2.0
 - pkg:swift/github.com/GraphQLSwift/GraphQL@4.3.0
+- pkg:swift/github.com/GraphQLSwift/GraphQL@4.4.0
