@@ -57,6 +57,7 @@
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.73.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.74.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.75.0
+- pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.77.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@php/0.1.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@php/0.1.1
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@php/0.1.2
