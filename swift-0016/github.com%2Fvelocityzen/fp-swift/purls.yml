@@ -31,3 +31,7 @@
 - pkg:swift/github.com/velocityzen/fp-swift@4.4.2%5E%7B%7D
 - pkg:swift/github.com/velocityzen/fp-swift@4.5.0
 - pkg:swift/github.com/velocityzen/fp-swift@4.5.0%5E%7B%7D
+- pkg:swift/github.com/velocityzen/fp-swift@4.6.0
+- pkg:swift/github.com/velocityzen/fp-swift@4.6.0%5E%7B%7D
+- pkg:swift/github.com/velocityzen/fp-swift@4.7.0
+- pkg:swift/github.com/velocityzen/fp-swift@4.7.0%5E%7B%7D
