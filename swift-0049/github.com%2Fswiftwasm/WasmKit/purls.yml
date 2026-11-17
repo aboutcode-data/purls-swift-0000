@@ -30,3 +30,4 @@
 - pkg:swift/github.com/swiftwasm/WasmKit@0.4.1
 - pkg:swift/github.com/swiftwasm/WasmKit@0.4.2
 - pkg:swift/github.com/swiftwasm/WasmKit@0.4.2%5E%7B%7D
+- pkg:swift/github.com/swiftwasm/WasmKit@0.5.0
