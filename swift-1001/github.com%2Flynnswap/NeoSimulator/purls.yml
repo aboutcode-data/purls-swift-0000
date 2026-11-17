@@ -3,6 +3,7 @@
 - pkg:swift/github.com/lynnswap/NeoSimulator@v0.1.1
 - pkg:swift/github.com/lynnswap/NeoSimulator@v0.10.0
 - pkg:swift/github.com/lynnswap/NeoSimulator@v0.10.1
+- pkg:swift/github.com/lynnswap/NeoSimulator@v0.10.2
 - pkg:swift/github.com/lynnswap/NeoSimulator@v0.2.0
 - pkg:swift/github.com/lynnswap/NeoSimulator@v0.2.1
 - pkg:swift/github.com/lynnswap/NeoSimulator@v0.2.2
