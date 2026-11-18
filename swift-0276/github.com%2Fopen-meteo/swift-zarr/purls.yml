@@ -5,3 +5,4 @@
 - pkg:swift/github.com/open-meteo/swift-zarr@v0.1.4
 - pkg:swift/github.com/open-meteo/swift-zarr@v0.1.5
 - pkg:swift/github.com/open-meteo/swift-zarr@v0.2.0
+- pkg:swift/github.com/open-meteo/swift-zarr@v0.2.1
