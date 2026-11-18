@@ -1,1 +1,2 @@
-- pkg:swift/github.com/apple/pass-builder@6138535e09456652f7a98c167dbdca361672ae1a
+- pkg:swift/github.com/apple/pass-builder@0.1.0
+- pkg:swift/github.com/apple/pass-builder@0.1.0%5E%7B%7D
