@@ -141,14 +141,14 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/24413
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/24677
 - pkg:swift/github.com/pytorch/executorch@ciflow/cuda/24783
-- pkg:swift/github.com/pytorch/executorch@ciflow/cuda/25255
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/10955
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/23359
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/23504
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/24413
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/24605
 - pkg:swift/github.com/pytorch/executorch@ciflow/docker/24896
-- pkg:swift/github.com/pytorch/executorch@ciflow/docker/25255
+- pkg:swift/github.com/pytorch/executorch@ciflow/docker/25284
+- pkg:swift/github.com/pytorch/executorch@ciflow/docker/25293
 - pkg:swift/github.com/pytorch/executorch@ciflow/metal/24105
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/23359
 - pkg:swift/github.com/pytorch/executorch@ciflow/mlx/24105
@@ -160,6 +160,8 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/rocm/22847
 - pkg:swift/github.com/pytorch/executorch@ciflow/rocm/22850
 - pkg:swift/github.com/pytorch/executorch@ciflow/rocm/23712
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk-arm/25291
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk-arm/25308
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/0015c766b033b2f6cdaa314dd0f51c817eeb3e76
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/0061fd29914b9fdbc5b275b165f15db8e82bd844
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/00f06544be6b674f2ce8c1a746b76f23cf585d21
@@ -255,7 +257,6 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/237c463554829b312f07cdb897101196a8fac5fe
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/238506ae35123d99f3578f91fc904c3d605151c9
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23888
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23927
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/23b12307d2e4dc2453b4da1752cb6b6ff9b02fbc
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24032
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/24105
@@ -280,9 +281,8 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/25168
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/25207
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/25219
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/25234
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/25255
-- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/25263
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/25293
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/25301
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/254635cf671f7eef7fa9f6aa0d130824c378be4d
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2576
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/2659
@@ -413,12 +413,14 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6a28370cc59baba875168ba5cde2b7d32a413c3a
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6a7dd630e284464dbe593cdb2d9f587e21b80f82
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6b6da111300fdb5c6fa2c7fd9f48f605f54e881a
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6b82a162e774bbd30842abfe5931bc6e9ffb896e
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6c8bc89be41b3fe3fb42ce401556ecad65df7919
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6cbdc0357c9543741e9d43d285a0affe83c7bc76
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6cc8edf2f2471680c652b704285d7bdaae62fe00
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6cca16e0923e1ac1a85f38b5f0f5e47572b4031f
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6ce2715119e58fee6198b6ba6103ef60786ee9a3
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6d1cdb019e99c008706552d9fc3ad1a9dc59f36b
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6df11bc4cad6cd18cb37638b99d2e14d26c2f2c4
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/6e42af73c8c3cd678e1e7862924fe9ed927fa7e6
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/703a411e0b3da9acb5ceafc8746caba7b43df993
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/738f197f32c37b019c928c2fcf808c5429333da8
@@ -474,6 +476,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/91d26b3140533172f2557eabb1476e22f0b98bc3
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/9250dc3537862db4f66bac07a8974dad81cc0f20
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/925c1bdbc41e442c0dd65d8ead530c4062bdd67c
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/945838a161e4879a52fab5a57fc082943f8a2868
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/9517b6b3bda408d0d197f4e85dfb83bdd94eefb2
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/9520b0554414ba85e12d172f28ce55e5aef3a688
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/95c40ae48ecf4c79bf4c3b5814889558bb9e5050
@@ -549,6 +552,7 @@
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/c06d4e464c37c91077906cd9a220b2a36e162544
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/c15964f245bedcfb3cba10e54e96b797d10dee5d
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/c27baa8031862fb7528bb87616d6793a032a1257
+- pkg:swift/github.com/pytorch/executorch@ciflow/trunk/c29858dc531aa8f45831c7d3e866ee92e0334084
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/c491d01aec5d8b4a3ff8a77e31eadac92271d4a7
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/c54b0ede81eaeec26dd2d0c8c2d9ee5293eb9116
 - pkg:swift/github.com/pytorch/executorch@ciflow/trunk/c570b6c146beed40b4f68f136c38787cb5af0861
