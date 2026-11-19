@@ -77,3 +77,5 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@2.1.1
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@2.1.2
 - pkg:swift/github.com/ryanfrancesconi/spfk-metadata@2.1.2%5E%7B%7D
+- pkg:swift/github.com/ryanfrancesconi/spfk-metadata@2.2.0
+- pkg:swift/github.com/ryanfrancesconi/spfk-metadata@2.2.0%5E%7B%7D

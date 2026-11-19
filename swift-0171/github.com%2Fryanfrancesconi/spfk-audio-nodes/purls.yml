@@ -35,3 +35,5 @@
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-nodes@1.7.1
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-nodes@1.7.2
 - pkg:swift/github.com/ryanfrancesconi/spfk-audio-nodes@1.7.2%5E%7B%7D
+- pkg:swift/github.com/ryanfrancesconi/spfk-audio-nodes@1.7.3
+- pkg:swift/github.com/ryanfrancesconi/spfk-audio-nodes@1.7.3%5E%7B%7D
