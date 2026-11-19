@@ -82,6 +82,7 @@
 - pkg:swift/github.com/yonaskolb/XcodeGen@2.45.4
 - pkg:swift/github.com/yonaskolb/XcodeGen@2.46.0
 - pkg:swift/github.com/yonaskolb/XcodeGen@2.47.0
+- pkg:swift/github.com/yonaskolb/XcodeGen@2.48.0
 - pkg:swift/github.com/yonaskolb/XcodeGen@2.5.0
 - pkg:swift/github.com/yonaskolb/XcodeGen@2.6.0
 - pkg:swift/github.com/yonaskolb/XcodeGen@2.7.0
