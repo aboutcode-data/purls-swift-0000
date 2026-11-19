@@ -1,1 +1,5 @@
+- pkg:swift/github.com/tkausch/swift-sudoku-solver@0.10.0
+- pkg:swift/github.com/tkausch/swift-sudoku-solver@0.11.0
 - pkg:swift/github.com/tkausch/swift-sudoku-solver@0.9
+- pkg:swift/github.com/tkausch/swift-sudoku-solver@1.0
+- pkg:swift/github.com/tkausch/swift-sudoku-solver@1.1.0
