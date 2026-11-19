@@ -47,12 +47,16 @@
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.30.6%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.30.7
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.30.7%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.30.8
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.30.8%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.31.0
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.31.0%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.31.0-rc.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.31.0-rc.1%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.31.1
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.31.1%5E%7B%7D
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.31.2
+- pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.31.2%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.32.0
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.32.0%5E%7B%7D
 - pkg:swift/github.com/mapbox/mapbox-navigation-ios@3.32.0-rc.1
