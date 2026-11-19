@@ -558,6 +558,10 @@
 - pkg:swift/github.com/splitio/ios-client@3.8.1%5E%7B%7D
 - pkg:swift/github.com/splitio/ios-client@3.8.1-rc1
 - pkg:swift/github.com/splitio/ios-client@3.8.1-rc1%5E%7B%7D
+- pkg:swift/github.com/splitio/ios-client@3.8.2
+- pkg:swift/github.com/splitio/ios-client@3.8.2%5E%7B%7D
+- pkg:swift/github.com/splitio/ios-client@3.8.2-rc1
+- pkg:swift/github.com/splitio/ios-client@3.8.2-rc1%5E%7B%7D
 - pkg:swift/github.com/splitio/ios-client@4.0.0-rc
 - pkg:swift/github.com/splitio/ios-client@4.0.0-rc%5E%7B%7D
 - pkg:swift/github.com/splitio/ios-client@rm
