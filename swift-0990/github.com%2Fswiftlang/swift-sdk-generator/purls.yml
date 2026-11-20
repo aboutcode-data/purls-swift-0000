@@ -14,3 +14,4 @@
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.4.0-RELEASE
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.4.1-RELEASE
 - pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.4.2-RELEASE
+- pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.4.3-RELEASE
