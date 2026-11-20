@@ -77,6 +77,14 @@
 - pkg:swift/github.com/topcheer/etunnel@v1.7.20%5E%7B%7D
 - pkg:swift/github.com/topcheer/etunnel@v1.7.21
 - pkg:swift/github.com/topcheer/etunnel@v1.7.22
+- pkg:swift/github.com/topcheer/etunnel@v1.7.23
+- pkg:swift/github.com/topcheer/etunnel@v1.7.23%5E%7B%7D
+- pkg:swift/github.com/topcheer/etunnel@v1.7.24
+- pkg:swift/github.com/topcheer/etunnel@v1.7.24%5E%7B%7D
+- pkg:swift/github.com/topcheer/etunnel@v1.7.25
+- pkg:swift/github.com/topcheer/etunnel@v1.7.25%5E%7B%7D
+- pkg:swift/github.com/topcheer/etunnel@v1.7.26
+- pkg:swift/github.com/topcheer/etunnel@v1.7.26%5E%7B%7D
 - pkg:swift/github.com/topcheer/etunnel@v1.7.3
 - pkg:swift/github.com/topcheer/etunnel@v1.7.3%5E%7B%7D
 - pkg:swift/github.com/topcheer/etunnel@v1.7.4
