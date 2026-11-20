@@ -100,5 +100,7 @@
 - pkg:swift/github.com/gonzalolarralde/swift-appserver-client@0.169.1%5E%7B%7D
 - pkg:swift/github.com/gonzalolarralde/swift-appserver-client@0.170.0
 - pkg:swift/github.com/gonzalolarralde/swift-appserver-client@0.170.0%5E%7B%7D
+- pkg:swift/github.com/gonzalolarralde/swift-appserver-client@0.171.0
+- pkg:swift/github.com/gonzalolarralde/swift-appserver-client@0.171.0%5E%7B%7D
 - pkg:swift/github.com/gonzalolarralde/swift-appserver-client@rust-v0.143.0-alpha.10-ios
 - pkg:swift/github.com/gonzalolarralde/swift-appserver-client@rust-v0.143.0-alpha.10-ios%5E%7B%7D
