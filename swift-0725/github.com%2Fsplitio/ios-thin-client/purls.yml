@@ -14,3 +14,5 @@
 - pkg:swift/github.com/splitio/ios-thin-client@1.0.1-rc1
 - pkg:swift/github.com/splitio/ios-thin-client@1.0.1-rc2
 - pkg:swift/github.com/splitio/ios-thin-client@1.0.1-rc2%5E%7B%7D
+- pkg:swift/github.com/splitio/ios-thin-client@1.0.2-rc1
+- pkg:swift/github.com/splitio/ios-thin-client@1.0.2-rc1%5E%7B%7D
