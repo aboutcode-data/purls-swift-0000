@@ -2419,6 +2419,7 @@
 - pkg:swift/github.com/tuist/tuist@gradle%400.21.3
 - pkg:swift/github.com/tuist/tuist@gradle%400.21.4
 - pkg:swift/github.com/tuist/tuist@gradle%400.22.0
+- pkg:swift/github.com/tuist/tuist@gradle%400.22.1
 - pkg:swift/github.com/tuist/tuist@gradle%400.3.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.4.0
 - pkg:swift/github.com/tuist/tuist@gradle%400.5.0
@@ -2940,6 +2941,7 @@
 - pkg:swift/github.com/tuist/tuist@helm%400.376.0
 - pkg:swift/github.com/tuist/tuist@helm%400.376.1
 - pkg:swift/github.com/tuist/tuist@helm%400.377.0
+- pkg:swift/github.com/tuist/tuist@helm%400.378.0
 - pkg:swift/github.com/tuist/tuist@helm%400.38.0
 - pkg:swift/github.com/tuist/tuist@helm%400.38.1
 - pkg:swift/github.com/tuist/tuist@helm%400.39.0
@@ -3500,6 +3502,7 @@
 - pkg:swift/github.com/tuist/tuist@pulse%401.45.0-canary.3
 - pkg:swift/github.com/tuist/tuist@pulse%401.45.0-canary.4
 - pkg:swift/github.com/tuist/tuist@pulse%401.45.0-canary.5
+- pkg:swift/github.com/tuist/tuist@pulse%401.45.0-canary.6
 - pkg:swift/github.com/tuist/tuist@rules_tuist%400.1.0
 - pkg:swift/github.com/tuist/tuist@rules_tuist%400.1.0-canary.1
 - pkg:swift/github.com/tuist/tuist@rules_tuist%400.1.0-rc.1
@@ -5540,6 +5543,8 @@
 - pkg:swift/github.com/tuist/tuist@server%401.359.0-canary.169
 - pkg:swift/github.com/tuist/tuist@server%401.359.0-canary.17
 - pkg:swift/github.com/tuist/tuist@server%401.359.0-canary.170
+- pkg:swift/github.com/tuist/tuist@server%401.359.0-canary.171
+- pkg:swift/github.com/tuist/tuist@server%401.359.0-canary.172
 - pkg:swift/github.com/tuist/tuist@server%401.359.0-canary.18
 - pkg:swift/github.com/tuist/tuist@server%401.359.0-canary.19
 - pkg:swift/github.com/tuist/tuist@server%401.359.0-canary.2
@@ -5819,6 +5824,7 @@
 - pkg:swift/github.com/tuist/tuist@tuist-ex%400.11.2
 - pkg:swift/github.com/tuist/tuist@tuist-ex%400.11.3
 - pkg:swift/github.com/tuist/tuist@tuist-ex%400.11.4
+- pkg:swift/github.com/tuist/tuist@tuist-ex%400.11.5
 - pkg:swift/github.com/tuist/tuist@tuist-ex%400.2.0
 - pkg:swift/github.com/tuist/tuist@tuist-ex%400.3.0
 - pkg:swift/github.com/tuist/tuist@tuist-ex%400.3.1
