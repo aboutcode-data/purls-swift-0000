@@ -27,3 +27,4 @@
 - pkg:swift/github.com/lyft/hammer@2.3.0-android.1%5E%7B%7D
 - pkg:swift/github.com/lyft/hammer@2.3.0-android.2
 - pkg:swift/github.com/lyft/hammer@2.3.1
+- pkg:swift/github.com/lyft/hammer@2.3.2

@@ -26,6 +26,7 @@
 - pkg:swift/github.com/lynnswap/ABIBridge@v0.20.2
 - pkg:swift/github.com/lynnswap/ABIBridge@v0.20.3
 - pkg:swift/github.com/lynnswap/ABIBridge@v0.20.4
+- pkg:swift/github.com/lynnswap/ABIBridge@v0.20.5
 - pkg:swift/github.com/lynnswap/ABIBridge@v0.3.0
 - pkg:swift/github.com/lynnswap/ABIBridge@v0.4.0
 - pkg:swift/github.com/lynnswap/ABIBridge@v0.5.0
