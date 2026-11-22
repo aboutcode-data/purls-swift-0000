@@ -60,6 +60,8 @@
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.0.0%5E%7B%7D
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.1.0
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.1.0%5E%7B%7D
+- pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.10.0
+- pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.10.0%5E%7B%7D
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.2.0
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.2.0%5E%7B%7D
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.3.0
@@ -78,3 +80,7 @@
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.8.0%5E%7B%7D
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.9.0
 - pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.9.0%5E%7B%7D
+- pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.9.1
+- pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.9.1%5E%7B%7D
+- pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.9.2
+- pkg:swift/github.com/kolomiiets-oleksii/MediaBridge@1.9.2%5E%7B%7D
