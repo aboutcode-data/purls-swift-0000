@@ -30,6 +30,7 @@
 - pkg:swift/github.com/VergeGroup/swift-state-graph@0.32.0
 - pkg:swift/github.com/VergeGroup/swift-state-graph@0.33.0
 - pkg:swift/github.com/VergeGroup/swift-state-graph@0.33.1
+- pkg:swift/github.com/VergeGroup/swift-state-graph@0.34.0
 - pkg:swift/github.com/VergeGroup/swift-state-graph@0.4.0
 - pkg:swift/github.com/VergeGroup/swift-state-graph@0.4.1
 - pkg:swift/github.com/VergeGroup/swift-state-graph@0.4.2
