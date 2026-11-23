@@ -4,3 +4,4 @@
 - pkg:swift/github.com/HaishinKit/libdatachannel-xcframework@v0.24.6
 - pkg:swift/github.com/HaishinKit/libdatachannel-xcframework@v0.24.7
 - pkg:swift/github.com/HaishinKit/libdatachannel-xcframework@v0.24.7%5E%7B%7D
+- pkg:swift/github.com/HaishinKit/libdatachannel-xcframework@v0.24.8
