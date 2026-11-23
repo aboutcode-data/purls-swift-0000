@@ -81,6 +81,7 @@
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.37.0-rc1
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.37.0-rc2
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.37.1-beta.1
+- pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.37.1-beta.10
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.37.1-beta.2
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.37.1-beta.2%5E%7B%7D
 - pkg:swift/github.com/SecondMouseAU/OCCTMCP@v1.37.1-beta.3
