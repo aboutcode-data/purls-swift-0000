@@ -99,3 +99,5 @@
 - pkg:swift/github.com/a7ex/xcresultparser@2.2.0%5E%7B%7D
 - pkg:swift/github.com/a7ex/xcresultparser@2.3.0
 - pkg:swift/github.com/a7ex/xcresultparser@2.3.0%5E%7B%7D
+- pkg:swift/github.com/a7ex/xcresultparser@3.0.0
+- pkg:swift/github.com/a7ex/xcresultparser@3.0.0%5E%7B%7D
