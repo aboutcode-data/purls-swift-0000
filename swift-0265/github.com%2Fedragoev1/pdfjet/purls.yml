@@ -1,3 +1,5 @@
+- pkg:swift/github.com/edragoev1/pdfjet@harfbuzz/v9.2.1
+- pkg:swift/github.com/edragoev1/pdfjet@harfbuzz/v9.2.1%5E%7B%7D
 - pkg:swift/github.com/edragoev1/pdfjet@v7.06.0
 - pkg:swift/github.com/edragoev1/pdfjet@v7.06.1
 - pkg:swift/github.com/edragoev1/pdfjet@v7.06.5
@@ -28,3 +30,5 @@
 - pkg:swift/github.com/edragoev1/pdfjet@v9.1.7%5E%7B%7D
 - pkg:swift/github.com/edragoev1/pdfjet@v9.1.9
 - pkg:swift/github.com/edragoev1/pdfjet@v9.1.9%5E%7B%7D
+- pkg:swift/github.com/edragoev1/pdfjet@v9.2.1
+- pkg:swift/github.com/edragoev1/pdfjet@v9.2.1%5E%7B%7D

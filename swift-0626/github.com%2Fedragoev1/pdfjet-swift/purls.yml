@@ -1,2 +1,4 @@
 - pkg:swift/github.com/edragoev1/pdfjet-swift@v9.1.9
 - pkg:swift/github.com/edragoev1/pdfjet-swift@v9.1.9%5E%7B%7D
+- pkg:swift/github.com/edragoev1/pdfjet-swift@v9.2.1
+- pkg:swift/github.com/edragoev1/pdfjet-swift@v9.2.1%5E%7B%7D
