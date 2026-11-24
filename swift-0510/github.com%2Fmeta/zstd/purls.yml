@@ -70,6 +70,8 @@
 - pkg:swift/github.com/meta/zstd@v1.5.7%5E%7B%7D
 - pkg:swift/github.com/meta/zstd@v1.5.7-kernel
 - pkg:swift/github.com/meta/zstd@v1.5.7-kernel%5E%7B%7D
+- pkg:swift/github.com/meta/zstd@v1.6.0
+- pkg:swift/github.com/meta/zstd@v1.6.0%5E%7B%7D
 - pkg:swift/github.com/meta/zstd@vxyz
 - pkg:swift/github.com/meta/zstd@zstd-0.1.2
 - pkg:swift/github.com/meta/zstd@zstd-0.1.3
