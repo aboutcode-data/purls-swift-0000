@@ -6,6 +6,7 @@
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@eventbus/v0.44.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@eventbus/v0.45.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@eventbus/v0.46.0
+- pkg:swift/github.com/browser-grpc/grpc-over-datachannels@eventbus/v0.46.1
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@go/v0.33.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@go/v0.34.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@go/v0.35.0
@@ -34,6 +35,7 @@
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@go/v0.44.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@go/v0.45.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@go/v0.46.0
+- pkg:swift/github.com/browser-grpc/grpc-over-datachannels@go/v0.46.1
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@kafka/v0.39.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@kafka/v0.40.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@kafka/v0.41.0
@@ -42,6 +44,7 @@
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@kafka/v0.44.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@kafka/v0.45.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@kafka/v0.46.0
+- pkg:swift/github.com/browser-grpc/grpc-over-datachannels@kafka/v0.46.1
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.1.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.10.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.11.0
@@ -130,6 +133,7 @@
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.44.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.45.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.46.0
+- pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.46.1
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.5.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.5.0%5E%7B%7D
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@v0.6.0
@@ -167,3 +171,4 @@
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@webrtc/go/v0.44.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@webrtc/go/v0.45.0
 - pkg:swift/github.com/browser-grpc/grpc-over-datachannels@webrtc/go/v0.46.0
+- pkg:swift/github.com/browser-grpc/grpc-over-datachannels@webrtc/go/v0.46.1
