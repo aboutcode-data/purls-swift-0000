@@ -24,6 +24,8 @@
 - pkg:swift/github.com/libswiftpy/cpython@3.15.2-swiftpy.1%5E%7B%7D
 - pkg:swift/github.com/libswiftpy/cpython@3.15.2-swiftpy.2
 - pkg:swift/github.com/libswiftpy/cpython@3.15.2-swiftpy.2%5E%7B%7D
+- pkg:swift/github.com/libswiftpy/cpython@3.15.2-swiftpy.3
+- pkg:swift/github.com/libswiftpy/cpython@3.15.2-swiftpy.3%5E%7B%7D
 - pkg:swift/github.com/libswiftpy/cpython@3.2
 - pkg:swift/github.com/libswiftpy/cpython@3.2%5E%7B%7D
 - pkg:swift/github.com/libswiftpy/cpython@3.3
@@ -46,6 +48,8 @@
 - pkg:swift/github.com/libswiftpy/cpython@pyprompt-2.1.0%5E%7B%7D
 - pkg:swift/github.com/libswiftpy/cpython@pyprompt-2.1.1
 - pkg:swift/github.com/libswiftpy/cpython@pyprompt-2.1.1%5E%7B%7D
+- pkg:swift/github.com/libswiftpy/cpython@pyprompt-2.4.0
+- pkg:swift/github.com/libswiftpy/cpython@pyprompt-2.4.0%5E%7B%7D
 - pkg:swift/github.com/libswiftpy/cpython@v0.9.8
 - pkg:swift/github.com/libswiftpy/cpython@v0.9.9
 - pkg:swift/github.com/libswiftpy/cpython@v1.0.1
