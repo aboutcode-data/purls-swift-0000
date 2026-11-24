@@ -2016,6 +2016,11 @@
 - pkg:swift/github.com/ggml-org/llama.cpp@b12647
 - pkg:swift/github.com/ggml-org/llama.cpp@b12648
 - pkg:swift/github.com/ggml-org/llama.cpp@b12649
+- pkg:swift/github.com/ggml-org/llama.cpp@b12650
+- pkg:swift/github.com/ggml-org/llama.cpp@b12651
+- pkg:swift/github.com/ggml-org/llama.cpp@b12653
+- pkg:swift/github.com/ggml-org/llama.cpp@b12655
+- pkg:swift/github.com/ggml-org/llama.cpp@b12657
 - pkg:swift/github.com/ggml-org/llama.cpp@b1266
 - pkg:swift/github.com/ggml-org/llama.cpp@b1269
 - pkg:swift/github.com/ggml-org/llama.cpp@b1273
