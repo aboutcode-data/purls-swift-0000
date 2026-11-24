@@ -134,6 +134,8 @@
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.25.0%5E%7B%7D
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.25.1
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.25.1%5E%7B%7D
+- pkg:swift/github.com/untoldengine/UntoldEngine@v0.26.0
+- pkg:swift/github.com/untoldengine/UntoldEngine@v0.26.0%5E%7B%7D
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.3.0
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.3.0%5E%7B%7D
 - pkg:swift/github.com/untoldengine/UntoldEngine@v0.3.1
