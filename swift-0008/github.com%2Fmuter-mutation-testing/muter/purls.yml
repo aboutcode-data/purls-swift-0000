@@ -1,4 +1,5 @@
 - pkg:swift/github.com/muter-mutation-testing/muter@16
+- pkg:swift/github.com/muter-mutation-testing/muter@17
 - pkg:swift/github.com/muter-mutation-testing/muter@v0.1.0
 - pkg:swift/github.com/muter-mutation-testing/muter@v0.2.0
 - pkg:swift/github.com/muter-mutation-testing/muter@v0.6.0
