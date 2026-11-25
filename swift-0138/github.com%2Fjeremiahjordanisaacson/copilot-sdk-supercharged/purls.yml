@@ -22,3 +22,7 @@
 - pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v2.5.3%5E%7B%7D
 - pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v3.0.0
 - pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v3.0.0%5E%7B%7D
+- pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v3.1.0
+- pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v3.1.0%5E%7B%7D
+- pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v3.1.1
+- pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v3.1.1%5E%7B%7D
