@@ -1,3 +1,5 @@
+- pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@archive/copilot-check-wiki-for-updates
+- pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@archive/copilot-check-wiki-for-updates%5E%7B%7D
 - pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v1.0.15
 - pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v2.0.0
 - pkg:swift/github.com/jeremiahjordanisaacson/copilot-sdk-supercharged@v2.0.1
