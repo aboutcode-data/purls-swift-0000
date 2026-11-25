@@ -19,3 +19,4 @@
 - pkg:swift/github.com/request-dl/async-http-client@1.42.0
 - pkg:swift/github.com/request-dl/async-http-client@1.42.1
 - pkg:swift/github.com/request-dl/async-http-client@1.42.2
+- pkg:swift/github.com/request-dl/async-http-client@1.42.3
