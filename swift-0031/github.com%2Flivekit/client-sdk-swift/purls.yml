@@ -129,6 +129,7 @@
 - pkg:swift/github.com/livekit/client-sdk-swift@2.2.0
 - pkg:swift/github.com/livekit/client-sdk-swift@2.2.1
 - pkg:swift/github.com/livekit/client-sdk-swift@2.20.0
+- pkg:swift/github.com/livekit/client-sdk-swift@2.20.1
 - pkg:swift/github.com/livekit/client-sdk-swift@2.3.0
 - pkg:swift/github.com/livekit/client-sdk-swift@2.3.0%5E%7B%7D
 - pkg:swift/github.com/livekit/client-sdk-swift@2.3.1
