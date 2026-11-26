@@ -1,4 +1,7 @@
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.100.0
+- pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.101.0
+- pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.102.0
+- pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.103.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.24.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.25.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@0.25.1
@@ -92,5 +95,7 @@
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@php/0.1.2
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@php/0.2.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@python-0.1.0
+- pkg:swift/github.com/lwm-luminx/audience-kit-sdk@python-0.2.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@ruby-0.2.0
 - pkg:swift/github.com/lwm-luminx/audience-kit-sdk@rust-0.1.0
+- pkg:swift/github.com/lwm-luminx/audience-kit-sdk@rust-0.2.0
