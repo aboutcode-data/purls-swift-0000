@@ -46,6 +46,8 @@
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@11.7.0
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@11.8.0
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@11.8.1
+- pkg:swift/github.com/launchdarkly/ios-client-sdk@11.9.0-experimental.1
+- pkg:swift/github.com/launchdarkly/ios-client-sdk@11.9.0-experimental.1%5E%7B%7D
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@11.9.0-payload-filter.1
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@11.9.0-payload-filter.1%5E%7B%7D
 - pkg:swift/github.com/launchdarkly/ios-client-sdk@2.0
