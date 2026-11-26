@@ -11,3 +11,4 @@
 - pkg:swift/github.com/absmartly/swift-sdk@v1.3.4
 - pkg:swift/github.com/absmartly/swift-sdk@v1.4.0
 - pkg:swift/github.com/absmartly/swift-sdk@v1.5.0
+- pkg:swift/github.com/absmartly/swift-sdk@v2.0.0
