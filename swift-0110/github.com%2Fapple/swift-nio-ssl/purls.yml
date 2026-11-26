@@ -76,6 +76,7 @@
 - pkg:swift/github.com/apple/swift-nio-ssl@2.37.5
 - pkg:swift/github.com/apple/swift-nio-ssl@2.37.6
 - pkg:swift/github.com/apple/swift-nio-ssl@2.37.7
+- pkg:swift/github.com/apple/swift-nio-ssl@2.37.8
 - pkg:swift/github.com/apple/swift-nio-ssl@2.4.0
 - pkg:swift/github.com/apple/swift-nio-ssl@2.4.1
 - pkg:swift/github.com/apple/swift-nio-ssl@2.4.2
