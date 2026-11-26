@@ -85,3 +85,4 @@
 - pkg:swift/github.com/wmalloc/HTTPRequestable@0.8.3
 - pkg:swift/github.com/wmalloc/HTTPRequestable@0.80.0
 - pkg:swift/github.com/wmalloc/HTTPRequestable@0.9.0
+- pkg:swift/github.com/wmalloc/HTTPRequestable@0.90.0
