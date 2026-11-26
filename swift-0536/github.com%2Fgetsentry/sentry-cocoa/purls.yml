@@ -617,6 +617,7 @@
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.33.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.34.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.35.0
+- pkg:swift/github.com/getsentry/sentry-cocoa@9.36.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.4.0
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.4.1
 - pkg:swift/github.com/getsentry/sentry-cocoa@9.5.0
