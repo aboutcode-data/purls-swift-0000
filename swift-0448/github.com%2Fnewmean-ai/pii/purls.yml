@@ -7,6 +7,7 @@
 - pkg:swift/github.com/newmean-ai/pii@1.5.0
 - pkg:swift/github.com/newmean-ai/pii@1.6.0
 - pkg:swift/github.com/newmean-ai/pii@1.6.1
+- pkg:swift/github.com/newmean-ai/pii@1.7.2
 - pkg:swift/github.com/newmean-ai/pii@android-v1.0.0
 - pkg:swift/github.com/newmean-ai/pii@android-v1.0.0%5E%7B%7D
 - pkg:swift/github.com/newmean-ai/pii@android-v1.2.0
@@ -16,6 +17,7 @@
 - pkg:swift/github.com/newmean-ai/pii@android-v1.5.0
 - pkg:swift/github.com/newmean-ai/pii@android-v1.6.0
 - pkg:swift/github.com/newmean-ai/pii@android-v1.6.1
+- pkg:swift/github.com/newmean-ai/pii@android-v1.7.2
 - pkg:swift/github.com/newmean-ai/pii@data-license-v0.3
 - pkg:swift/github.com/newmean-ai/pii@flutter-v1.2.0
 - pkg:swift/github.com/newmean-ai/pii@flutter-v1.3.0
@@ -24,6 +26,7 @@
 - pkg:swift/github.com/newmean-ai/pii@flutter-v1.5.0
 - pkg:swift/github.com/newmean-ai/pii@flutter-v1.6.0
 - pkg:swift/github.com/newmean-ai/pii@flutter-v1.6.1
+- pkg:swift/github.com/newmean-ai/pii@flutter-v1.7.2
 - pkg:swift/github.com/newmean-ai/pii@python-v1.0.0
 - pkg:swift/github.com/newmean-ai/pii@python-v1.0.0%5E%7B%7D
 - pkg:swift/github.com/newmean-ai/pii@python-v1.2.0
@@ -33,5 +36,7 @@
 - pkg:swift/github.com/newmean-ai/pii@python-v1.5.0
 - pkg:swift/github.com/newmean-ai/pii@python-v1.6.0
 - pkg:swift/github.com/newmean-ai/pii@python-v1.6.1
+- pkg:swift/github.com/newmean-ai/pii@python-v1.7.2
 - pkg:swift/github.com/newmean-ai/pii@rust-v1.6.0
 - pkg:swift/github.com/newmean-ai/pii@rust-v1.6.1
+- pkg:swift/github.com/newmean-ai/pii@rust-v1.7.2
