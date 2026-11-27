@@ -153,6 +153,10 @@
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.75.0%5E%7B%7D
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.75.1
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.75.1%5E%7B%7D
+- pkg:swift/github.com/m34dev/swiftdolibarr@0.76.0
+- pkg:swift/github.com/m34dev/swiftdolibarr@0.76.0%5E%7B%7D
+- pkg:swift/github.com/m34dev/swiftdolibarr@0.76.1
+- pkg:swift/github.com/m34dev/swiftdolibarr@0.76.1%5E%7B%7D
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.8.0
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.8.1
 - pkg:swift/github.com/m34dev/swiftdolibarr@0.8.2
