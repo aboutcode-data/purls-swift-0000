@@ -59,3 +59,4 @@
 - pkg:swift/github.com/vpndetection-io/sdk-swift@v5.2.0
 - pkg:swift/github.com/vpndetection-io/sdk-swift@v5.3.0
 - pkg:swift/github.com/vpndetection-io/sdk-swift@v5.3.1
+- pkg:swift/github.com/vpndetection-io/sdk-swift@v5.4.0
