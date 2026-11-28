@@ -70,3 +70,4 @@
 - pkg:swift/github.com/sparrowcode/AlertKit@5.1.7
 - pkg:swift/github.com/sparrowcode/AlertKit@5.1.8
 - pkg:swift/github.com/sparrowcode/AlertKit@5.1.9
+- pkg:swift/github.com/sparrowcode/AlertKit@6.0.0
