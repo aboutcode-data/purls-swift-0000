@@ -381,6 +381,7 @@
 - pkg:swift/github.com/dankinsoid/swift-api-client@1.78.0%5E%7B%7D
 - pkg:swift/github.com/dankinsoid/swift-api-client@1.79.0
 - pkg:swift/github.com/dankinsoid/swift-api-client@1.79.0%5E%7B%7D
+- pkg:swift/github.com/dankinsoid/swift-api-client@1.79.1
 - pkg:swift/github.com/dankinsoid/swift-api-client@1.8.0
 - pkg:swift/github.com/dankinsoid/swift-api-client@1.8.0%5E%7B%7D
 - pkg:swift/github.com/dankinsoid/swift-api-client@1.8.1
