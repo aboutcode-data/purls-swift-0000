@@ -75,6 +75,7 @@
 - pkg:swift/github.com/measure-sh/measure@ios-v0.15.0
 - pkg:swift/github.com/measure-sh/measure@ios-v0.16.0
 - pkg:swift/github.com/measure-sh/measure@ios-v0.17.0
+- pkg:swift/github.com/measure-sh/measure@ios-v0.18.0
 - pkg:swift/github.com/measure-sh/measure@ios-v0.2.0
 - pkg:swift/github.com/measure-sh/measure@ios-v0.3.0
 - pkg:swift/github.com/measure-sh/measure@ios-v0.3.1
