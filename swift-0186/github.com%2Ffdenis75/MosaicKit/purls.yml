@@ -98,3 +98,5 @@
 - pkg:swift/github.com/fdenis75/MosaicKit@1.9.0%5E%7B%7D
 - pkg:swift/github.com/fdenis75/MosaicKit@1.9.1
 - pkg:swift/github.com/fdenis75/MosaicKit@1.9.1%5E%7B%7D
+- pkg:swift/github.com/fdenis75/MosaicKit@2.0.0
+- pkg:swift/github.com/fdenis75/MosaicKit@2.0.1
