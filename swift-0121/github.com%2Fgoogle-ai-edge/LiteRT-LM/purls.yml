@@ -30,6 +30,7 @@
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@0.21.0-nightly.20261124
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@0.21.0-nightly.20261125
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@0.21.0-nightly.20261126
+- pkg:swift/github.com/google-ai-edge/LiteRT-LM@0.21.0-nightly.20261127
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.1.0-alpha
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.10.1
 - pkg:swift/github.com/google-ai-edge/LiteRT-LM@v0.10.2
