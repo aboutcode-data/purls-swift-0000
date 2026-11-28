@@ -400,6 +400,8 @@
 - pkg:swift/github.com/onevcat/Kingfisher@8.15.0%5E%7B%7D
 - pkg:swift/github.com/onevcat/Kingfisher@8.16.0
 - pkg:swift/github.com/onevcat/Kingfisher@8.16.0%5E%7B%7D
+- pkg:swift/github.com/onevcat/Kingfisher@8.17.0
+- pkg:swift/github.com/onevcat/Kingfisher@8.17.0%5E%7B%7D
 - pkg:swift/github.com/onevcat/Kingfisher@8.2.0
 - pkg:swift/github.com/onevcat/Kingfisher@8.2.0%5E%7B%7D
 - pkg:swift/github.com/onevcat/Kingfisher@8.3.0
