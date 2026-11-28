@@ -149,3 +149,4 @@
 - pkg:swift/github.com/dfed/SafeDI@2.3.5
 - pkg:swift/github.com/dfed/SafeDI@2.4.0
 - pkg:swift/github.com/dfed/SafeDI@2.4.1
+- pkg:swift/github.com/dfed/SafeDI@2.4.2
